@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Framework says it&amp;#8217;s addressing a BIOS update that bricked some of its older laptops](https://www.theverge.com/gadgets/982800/framework-laptop-13-amd-7040-bios-320-bricking-warranty)
- - [Astromech, which uses genomic data to build predictive AI models of biological change, raised $20M at a $3.8B valuation, bringing its total funding to $60M &lpar;Dean Takahashi/GamesBeat&rpar;](https://www.techmeme.com/260820/p29#a260820p29)
- - [Razer’s BlackWidow V4 75% gaming keyboard just got 50% cheaper!](https://www.androidauthority.com/razer-blackwidow-v4-75-gaming-keyboard-deal-3701245/)<!-- TECH:END -->
+ - [Source: Anthropic plans a safety system this year requiring enterprises to retain data for 30 days, with an option to do so on their own cloud infrastructure &lpar;Rachel Metz/Bloomberg&rpar;](https://www.techmeme.com/260820/p32#a260820p32)
+ - [JBL Xtreme 5 drops back to its best price with $100 off at Amazon](https://www.androidauthority.com/jbl-xtreme-5-deal-3701260/)
+ - [Australia says Roblox hasn&amp;#8217;t fixed its child predator problem](https://www.theverge.com/games/982885/roblox-australia-safety-regulator-child-safety)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
