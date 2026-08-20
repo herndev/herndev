@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump urges Congress to pass the Clarity Act at a White House event with execs including the CEOs of Coinbase and Robinhood; the bill has stalled in the Senate &lpar;Bloomberg&rpar;](https://www.techmeme.com/260819/p48#a260819p48)
- - [Elon Musk Is Expected to Point His Money Machine at Texas](https://www.wired.com/story/elon-musk-is-expected-to-point-his-money-machine-at-texas/)
- - [Does giving a camera wings dodge the FCC’s drone ban?](https://www.theverge.com/tech/981834/hoverair-versa-drone-camera-fcc-loophole-indiegogo)<!-- TECH:END -->
+ - [Schlage Sense Pro review: UWB Home Key proves itself again on this sleek smart lock](https://appleinsider.com/articles/26/08/20/schlage-sense-pro-review-uwb-home-key-proves-itself-again-on-this-sleek-smart-lock?utm_source=rss)
+ - [AirPods with cameras not coming till 2027, won&#39;t take photos](https://appleinsider.com/articles/26/08/19/airpods-with-cameras-not-coming-till-2027-wont-take-photos?utm_source=rss)
+ - [Trump urges Congress to pass the Clarity Act at a White House event with execs including the CEOs of Coinbase and Robinhood; the bill has stalled in the Senate &lpar;Bloomberg&rpar;](https://www.techmeme.com/260819/p48#a260819p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
