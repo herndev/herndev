@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Harley quinn tv series](http://9gag.com/gag/a1mzPnD)
- - ⏩ [Wait a minut...](http://9gag.com/gag/aoyry6g)
- - 👉 [Yeah, why not?](http://9gag.com/gag/apRy1wE)<!-- MEMES:END -->
+ - 💣 [If your life is a hardcore game with no save option, you might be an Indian electrician.](http://9gag.com/gag/azxN25b)
+ - ⏩ [Southpark s13e14](http://9gag.com/gag/a2vBK0Y)
+ - 👉 [The more you know, the dumber you thinks others are](http://9gag.com/gag/a4Peo6Z)<!-- MEMES:END -->
 
 ---
 
