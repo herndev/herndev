@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Android 17’s new distraction-killer is a Pixel 11 exclusive, Google confirms](https://www.androidauthority.com/android-17-pause-point-digital-wellbeing-pixel-11-exclusive-3700872/)
  - [Struggling to see emoji? Gboard is rolling out a solution right now](https://www.androidauthority.com/gboard-emoji-slider-rollout-3700850/)
- - [London-based Callosum, whose software matches AI tasks with different models and chips, raised a $100M seed from Atomico, UK Sovereign AI Fund, and others &lpar;Bloomberg&rpar;](https://www.techmeme.com/260820/p7#a260820p7)
- - [Waymo’s self-driving cars get Gemini integration, so you have someone to talk to](https://www.androidauthority.com/waymo-gemini-integration-3700836/)<!-- TECH:END -->
+ - [London-based Callosum, whose software matches AI tasks with different models and chips, raised a $100M seed from Atomico, UK Sovereign AI Fund, and others &lpar;Bloomberg&rpar;](https://www.techmeme.com/260820/p7#a260820p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
