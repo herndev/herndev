@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good old times video Smoking a Carolina Reaper](http://9gag.com/gag/a9yQynZ)
- - ⏩ [If your life is a hardcore game with no save option, you might be an Indian electrician.](http://9gag.com/gag/azxN25b)
- - 👉 [So Sad in this Humanity](http://9gag.com/gag/aO8geqr)<!-- MEMES:END -->
+ - 💣 [Hadouken!](http://9gag.com/gag/a1mz7ZR)
+ - ⏩ [Carrying this much hardware really built character](http://9gag.com/gag/aZZAZO6)
+ - 👉 [Ultimate archival dedication](http://9gag.com/gag/aQzwgod)<!-- MEMES:END -->
 
 ---
 
