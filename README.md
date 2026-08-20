@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla Robotaxis appear to go fully unsupervised in Austin ahead of Cybercab launch](https://www.theverge.com/transportation/982759/tesla-robotaxi-unsupervised-austin-robotaxi-tracker)
- - [Here’s what data Comcast says its motion-detecting routers collect](https://www.theverge.com/tech/982689/comcast-xfinity-wifi-motion-privacy-concerns-response)
- - [FromSoftware can do anything](https://www.theverge.com/entertainment/981970/fromsoftware-duskbloods-nintendo-hidetaka-miyazaki)<!-- TECH:END -->
+ - [Filing: in 2025, TikTok posted its first net profit of $702.5M in Europe, Africa, and Latin America on $9.1B in revenue, up 45.7% YoY &lpar;Iain Martin/Forbes&rpar;](https://www.techmeme.com/260820/p25#a260820p25)
+ - [LG’s 65-inch B6 OLED is $300 lower than its previous best price](https://www.theverge.com/gadgets/982695/lg-b6-65-inch-oled-doordash-digital-game-deal-sale)
+ - [Android Auto finally fixes a connection bug that made it nearly unusable](https://www.androidauthority.com/android-auto-connection-issues-fixed-3701080/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
