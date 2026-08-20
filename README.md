@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If your life is a hardcore game with no save option, you might be an Indian electrician.](http://9gag.com/gag/azxN25b)
- - ⏩ [3 feet.](http://9gag.com/gag/an7pzRL)
- - 👉 [The Plot](http://9gag.com/gag/aByqd31)<!-- MEMES:END -->
+ - 💣 [Just comply with the Law](http://9gag.com/gag/ary6yMK)
+ - ⏩ [Rick Charls - American high diver who currently holds the World Record for the Highest Dive from 172 ft](http://9gag.com/gag/aAyWGWg)
+ - 👉 [The Slingzooka](http://9gag.com/gag/a9yQz1W)<!-- MEMES:END -->
 
 ---
 
