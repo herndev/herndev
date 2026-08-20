@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [3 feet.](http://9gag.com/gag/an7pzRL)
- - ⏩ [Wait I seen this somewhere...](http://9gag.com/gag/aLnYvyW)
- - 👉 [If your life is a hardcore game with no save option, you might be an Indian electrician.](http://9gag.com/gag/azxN25b)<!-- MEMES:END -->
+ - 💣 [Wait I seen this somewhere...](http://9gag.com/gag/aLnYvyW)
+ - ⏩ [Rick Charls - American high diver who currently holds the World Record for the Highest Dive from 172 ft](http://9gag.com/gag/aAyWGWg)
+ - 👉 [Wait a minut...](http://9gag.com/gag/aoyry6g)<!-- MEMES:END -->
 
 ---
 
