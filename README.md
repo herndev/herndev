@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who wants to live forever?](http://9gag.com/gag/apRygB9)
+ - 💣 [Girl rides horse](http://9gag.com/gag/ae9ogzm)
  - ⏩ [Rick Charls - American high diver who currently holds the World Record for the Highest Dive from 172 ft](http://9gag.com/gag/aAyWGWg)
- - 👉 [Girl rides horse](http://9gag.com/gag/ae9ogzm)<!-- MEMES:END -->
+ - 👉 [I should start excercising.](http://9gag.com/gag/amojgv9)<!-- MEMES:END -->
 
 ---
 
