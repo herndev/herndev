@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`I turn now? Good luck everybody else!`](http://9gag.com/gag/aNDxPOw)
- - ⏩ [Rick Charls - American high diver who currently holds the World Record for the Highest Dive from 172 ft](http://9gag.com/gag/aAyWGWg)
- - 👉 [Stop it...get some help.](http://9gag.com/gag/aPANxyK)<!-- MEMES:END -->
+ - 💣 [If your life is a hardcore game with no save option, you might be an Indian electrician.](http://9gag.com/gag/azxN25b)
+ - ⏩ [3 feet.](http://9gag.com/gag/an7pzRL)
+ - 👉 [The Plot](http://9gag.com/gag/aByqd31)<!-- MEMES:END -->
 
 ---
 
