@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 17’s new distraction-killer is a Pixel 11 exclusive, Google confirms](https://www.androidauthority.com/android-17-pause-point-digital-wellbeing-pixel-11-exclusive-3700872/)
- - [Struggling to see emoji? Gboard is rolling out a solution right now](https://www.androidauthority.com/gboard-emoji-slider-rollout-3700850/)
- - [London-based Callosum, whose software matches AI tasks with different models and chips, raised a $100M seed from Atomico, UK Sovereign AI Fund, and others &lpar;Bloomberg&rpar;](https://www.techmeme.com/260820/p7#a260820p7)<!-- TECH:END -->
+ - [LG’s new OLED breakthrough can boost display lifespans](https://www.theverge.com/tech/982609/lg-oled-panel-flipp-display-technology)
+ - [We tested the Pixel 11’s Tensor G6 chip, and the results are brutal](https://www.androidauthority.com/tensor-g6-benchmarks-tests-3699714/)
+ - [Salmonella Is Everywhere](https://www.wired.com/story/salmonella-is-everywhere/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
