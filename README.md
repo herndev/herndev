@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Qualcomm just teased two new Snapdragon 8 Elite chips](https://www.androidauthority.com/qualcomm-snapdragon-8-elite-gen-6-teaser-3700828/)
- - [China&#39;s humanoid robot makers derive much of their revenue from government-backed training centers that sell training data back to them, raising demand concerns &lpar;William Langley/Financial Times&rpar;](https://www.techmeme.com/260820/p4#a260820p4)
- - [Sources: China is restricting or delaying exports to Taiwan of germanium- and quartz-based materials used in fiber optics, photonics, and chip manufacturing &lpar;Nikkei Asia&rpar;](https://www.techmeme.com/260820/p3#a260820p3)<!-- TECH:END -->
+ - [Struggling to see emoji? Gboard is rolling out a solution right now](https://www.androidauthority.com/gboard-emoji-slider-rollout-3700850/)
+ - [London-based Callosum, whose software matches AI tasks with different models and chips, raised a $100M seed from Atomico, UK Sovereign AI Fund, and others &lpar;Bloomberg&rpar;](https://www.techmeme.com/260820/p7#a260820p7)
+ - [Waymo’s self-driving cars get Gemini integration, so you have someone to talk to](https://www.androidauthority.com/waymo-gemini-integration-3700836/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
