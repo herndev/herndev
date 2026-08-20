@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [San Mateo-based Twin1 AI, which creates professional digital twins that integrate with tools like Slack, launches from stealth with a $20M seed &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/260820/p37#a260820p37)
- - [China Is Strapping ‘Digital Bombs’ to Civilian Infrastructure—Is the US Ready?](https://www.wired.com/story/china-is-strapping-digital-bombs-to-civilian-infrastructure-is-the-us-ready/)
- - [Google’s working with your carrier to fix RCS in Messages](https://www.androidauthority.com/google-rcs-messages-fix-3701283/)<!-- TECH:END -->
+ - [This Galaxy S26 FE leak just exposed the full color palette](https://www.androidauthority.com/galaxy-s26-fe-colors-and-angles-3701295/)
+ - [Some Pixel phones have forgotten how to Flip to Shhh](https://www.androidauthority.com/google-pixel-flip-to-shhh-not-working-fix-3701291/)
+ - [Layoffs in Apple&#39;s Vision Products Group prove slow progress in spatial computing](https://appleinsider.com/articles/26/08/20/layoffs-in-apples-vision-products-group-prove-slow-progress-in-spatial-computing?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
