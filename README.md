@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Anthropic plans a safety system this year requiring enterprises to retain data for 30 days, with an option to do so on their own cloud infrastructure &lpar;Rachel Metz/Bloomberg&rpar;](https://www.techmeme.com/260820/p32#a260820p32)
- - [JBL Xtreme 5 drops back to its best price with $100 off at Amazon](https://www.androidauthority.com/jbl-xtreme-5-deal-3701260/)
- - [Australia says Roblox hasn&amp;#8217;t fixed its child predator problem](https://www.theverge.com/games/982885/roblox-australia-safety-regulator-child-safety)<!-- TECH:END -->
+ - [Charter closes its $34.5B Cox acquisition, announced in May 2025, uniting two of the biggest US cable and broadband providers, and completes its Liberty deal &lpar;Georg Szalai/The Hollywood Reporter&rpar;](https://www.techmeme.com/260820/p35#a260820p35)
+ - [Marley Spoon, Blue Apron Face Delivery Issues After Food Supplier Bankruptcy](https://www.cnet.com/health/nutrition/marley-spoon-blue-apron-delivery-issues-food-supplier-bankruptcy/)
+ - [Google’s got some new Pixel 11 videos for the big release day](https://www.androidauthority.com/google-pixel-11-videos-3701248/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
