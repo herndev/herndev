@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hadouken!](http://9gag.com/gag/a1mz7ZR)
- - ⏩ [Carrying this much hardware really built character](http://9gag.com/gag/aZZAZO6)
- - 👉 [Ultimate archival dedication](http://9gag.com/gag/aQzwgod)<!-- MEMES:END -->
+ - 💣 [Harley quinn tv series](http://9gag.com/gag/a1mzPnD)
+ - ⏩ [Wait a minut...](http://9gag.com/gag/aoyry6g)
+ - 👉 [Yeah, why not?](http://9gag.com/gag/apRy1wE)<!-- MEMES:END -->
 
 ---
 
