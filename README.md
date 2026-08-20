@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 11 series quietly and exclusively adds one of the most useful new haptic features](https://www.androidauthority.com/google-pixel-11-custom-vibration-3700805/)
- - [The EU appears to be shifting from outsized regulatory fines against Big Tech to technical DMA orders that force compliance, such as sharing search data &lpar;Jacob Parry/Politico&rpar;](https://www.techmeme.com/260819/p53#a260819p53)
- - [Hyperliquid Strategies shares jumped 31% after Trump said CFTC Chair Michael Selig is working to bring crypto platform Hyperliquid onshore in a compliant manner &lpar;Bloomberg&rpar;](https://www.techmeme.com/260819/p52#a260819p52)<!-- TECH:END -->
+ - [Peacock Promo Codes: 40% Off August 2026](https://www.wired.com/story/peacock-promo-code/)
+ - [TurboTax Full Service Coupons This August](https://www.wired.com/story/turbotax-coupon/)
+ - [Dell Coupon Codes: 20% Off for August 2026](https://www.wired.com/story/dell-coupon-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
