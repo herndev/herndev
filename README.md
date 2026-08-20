@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hyperliquid Strategies shares jumped 31% after Trump said CFTC Chair Michael Selig is working to bring crypto platform Hyperliquid onshore in a compliant manner &lpar;Bloomberg&rpar;](https://www.techmeme.com/260819/p52#a260819p52)
- - [Genesis GV90 SUV Debuts With Coach Doors, 310-Mile Range](https://www.cnet.com/home/electric-vehicles/genesis-gv90-suv-coach-doors-310-mile-range/)
- - [Samsung just set a date for its next Galaxy S26 launch, and this one is for the fans!](https://www.androidauthority.com/samsung-galaxy-s26-fe-launch-date-3700799/)<!-- TECH:END -->
+ - [Pixel 11 series quietly and exclusively adds one of the most useful new haptic features](https://www.androidauthority.com/google-pixel-11-custom-vibration-3700805/)
+ - [The EU appears to be shifting from outsized regulatory fines against Big Tech to technical DMA orders that force compliance, such as sharing search data &lpar;Jacob Parry/Politico&rpar;](https://www.techmeme.com/260819/p53#a260819p53)
+ - [Hyperliquid Strategies shares jumped 31% after Trump said CFTC Chair Michael Selig is working to bring crypto platform Hyperliquid onshore in a compliant manner &lpar;Bloomberg&rpar;](https://www.techmeme.com/260819/p52#a260819p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
