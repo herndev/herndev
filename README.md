@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Binance launches Agent OS, a platform that lets AI agents analyze markets and execute trades on users&#39; behalf; users set limits on AI agents&#39; access and trades &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/260820/p10#a260820p10)
- - [South Korea media: SK Hynix and its union reach a tentative deal on a 6.3% wage hike and paying out 60% of profit-sharing bonuses in shares and 40% in cash &lpar;Yoolim Lee/Bloomberg&rpar;](https://www.techmeme.com/260820/p9#a260820p9)
- - [Using the Pixel 11 Pro for a week confirmed my biggest fear about Pixel’s future](https://www.androidauthority.com/pixel-11-pro-one-week-later-impressions-3699430/)<!-- TECH:END -->
+ - [Poolease X1 Pool Robot Review: How Bad Can It Be?](https://www.wired.com/review/poolease-x1-pool-robot/)
+ - [PitchBook: California-based startups have raised ~$366B in 2026 so far across 4,000+ companies, more than triple the total of all other 49 states combined &lpar;Paul Kiernan/Wall Street Journal&rpar;](https://www.techmeme.com/260820/p14#a260820p14)
+ - [Bumble Tried to Change Dating, but the Dating Market Forced It to Change Instead](https://www.wired.com/story/bumble-women-first-rule-change/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
