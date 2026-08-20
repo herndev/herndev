@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta glasses are a workplace menace](https://www.theverge.com/report/982414/meta-glasses-work-surveillance-labor-security)
- - [Slack is launching collaborative vibe-coding channels](https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch)
- - [Samsung and Apple are now neck and neck in Europe&#39;s declining smartphone market](https://appleinsider.com/articles/26/08/20/samsung-and-apple-are-now-neck-and-neck-in-europes-declining-smartphone-market?utm_source=rss)<!-- TECH:END -->
+ - [DJI Osmo fans are breaking the shackles of its closed-source camera app](https://www.theverge.com/tech/981852/osmosis-app-download-dji-osmo-camera-video-mimo-replacement)
+ - [The wide-screen phone trend is expanding beyond foldables](https://www.androidauthority.com/huawei-pura-x-view-launch-3701064/)
+ - [Circana: US video game hardware spending fell 29% YoY in July to $282M, the lowest since COVID; unit shipments fell 39% as average console prices hit $542 &lpar;Vlad Savov/Bloomberg&rpar;](https://www.techmeme.com/260820/p22#a260820p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
