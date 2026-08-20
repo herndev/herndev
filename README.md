@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In case men of culture one day they need to change the plane tyre](http://9gag.com/gag/aXPDnGD)
- - ⏩ [Yeah. But first you need to pay for the Microsoft Word.](http://9gag.com/gag/a9yQ1XZ)
- - 👉 [You are no longer depressed and very happy. Have a nice day.](http://9gag.com/gag/aVvnxxM)<!-- MEMES:END -->
+ - 💣 [If your life is a hardcore game with no save option, you might be an Indian electrician.](http://9gag.com/gag/azxN25b)
+ - ⏩ [Rick Charls - American high diver who currently holds the World Record for the Highest Dive from 172 ft](http://9gag.com/gag/aAyWGWg)
+ - 👉 [The more you know, the dumber you thinks others are](http://9gag.com/gag/a4Peo6Z)<!-- MEMES:END -->
 
 ---
 
