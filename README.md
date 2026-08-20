@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If your life is a hardcore game with no save option, you might be an Indian electrician.](http://9gag.com/gag/azxN25b)
+ - 💣 [3 feet.](http://9gag.com/gag/an7pzRL)
  - ⏩ [Wait I seen this somewhere...](http://9gag.com/gag/aLnYvyW)
- - 👉 [Southpark s13e14](http://9gag.com/gag/a2vBK0Y)<!-- MEMES:END -->
+ - 👉 [If your life is a hardcore game with no save option, you might be an Indian electrician.](http://9gag.com/gag/azxN25b)<!-- MEMES:END -->
 
 ---
 
