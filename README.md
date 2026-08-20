@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [`I turn now? Good luck everybody else!`](http://9gag.com/gag/aNDxPOw)
- - ⏩ [If your life is a hardcore game with no save option, you might be an Indian electrician.](http://9gag.com/gag/azxN25b)
- - 👉 [Rick Charls - American high diver who currently holds the World Record for the Highest Dive from 172 ft](http://9gag.com/gag/aAyWGWg)<!-- MEMES:END -->
+ - ⏩ [Rick Charls - American high diver who currently holds the World Record for the Highest Dive from 172 ft](http://9gag.com/gag/aAyWGWg)
+ - 👉 [Stop it...get some help.](http://9gag.com/gag/aPANxyK)<!-- MEMES:END -->
 
 ---
 
