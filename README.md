@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Galaxy S26 Ultra’s red screen fix saga is finally &lpar;almost&rpar; over](https://www.androidauthority.com/galaxy-s26-red-screen-update-3701277/)
- - [Google Photos users are overwhelmingly asking for better cleanup options](https://www.androidauthority.com/google-photos-free-up-space-poll-results-3701310/)
- - [Apple Music&#39;s AI disclosure labels will soon be mandatory, rather than optional](https://appleinsider.com/articles/26/08/20/apple-musics-ai-disclosure-labels-will-soon-be-mandatory-rather-than-optional?utm_source=rss)<!-- TECH:END -->
+ - [OpenAI rolls out an Apple Messages plugin for ChatGPT on macOS, letting ChatGPT read, search, and analyze chats, prepare and send messages, and more &lpar;Zac Hall/9to5Mac&rpar;](https://www.techmeme.com/260820/p43#a260820p43)
+ - [Some New Samsung Device Owners Are Running Into RCS Messaging Issues](https://www.cnet.com/tech/services-and-software/samsung-device-rcs-messaging-issues/)
+ - [Super Micro says its independent probe found no evidence its CEO or senior management knew of an alleged scheme to smuggle $2.5B worth of Nvidia chips to China &lpar;Amanda Gerut/Fortune&rpar;](https://www.techmeme.com/260820/p42#a260820p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
