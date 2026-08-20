@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [LG’s new OLED breakthrough can boost display lifespans](https://www.theverge.com/tech/982609/lg-oled-panel-flipp-display-technology)
- - [We tested the Pixel 11’s Tensor G6 chip, and the results are brutal](https://www.androidauthority.com/tensor-g6-benchmarks-tests-3699714/)
- - [Salmonella Is Everywhere](https://www.wired.com/story/salmonella-is-everywhere/)<!-- TECH:END -->
+ - [Binance launches Agent OS, a platform that lets AI agents analyze markets and execute trades on users&#39; behalf; users set limits on AI agents&#39; access and trades &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/260820/p10#a260820p10)
+ - [South Korea media: SK Hynix and its union reach a tentative deal on a 6.3% wage hike and paying out 60% of profit-sharing bonuses in shares and 40% in cash &lpar;Yoolim Lee/Bloomberg&rpar;](https://www.techmeme.com/260820/p9#a260820p9)
+ - [Using the Pixel 11 Pro for a week confirmed my biggest fear about Pixel’s future](https://www.androidauthority.com/pixel-11-pro-one-week-later-impressions-3699430/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
