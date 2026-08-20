@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poolease X1 Pool Robot Review: How Bad Can It Be?](https://www.wired.com/review/poolease-x1-pool-robot/)
- - [PitchBook: California-based startups have raised ~$366B in 2026 so far across 4,000+ companies, more than triple the total of all other 49 states combined &lpar;Paul Kiernan/Wall Street Journal&rpar;](https://www.techmeme.com/260820/p14#a260820p14)
- - [Bumble Tried to Change Dating, but the Dating Market Forced It to Change Instead](https://www.wired.com/story/bumble-women-first-rule-change/)<!-- TECH:END -->
+ - [Meta glasses are a workplace menace](https://www.theverge.com/report/982414/meta-glasses-work-surveillance-labor-security)
+ - [Slack is launching collaborative vibe-coding channels](https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch)
+ - [Samsung and Apple are now neck and neck in Europe&#39;s declining smartphone market](https://appleinsider.com/articles/26/08/20/samsung-and-apple-are-now-neck-and-neck-in-europes-declining-smartphone-market?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
