@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who wants to live forever?](http://9gag.com/gag/apRygB9)
- - ⏩ [Young Beyonce sitting on producer&#39;s lap](http://9gag.com/gag/an7pgjV)
- - 👉 [Throw back to this legendary moment.](http://9gag.com/gag/a9yQyOL)<!-- MEMES:END -->
+ - 💣 [In case men of culture one day they need to change the plane tyre](http://9gag.com/gag/aXPDnGD)
+ - ⏩ [You are no longer depressed and very happy. Have a nice day.](http://9gag.com/gag/aVvnxxM)
+ - 👉 [The main star](http://9gag.com/gag/ayNg9Or)<!-- MEMES:END -->
 
 ---
 
