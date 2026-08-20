@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If your life is a hardcore game with no save option, you might be an Indian electrician.](http://9gag.com/gag/azxN25b)
- - ⏩ [Wait a minut...](http://9gag.com/gag/aoyry6g)
- - 👉 [The more you know, the dumber you thinks others are](http://9gag.com/gag/a4Peo6Z)<!-- MEMES:END -->
+ - 💣 [Good old times video Smoking a Carolina Reaper](http://9gag.com/gag/a9yQynZ)
+ - ⏩ [If your life is a hardcore game with no save option, you might be an Indian electrician.](http://9gag.com/gag/azxN25b)
+ - 👉 [So Sad in this Humanity](http://9gag.com/gag/aO8geqr)<!-- MEMES:END -->
 
 ---
 
