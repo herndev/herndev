@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DJI Osmo fans are breaking the shackles of its closed-source camera app](https://www.theverge.com/tech/981852/osmosis-app-download-dji-osmo-camera-video-mimo-replacement)
- - [The wide-screen phone trend is expanding beyond foldables](https://www.androidauthority.com/huawei-pura-x-view-launch-3701064/)
- - [Circana: US video game hardware spending fell 29% YoY in July to $282M, the lowest since COVID; unit shipments fell 39% as average console prices hit $542 &lpar;Vlad Savov/Bloomberg&rpar;](https://www.techmeme.com/260820/p22#a260820p22)<!-- TECH:END -->
+ - [Tesla Robotaxis appear to go fully unsupervised in Austin ahead of Cybercab launch](https://www.theverge.com/transportation/982759/tesla-robotaxi-unsupervised-austin-robotaxi-tracker)
+ - [Here’s what data Comcast says its motion-detecting routers collect](https://www.theverge.com/tech/982689/comcast-xfinity-wifi-motion-privacy-concerns-response)
+ - [FromSoftware can do anything](https://www.theverge.com/entertainment/981970/fromsoftware-duskbloods-nintendo-hidetaka-miyazaki)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
