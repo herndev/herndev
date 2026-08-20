@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Schlage Sense Pro review: UWB Home Key proves itself again on this sleek smart lock](https://appleinsider.com/articles/26/08/20/schlage-sense-pro-review-uwb-home-key-proves-itself-again-on-this-sleek-smart-lock?utm_source=rss)
- - [AirPods with cameras not coming till 2027, won&#39;t take photos](https://appleinsider.com/articles/26/08/19/airpods-with-cameras-not-coming-till-2027-wont-take-photos?utm_source=rss)
- - [Trump urges Congress to pass the Clarity Act at a White House event with execs including the CEOs of Coinbase and Robinhood; the bill has stalled in the Senate &lpar;Bloomberg&rpar;](https://www.techmeme.com/260819/p48#a260819p48)<!-- TECH:END -->
+ - [Distortion &amp; speculation warrant denying OpenAI request for lawsuit dismissal, says Apple](https://appleinsider.com/articles/26/08/20/distortion-speculation-warrant-denying-openai-request-for-lawsuit-dismissal-says-apple?utm_source=rss)
+ - [Samsung announces a virtual Galaxy event for August 27 at 8am ET, where the Galaxy S26 FE is expected &lpar;Alan Friedman/PhoneArena&rpar;](https://www.techmeme.com/260819/p50#a260819p50)
+ - [Comcast Xfinity Wants to Use Your Wi-Fi as a Motion Sensor in Your Home](https://www.cnet.com/home/security/comcast-xfinity-wants-to-use-your-wi-fi-as-a-motion-sensor-in-your-home/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
