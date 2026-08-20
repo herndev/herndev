@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If your life is a hardcore game with no save option, you might be an Indian electrician.](http://9gag.com/gag/azxN25b)
- - ⏩ [Wait I seen this somewhere...](http://9gag.com/gag/aLnYvyW)
- - 👉 [She perfectly captured why his sense of entitlement is so infuriating](http://9gag.com/gag/a0eAoxZ)<!-- MEMES:END -->
+ - 💣 [Wait I seen this somewhere...](http://9gag.com/gag/aLnYvyW)
+ - ⏩ [What happened to Derpixon?](http://9gag.com/gag/aByqnoD)
+ - 👉 [3 feet.](http://9gag.com/gag/an7pzRL)<!-- MEMES:END -->
 
 ---
 
