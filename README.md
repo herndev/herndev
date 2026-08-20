@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Distortion &amp; speculation warrant denying OpenAI request for lawsuit dismissal, says Apple](https://appleinsider.com/articles/26/08/20/distortion-speculation-warrant-denying-openai-request-for-lawsuit-dismissal-says-apple?utm_source=rss)
- - [Samsung announces a virtual Galaxy event for August 27 at 8am ET, where the Galaxy S26 FE is expected &lpar;Alan Friedman/PhoneArena&rpar;](https://www.techmeme.com/260819/p50#a260819p50)
- - [Comcast Xfinity Wants to Use Your Wi-Fi as a Motion Sensor in Your Home](https://www.cnet.com/home/security/comcast-xfinity-wants-to-use-your-wi-fi-as-a-motion-sensor-in-your-home/)<!-- TECH:END -->
+ - [Hyperliquid Strategies shares jumped 31% after Trump said CFTC Chair Michael Selig is working to bring crypto platform Hyperliquid onshore in a compliant manner &lpar;Bloomberg&rpar;](https://www.techmeme.com/260819/p52#a260819p52)
+ - [Genesis GV90 SUV Debuts With Coach Doors, 310-Mile Range](https://www.cnet.com/home/electric-vehicles/genesis-gv90-suv-coach-doors-310-mile-range/)
+ - [Samsung just set a date for its next Galaxy S26 launch, and this one is for the fans!](https://www.androidauthority.com/samsung-galaxy-s26-fe-launch-date-3700799/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
