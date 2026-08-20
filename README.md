@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: in 2025, TikTok posted its first net profit of $702.5M in Europe, Africa, and Latin America on $9.1B in revenue, up 45.7% YoY &lpar;Iain Martin/Forbes&rpar;](https://www.techmeme.com/260820/p25#a260820p25)
- - [LG’s 65-inch B6 OLED is $300 lower than its previous best price](https://www.theverge.com/gadgets/982695/lg-b6-65-inch-oled-doordash-digital-game-deal-sale)
- - [Android Auto finally fixes a connection bug that made it nearly unusable](https://www.androidauthority.com/android-auto-connection-issues-fixed-3701080/)<!-- TECH:END -->
+ - [The Chinese city of Hangzhou deploys traffic-control robots that operate autonomously, using cameras and radar to signal traffic and flag violations &lpar;Reuters&rpar;](https://www.techmeme.com/260820/p26#a260820p26)
+ - [Google is giving you more control over what shows up in your feed](https://www.androidauthority.com/google-search-personalization-3701171/)
+ - [Nothing OS 5.0 update with Android 17 is ‘coming soon’](https://www.androidauthority.com/nothing-os-5-0-release-date-3701142/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
