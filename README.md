@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [In case men of culture one day they need to change the plane tyre](http://9gag.com/gag/aXPDnGD)
- - ⏩ [You are no longer depressed and very happy. Have a nice day.](http://9gag.com/gag/aVvnxxM)
- - 👉 [The main star](http://9gag.com/gag/ayNg9Or)<!-- MEMES:END -->
+ - ⏩ [Yeah. But first you need to pay for the Microsoft Word.](http://9gag.com/gag/a9yQ1XZ)
+ - 👉 [You are no longer depressed and very happy. Have a nice day.](http://9gag.com/gag/aVvnxxM)<!-- MEMES:END -->
 
 ---
 
