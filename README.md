@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Charter closes its $34.5B Cox acquisition, announced in May 2025, uniting two of the biggest US cable and broadband providers, and completes its Liberty deal &lpar;Georg Szalai/The Hollywood Reporter&rpar;](https://www.techmeme.com/260820/p35#a260820p35)
- - [Marley Spoon, Blue Apron Face Delivery Issues After Food Supplier Bankruptcy](https://www.cnet.com/health/nutrition/marley-spoon-blue-apron-delivery-issues-food-supplier-bankruptcy/)
- - [Google’s got some new Pixel 11 videos for the big release day](https://www.androidauthority.com/google-pixel-11-videos-3701248/)<!-- TECH:END -->
+ - [San Mateo-based Twin1 AI, which creates professional digital twins that integrate with tools like Slack, launches from stealth with a $20M seed &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/260820/p37#a260820p37)
+ - [China Is Strapping ‘Digital Bombs’ to Civilian Infrastructure—Is the US Ready?](https://www.wired.com/story/china-is-strapping-digital-bombs-to-civilian-infrastructure-is-the-us-ready/)
+ - [Google’s working with your carrier to fix RCS in Messages](https://www.androidauthority.com/google-rcs-messages-fix-3701283/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
