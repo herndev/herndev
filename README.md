@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Professionalism](http://9gag.com/gag/a349495)
- - ⏩ [Gabe went from obese 3 to obese 2. May he live for another 1000 years!](http://9gag.com/gag/a87P6d1)
- - 👉 [Don\u2019t read headlines only](http://9gag.com/gag/aD2pnX9)<!-- MEMES:END -->
+ - 💣 [When I tell my flat-chested girlfriend our future baby will starve until it learns to chew](http://9gag.com/gag/avyY1P5)
+ - ⏩ [Nathan Cofnas, the academic who initially accused former Cambridge Prof. Jason Arday of plagiarism, has been suspended by Ghent University &lpar;Universiteit Gent&rpar; for `discrimination` and `racism.`](http://9gag.com/gag/aoyr3D2)
+ - 👉 [Ooo mooi Rockstar is mad](http://9gag.com/gag/agmM1Br)<!-- MEMES:END -->
 
 ---
 
