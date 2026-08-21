@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla sunsets its Solar Roof tiles](https://www.theverge.com/tech/983167/tesla-solar-roof-tiles-discontinued)
- - [A look at London cab drivers&#39; concerns and pushback against robotaxis, as Waymo and Wayve race to make London their European launch pad for driverless services &lpar;Financial Times&rpar;](https://www.techmeme.com/260821/p7#a260821p7)
- - [Survey suggests this is the slowest carrier if you have a cheap phone](https://www.androidauthority.com/carrier-speeds-flagship-budget-phone-3701471/)<!-- TECH:END -->
+ - [Blue Eye Samurai’s second season will hit Netflix in January](https://www.theverge.com/streaming/983203/blue-eye-samurai-season-2-release-date-renewal)
+ - [Filings: China-based chipmaker YMTC&#39;s application to list its shares on Shanghai&#39;s STAR Market has been accepted, setting the stage for a $4.9B share sale &lpar;Reuters&rpar;](https://www.techmeme.com/260821/p10#a260821p10)
+ - [Amazon slashes LG 27&quot; UltraGear OLED monitor to $468, lowest price ever](https://appleinsider.com/articles/26/08/21/amazon-slashes-lg-27-ultragear-oled-monitor-to-468-lowest-price-ever?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
