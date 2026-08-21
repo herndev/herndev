@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wamen](http://9gag.com/gag/an7pO75)
- - ⏩ [Just comply with the Law](http://9gag.com/gag/ary6yMK)
- - 👉 [There&#39;s happiness in many other places](http://9gag.com/gag/aYQ8G9v)<!-- MEMES:END -->
+ - 💣 [Gabe went from obese 3 to obese 2. May he live for another 1000 years!](http://9gag.com/gag/a87P6d1)
+ - ⏩ [Hadouken!](http://9gag.com/gag/a1mz7ZR)
+ - 👉 [English is easy](http://9gag.com/gag/aXPDLw2)<!-- MEMES:END -->
 
 ---
 
