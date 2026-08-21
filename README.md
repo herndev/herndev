@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wait a minut...](http://9gag.com/gag/aoyry6g)
- - ⏩ [Professionalism](http://9gag.com/gag/a349495)
- - 👉 [Guys....](http://9gag.com/gag/aE0r0Pe)<!-- MEMES:END -->
+ - 💣 [Wamen](http://9gag.com/gag/an7pO75)
+ - ⏩ [Just comply with the Law](http://9gag.com/gag/ary6yMK)
+ - 👉 [There&#39;s happiness in many other places](http://9gag.com/gag/aYQ8G9v)<!-- MEMES:END -->
 
 ---
 
