@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sign of the times.](http://9gag.com/gag/aRB5B9M)
- - ⏩ [A helping foot](http://9gag.com/gag/a6ZvXnA)
- - 👉 [Gabe went from obese 3 to obese 2. May he live for another 1000 years!](http://9gag.com/gag/a87P6d1)<!-- MEMES:END -->
+ - 💣 [Wamen](http://9gag.com/gag/an7pO75)
+ - ⏩ [Wait a minut...](http://9gag.com/gag/aoyry6g)
+ - 👉 [Behold the end of mankind](http://9gag.com/gag/azxNd8K)<!-- MEMES:END -->
 
 ---
 
