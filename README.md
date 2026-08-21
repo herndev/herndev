@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI rolls out an Apple Messages plugin for ChatGPT on macOS, letting ChatGPT read, search, and analyze chats, prepare and send messages, and more &lpar;Zac Hall/9to5Mac&rpar;](https://www.techmeme.com/260820/p43#a260820p43)
- - [Some New Samsung Device Owners Are Running Into RCS Messaging Issues](https://www.cnet.com/tech/services-and-software/samsung-device-rcs-messaging-issues/)
- - [Super Micro says its independent probe found no evidence its CEO or senior management knew of an alleged scheme to smuggle $2.5B worth of Nvidia chips to China &lpar;Amanda Gerut/Fortune&rpar;](https://www.techmeme.com/260820/p42#a260820p42)<!-- TECH:END -->
+ - [A US judge tosses part of the conviction of ex-Google engineer Linwei Ding, who was found guilty of stealing AI trade secrets to benefit two Chinese companies &lpar;Tom Hals/Reuters&rpar;](https://www.techmeme.com/260820/p44#a260820p44)
+ - [Hisense TopLift dehumidifier review: Matter-enabled for hot summer months](https://appleinsider.com/articles/26/08/21/hisense-toplift-dehumidifier-review-matter-enabled-for-hot-summer-months?utm_source=rss)
+ - [Netflix Drops Trailers for ‘Blue Eye Samurai’ Season 2, Cyberpunk: Edgerunners 2 and More at Anime NYC 2026](https://www.cnet.com/tech/services-and-software/netflix-drops-trailers-for-blue-eye-samurai-season-2-cyberpunk-edgerunners-2-and-more-at-anime-nyc-2026-2-2/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
