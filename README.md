@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is Dropbox down for you? Here’s what’s going on](https://www.androidauthority.com/dropbox-outage-aug-21-3701574/)
- - [Finally, Apple Pay is coming to WalMart stores in the US](https://appleinsider.com/articles/26/08/21/finally-apple-pay-is-coming-to-walmart-stores-in-the-us?utm_source=rss)
- - [Google Slides gets a new trick for turning presentations into videos](https://www.androidauthority.com/google-vids-google-slides-integration-3701477/)<!-- TECH:END -->
+ - [Valve slip-up reveals extensive Steam Frame details, including an unboxing video](https://www.androidauthority.com/steam-frame-vr-headset-unboxing-accessories-leak-3701527/)
+ - [Apple paid Ireland a staggering $17 billion in taxes in 2025](https://appleinsider.com/articles/26/08/21/apple-paid-ireland-a-staggering-17-billion-in-taxes-in-2025?utm_source=rss)
+ - [Space data center startup Starcloud raised a $250M extension, at a $2.3B valuation, to its March $170M Series A; source: Nvidia invested $25M &lpar;Tim Fernholz/TechCrunch&rpar;](https://www.techmeme.com/260821/p12#a260821p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
