@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Harley quinn tv series](http://9gag.com/gag/a1mzPnD)
- - ⏩ [Albania is the only European country that discharges all of its raw, untreated sewage directly into the sea, near tourist beaches. Example here at Gjiri i Lalzit\u2019s `elite resort` in the middle of high season.](http://9gag.com/gag/aoyry8e)
- - 👉 [Stop the slop. Let me see your best downvote gifs to at least keep the comment sections great again.](http://9gag.com/gag/aoyrKGX)<!-- MEMES:END -->
+ - 💣 [Albania is the only European country that discharges all of its raw, untreated sewage directly into the sea, near tourist beaches. Example here at Gjiri i Lalzit\u2019s `elite resort` in the middle of high season.](http://9gag.com/gag/aoyry8e)
+ - ⏩ [Harley quinn tv series](http://9gag.com/gag/a1mzPnD)
+ - 👉 [There&#39;s happiness in many other places](http://9gag.com/gag/aYQ8G9v)<!-- MEMES:END -->
 
 ---
 
