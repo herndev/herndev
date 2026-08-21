@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Brazil announces ~$444.2M in AI investments split between US and Chinese companies, including ~$250.3M for a supercomputing project with Huawei and iFlytek &lpar;Marcela Ayres/Reuters&rpar;](https://www.techmeme.com/260820/p48#a260820p48)
- - [Source: AI training data startup Micro1&#39;s gross annual run rate grew from $100M to $500M in the past eight months, putting net annual run rate at $150M-$200M &lpar;Marina Temkin/TechCrunch&rpar;](https://www.techmeme.com/260820/p47#a260820p47)
- - [Genki’s new customizable controller has a big screen and adjustable buttons](https://www.theverge.com/tech/981536/genki-manta-wireless-customizable-controller-tmr-screen)<!-- TECH:END -->
+ - [NordVPN Coupons: 75% Off, Plus 3 Months Free in August 2026](https://www.wired.com/story/nordvpn-coupon/)
+ - [Valvoline Coupons and Promo Codes for August 2026](https://www.wired.com/story/valvoline-coupons/)
+ - [Home Depot Promo Codes: 30% Off in August 2026](https://www.wired.com/story/home-depot-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
