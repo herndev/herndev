@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [Gabe went from obese 3 to obese 2. May he live for another 1000 years!](http://9gag.com/gag/a87P6d1)
  - ⏩ [Wamen](http://9gag.com/gag/an7pO75)
- - 👉 [Harley quinn tv series](http://9gag.com/gag/a1mzPnD)<!-- MEMES:END -->
+ - 👉 [Hard truth for your camera roll](http://9gag.com/gag/a0eAXqZ)<!-- MEMES:END -->
 
 ---
 
