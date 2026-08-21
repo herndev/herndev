@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your Verizon Disney Plus, Hulu, and ESPN Plus perks are about to cost more](https://www.androidauthority.com/verizon-disney-bundle-price-hike-3701755/)
- - [Nvidia says its general-purpose coding agent system AVO scored 100% across all 25 environments in the ARC-AGI-3 public set, completing all 183 levels &lpar;Terry Chen/NVIDIA Technical Blog&rpar;](https://www.techmeme.com/260821/p24#a260821p24)
- - [Where are all Google’s smart displays? Out-of-stock Store listings raise eyebrows](https://www.androidauthority.com/google-store-smart-displays-3701744/)<!-- TECH:END -->
+ - [The Insignia 32-inch Fire TV falls to just $69.99 — a great price for a second screen](https://www.androidauthority.com/insignia-32-inch-fire-tv-deal-3701775/)
+ - [GTA 6 Leaks Prompt Take-Two to Seek Subpoenas for Microsoft,  Discord Data](https://www.cnet.com/tech/gta-6-take-two-subpoenas-for-microsoft-discord-data/)
+ - [Sources: Devoted Health, which uses AI to help coordinate medical care for those enrolled in Medicare Advantage, is raising new funding at a $25B valuation &lpar;Katie Roof/Business Insider&rpar;](https://www.techmeme.com/260821/p25#a260821p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
