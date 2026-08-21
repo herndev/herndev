@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [From design to peel-ready sticker in a single go, the Liene PixCut S1 all-in-one printer and cutter is the ideal back-to-school gadget](https://www.androidauthority.com/liene-pixcut-s1-3701046/)
- - [Google’s new Tap to Share feature on the Pixel 11 is incredible. Here’s how to use it](https://www.androidauthority.com/pixel-11-tap-to-share-how-use-3700155/)
- - [How the memory boom is reshaping Micron&#39;s hometown of Boise, Idaho, with new millionaires, job growth, rising housing costs, and uneven wealth distribution &lpar;CNBC&rpar;](https://www.techmeme.com/260821/p2#a260821p2)<!-- TECH:END -->
+ - [China grants Geely a two-year permit for the country&#39;s first private satellite IoT trial, letting Geely offer connectivity to sectors like transport and energy &lpar;Ben Jiang/South China Morning Post&rpar;](https://www.techmeme.com/260821/p3#a260821p3)
+ - [Did you know the Gallery app on your Samsung phone has a secret menu? Here’s how to find it](https://www.androidauthority.com/samsung-gallery-labs-menu-how-find-3698693/)
+ - [The Super El Niño Won’t Fix the West’s Water Crisis](https://www.wired.com/story/the-super-el-nino-wont-fix-the-wests-water-crisis/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
