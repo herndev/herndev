@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If your life is a hardcore game with no save option, you might be an Indian electrician.](http://9gag.com/gag/azxN25b)
- - ⏩ [Albania is the only European country that discharges all of its raw, untreated sewage directly into the sea, near tourist beaches. Example here at Gjiri i Lalzit\u2019s `elite resort` in the middle of high season.](http://9gag.com/gag/aoyry8e)
- - 👉 [Blarg](http://9gag.com/gag/amoj1oj)<!-- MEMES:END -->
+ - 💣 [3 feet.](http://9gag.com/gag/an7pzRL)
+ - ⏩ [Harley quinn tv series](http://9gag.com/gag/a1mzPnD)
+ - 👉 [The more you know, the dumber you thinks others are](http://9gag.com/gag/a4Peo6Z)<!-- MEMES:END -->
 
 ---
 
