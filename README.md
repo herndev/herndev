@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A helping foot](http://9gag.com/gag/a6ZvXnA)
- - ⏩ [Wamen](http://9gag.com/gag/an7pO75)
- - 👉 [The type of bird that shows up in your life one week after getting a girlfriend](http://9gag.com/gag/abAPeKv)<!-- MEMES:END -->
+ - 💣 [Sign of the times.](http://9gag.com/gag/aRB5B9M)
+ - ⏩ [A helping foot](http://9gag.com/gag/a6ZvXnA)
+ - 👉 [Gabe went from obese 3 to obese 2. May he live for another 1000 years!](http://9gag.com/gag/a87P6d1)<!-- MEMES:END -->
 
 ---
 
