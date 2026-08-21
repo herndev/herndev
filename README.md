@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wamen](http://9gag.com/gag/an7pO75)
- - ⏩ [Gabe went from obese 3 to obese 2. May he live for another 1000 years!](http://9gag.com/gag/a87P6d1)
- - 👉 [There&#39;s happiness in many other places](http://9gag.com/gag/aYQ8G9v)<!-- MEMES:END -->
+ - 💣 [10/10](http://9gag.com/gag/aKG0151)
+ - ⏩ [Wamen](http://9gag.com/gag/an7pO75)
+ - 👉 [Gabe went from obese 3 to obese 2. May he live for another 1000 years!](http://9gag.com/gag/a87P6d1)<!-- MEMES:END -->
 
 ---
 
