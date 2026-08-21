@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wait a minut...](http://9gag.com/gag/aoyry6g)
- - ⏩ [Good solution, I think](http://9gag.com/gag/aPANm8Q)
+ - 💣 [A helping foot](http://9gag.com/gag/a6ZvXnA)
+ - ⏩ [Wamen](http://9gag.com/gag/an7pO75)
  - 👉 [The type of bird that shows up in your life one week after getting a girlfriend](http://9gag.com/gag/abAPeKv)<!-- MEMES:END -->
 
 ---
