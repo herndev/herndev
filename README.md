@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Valve slip-up reveals extensive Steam Frame details, including an unboxing video](https://www.androidauthority.com/steam-frame-vr-headset-unboxing-accessories-leak-3701527/)
- - [Apple paid Ireland a staggering $17 billion in taxes in 2025](https://appleinsider.com/articles/26/08/21/apple-paid-ireland-a-staggering-17-billion-in-taxes-in-2025?utm_source=rss)
- - [Space data center startup Starcloud raised a $250M extension, at a $2.3B valuation, to its March $170M Series A; source: Nvidia invested $25M &lpar;Tim Fernholz/TechCrunch&rpar;](https://www.techmeme.com/260821/p12#a260821p12)<!-- TECH:END -->
+ - [Samsung Galaxy S26 FE gets an early unboxing, revealing key design details](https://www.androidauthority.com/samsung-galaxy-s26-fe-unboxing-video-leak-3701540/)
+ - [Filings: Apple paid Ireland $17B in taxes last year, after an EU court ordered it to pay €13B in back taxes; Apple paid $43B in corporate income taxes globally &lpar;Jamie John/Financial Times&rpar;](https://www.techmeme.com/260821/p14#a260821p14)
+ - [Razer’s 11-in-1 USB-C dock just crashed to $52 in by far its best deal yet](https://www.androidauthority.com/razer-11-1-usb-c-dock-deal-3701642/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
