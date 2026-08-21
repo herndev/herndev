@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Insignia 32-inch Fire TV falls to just $69.99 — a great price for a second screen](https://www.androidauthority.com/insignia-32-inch-fire-tv-deal-3701775/)
- - [GTA 6 Leaks Prompt Take-Two to Seek Subpoenas for Microsoft,  Discord Data](https://www.cnet.com/tech/gta-6-take-two-subpoenas-for-microsoft-discord-data/)
- - [Sources: Devoted Health, which uses AI to help coordinate medical care for those enrolled in Medicare Advantage, is raising new funding at a $25B valuation &lpar;Katie Roof/Business Insider&rpar;](https://www.techmeme.com/260821/p25#a260821p25)<!-- TECH:END -->
+ - [Gurman: as part of Vision Pro cuts, Apple is largely shutting down a team focused on gaming and reducing the size of a unit producing immersive video content &lpar;Chance Miller/9to5Mac&rpar;](https://www.techmeme.com/260821/p28#a260821p28)
+ - [Nvidia makes a minority investment in Cloverleaf, which works with utilities and energy providers to secure infrastructure for data center sites &lpar;Rashika Singh/Reuters&rpar;](https://www.techmeme.com/260821/p27#a260821p27)
+ - [Inside Jason Kelce’s Potty Humor Marketing Ploy Against AI Data Centers](https://www.cnet.com/tech/services-and-software/jason-kelce-liquid-death-marketing-stunt-ai-data-centers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
