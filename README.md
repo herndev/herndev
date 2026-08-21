@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New ASUS Googlebook leak shows more configurations and pricing details](https://www.androidauthority.com/asus-cx9406-googlebook-leak-16gb-ram-3701366/)
- - [The best PS3 emulator on Android just got online play](https://www.androidauthority.com/armsx3-ps3-emulator-android-online-play-3701355/)
- - [RayNeo wants its new iO Smart Glasses to be the reason you stop reaching for your phone](https://www.androidauthority.com/rayneo-glasses-reduce-smartphone-use-3700718/)<!-- TECH:END -->
+ - [From design to peel-ready sticker in a single go, the Liene PixCut S1 all-in-one printer and cutter is the ideal back-to-school gadget](https://www.androidauthority.com/liene-pixcut-s1-3701046/)
+ - [Google’s new Tap to Share feature on the Pixel 11 is incredible. Here’s how to use it](https://www.androidauthority.com/pixel-11-tap-to-share-how-use-3700155/)
+ - [How the memory boom is reshaping Micron&#39;s hometown of Boise, Idaho, with new millionaires, job growth, rising housing costs, and uneven wealth distribution &lpar;CNBC&rpar;](https://www.techmeme.com/260821/p2#a260821p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
