@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New ASUS Googlebook leak shows more configurations and pricing details](https://www.androidauthority.com/asus-cx9406-googlebook-leak-16gb-ram-3701366/)
  - [The best PS3 emulator on Android just got online play](https://www.androidauthority.com/armsx3-ps3-emulator-android-online-play-3701355/)
- - [RayNeo wants its new iO Smart Glasses to be the reason you stop reaching for your phone](https://www.androidauthority.com/rayneo-glasses-reduce-smartphone-use-3700718/)
- - [RayNeo targets movie lovers with GT and GT Max AR glasses and a new Pocket TV Pro Google TV streamer](https://www.androidauthority.com/rayneo-gt-max-ar-glasses-pocket-tv-pro-streamer-3701131/)<!-- TECH:END -->
+ - [RayNeo wants its new iO Smart Glasses to be the reason you stop reaching for your phone](https://www.androidauthority.com/rayneo-glasses-reduce-smartphone-use-3700718/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
