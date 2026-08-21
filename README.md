@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wamen](http://9gag.com/gag/an7pO75)
- - ⏩ [Wait a minut...](http://9gag.com/gag/aoyry6g)
- - 👉 [Behold the end of mankind](http://9gag.com/gag/azxNd8K)<!-- MEMES:END -->
+ - 💣 [Good move](http://9gag.com/gag/a4Pe6Y1)
+ - ⏩ [She&#39;d need to gain some weight](http://9gag.com/gag/azxNdLN)
+ - 👉 [What\u2019s the point of having all this if you spend all your time at work just to afford it?](http://9gag.com/gag/azxNdpb)<!-- MEMES:END -->
 
 ---
 
