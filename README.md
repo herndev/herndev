@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good move](http://9gag.com/gag/a4Pe6Y1)
- - ⏩ [She&#39;d need to gain some weight](http://9gag.com/gag/azxNdLN)
- - 👉 [What\u2019s the point of having all this if you spend all your time at work just to afford it?](http://9gag.com/gag/azxNdpb)<!-- MEMES:END -->
+ - 💣 [Professionalism](http://9gag.com/gag/a349495)
+ - ⏩ [Gabe went from obese 3 to obese 2. May he live for another 1000 years!](http://9gag.com/gag/a87P6d1)
+ - 👉 [Don\u2019t read headlines only](http://9gag.com/gag/aD2pnX9)<!-- MEMES:END -->
 
 ---
 
