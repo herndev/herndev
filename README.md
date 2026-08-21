@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [10/10](http://9gag.com/gag/aKG0151)
- - ⏩ [The type of bird that shows up in your life one week after getting a girlfriend](http://9gag.com/gag/abAPeKv)
- - 👉 [Is this the new smoke detector?](http://9gag.com/gag/a6ZvXgN)<!-- MEMES:END -->
+ - 💣 [Professionalism](http://9gag.com/gag/a349495)
+ - ⏩ [Gabe went from obese 3 to obese 2. May he live for another 1000 years!](http://9gag.com/gag/a87P6d1)
+ - 👉 [Wamen](http://9gag.com/gag/an7pO75)<!-- MEMES:END -->
 
 ---
 
