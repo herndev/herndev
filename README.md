@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Messages group chat invite links look nearly ready to go](https://www.androidauthority.com/google-messages-group-chat-invite-links-3701647/)
- - [Sources: London-based AI infrastructure startup Nscale is seeking to raise as much as $3B in its US IPO, which could take place as soon as September &lpar;Bailey Lipschultz/Bloomberg&rpar;](https://www.techmeme.com/260821/p17#a260821p17)
- - [M6 MacBook Pro rumors: Improved performance, in a familiar form factor](https://appleinsider.com/articles/26/08/21/m6-macbook-pro-rumors-improved-performance-in-a-familiar-form-factor?utm_source=rss)<!-- TECH:END -->
+ - [Apple&#39;s latest layoffs extend past just Vision Pro development teams](https://appleinsider.com/articles/26/08/21/apples-latest-layoffs-extend-past-just-vision-pro-development-teams?utm_source=rss)
+ - [Redeeming Google Play Points could win you a vintage Spider-Man comic worth crazy money](https://www.androidauthority.com/google-play-sweepstakes-3701703/)
+ - [Sources: Apple is cutting 200+ jobs, including ~100 positions from the Vision Pro unit and another 100 from the Siri team, as it focuses on new devices and AI &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260821/p19#a260821p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
