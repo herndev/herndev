@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Gabe went from obese 3 to obese 2. May he live for another 1000 years!](http://9gag.com/gag/a87P6d1)
- - ⏩ [Hadouken!](http://9gag.com/gag/a1mz7ZR)
- - 👉 [English is easy](http://9gag.com/gag/aXPDLw2)<!-- MEMES:END -->
+ - ⏩ [Wamen](http://9gag.com/gag/an7pO75)
+ - 👉 [Harley quinn tv series](http://9gag.com/gag/a1mzPnD)<!-- MEMES:END -->
 
 ---
 
