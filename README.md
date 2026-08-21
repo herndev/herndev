@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [App Store review is broken in a time where it is needed the most](https://appleinsider.com/articles/26/08/13/app-store-review-is-broken-in-a-time-where-it-is-needed-the-most?utm_source=rss)
- - [Walmart is finally adding Apple Pay and Google Pay](https://www.theverge.com/tech/983336/walmart-apple-google-pay-launch)
- - [Sources: US Department of Energy is investigating whether Chinese lidar sensors might pose a security risk if they become widely used on vehicles in the US &lpar;Sean O&#39;Kane/TechCrunch&rpar;](https://www.techmeme.com/260821/p16#a260821p16)<!-- TECH:END -->
+ - [Google Messages group chat invite links look nearly ready to go](https://www.androidauthority.com/google-messages-group-chat-invite-links-3701647/)
+ - [Sources: London-based AI infrastructure startup Nscale is seeking to raise as much as $3B in its US IPO, which could take place as soon as September &lpar;Bailey Lipschultz/Bloomberg&rpar;](https://www.techmeme.com/260821/p17#a260821p17)
+ - [M6 MacBook Pro rumors: Improved performance, in a familiar form factor](https://appleinsider.com/articles/26/08/21/m6-macbook-pro-rumors-improved-performance-in-a-familiar-form-factor?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
