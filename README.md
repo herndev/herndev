@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GrapheneOS’ first Motorola phones will be flagships that cost more than Pixels](https://www.androidauthority.com/grapheneos-motorola-phones-pricing-3701347/)
- - [How crypto, AI, and online betting companies emerged as the biggest industries shaping the 2026 US midterm races, as corporate spending reaches a record $517M &lpar;Dawn Kopecki/Reuters&rpar;](https://www.techmeme.com/260821/p1#a260821p1)
- - [The Single English County Saying No to Palantir](https://www.wired.com/story/the-single-english-county-saying-no-to-palantir/)<!-- TECH:END -->
+ - [The best PS3 emulator on Android just got online play](https://www.androidauthority.com/armsx3-ps3-emulator-android-online-play-3701355/)
+ - [RayNeo wants its new iO Smart Glasses to be the reason you stop reaching for your phone](https://www.androidauthority.com/rayneo-glasses-reduce-smartphone-use-3700718/)
+ - [RayNeo targets movie lovers with GT and GT Max AR glasses and a new Pocket TV Pro Google TV streamer](https://www.androidauthority.com/rayneo-gt-max-ar-glasses-pocket-tv-pro-streamer-3701131/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
