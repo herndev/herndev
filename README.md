@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [China grants Geely a two-year permit for the country&#39;s first private satellite IoT trial, letting Geely offer connectivity to sectors like transport and energy &lpar;Ben Jiang/South China Morning Post&rpar;](https://www.techmeme.com/260821/p3#a260821p3)
- - [Did you know the Gallery app on your Samsung phone has a secret menu? Here’s how to find it](https://www.androidauthority.com/samsung-gallery-labs-menu-how-find-3698693/)
- - [The Super El Niño Won’t Fix the West’s Water Crisis](https://www.wired.com/story/the-super-el-nino-wont-fix-the-wests-water-crisis/)<!-- TECH:END -->
+ - [Nyrius Phoenix Home True 4K60 &lpar;2026&rpar;: A Solution for Cord Clutter](https://www.wired.com/review/nyrius-phoenix-home-true-4k60/)
+ - [The Patrick Clancy Conspiracy Theories Are Rooted in the Harsh Realities of Motherhood](https://www.wired.com/story/the-patrick-clancy-conspiracy-theories-are-rooted-in-the-harsh-realities-of-motherhood/)
+ - [Samsung unveils a $65.1B-$79.5B shareholder return package for 2026, combining dividends and share buybacks, calling it &quot;the largest ever by a Korean company&quot; &lpar;Jenny Lee/CNBC&rpar;](https://www.techmeme.com/260821/p5#a260821p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
