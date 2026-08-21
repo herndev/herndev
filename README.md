@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nyrius Phoenix Home True 4K60 &lpar;2026&rpar;: A Solution for Cord Clutter](https://www.wired.com/review/nyrius-phoenix-home-true-4k60/)
- - [The Patrick Clancy Conspiracy Theories Are Rooted in the Harsh Realities of Motherhood](https://www.wired.com/story/the-patrick-clancy-conspiracy-theories-are-rooted-in-the-harsh-realities-of-motherhood/)
- - [Samsung unveils a $65.1B-$79.5B shareholder return package for 2026, combining dividends and share buybacks, calling it &quot;the largest ever by a Korean company&quot; &lpar;Jenny Lee/CNBC&rpar;](https://www.techmeme.com/260821/p5#a260821p5)<!-- TECH:END -->
+ - [Tesla sunsets its Solar Roof tiles](https://www.theverge.com/tech/983167/tesla-solar-roof-tiles-discontinued)
+ - [A look at London cab drivers&#39; concerns and pushback against robotaxis, as Waymo and Wayve race to make London their European launch pad for driverless services &lpar;Financial Times&rpar;](https://www.techmeme.com/260821/p7#a260821p7)
+ - [Survey suggests this is the slowest carrier if you have a cheap phone](https://www.androidauthority.com/carrier-speeds-flagship-budget-phone-3701471/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
