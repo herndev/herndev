@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: OpenAI&#39;s VP of sales in the Americas, Kaylin Voss, resigned a week after Denise Dresser left, prompting others on the sales team to consider resigning &lpar;Laura Bratton/The Information&rpar;](https://www.techmeme.com/260821/p21#a260821p21)
- - [Apple is laying off staffers working on the Vision Pro and Siri](https://www.theverge.com/tech/983451/apple-layoffs-vision-pro-siri)
- - [The US DOJ and TikTok reach a $400M settlement to resolve allegations TikTok violated COPPA; the DOJ filed the lawsuit in 2024 &lpar;Ashley Gold/Axios&rpar;](https://www.techmeme.com/260821/p20#a260821p20)<!-- TECH:END -->
+ - [Your Verizon Disney Plus, Hulu, and ESPN Plus perks are about to cost more](https://www.androidauthority.com/verizon-disney-bundle-price-hike-3701755/)
+ - [Nvidia says its general-purpose coding agent system AVO scored 100% across all 25 environments in the ARC-AGI-3 public set, completing all 183 levels &lpar;Terry Chen/NVIDIA Technical Blog&rpar;](https://www.techmeme.com/260821/p24#a260821p24)
+ - [Where are all Google’s smart displays? Out-of-stock Store listings raise eyebrows](https://www.androidauthority.com/google-store-smart-displays-3701744/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
