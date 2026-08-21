@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S26 FE gets an early unboxing, revealing key design details](https://www.androidauthority.com/samsung-galaxy-s26-fe-unboxing-video-leak-3701540/)
- - [Filings: Apple paid Ireland $17B in taxes last year, after an EU court ordered it to pay €13B in back taxes; Apple paid $43B in corporate income taxes globally &lpar;Jamie John/Financial Times&rpar;](https://www.techmeme.com/260821/p14#a260821p14)
- - [Razer’s 11-in-1 USB-C dock just crashed to $52 in by far its best deal yet](https://www.androidauthority.com/razer-11-1-usb-c-dock-deal-3701642/)<!-- TECH:END -->
+ - [App Store review is broken in a time where it is needed the most](https://appleinsider.com/articles/26/08/13/app-store-review-is-broken-in-a-time-where-it-is-needed-the-most?utm_source=rss)
+ - [Walmart is finally adding Apple Pay and Google Pay](https://www.theverge.com/tech/983336/walmart-apple-google-pay-launch)
+ - [Sources: US Department of Energy is investigating whether Chinese lidar sensors might pose a security risk if they become widely used on vehicles in the US &lpar;Sean O&#39;Kane/TechCrunch&rpar;](https://www.techmeme.com/260821/p16#a260821p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
