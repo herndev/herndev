@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NordVPN Coupons: 75% Off, Plus 3 Months Free in August 2026](https://www.wired.com/story/nordvpn-coupon/)
- - [Valvoline Coupons and Promo Codes for August 2026](https://www.wired.com/story/valvoline-coupons/)
- - [Home Depot Promo Codes: 30% Off in August 2026](https://www.wired.com/story/home-depot-promo-code/)<!-- TECH:END -->
+ - [GrapheneOS’ first Motorola phones will be flagships that cost more than Pixels](https://www.androidauthority.com/grapheneos-motorola-phones-pricing-3701347/)
+ - [How crypto, AI, and online betting companies emerged as the biggest industries shaping the 2026 US midterm races, as corporate spending reaches a record $517M &lpar;Dawn Kopecki/Reuters&rpar;](https://www.techmeme.com/260821/p1#a260821p1)
+ - [The Single English County Saying No to Palantir](https://www.wired.com/story/the-single-english-county-saying-no-to-palantir/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
