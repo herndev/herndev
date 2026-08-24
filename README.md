@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Git rdy hmos](http://9gag.com/gag/azxNOdj)
- - ⏩ [It&#39;s time to embrace the classics](http://9gag.com/gag/aRB5vVq)
- - 👉 [Turning pain into purpose for a brother](http://9gag.com/gag/a34986r)<!-- MEMES:END -->
+ - 💣 [50 cents it is!](http://9gag.com/gag/azxNGnj)
+ - ⏩ [No Woman No Cry](http://9gag.com/gag/avyYR0O)
+ - 👉 [To be fair, nobody can blame them..](http://9gag.com/gag/an7pxyz)<!-- MEMES:END -->
 
 ---
 
