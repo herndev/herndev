@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [50 cents it is!](http://9gag.com/gag/azxNGnj)
- - ⏩ [Title](http://9gag.com/gag/a9yQ8mK)
- - 👉 [To be fair, nobody can blame them..](http://9gag.com/gag/an7pxyz)<!-- MEMES:END -->
+ - 💣 [Title](http://9gag.com/gag/a9yQ8mK)
+ - ⏩ [Don&#39;t be her last option](http://9gag.com/gag/aByqPn1)
+ - 👉 [The younger generation no longer wants a job.](http://9gag.com/gag/azxNG5B)<!-- MEMES:END -->
 
 ---
 
