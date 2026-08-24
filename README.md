@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gurman: as part of Vision Pro cuts, Apple is largely shutting down a team focused on gaming and reducing the size of a unit producing immersive video content &lpar;Chance Miller/9to5Mac&rpar;](https://www.techmeme.com/260821/p28#a260821p28)
- - [Nvidia makes a minority investment in Cloverleaf, which works with utilities and energy providers to secure infrastructure for data center sites &lpar;Rashika Singh/Reuters&rpar;](https://www.techmeme.com/260821/p27#a260821p27)
- - [Inside Jason Kelce’s Potty Humor Marketing Ploy Against AI Data Centers](https://www.cnet.com/tech/services-and-software/jason-kelce-liquid-death-marketing-stunt-ai-data-centers/)<!-- TECH:END -->
+ - [Filing: Shein will debut on the Hong Kong exchange on Sept. 1, seeking up to $1.8B in its IPO with Goldman Sachs, Morgan Stanley, and JPMorgan as joint sponsors &lpar;Julia Fioretti/Bloomberg&rpar;](https://www.techmeme.com/260823/p12#a260823p12)
+ - [Sam Altman says AI could end up controlled by a few powerful players, partly because AI fears could push people to trade &quot;a lot of liberty for safety&quot; &lpar;Truman Dickerson/Business Insider&rpar;](https://www.techmeme.com/260823/p11#a260823p11)
+ - [Get Excited for Grand Theft Auto 6 By Watching an Extended Preview on Aug. 27](https://www.cnet.com/tech/gaming/get-excited-for-grand-theft-auto-6-by-watching-an-extended-preview-on-aug-27/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
