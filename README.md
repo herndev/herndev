@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Spoiled brats](http://9gag.com/gag/aVvnmzv)
- - ⏩ [Lindsay Clancy&#39;s Gofundme money should be going to this hero.](http://9gag.com/gag/aQzwAre)
- - 👉 [What about the Crusades?](http://9gag.com/gag/aO8g9yD)<!-- MEMES:END -->
+ - 💣 [Now I can die peacefully](http://9gag.com/gag/aAyW4x9)
+ - ⏩ [Spoiled brats](http://9gag.com/gag/aVvnmzv)
+ - 👉 [Lindsay Clancy&#39;s Gofundme money should be going to this hero.](http://9gag.com/gag/aQzwAre)<!-- MEMES:END -->
 
 ---
 
