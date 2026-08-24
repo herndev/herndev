@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia says its inference accelerator Groq 3 LPX has entered full production and Nebius has signed on as the first customer; SpaceXAI will adopt Vera CPUs &lpar;Mike Wheatley/SiliconANGLE&rpar;](https://www.techmeme.com/260824/p21#a260824p21)
- - [Philips Hue is working on a more affordable TV sync box](https://www.androidauthority.com/philips-hue-play-sync-box-lite-3702243/)
- - [ESPN streaming plans are getting more expensive](https://www.theverge.com/streaming/983794/espn-disney-plus-bundles-price-increase)<!-- TECH:END -->
+ - [UK&#39;s Office for National Statistics: UK digital infrastructure investment crossed £11B in 2025, hitting dot-com boom levels, amid an AI data center surge &lpar;Tom Rees/Bloomberg&rpar;](https://www.techmeme.com/260824/p24#a260824p24)
+ - [Temu owner PDD reports Q2 revenue up 8.1% YoY to ~$16.72B, missing estimate of ~$17.17B, net profit down 12% YoY to ~$4.04B, above ~$3.63B estimate &lpar;Tracy Qu/Wall Street Journal&rpar;](https://www.techmeme.com/260824/p23#a260824p23)
+ - [The Garmin Dash Cam Mini 3 falls below $100 with 33% price drop](https://www.androidauthority.com/garmin-dash-cam-mini-3-deal-2-3702322/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
