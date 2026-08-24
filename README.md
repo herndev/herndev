@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 20 will look like a rounder and thinner iPhone Air](https://appleinsider.com/articles/26/08/24/iphone-20-will-look-like-a-rounder-and-thinner-iphone-air?utm_source=rss)
- - [Minimus, a cybersecurity startup started by Twistlock founders, shuts down after failing to gain enough commercial momentum; Minimus raised a $51M seed in 2023 &lpar;Meir Orbach/CTech&rpar;](https://www.techmeme.com/260824/p16#a260824p16)
- - [Now Playing on Pixel may be getting its big missing feature back](https://www.androidauthority.com/pixel-now-playing-notifications-back-3702158/)<!-- TECH:END -->
+ - [Google Gemini is becoming easier to access across Android](https://www.androidauthority.com/google-ask-gemini-android-apk-teardown-3702153/)
+ - [Taiwanese prosecutors indict nine people, including Nvidia and Super Micro employees, for allegedly helping illegally export AI servers to China &lpar;Reuters&rpar;](https://www.techmeme.com/260824/p19#a260824p19)
+ - [Sources detail how the Trump admin bypassed the DOJ trial team and pushed to settle the Live Nation case, after CEO Michael Rapino met White House officials &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260824/p18#a260824p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
