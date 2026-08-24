@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Title](http://9gag.com/gag/a9yQ8mK)
- - ⏩ [Torta](http://9gag.com/gag/aVvnmoy)
- - 👉 [Core strength level expert](http://9gag.com/gag/aLnYG7M)<!-- MEMES:END -->
+ - 💣 [50 cents it is!](http://9gag.com/gag/azxNGnj)
+ - ⏩ [Title](http://9gag.com/gag/a9yQ8mK)
+ - 👉 [To be fair, nobody can blame them..](http://9gag.com/gag/an7pxyz)<!-- MEMES:END -->
 
 ---
 
