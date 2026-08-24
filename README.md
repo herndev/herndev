@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Pixel 11 Pro XL is built to last and easy to fix, teardown finds](https://www.androidauthority.com/google-pixel-11-pro-xl-durability-test-3702439/)
- - [The cat-and-mouse game over 3D-printed guns has begun](https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul)
- - [Netflix is reportedly in talks to add rival streamers like Peacock](https://www.androidauthority.com/netflix-in-talks-with-peacock-and-fox-one-3702403/)<!-- TECH:END -->
+ - [Bitdefender VPN Review: Fast and Affordable Privacy](https://www.wired.com/review/bitdefender-vpn/)
+ - [Canada-based logistics software company Descartes acquires Tai, a California-based transportation management system provider, for $100M in cash &lpar;Colin Campbell/Axios&rpar;](https://www.techmeme.com/260824/p33#a260824p33)
+ - [Gemini is working on a ton of useful UI changes: filters, notifications, and more](https://www.androidauthority.com/google-gemini-ui-update-chat-filters-notifications-3702443/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
