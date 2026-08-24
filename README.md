@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Title](http://9gag.com/gag/a9yQ8mK)
- - ⏩ [To be fair, nobody can blame them..](http://9gag.com/gag/an7pxyz)
- - 👉 [Core strength level expert](http://9gag.com/gag/aLnYG7M)<!-- MEMES:END -->
+ - 💣 [Antivaxxers are a special type of retarded](http://9gag.com/gag/awyROOx)
+ - ⏩ [Git rdy hmos](http://9gag.com/gag/azxNOdj)
+ - 👉 [It&#39;s time to embrace the classics](http://9gag.com/gag/aRB5vVq)<!-- MEMES:END -->
 
 ---
 
