@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy S26 Ultra’s portrait lighting trick could be coming to the S25 Ultra](https://www.androidauthority.com/samsung-galaxy-s25-ultra-one-ui-9-portrait-lighting-leak-3702045/)
- - [Google, take note: This phone maker’s new chipset looks like an absolute beast](https://www.androidauthority.com/xiaomi-xring-03-3702037/)
- - [Chinese EV maker XPeng says its robotics business raised $900M+ led by IDG and Gaorong Ventures at a $6.3B valuation, with Tencent and Alibaba participating &lpar;Reuters&rpar;](https://www.techmeme.com/260824/p9#a260824p9)<!-- TECH:END -->
+ - [The Kindle Accessories I Never Want to Read Without &lpar;2026&rpar;](https://www.wired.com/story/best-kindle-accessories/)
+ - [Fasset, which offers stablecoin-powered banking services across Asia and other emerging markets, raised $68M at a $1B valuation, after raising $51M in May &lpar;Krisztian Sandor/CoinDesk&rpar;](https://www.techmeme.com/260824/p13#a260824p13)
+ - [The Best Home Theater Projectors in 2026: XGIMI, Hisense, Leica, and More](https://www.wired.com/story/best-home-theater-projector/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
