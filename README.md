@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hello, 9gag!](http://9gag.com/gag/adBZxGj)
- - ⏩ [50 cents it is!](http://9gag.com/gag/azxNGnj)
- - 👉 [It&#39;s time to embrace the classics](http://9gag.com/gag/aRB5vVq)<!-- MEMES:END -->
+ - 💣 [To be fair, nobody can blame them..](http://9gag.com/gag/an7pxyz)
+ - ⏩ [Ungrateful Kid](http://9gag.com/gag/ayNgR9X)
+ - 👉 [Core strength level expert](http://9gag.com/gag/aLnYG7M)<!-- MEMES:END -->
 
 ---
 
