@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Shein voluntarily sought the US Treasury&#39;s CFIUS national security review of its $80M deal to buy US clothing retailer Everlane, an unusual move &lpar;Kate O&#39;Keeffe/Bloomberg&rpar;](https://www.techmeme.com/260823/p17#a260823p17)
- - [Another major Android phone maker caves to soaring RAM costs with price hikes](https://www.androidauthority.com/xiaomi-smartphones-price-hike-3701917/)
- - [At Beijing&#39;s World Humanoid Robot Games, a robot made by Honor ran 100m in 9.39s, and another Chinese robot finished 400m in 38.16s, both beating human records &lpar;Telegraph&rpar;](https://www.techmeme.com/260823/p16#a260823p16)<!-- TECH:END -->
+ - [Source: AI researcher Luke Metz, who returned to OpenAI from TML earlier this year, joins Meta&#39;s Superintelligence Labs and will report to Alexandr Wang &lpar;Ina Fried/Axios&rpar;](https://www.techmeme.com/260824/p1#a260824p1)
+ - [Sources: Nvidia is in talks to invest in Perplexity valuing it at $30B+, after weighing a tech licensing deal and staff hires, as Perplexity hits $750M+ in ARR &lpar;The Information&rpar;](https://www.techmeme.com/260823/p18#a260823p18)
+ - [Sources: Shein voluntarily sought the US Treasury&#39;s CFIUS national security review of its $80M deal to buy US clothing retailer Everlane, an unusual move &lpar;Kate O&#39;Keeffe/Bloomberg&rpar;](https://www.techmeme.com/260823/p17#a260823p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
