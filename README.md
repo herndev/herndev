@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK&#39;s Office for National Statistics: UK digital infrastructure investment crossed £11B in 2025, hitting dot-com boom levels, amid an AI data center surge &lpar;Tom Rees/Bloomberg&rpar;](https://www.techmeme.com/260824/p24#a260824p24)
- - [Temu owner PDD reports Q2 revenue up 8.1% YoY to ~$16.72B, missing estimate of ~$17.17B, net profit down 12% YoY to ~$4.04B, above ~$3.63B estimate &lpar;Tracy Qu/Wall Street Journal&rpar;](https://www.techmeme.com/260824/p23#a260824p23)
- - [The Garmin Dash Cam Mini 3 falls below $100 with 33% price drop](https://www.androidauthority.com/garmin-dash-cam-mini-3-deal-2-3702322/)<!-- TECH:END -->
+ - [The Trump administration proposes a new $103,265 fee on H-1B applicants hired within the US after a court blocked a fee on workers from outside the country &lpar;Andrew Kreighbaum/Bloomberg&rpar;](https://www.techmeme.com/260824/p27#a260824p27)
+ - [A look at startups like General Intuition working on large action models, aka world models, which are trained on videogames and simulations, to pilot robots &lpar;Christopher Mims/Wall Street Journal&rpar;](https://www.techmeme.com/260824/p26#a260824p26)
+ - [Zillow and Redfin settle FTC antitrust case over their rental listings partnership](https://www.theverge.com/policy/983864/zillow-redfin-ftc-settlement)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
