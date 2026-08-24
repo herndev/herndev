@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Galaxy S27 Ultra may debut with self-healing glass](https://www.androidauthority.com/samsung-galaxy-s27-ultra-self-healing-glass-3702407/)
- - [Apple gearing up to start filming &#39;Ted Lasso&#39; season 5 in January](https://appleinsider.com/articles/26/08/24/apple-gearing-up-to-start-filming-ted-lasso-season-5-in-january?utm_source=rss)
- - [This is the first look at the inside of Apple&#39;s AI servers](https://appleinsider.com/articles/26/08/24/this-is-the-first-look-at-the-inside-of-apples-ai-servers?utm_source=rss)<!-- TECH:END -->
+ - [The Pixel 11 Pro XL is built to last and easy to fix, teardown finds](https://www.androidauthority.com/google-pixel-11-pro-xl-durability-test-3702439/)
+ - [The cat-and-mouse game over 3D-printed guns has begun](https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul)
+ - [Netflix is reportedly in talks to add rival streamers like Peacock](https://www.androidauthority.com/netflix-in-talks-with-peacock-and-fox-one-3702403/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
