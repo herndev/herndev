@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [50 cents it is!](http://9gag.com/gag/azxNGnj)
- - ⏩ [No Woman No Cry](http://9gag.com/gag/avyYR0O)
- - 👉 [To be fair, nobody can blame them..](http://9gag.com/gag/an7pxyz)<!-- MEMES:END -->
+ - 💣 [Hello, 9gag!](http://9gag.com/gag/adBZxGj)
+ - ⏩ [50 cents it is!](http://9gag.com/gag/azxNGnj)
+ - 👉 [It&#39;s time to embrace the classics](http://9gag.com/gag/aRB5vVq)<!-- MEMES:END -->
 
 ---
 
