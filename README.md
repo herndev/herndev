@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Handy disk image tool is getting removed from macOS](https://appleinsider.com/articles/26/08/24/handy-disk-image-tool-is-to-be-removed-from-macos?utm_source=rss)
- - [It Took Apple 8 Years to Listen to Me and Add This Killer Feature to the Apple TV](https://www.cnet.com/tech/home-entertainment/it-took-apple-8-years-to-listen-to-me-and-add-this-killer-feature-to-the-apple-tv/)
- - [Irish lawmakers reconsider the country&#39;s 1999 ban on nuclear power as data centers&#39; growing power demands account for ~25% of the country&#39;s electricity use &lpar;Jude Webber/Financial Times&rpar;](https://www.techmeme.com/260824/p14#a260824p14)<!-- TECH:END -->
+ - [iPhone 20 will look like a rounder and thinner iPhone Air](https://appleinsider.com/articles/26/08/24/iphone-20-will-look-like-a-rounder-and-thinner-iphone-air?utm_source=rss)
+ - [Minimus, a cybersecurity startup started by Twistlock founders, shuts down after failing to gain enough commercial momentum; Minimus raised a $51M seed in 2023 &lpar;Meir Orbach/CTech&rpar;](https://www.techmeme.com/260824/p16#a260824p16)
+ - [Now Playing on Pixel may be getting its big missing feature back](https://www.androidauthority.com/pixel-now-playing-notifications-back-3702158/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
