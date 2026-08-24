@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s 20th anniversary iPhone could take some inspiration from Android phones](https://www.androidauthority.com/apple-iphone-20th-anniversary-android-3702273/)
- - [ESPN’s streaming plans are getting more expensive: Here’s what you’ll pay](https://www.androidauthority.com/espn-streaming-bundle-price-hikes-3702382/)
- - [Alabama AG Steve Marshall launches an investigation into OpenAI&#39;s security procedures following the Hugging Face breach in July &lpar;Cassandre Coyer/Bloomberg Law&rpar;](https://www.techmeme.com/260824/p29#a260824p29)<!-- TECH:END -->
+ - [The Galaxy S27 Ultra may debut with self-healing glass](https://www.androidauthority.com/samsung-galaxy-s27-ultra-self-healing-glass-3702407/)
+ - [Apple gearing up to start filming &#39;Ted Lasso&#39; season 5 in January](https://appleinsider.com/articles/26/08/24/apple-gearing-up-to-start-filming-ted-lasso-season-5-in-january?utm_source=rss)
+ - [This is the first look at the inside of Apple&#39;s AI servers](https://appleinsider.com/articles/26/08/24/this-is-the-first-look-at-the-inside-of-apples-ai-servers?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
