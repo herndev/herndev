@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the collapse of Zondacrypto, Eastern and Central Europe&#39;s biggest crypto exchange, which went dark in April and is facing money laundering allegations &lpar;Andrew Higgins/New York Times&rpar;](https://www.techmeme.com/260824/p4#a260824p4)
- - [You’re not alone: Claude is down right now](https://www.androidauthority.com/claude-outage-august-24-3702012/)
- - [Pixel 11 owners can’t play Genshin Impact, but a fix is on the way](https://www.androidauthority.com/google-pixel-11-genshin-impact-3701959/)<!-- TECH:END -->
+ - [The best Android weather app isn’t on the Play Store. Here’s how to install it](https://www.androidauthority.com/breezy-weather-android-app-how-to-download-3700950/)
+ - [Nintendo just went nuclear on Switch emulators &lpar;again&rpar;](https://www.androidauthority.com/nintendo-dmca-switch-emulator-github-3702067/)
+ - [Pixel 11 Pro Fold cracks in bend test despite Google’s ‘3x stronger’ claims](https://www.androidauthority.com/google-pixel-11-pro-fold-durability-test-fail-3702040/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
