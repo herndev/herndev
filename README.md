@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Processed food in the US is really something.](http://9gag.com/gag/amojxx6)
- - ⏩ [Don&#39;t be her last option](http://9gag.com/gag/aByqPn1)
- - 👉 [To be fair, nobody can blame them..](http://9gag.com/gag/an7pxyz)<!-- MEMES:END -->
+ - 💣 [Title](http://9gag.com/gag/a9yQ8mK)
+ - ⏩ [Processed food in the US is really something.](http://9gag.com/gag/amojxx6)
+ - 👉 [Torta](http://9gag.com/gag/aVvnmoy)<!-- MEMES:END -->
 
 ---
 
