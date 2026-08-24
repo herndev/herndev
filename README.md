@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Antivaxxers are a special type of retarded](http://9gag.com/gag/awyROOx)
- - ⏩ [Git rdy hmos](http://9gag.com/gag/azxNOdj)
+ - 💣 [Git rdy hmos](http://9gag.com/gag/azxNOdj)
+ - ⏩ [Antivaxxers are a special type of retarded](http://9gag.com/gag/awyROOx)
  - 👉 [It&#39;s time to embrace the classics](http://9gag.com/gag/aRB5vVq)<!-- MEMES:END -->
 
 ---
