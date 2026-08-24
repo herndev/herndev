@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Git rdy hmos](http://9gag.com/gag/azxNOdj)
- - ⏩ [Antivaxxers are a special type of retarded](http://9gag.com/gag/awyROOx)
- - 👉 [It&#39;s time to embrace the classics](http://9gag.com/gag/aRB5vVq)<!-- MEMES:END -->
+ - 💣 [Bro don&#39;t need editing app.](http://9gag.com/gag/aqy3xNY)
+ - ⏩ [It&#39;s time to embrace the classics](http://9gag.com/gag/aRB5vVq)
+ - 👉 [Ungrateful Kid](http://9gag.com/gag/ayNgR9X)<!-- MEMES:END -->
 
 ---
 
