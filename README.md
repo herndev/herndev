@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro don&#39;t need editing app.](http://9gag.com/gag/aqy3xNY)
+ - 💣 [Git rdy hmos](http://9gag.com/gag/azxNOdj)
  - ⏩ [It&#39;s time to embrace the classics](http://9gag.com/gag/aRB5vVq)
- - 👉 [Ungrateful Kid](http://9gag.com/gag/ayNgR9X)<!-- MEMES:END -->
+ - 👉 [Turning pain into purpose for a brother](http://9gag.com/gag/a34986r)<!-- MEMES:END -->
 
 ---
 
