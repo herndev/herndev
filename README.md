@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Title](http://9gag.com/gag/a9yQ8mK)
- - ⏩ [The younger generation no longer wants a job.](http://9gag.com/gag/azxNG5B)
- - 👉 [To be fair, nobody can blame them..](http://9gag.com/gag/an7pxyz)<!-- MEMES:END -->
+ - 💣 [Don&#39;t be her last option](http://9gag.com/gag/aByqPn1)
+ - ⏩ [To be fair, nobody can blame them..](http://9gag.com/gag/an7pxyz)
+ - 👉 [Processed food in the US is really something.](http://9gag.com/gag/amojxx6)<!-- MEMES:END -->
 
 ---
 
