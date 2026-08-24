@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bitdefender VPN Review: Fast and Affordable Privacy](https://www.wired.com/review/bitdefender-vpn/)
- - [Canada-based logistics software company Descartes acquires Tai, a California-based transportation management system provider, for $100M in cash &lpar;Colin Campbell/Axios&rpar;](https://www.techmeme.com/260824/p33#a260824p33)
- - [Gemini is working on a ton of useful UI changes: filters, notifications, and more](https://www.androidauthority.com/google-gemini-ui-update-chat-filters-notifications-3702443/)<!-- TECH:END -->
+ - [Percy Jackson Cast Teases ‘Some People Get What They Deserve’ in Season 3](https://www.cnet.com/tech/services-and-software/percy-jackson-cast-teases-some-people-get-what-they-deserve-in-season-3/)
+ - [Ambient sensing and cameras to power Apple Home Hub personalization](https://appleinsider.com/articles/26/08/24/ambient-sensing-and-cameras-to-power-apple-home-hub-personalization?utm_source=rss)
+ - [Privacy-Focused GrapheneOS Is Coming to Motorola Phones in 2027](https://www.cnet.com/tech/services-and-software/privacy-focused-grapheneos-is-coming-to-motorola-phones-in-2027/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
