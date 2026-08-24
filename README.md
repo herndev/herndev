@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Zealand plans a bill to ban social media for under-16s, requiring &quot;high risk&quot; platforms to check user ages or face penalties of up to 10% of global revenue &lpar;Tracy Withers/Bloomberg&rpar;](https://www.techmeme.com/260824/p2#a260824p2)
- - [Source: AI researcher Luke Metz, who returned to OpenAI from TML earlier this year, joins Meta&#39;s Superintelligence Labs and will report to Alexandr Wang &lpar;Ina Fried/Axios&rpar;](https://www.techmeme.com/260824/p1#a260824p1)
- - [Sources: Nvidia is in talks to invest in Perplexity&#39;s new equity round valuing it at $30B+; Nvidia considered a tech licensing deal and hiring some of its staff &lpar;The Information&rpar;](https://www.techmeme.com/260823/p18#a260823p18)<!-- TECH:END -->
+ - [If these Galaxy S27 Ultra renders are accurate, Samsung can’t stop Apple copycat claims](https://www.androidauthority.com/samsung-galaxy-s27-ultra-render-leak-3701790/)
+ - [Oxford Economics: US corporate spending on equipment and facilities is set to rise 40% between 2021 and 2027, over 3x faster than Europe, driven by the AI race &lpar;Financial Times&rpar;](https://www.techmeme.com/260824/p3#a260824p3)
+ - [Sony’s Xperia 10 VIII just leaked ahead of its big reveal](https://www.androidauthority.com/new-sony-xperia-10-leaked-image-3701831/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
