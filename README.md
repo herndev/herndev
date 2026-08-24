@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Android weather app isn’t on the Play Store. Here’s how to install it](https://www.androidauthority.com/breezy-weather-android-app-how-to-download-3700950/)
- - [Nintendo just went nuclear on Switch emulators &lpar;again&rpar;](https://www.androidauthority.com/nintendo-dmca-switch-emulator-github-3702067/)
- - [Pixel 11 Pro Fold cracks in bend test despite Google’s ‘3x stronger’ claims](https://www.androidauthority.com/google-pixel-11-pro-fold-durability-test-fail-3702040/)<!-- TECH:END -->
+ - [Galaxy S26 Ultra’s portrait lighting trick could be coming to the S25 Ultra](https://www.androidauthority.com/samsung-galaxy-s25-ultra-one-ui-9-portrait-lighting-leak-3702045/)
+ - [Google, take note: This phone maker’s new chipset looks like an absolute beast](https://www.androidauthority.com/xiaomi-xring-03-3702037/)
+ - [Chinese EV maker XPeng says its robotics business raised $900M+ led by IDG and Gaorong Ventures at a $6.3B valuation, with Tencent and Alibaba participating &lpar;Reuters&rpar;](https://www.techmeme.com/260824/p9#a260824p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
