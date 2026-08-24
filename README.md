@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Gemini is becoming easier to access across Android](https://www.androidauthority.com/google-ask-gemini-android-apk-teardown-3702153/)
- - [Taiwanese prosecutors indict nine people, including Nvidia and Super Micro employees, for allegedly helping illegally export AI servers to China &lpar;Reuters&rpar;](https://www.techmeme.com/260824/p19#a260824p19)
- - [Sources detail how the Trump admin bypassed the DOJ trial team and pushed to settle the Live Nation case, after CEO Michael Rapino met White House officials &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260824/p18#a260824p18)<!-- TECH:END -->
+ - [Nvidia says its inference accelerator Groq 3 LPX has entered full production and Nebius has signed on as the first customer; SpaceXAI will adopt Vera CPUs &lpar;Mike Wheatley/SiliconANGLE&rpar;](https://www.techmeme.com/260824/p21#a260824p21)
+ - [Philips Hue is working on a more affordable TV sync box](https://www.androidauthority.com/philips-hue-play-sync-box-lite-3702243/)
+ - [ESPN streaming plans are getting more expensive](https://www.theverge.com/streaming/983794/espn-disney-plus-bundles-price-increase)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
