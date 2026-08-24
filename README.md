@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Kindle Accessories I Never Want to Read Without &lpar;2026&rpar;](https://www.wired.com/story/best-kindle-accessories/)
- - [Fasset, which offers stablecoin-powered banking services across Asia and other emerging markets, raised $68M at a $1B valuation, after raising $51M in May &lpar;Krisztian Sandor/CoinDesk&rpar;](https://www.techmeme.com/260824/p13#a260824p13)
- - [The Best Home Theater Projectors in 2026: XGIMI, Hisense, Leica, and More](https://www.wired.com/story/best-home-theater-projector/)<!-- TECH:END -->
+ - [Handy disk image tool is getting removed from macOS](https://appleinsider.com/articles/26/08/24/handy-disk-image-tool-is-to-be-removed-from-macos?utm_source=rss)
+ - [It Took Apple 8 Years to Listen to Me and Add This Killer Feature to the Apple TV](https://www.cnet.com/tech/home-entertainment/it-took-apple-8-years-to-listen-to-me-and-add-this-killer-feature-to-the-apple-tv/)
+ - [Irish lawmakers reconsider the country&#39;s 1999 ban on nuclear power as data centers&#39; growing power demands account for ~25% of the country&#39;s electricity use &lpar;Jude Webber/Financial Times&rpar;](https://www.techmeme.com/260824/p14#a260824p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
