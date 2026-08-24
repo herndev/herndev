@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When I tell my flat-chested girlfriend our future baby will starve until it learns to chew](http://9gag.com/gag/avyY1P5)
- - ⏩ [Nathan Cofnas, the academic who initially accused former Cambridge Prof. Jason Arday of plagiarism, has been suspended by Ghent University &lpar;Universiteit Gent&rpar; for `discrimination` and `racism.`](http://9gag.com/gag/aoyr3D2)
- - 👉 [Ooo mooi Rockstar is mad](http://9gag.com/gag/agmM1Br)<!-- MEMES:END -->
+ - 💣 [Processed food in the US is really something.](http://9gag.com/gag/amojxx6)
+ - ⏩ [Don&#39;t be her last option](http://9gag.com/gag/aByqPn1)
+ - 👉 [To be fair, nobody can blame them..](http://9gag.com/gag/an7pxyz)<!-- MEMES:END -->
 
 ---
 
