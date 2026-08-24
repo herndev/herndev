@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Title](http://9gag.com/gag/a9yQ8mK)
- - ⏩ [Bro don&#39;t need editing app.](http://9gag.com/gag/aqy3xNY)
- - 👉 [To be fair, nobody can blame them..](http://9gag.com/gag/an7pxyz)<!-- MEMES:END -->
+ - 💣 [Spoiled brats](http://9gag.com/gag/aVvnmzv)
+ - ⏩ [Lindsay Clancy&#39;s Gofundme money should be going to this hero.](http://9gag.com/gag/aQzwAre)
+ - 👉 [What about the Crusades?](http://9gag.com/gag/aO8g9yD)<!-- MEMES:END -->
 
 ---
 
