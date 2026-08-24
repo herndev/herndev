@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Now I can die peacefully](http://9gag.com/gag/aAyW4x9)
- - ⏩ [Spoiled brats](http://9gag.com/gag/aVvnmzv)
- - 👉 [Lindsay Clancy&#39;s Gofundme money should be going to this hero.](http://9gag.com/gag/aQzwAre)<!-- MEMES:END -->
+ - 💣 [Processed food in the US is really something.](http://9gag.com/gag/amojxx6)
+ - ⏩ [To be fair, nobody can blame them..](http://9gag.com/gag/an7pxyz)
+ - 👉 [Bro don&#39;t need editing app.](http://9gag.com/gag/aqy3xNY)<!-- MEMES:END -->
 
 ---
 
