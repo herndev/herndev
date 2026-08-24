@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Trump administration proposes a new $103,265 fee on H-1B applicants hired within the US after a court blocked a fee on workers from outside the country &lpar;Andrew Kreighbaum/Bloomberg&rpar;](https://www.techmeme.com/260824/p27#a260824p27)
- - [A look at startups like General Intuition working on large action models, aka world models, which are trained on videogames and simulations, to pilot robots &lpar;Christopher Mims/Wall Street Journal&rpar;](https://www.techmeme.com/260824/p26#a260824p26)
- - [Zillow and Redfin settle FTC antitrust case over their rental listings partnership](https://www.theverge.com/policy/983864/zillow-redfin-ftc-settlement)<!-- TECH:END -->
+ - [Apple’s 20th anniversary iPhone could take some inspiration from Android phones](https://www.androidauthority.com/apple-iphone-20th-anniversary-android-3702273/)
+ - [ESPN’s streaming plans are getting more expensive: Here’s what you’ll pay](https://www.androidauthority.com/espn-streaming-bundle-price-hikes-3702382/)
+ - [Alabama AG Steve Marshall launches an investigation into OpenAI&#39;s security procedures following the Hugging Face breach in July &lpar;Cassandre Coyer/Bloomberg Law&rpar;](https://www.techmeme.com/260824/p29#a260824p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
