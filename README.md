@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bengaluru-based autonomous drone startup Airbound raised a $37M Series A led by Greenoaks, less than a year after an $8.65M seed, taking total funding to ~$50M &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/260825/p2#a260825p2)
- - [Unitree shares fell 45% after surging more than 5x in their August 19 Shanghai debut, cutting its valuation from $66B to $36B, raising robotics bubble concerns &lpar;Reuters&rpar;](https://www.techmeme.com/260825/p1#a260825p1)
- - [Data Centers Are Driving an Alarming Gas Power Expansion in the US](https://www.wired.com/story/us-data-centers-drive-gas-power-expansion/)<!-- TECH:END -->
+ - [The AYN Odin 3 is getting another price hike, but you can avoid it by acting fast](https://www.androidauthority.com/ayn-odin-3-price-increase-august-3702507/)
+ - [Omega Just Released a Mini Moonwatch](https://www.wired.com/story/omega-just-released-a-mini-moonwatch/)
+ - [Google’s clever Android 17 motion sickness feature is finally rolling out](https://www.androidauthority.com/google-android-17-motion-assist-rolling-out-3702494/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
