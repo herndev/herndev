@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s time to embrace the classics](http://9gag.com/gag/aRB5vVq)
+ - 💣 [They demand two things, no digital release and in-game purchases. They have deadman switch if they ever get caught.](http://9gag.com/gag/azxNRPZ)
  - ⏩ [I don\u2019t see any male performers complaining](http://9gag.com/gag/aPANQLg)
- - 👉 [You are not a garage](http://9gag.com/gag/aoyr81n)<!-- MEMES:END -->
+ - 👉 [Processed food in the US is really something.](http://9gag.com/gag/amojxx6)<!-- MEMES:END -->
 
 ---
 
