@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spirit Airlines Wants to Sell Its Data to Google. Former Flight Attendants Are Freaked Out](https://www.wired.com/story/spirit-airlines-wants-to-sell-its-data-to-google-former-flight-attendants-are-freaked-out/)
- - [We tried Gemini’s new Device Help feature on the Pixel 11, and the results were mixed](https://www.androidauthority.com/google-pixel-11-pro-xl-device-help-3702556/)
- - [Google’s Tensor G7 has one last chance to save the Pixel 12](https://www.androidauthority.com/tensor-g7-pixel-12-wishlist-3701123/)<!-- TECH:END -->
+ - [Q&amp;A with Dr. Dre and Jimmy Iovine on lessons from Apple&#39;s Beats acquisition, creativity, being pro-AI music creation, AI as a tool like drum machines, and more &lpar;Jordyn Holman/New York Times&rpar;](https://www.techmeme.com/260825/p6#a260825p6)
+ - [After just 5 days, my Pixel 11 Pro is already a brick](https://www.androidauthority.com/pixel-11-pro-shutdown-brick-issue-3701938/)
+ - [Border Wall Construction Threatens 6,000 Years of History on Private Lands](https://www.wired.com/story/border-wall-construction-threatens-6000-years-of-history/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
