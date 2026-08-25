@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Party bags?](http://9gag.com/gag/aD2pVb9)
- - ⏩ [Ooh no this poor man.](http://9gag.com/gag/aW4Kbpd)
- - 👉 [The wild boar is wild, the wild boar is sad.](http://9gag.com/gag/aPANQMG)<!-- MEMES:END -->
+ - 💣 [50 cents it is!](http://9gag.com/gag/azxNGnj)
+ - ⏩ [No Woman No Cry](http://9gag.com/gag/avyYR0O)
+ - 👉 [I don\u2019t see any male performers complaining](http://9gag.com/gag/aPANQLg)<!-- MEMES:END -->
 
 ---
 
