@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [NCAA National Champion Lucas Byrd and his wife Ellie](http://9gag.com/gag/ayNgQgV)
- - ⏩ [I don\u2019t see any male performers complaining](http://9gag.com/gag/aPANQLg)
- - 👉 [A man called off his wedding because his finance supported Lindsay Clancy](http://9gag.com/gag/aD2pVBB)<!-- MEMES:END -->
+ - 💣 [A man called off his wedding because his finance supported Lindsay Clancy](http://9gag.com/gag/aD2pVBB)
+ - ⏩ [No Woman No Cry](http://9gag.com/gag/avyYR0O)
+ - 👉 [Granny was ready](http://9gag.com/gag/a1mzLD2)<!-- MEMES:END -->
 
 ---
 
