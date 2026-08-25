@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s time to embrace the classics](http://9gag.com/gag/aRB5vVq)
- - ⏩ [Bro don&#39;t need editing app.](http://9gag.com/gag/aqy3xNY)
+ - 💣 [Hello, 9gag!](http://9gag.com/gag/adBZxGj)
+ - ⏩ [I don\u2019t see any male performers complaining](http://9gag.com/gag/aPANQLg)
  - 👉 [Subway activates pvp mode](http://9gag.com/gag/aMVRvpx)<!-- MEMES:END -->
 
 ---
