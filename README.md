@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Hello, 9gag!](http://9gag.com/gag/adBZxGj)
- - ⏩ [To be fair, nobody can blame them..](http://9gag.com/gag/an7pxyz)
- - 👉 [I don\u2019t see any male performers complaining](http://9gag.com/gag/aPANQLg)<!-- MEMES:END -->
+ - ⏩ [Bro don&#39;t need editing app.](http://9gag.com/gag/aqy3xNY)
+ - 👉 [Subway activates pvp mode](http://9gag.com/gag/aMVRvpx)<!-- MEMES:END -->
 
 ---
 
