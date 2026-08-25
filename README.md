@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ungrateful Kid](http://9gag.com/gag/ayNgR9X)
- - ⏩ [I don\u2019t see any male performers complaining](http://9gag.com/gag/aPANQLg)
- - 👉 [They demand two things, no digital release and in-game purchases. They have deadman switch if they ever get caught.](http://9gag.com/gag/azxNRPZ)<!-- MEMES:END -->
+ - 💣 [Robot tries weightlifting](https://www.reddit.com/r/funny/comments/1vxxntt/robot_tries_weightlifting/)
+ - ⏩ [&quot;Use the force, Luke&quot;.](https://www.reddit.com/r/funny/comments/1vxxi43/use_the_force_luke/)
+ - 👉 [Local street cats took a tiny dog hostage by his leash](https://www.reddit.com/r/funny/comments/1vxxgkx/local_street_cats_took_a_tiny_dog_hostage_by_his/)<!-- MEMES:END -->
 
 ---
 
