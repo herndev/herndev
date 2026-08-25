@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google expands Gemini’s interactive models to even more users](https://www.androidauthority.com/gemini-interactive-models-come-to-workspace-3702732/)
- - [Amazon drops the Aurzen BOOM Mini Google TV projector to $249.99 &lpar;29% off&rpar;](https://www.androidauthority.com/aurzen-boom-mini-google-tv-projector-deal-3702802/)
- - [The Supreme Court’s Mail-In Ballot Ruling Is a Step Toward Chaos in the Midterms](https://www.wired.com/story/the-supreme-courts-mail-in-ballot-ruling-is-a-step-toward-chaos-in-the-midterms/)<!-- TECH:END -->
+ - [Frustrating Google Home bug refuses to add items to your shopping lists in Keep](https://www.androidauthority.com/google-home-keep-lists-bug-3702731/)
+ - [Stability AI, which has deals with UMG, WMG, and EA to build AI models from their IP, raised a $76M Series B from them, Sony Music, and others &lpar;Corbin Bolies/Variety&rpar;](https://www.techmeme.com/260825/p34#a260825p34)
+ - [Amazon slashes 38% off the Arlo Video Doorbell 2K at $49.99](https://www.androidauthority.com/arlo-video-doorbell-2k-amazon-deal-3702837/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
