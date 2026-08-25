@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New GameHub update brings mod support for PC games to your Android phone](https://www.androidauthority.com/gamehub-update-mod-support-3702532/)
  - [Bad news: ChatGPT Plus users have annoying limits to slow them down once again](https://www.androidauthority.com/chatgpt-five-hour-limits-3702542/)
- - [Spotify has good news if your audiobooks suddenly stopped playing](https://www.androidauthority.com/spotify-audiobook-playback-fix-3702488/)
- - [Australia&#39;s ARIA says songs created mostly or entirely by AI will be excluded from its charts; a song that used AI became the most-played song on radio in July &lpar;Cam Wilson/ABC&rpar;](https://www.techmeme.com/260825/p3#a260825p3)<!-- TECH:END -->
+ - [Spotify has good news if your audiobooks suddenly stopped playing](https://www.androidauthority.com/spotify-audiobook-playback-fix-3702488/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
