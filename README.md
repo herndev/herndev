@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Emerald AI, which uses AI to optimize data center power consumption based on grid demands, raised $150M led by DCVC and Energize Capital at a $1.05B valuation &lpar;Sri Muppidi/New York Times&rpar;](https://www.techmeme.com/260825/p14#a260825p14)
- - [OpenAI bans a cluster of Russian ChatGPT accounts that used VPNs to evade restrictions and run an influence operation, including creating social media comments &lpar;Kai Nicol-Schwarz/CNBC&rpar;](https://www.techmeme.com/260825/p13#a260825p13)
- - [CNET Finds 75% of US Adults Couldn’t Care Less About a Foldable iPhone](https://www.cnet.com/tech/mobile/foldable-phone-survey/)<!-- TECH:END -->
+ - [M6 Mac mini arrives with a new record-high starting price](https://appleinsider.com/articles/26/08/25/m6-mac-mini-arrives-in-ram-and-ssd-constrained-environment?utm_source=rss)
+ - [Mac Studio gets update to M5 Max and M5 Ultra](https://appleinsider.com/articles/26/08/25/mac-studio-gets-update-to-m5-max-and-m5-ultra?utm_source=rss)
+ - [Google is working on a big Live Translate upgrade for Android XR](https://www.androidauthority.com/google-translate-android-xr-listening-area-apk-teardown-3702633/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
