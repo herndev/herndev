@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [For educational purposes only](http://9gag.com/gag/a2vBbW9)
- - ⏩ [Processed food in the US is really something.](http://9gag.com/gag/amojxx6)
+ - 💣 [I don\u2019t see any male performers complaining](http://9gag.com/gag/aPANQLg)
+ - ⏩ [Subway activates pvp mode](http://9gag.com/gag/aMVRvpx)
  - 👉 [Granny was ready](http://9gag.com/gag/a1mzLD2)<!-- MEMES:END -->
 
 ---
