@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Dr. Dre and Jimmy Iovine on lessons from Apple&#39;s Beats acquisition, creativity, being pro-AI music creation, AI as a tool like drum machines, and more &lpar;Jordyn Holman/New York Times&rpar;](https://www.techmeme.com/260825/p6#a260825p6)
- - [After just 5 days, my Pixel 11 Pro is already a brick](https://www.androidauthority.com/pixel-11-pro-shutdown-brick-issue-3701938/)
- - [Border Wall Construction Threatens 6,000 Years of History on Private Lands](https://www.wired.com/story/border-wall-construction-threatens-6000-years-of-history/)<!-- TECH:END -->
+ - [The 4 Best Car Phone Mounts I’ve Tried &lpar;2026&rpar;: Belkin, Andery, Andobil](https://www.wired.com/story/best-car-phone-mounts-and-holders/)
+ - [New leak suggests Qualcomm’s next Snapdragon 8 Elite could take it to the extreme, literally](https://www.androidauthority.com/snapdragon-8-elite-extreme-gen-6-leak-3702629/)
+ - [The County Prosecutors Who Became ICE Informants](https://www.wired.com/story/the-county-prosecutors-who-became-ice-informants/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
