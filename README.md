@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The AYN Odin 3 is getting another price hike, but you can avoid it by acting fast](https://www.androidauthority.com/ayn-odin-3-price-increase-august-3702507/)
- - [Omega Just Released a Mini Moonwatch](https://www.wired.com/story/omega-just-released-a-mini-moonwatch/)
- - [Google’s clever Android 17 motion sickness feature is finally rolling out](https://www.androidauthority.com/google-android-17-motion-assist-rolling-out-3702494/)<!-- TECH:END -->
+ - [Bad news: ChatGPT Plus users have annoying limits to slow them down once again](https://www.androidauthority.com/chatgpt-five-hour-limits-3702542/)
+ - [Spotify has good news if your audiobooks suddenly stopped playing](https://www.androidauthority.com/spotify-audiobook-playback-fix-3702488/)
+ - [Australia&#39;s ARIA says songs created mostly or entirely by AI will be excluded from its charts; a song that used AI became the most-played song on radio in July &lpar;Cam Wilson/ABC&rpar;](https://www.techmeme.com/260825/p3#a260825p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
