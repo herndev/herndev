@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 4 Best Car Phone Mounts I’ve Tried &lpar;2026&rpar;: Belkin, Andery, Andobil](https://www.wired.com/story/best-car-phone-mounts-and-holders/)
- - [New leak suggests Qualcomm’s next Snapdragon 8 Elite could take it to the extreme, literally](https://www.androidauthority.com/snapdragon-8-elite-extreme-gen-6-leak-3702629/)
- - [The County Prosecutors Who Became ICE Informants](https://www.wired.com/story/the-county-prosecutors-who-became-ice-informants/)<!-- TECH:END -->
+ - [Emerald AI, which uses AI to optimize data center power consumption based on grid demands, raised $150M led by DCVC and Energize Capital at a $1.05B valuation &lpar;Sri Muppidi/New York Times&rpar;](https://www.techmeme.com/260825/p14#a260825p14)
+ - [OpenAI bans a cluster of Russian ChatGPT accounts that used VPNs to evade restrictions and run an influence operation, including creating social media comments &lpar;Kai Nicol-Schwarz/CNBC&rpar;](https://www.techmeme.com/260825/p13#a260825p13)
+ - [CNET Finds 75% of US Adults Couldn’t Care Less About a Foldable iPhone](https://www.cnet.com/tech/mobile/foldable-phone-survey/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
