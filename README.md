@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researchers detail the growing use of AI in cyberattacks across many Chinese state-linked groups, primarily using open-weight models like Kimi K3 and DeepSeek &lpar;Mark Anderson/Bloomberg&rpar;](https://www.techmeme.com/260824/p39#a260824p39)
  - [Quintessent, a startup making optical interconnects for data centers, raised a $40M Series A led by Cycle Capital, following its $11.4M seed round in 2024 &lpar;Maria Deutscher/SiliconANGLE&rpar;](https://www.techmeme.com/260824/p38#a260824p38)
- - [Nuki Smart Lock &amp; Keypad 2 NFC review: A low-profile lock with Apple Home Key support](https://appleinsider.com/articles/26/08/25/nuki-smart-lock-keypad-2-nfc-review-a-low-profile-lock-with-apple-home-key-support?utm_source=rss)
- - [Smart TV analytics provide dire numbers for Apple TV F1 viewership, but not whole story](https://appleinsider.com/articles/26/08/25/smart-tv-analytics-provide-dire-numbers-for-apple-tv-f1-viewership-but-not-whole-story?utm_source=rss)<!-- TECH:END -->
+ - [Nuki Smart Lock &amp; Keypad 2 NFC review: A low-profile lock with Apple Home Key support](https://appleinsider.com/articles/26/08/25/nuki-smart-lock-keypad-2-nfc-review-a-low-profile-lock-with-apple-home-key-support?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
