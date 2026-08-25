@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If they only knew](http://9gag.com/gag/apRybOp)
- - ⏩ [No Woman No Cry](http://9gag.com/gag/avyYR0O)
- - 👉 [Ungrateful Kid](http://9gag.com/gag/ayNgR9X)<!-- MEMES:END -->
+ - 💣 [Finally getting back to doing things that actually bring joy](http://9gag.com/gag/aYQ8M8x)
+ - ⏩ [Brutal reality check delivered](http://9gag.com/gag/aXPD2Lb)
+ - 👉 [Dayum](http://9gag.com/gag/a5Qm20o)<!-- MEMES:END -->
 
 ---
 
