@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I don\u2019t see any male performers complaining](http://9gag.com/gag/aPANQLg)
- - ⏩ [Subway activates pvp mode](http://9gag.com/gag/aMVRvpx)
- - 👉 [Granny was ready](http://9gag.com/gag/a1mzLD2)<!-- MEMES:END -->
+ - 💣 [If they only knew](http://9gag.com/gag/apRybOp)
+ - ⏩ [No Woman No Cry](http://9gag.com/gag/avyYR0O)
+ - 👉 [Ungrateful Kid](http://9gag.com/gag/ayNgR9X)<!-- MEMES:END -->
 
 ---
 
