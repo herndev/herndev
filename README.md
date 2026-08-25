@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A man called off his wedding because his finance supported Lindsay Clancy](http://9gag.com/gag/aD2pVBB)
- - ⏩ [To be fair, nobody can blame them..](http://9gag.com/gag/an7pxyz)
- - 👉 [Processed food in the US is really something.](http://9gag.com/gag/amojxx6)<!-- MEMES:END -->
+ - 💣 [Party bags?](http://9gag.com/gag/aD2pVb9)
+ - ⏩ [Ooh no this poor man.](http://9gag.com/gag/aW4Kbpd)
+ - 👉 [The wild boar is wild, the wild boar is sad.](http://9gag.com/gag/aPANQMG)<!-- MEMES:END -->
 
 ---
 
