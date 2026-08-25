@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Claude Cowork will now remember your conversations with chat](https://www.androidauthority.com/claude-cowork-shares-memory-with-chat-3702922/)
- - [Skild AI unveils S1, a robotics foundation model that it says can learn tasks never seen during pretraining, using a single video demo, without fine-tuning &lpar;Skild AI&rpar;](https://www.techmeme.com/260825/p41#a260825p41)
- - [Can’t wait for the Galaxy S26 FE? Check out these cases to tide you over](https://www.androidauthority.com/samsung-galaxy-s26-fe-cases-3702917/)<!-- TECH:END -->
+ - [Anbernic spills the specs of its Nintendo Switch Lite look-alike](https://www.androidauthority.com/anbernic-rg-55g1-unboxing-3702983/)
+ - [At just $8, you owe it to yourself to grab Inscryption](https://www.theverge.com/gadgets/984677/inscryption-humble-daniel-mullins-pony-island-deal-sale)
+ - [The Witcher 3 is getting a remaster](https://www.theverge.com/games/984680/the-witcher-3-wild-hunt-remastered-launch-date-trailer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
