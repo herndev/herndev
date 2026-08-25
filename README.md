@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Finally getting back to doing things that actually bring joy](http://9gag.com/gag/aYQ8M8x)
- - ⏩ [Brutal reality check delivered](http://9gag.com/gag/aXPD2Lb)
- - 👉 [Dayum](http://9gag.com/gag/a5Qm20o)<!-- MEMES:END -->
+ - 💣 [A man called off his wedding because his finance supported Lindsay Clancy](http://9gag.com/gag/aD2pVBB)
+ - ⏩ [I don\u2019t see any male performers complaining](http://9gag.com/gag/aPANQLg)
+ - 👉 [Sinister](http://9gag.com/gag/aLnYmXz)<!-- MEMES:END -->
 
 ---
 
