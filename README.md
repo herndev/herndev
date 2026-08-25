@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Take a look at Microsoft&amp;#8217;s new 25th anniversary Halo accessories](https://www.theverge.com/games/984530/microsoft-xbox-25th-anniversary-accessories)
- - [Garmin fēnix 9 series introduces titanium cases, solar charging, and smarter stamina tracking](https://www.androidauthority.com/garmin-launches-fenix-9-series-3702819/)
- - [Nanoleaf panels might soon work with the Philips Hue app](https://www.androidauthority.com/philips-hue-nanoleaf-shapes-3702853/)<!-- TECH:END -->
+ - [Dreame’s dream of a rocket-powered car is dead](https://www.theverge.com/transportation/984485/dreame-rocket-car-shut-down)
+ - [Keenable, which is building a web search index for AI agents and says several AI labs are using its API, raised a $26M seed led by Accel &lpar;Anna Heim/TechCrunch&rpar;](https://www.techmeme.com/260825/p39#a260825p39)
+ - [Google Pixel 11 Pro Fold Review: Better, Not Best](https://www.wired.com/review/google-pixel-11-pro-fold/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
