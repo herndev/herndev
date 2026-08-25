@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dreame’s dream of a rocket-powered car is dead](https://www.theverge.com/transportation/984485/dreame-rocket-car-shut-down)
- - [Keenable, which is building a web search index for AI agents and says several AI labs are using its API, raised a $26M seed led by Accel &lpar;Anna Heim/TechCrunch&rpar;](https://www.techmeme.com/260825/p39#a260825p39)
- - [Google Pixel 11 Pro Fold Review: Better, Not Best](https://www.wired.com/review/google-pixel-11-pro-fold/)<!-- TECH:END -->
+ - [Claude Cowork will now remember your conversations with chat](https://www.androidauthority.com/claude-cowork-shares-memory-with-chat-3702922/)
+ - [Skild AI unveils S1, a robotics foundation model that it says can learn tasks never seen during pretraining, using a single video demo, without fine-tuning &lpar;Skild AI&rpar;](https://www.techmeme.com/260825/p41#a260825p41)
+ - [Can’t wait for the Galaxy S26 FE? Check out these cases to tide you over](https://www.androidauthority.com/samsung-galaxy-s26-fe-cases-3702917/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
