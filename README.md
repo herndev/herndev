@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [To be fair, nobody can blame them..](http://9gag.com/gag/an7pxyz)
- - ⏩ [Ungrateful Kid](http://9gag.com/gag/ayNgR9X)
- - 👉 [Core strength level expert](http://9gag.com/gag/aLnYG7M)<!-- MEMES:END -->
+ - 💣 [Dayum](http://9gag.com/gag/a5Qm20o)
+ - ⏩ [To be fair, nobody can blame them..](http://9gag.com/gag/an7pxyz)
+ - 👉 [No Woman No Cry](http://9gag.com/gag/avyYR0O)<!-- MEMES:END -->
 
 ---
 
