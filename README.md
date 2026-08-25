@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Autonomous trucking startup Gatik raised $200M, two months after striking a multi-year commercial agreement with PepsiCo, bringing its total funding to ~$500M &lpar;Kirsten Korosec/TechCrunch&rpar;](https://www.techmeme.com/260825/p25#a260825p25)
- - [New M6 Mac mini keeps three-display limit, raises refresh rates](https://appleinsider.com/articles/26/08/25/new-m6-mac-mini-keeps-the-three-display-limit-but-raises-refresh-rates?utm_source=rss)
- - [Apple&amp;#8217;s ‘new’ polishing cloth is the same except $10 cheaper](https://www.theverge.com/tech/984353/apple-polishing-cloth-cheaper)<!-- TECH:END -->
+ - [Google expands Gemini’s interactive models to even more users](https://www.androidauthority.com/gemini-interactive-models-come-to-workspace-3702732/)
+ - [Amazon drops the Aurzen BOOM Mini Google TV projector to $249.99 &lpar;29% off&rpar;](https://www.androidauthority.com/aurzen-boom-mini-google-tv-projector-deal-3702802/)
+ - [The Supreme Court’s Mail-In Ballot Ruling Is a Step Toward Chaos in the Midterms](https://www.wired.com/story/the-supreme-courts-mail-in-ballot-ruling-is-a-step-toward-chaos-in-the-midterms/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
