@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dayum](http://9gag.com/gag/a5Qm20o)
+ - 💣 [A man called off his wedding because his finance supported Lindsay Clancy](http://9gag.com/gag/aD2pVBB)
  - ⏩ [To be fair, nobody can blame them..](http://9gag.com/gag/an7pxyz)
- - 👉 [No Woman No Cry](http://9gag.com/gag/avyYR0O)<!-- MEMES:END -->
+ - 👉 [Processed food in the US is really something.](http://9gag.com/gag/amojxx6)<!-- MEMES:END -->
 
 ---
 
