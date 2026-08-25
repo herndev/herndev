@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anbernic spills the specs of its Nintendo Switch Lite look-alike](https://www.androidauthority.com/anbernic-rg-55g1-unboxing-3702983/)
- - [At just $8, you owe it to yourself to grab Inscryption](https://www.theverge.com/gadgets/984677/inscryption-humble-daniel-mullins-pony-island-deal-sale)
- - [The Witcher 3 is getting a remaster](https://www.theverge.com/games/984680/the-witcher-3-wild-hunt-remastered-launch-date-trailer)<!-- TECH:END -->
+ - [M6 Mac mini vs M4 Mac mini: Compact powerhouses compared](https://appleinsider.com/inside/mac-mini/vs/m6-mac-mini-vs-m4-mac-mini-compact-powerhouses-compared?utm_source=rss)
+ - [Life360 adds new pet care tools to help keep your household in sync](https://www.androidauthority.com/life360-new-pet-care-features-3703038/)
+ - [‘Darth Vader’ Wants You to Know He Definitely Supports Flock Surveillance](https://www.wired.com/story/darth-vader-wants-you-to-know-he-definitely-supports-flock-surveillance/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
