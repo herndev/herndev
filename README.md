@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Frustrating Google Home bug refuses to add items to your shopping lists in Keep](https://www.androidauthority.com/google-home-keep-lists-bug-3702731/)
- - [Stability AI, which has deals with UMG, WMG, and EA to build AI models from their IP, raised a $76M Series B from them, Sony Music, and others &lpar;Corbin Bolies/Variety&rpar;](https://www.techmeme.com/260825/p34#a260825p34)
- - [Amazon slashes 38% off the Arlo Video Doorbell 2K at $49.99](https://www.androidauthority.com/arlo-video-doorbell-2k-amazon-deal-3702837/)<!-- TECH:END -->
+ - [Anthropic merges the memory systems for Claude chat and Claude Cowork, making Claude chat history available to Cowork unless users opt out &lpar;David Gewirtz/ZDNET&rpar;](https://www.techmeme.com/260825/p36#a260825p36)
+ - [This highly rated 10-port Anker Nano Power Strip just got its first Amazon price cut](https://www.androidauthority.com/anker-nano-power-strip-deal-3702865/)
+ - [WhatsApp is ramping up security with stronger 2FA and smarter call screening](https://www.androidauthority.com/whatsapp-security-update-2fa-call-screening-3702749/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
