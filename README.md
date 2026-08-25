@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Robot tries weightlifting](https://www.reddit.com/r/funny/comments/1vxxntt/robot_tries_weightlifting/)
- - ⏩ [&quot;Use the force, Luke&quot;.](https://www.reddit.com/r/funny/comments/1vxxi43/use_the_force_luke/)
- - 👉 [Local street cats took a tiny dog hostage by his leash](https://www.reddit.com/r/funny/comments/1vxxgkx/local_street_cats_took_a_tiny_dog_hostage_by_his/)<!-- MEMES:END -->
+ - 💣 [For educational purposes only](http://9gag.com/gag/a2vBbW9)
+ - ⏩ [Processed food in the US is really something.](http://9gag.com/gag/amojxx6)
+ - 👉 [Granny was ready](http://9gag.com/gag/a1mzLD2)<!-- MEMES:END -->
 
 ---
 
