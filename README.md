@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [M6 Mac mini arrives with a new record-high starting price](https://appleinsider.com/articles/26/08/25/m6-mac-mini-arrives-in-ram-and-ssd-constrained-environment?utm_source=rss)
- - [Mac Studio gets update to M5 Max and M5 Ultra](https://appleinsider.com/articles/26/08/25/mac-studio-gets-update-to-m5-max-and-m5-ultra?utm_source=rss)
- - [Google is working on a big Live Translate upgrade for Android XR](https://www.androidauthority.com/google-translate-android-xr-listening-area-apk-teardown-3702633/)<!-- TECH:END -->
+ - [Autonomous trucking startup Gatik raised $200M, two months after striking a multi-year commercial agreement with PepsiCo, bringing its total funding to ~$500M &lpar;Kirsten Korosec/TechCrunch&rpar;](https://www.techmeme.com/260825/p25#a260825p25)
+ - [New M6 Mac mini keeps three-display limit, raises refresh rates](https://appleinsider.com/articles/26/08/25/new-m6-mac-mini-keeps-the-three-display-limit-but-raises-refresh-rates?utm_source=rss)
+ - [Apple&amp;#8217;s ‘new’ polishing cloth is the same except $10 cheaper](https://www.theverge.com/tech/984353/apple-polishing-cloth-cheaper)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
