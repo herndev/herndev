@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic merges the memory systems for Claude chat and Claude Cowork, making Claude chat history available to Cowork unless users opt out &lpar;David Gewirtz/ZDNET&rpar;](https://www.techmeme.com/260825/p36#a260825p36)
- - [This highly rated 10-port Anker Nano Power Strip just got its first Amazon price cut](https://www.androidauthority.com/anker-nano-power-strip-deal-3702865/)
- - [WhatsApp is ramping up security with stronger 2FA and smarter call screening](https://www.androidauthority.com/whatsapp-security-update-2fa-call-screening-3702749/)<!-- TECH:END -->
+ - [Take a look at Microsoft&amp;#8217;s new 25th anniversary Halo accessories](https://www.theverge.com/games/984530/microsoft-xbox-25th-anniversary-accessories)
+ - [Garmin fēnix 9 series introduces titanium cases, solar charging, and smarter stamina tracking](https://www.androidauthority.com/garmin-launches-fenix-9-series-3702819/)
+ - [Nanoleaf panels might soon work with the Philips Hue app](https://www.androidauthority.com/philips-hue-nanoleaf-shapes-3702853/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
