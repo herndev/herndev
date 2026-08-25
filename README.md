@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hello, 9gag!](http://9gag.com/gag/adBZxGj)
+ - 💣 [It&#39;s time to embrace the classics](http://9gag.com/gag/aRB5vVq)
  - ⏩ [Bro don&#39;t need editing app.](http://9gag.com/gag/aqy3xNY)
  - 👉 [Subway activates pvp mode](http://9gag.com/gag/aMVRvpx)<!-- MEMES:END -->
 
