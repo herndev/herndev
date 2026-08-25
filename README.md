@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New GameHub update brings mod support for PC games to your Android phone](https://www.androidauthority.com/gamehub-update-mod-support-3702532/)
- - [Bad news: ChatGPT Plus users have annoying limits to slow them down once again](https://www.androidauthority.com/chatgpt-five-hour-limits-3702542/)
- - [Spotify has good news if your audiobooks suddenly stopped playing](https://www.androidauthority.com/spotify-audiobook-playback-fix-3702488/)<!-- TECH:END -->
+ - [Spirit Airlines Wants to Sell Its Data to Google. Former Flight Attendants Are Freaked Out](https://www.wired.com/story/spirit-airlines-wants-to-sell-its-data-to-google-former-flight-attendants-are-freaked-out/)
+ - [We tried Gemini’s new Device Help feature on the Pixel 11, and the results were mixed](https://www.androidauthority.com/google-pixel-11-pro-xl-device-help-3702556/)
+ - [Google’s Tensor G7 has one last chance to save the Pixel 12](https://www.androidauthority.com/tensor-g7-pixel-12-wishlist-3701123/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
