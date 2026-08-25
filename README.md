@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hello, 9gag!](http://9gag.com/gag/adBZxGj)
+ - 💣 [It&#39;s time to embrace the classics](http://9gag.com/gag/aRB5vVq)
  - ⏩ [I don\u2019t see any male performers complaining](http://9gag.com/gag/aPANQLg)
- - 👉 [Subway activates pvp mode](http://9gag.com/gag/aMVRvpx)<!-- MEMES:END -->
+ - 👉 [You are not a garage](http://9gag.com/gag/aoyr81n)<!-- MEMES:END -->
 
 ---
 
