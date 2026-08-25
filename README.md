@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A man called off his wedding because his finance supported Lindsay Clancy](http://9gag.com/gag/aD2pVBB)
- - ⏩ [No Woman No Cry](http://9gag.com/gag/avyYR0O)
- - 👉 [Granny was ready](http://9gag.com/gag/a1mzLD2)<!-- MEMES:END -->
+ - 💣 [Granny was ready](http://9gag.com/gag/a1mzLD2)
+ - ⏩ [Old but gold](http://9gag.com/gag/awyRd61)
+ - 👉 [Brutal reality check delivered](http://9gag.com/gag/aXPD2Lb)<!-- MEMES:END -->
 
 ---
 
