@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Leopold Aschenbrenner, who worked for SBF and OpenAI before launching Situational Awareness; Aschenbrenner married Dario Amodei&#39;s chief of staff &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260826/p18#a260826p18)
- - [Sources: Moonshot AI is in early talks over revenue-sharing agreements with Microsoft, Amazon, and Google to host Kimi K3, and is seeking up to a 30% share &lpar;Reuters&rpar;](https://www.techmeme.com/260826/p17#a260826p17)
- - [The Galaxy S26 Ultra just achieved a first for Android phone sales](https://www.androidauthority.com/best-selling-android-phone-q2-2026-3703124/)<!-- TECH:END -->
+ - [Google is preparing a Liquid Glass redesign for YouTube and YouTube Music](https://www.androidauthority.com/google-youtube-music-liquid-glass-live-activity-3703202/)
+ - [Investigation: Meta explored slashing many teams by ~60% to become &quot;AI native&quot;, but pulled back after staff revolted and data showed AI agents were ineffective &lpar;Katie Paul/Reuters&rpar;](https://www.techmeme.com/260826/p21#a260826p21)
+ - [Bill Gates is deeply worried about AI, and he’s no longer staying quiet](https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
