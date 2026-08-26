@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Digs, which is building AI software for residential construction, raised a $25.3M Series A led by building materials giant Builders FirstSource &lpar;Kurt Schlosser/GeekWire&rpar;](https://www.techmeme.com/260826/p1#a260826p1)
- - [Pennsylvania&#39;s AG sues Snap, alleging Snapchat fails to protect teens from compulsively using the app, two weeks after filing a similar lawsuit against TikTok &lpar;Miranda Nazzaro/The Hill&rpar;](https://www.techmeme.com/260825/p49#a260825p49)
- - [Sources: Meta and state AGs have discussed a possible mid-trial settlement of the social media addiction lawsuit, which is currently in its second week of trial &lpar;Bloomberg&rpar;](https://www.techmeme.com/260825/p48#a260825p48)<!-- TECH:END -->
+ - [Fitbit founders are back with a $250 wearable, but it’s not for counting steps](https://www.androidauthority.com/fitbit-founders-luffu-link-band-3703070/)
+ - [Corsair Discount Code: Up to 50% Off for August 2026](https://www.wired.com/story/corsair-coupon/)
+ - [Google Workspace Promo Codes: 14% Off for August 2026](https://www.wired.com/story/google-workspace-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
