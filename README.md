@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Granny was ready](http://9gag.com/gag/a1mzLD2)
- - ⏩ [Rip](http://9gag.com/gag/aRB5Omj)
- - 👉 [Im I a inferior copy](http://9gag.com/gag/aXPD206)<!-- MEMES:END -->
+ - 💣 [Husband sleeping in the car in front of the house](http://9gag.com/gag/an7pGKB)
+ - ⏩ [Im I a inferior copy](http://9gag.com/gag/aXPD206)
+ - 👉 [Bro was too honest](http://9gag.com/gag/axyxPm1)<!-- MEMES:END -->
 
 ---
 
