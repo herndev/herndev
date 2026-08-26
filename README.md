@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [South Korean AI services platform Wrtn raised a ~$72.2M Series C at a $722M+ valuation, bringing its total funding to ~$166M &lpar;Joyce Lee/Reuters&rpar;](https://www.techmeme.com/260825/p46#a260825p46)
- - [Luffu’s New Health and Safety Wearable Isn’t Just for You. It’s for Your Entire Family](https://www.cnet.com/tech/mobile/new-health-safety-wearable-for-entire-family/)
- - [State AGs&#39; trial: Adam Mosseri denies Instagram stalled by not making its &quot;Take a Break&quot; teen safety feature the default until nearly three years after launch &lpar;Reuters&rpar;](https://www.techmeme.com/260825/p45#a260825p45)<!-- TECH:END -->
+ - [Sources: Meta and state AGs have discussed a possible mid-trial settlement of the social media addiction lawsuit, which is currently in its second week of trial &lpar;Bloomberg&rpar;](https://www.techmeme.com/260825/p48#a260825p48)
+ - [AWS says it plans to shut down Mechanical Turk on September 30, 2026, following an assessment; the service, launched in 2005, outsourced tasks to humans &lpar;Annie Palmer/CNBC&rpar;](https://www.techmeme.com/260825/p47#a260825p47)
+ - [Asus ROG Kithara headset review: Audiophile gaming](https://appleinsider.com/articles/26/08/26/asus-rog-kithara-headset-review-audiophile-gaming?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
