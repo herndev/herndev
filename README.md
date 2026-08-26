@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xbox announces disc-to-digital feature that digitizes your physical games](https://www.theverge.com/tech/984936/xbox-disc-to-digital-feature-official)
- - [Z.ai releases GLM-5.3-Flash, the first natively multimodal GLM-5 series model, with 320B parameters, saying it outperforms GLM-5.2 at &quot;one-tenth the price&quot; &lpar;Z.ai&rpar;](https://www.techmeme.com/260826/p35#a260826p35)
- - [Sources: Sword Health plans to acquire mental health company Headspace for between $200M and $300M in cash, far below its ~$3B valuation in 2021 &lpar;Brock E.W. Turner/Axios&rpar;](https://www.techmeme.com/260826/p34#a260826p34)<!-- TECH:END -->
+ - [What to expect from Apple&#39;s &#39;Surprise and shine&#39; iPhone 18 Pro event on September 9](https://appleinsider.com/articles/26/08/26/what-to-expect-from-apples-surprise-and-shine-iphone-18-pro-event-on-september-9?utm_source=rss)
+ - [Apple announces September iPhone launch event](https://www.theverge.com/tech/983407/apple-iphone-launch-event-2026-date)
+ - [Amazon agrees to acquire DuckLabs, the Amsterdam company behind open-source database DuckDB, for an undisclosed sum; DuckDB will remain open source &lpar;Todd Bishop/GeekWire&rpar;](https://www.techmeme.com/260826/p42#a260826p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
