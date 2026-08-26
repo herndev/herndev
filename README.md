@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You are not a garage](http://9gag.com/gag/aoyr81n)
+ - 💣 [Bro was too honest](http://9gag.com/gag/axyxPm1)
  - ⏩ [Rip](http://9gag.com/gag/aRB5Omj)
  - 👉 [So very sad.](http://9gag.com/gag/aByqOj2)<!-- MEMES:END -->
 
