@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is preparing a Liquid Glass redesign for YouTube and YouTube Music](https://www.androidauthority.com/google-youtube-music-liquid-glass-live-activity-3703202/)
- - [Investigation: Meta explored slashing many teams by ~60% to become &quot;AI native&quot;, but pulled back after staff revolted and data showed AI agents were ineffective &lpar;Katie Paul/Reuters&rpar;](https://www.techmeme.com/260826/p21#a260826p21)
- - [Bill Gates is deeply worried about AI, and he’s no longer staying quiet](https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet)<!-- TECH:END -->
+ - [Rockstar finally responds to &amp;#8216;heartbreaking&amp;#8217; GTA 6 leaks](https://www.theverge.com/games/984959/gta-vi-leaks-rockstar-games-official-statement-heartbreaking)
+ - [Microsoft faces investor criticism over opaque financial reporting across capex, its OpenAI deal, and Azure, which is buried in the Intelligent Cloud segment &lpar;Jonathan Weil/Wall Street Journal&rpar;](https://www.techmeme.com/260826/p25#a260826p25)
+ - [The second-generation Bose QuietComfort Headphones are good, but don’t stand out](https://www.theverge.com/tech/984764/bose-quietcomfort-headphones-gen-2-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
