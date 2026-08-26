@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Husband sleeping in the car in front of the house](http://9gag.com/gag/an7pGKB)
- - ⏩ [Im I a inferior copy](http://9gag.com/gag/aXPD206)
- - 👉 [Bro was too honest](http://9gag.com/gag/axyxPm1)<!-- MEMES:END -->
+ - 💣 [Average DEI hired girl](http://9gag.com/gag/aByqOZD)
+ - ⏩ [You are not a garage](http://9gag.com/gag/aoyr81n)
+ - 👉 [Husband sleeping in the car in front of the house](http://9gag.com/gag/an7pGKB)<!-- MEMES:END -->
 
 ---
 
