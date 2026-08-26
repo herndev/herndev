@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dayum](http://9gag.com/gag/a5Qm20o)
+ - 💣 [Granny was ready](http://9gag.com/gag/a1mzLD2)
  - ⏩ [She had no idea back then. And neither did we](http://9gag.com/gag/aKG0OxN)
- - 👉 [Lost her rizz](http://9gag.com/gag/agmM4dv)<!-- MEMES:END -->
+ - 👉 [Dayum](http://9gag.com/gag/a5Qm20o)<!-- MEMES:END -->
 
 ---
 
