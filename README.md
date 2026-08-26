@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The HUAWEI Pura 90s Pro Max is so good that it makes me a little sad](https://www.androidauthority.com/huawei-pura-90s-pro-max-hands-on-3700133/)
- - [Google’s smartest Pixel 11 Pro feature is already driving me crazy](https://www.androidauthority.com/pixel-11-pro-hilight-hands-on-issues-3701386/)
- - [A Mutation Is Making It Easier for Drug-Resistant Malaria to Spread](https://www.wired.com/story/genetic-mutation-drug-resistant-malaria-spread/)<!-- TECH:END -->
+ - [A profile of Leopold Aschenbrenner, who worked for SBF and OpenAI before launching Situational Awareness; Aschenbrenner married Dario Amodei&#39;s chief of staff &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260826/p18#a260826p18)
+ - [Sources: Moonshot AI is in early talks over revenue-sharing agreements with Microsoft, Amazon, and Google to host Kimi K3, and is seeking up to a 30% share &lpar;Reuters&rpar;](https://www.techmeme.com/260826/p17#a260826p17)
+ - [The Galaxy S26 Ultra just achieved a first for Android phone sales](https://www.androidauthority.com/best-selling-android-phone-q2-2026-3703124/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
