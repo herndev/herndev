@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mental institution it is](http://9gag.com/gag/ae9o2RW)
- - ⏩ [100% Artist, 0% Greed, 0% political bullshit, 100% Heart](http://9gag.com/gag/ae9o7Db)
- - 👉 [Teach &#39;Em Early](http://9gag.com/gag/awyR49W)<!-- MEMES:END -->
+ - 💣 [You are not a garage](http://9gag.com/gag/aoyr81n)
+ - ⏩ [Rip](http://9gag.com/gag/aRB5Omj)
+ - 👉 [So very sad.](http://9gag.com/gag/aByqOj2)<!-- MEMES:END -->
 
 ---
 
