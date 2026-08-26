@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What to expect from Apple&#39;s &#39;Surprise and shine&#39; iPhone 18 Pro event on September 9](https://appleinsider.com/articles/26/08/26/what-to-expect-from-apples-surprise-and-shine-iphone-18-pro-event-on-september-9?utm_source=rss)
- - [Apple announces September iPhone launch event](https://www.theverge.com/tech/983407/apple-iphone-launch-event-2026-date)
- - [Amazon agrees to acquire DuckLabs, the Amsterdam company behind open-source database DuckDB, for an undisclosed sum; DuckDB will remain open source &lpar;Todd Bishop/GeekWire&rpar;](https://www.techmeme.com/260826/p42#a260826p42)<!-- TECH:END -->
+ - [Cyberpunk 2077 meets the Commodore 64 in this gloriously retro crossover](https://www.androidauthority.com/commodore-64-cyberpunk-edition-3703517/)
+ - [There Are No Trans Women in the WNBA, so Right-Wingers Are Making Some Up](https://www.wired.com/story/there-are-no-trans-women-in-the-wnba-so-right-wingers-are-making-some-up/)
+ - [The Humanoids at China’s Robot Games Were Faster Than Usain Bolt—but I’m More Impressed by Their Tweezer Mastery](https://www.wired.com/story/i-could-watch-the-robot-games-forever-ai-lab/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
