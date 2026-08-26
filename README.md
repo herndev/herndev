@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fitbit founders are back with a $250 wearable, but it’s not for counting steps](https://www.androidauthority.com/fitbit-founders-luffu-link-band-3703070/)
- - [Corsair Discount Code: Up to 50% Off for August 2026](https://www.wired.com/story/corsair-coupon/)
- - [Google Workspace Promo Codes: 14% Off for August 2026](https://www.wired.com/story/google-workspace-promo-code/)<!-- TECH:END -->
+ - [Intel reveals that Xeon 7, aimed at HPC and debuting in 2027, will support up to 256 cores and 22 chiplets, with 16 built on its bleeding-edge 18A-P process &lpar;Tobias Mann/The Register&rpar;](https://www.techmeme.com/260826/p5#a260826p5)
+ - [HP signs a multi-year global agreement with Huawei to license certain standard essential Wi-Fi patents, a sign of adoption of Huawei&#39;s technology outside China &lpar;Evelyn Cheng/CNBC&rpar;](https://www.techmeme.com/260826/p4#a260826p4)
+ - [Indian AI infrastructure company AM Intelligence orders 9,000 Nvidia Vera Rubin systems and plans to offer 1GW of computing capacity as part of an $8B project &lpar;Saritha Rai/Bloomberg&rpar;](https://www.techmeme.com/260826/p3#a260826p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
