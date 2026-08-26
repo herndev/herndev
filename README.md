@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bill Gates says &quot;the AI era will be one of the most turbulent times in human history&quot; and &quot;we are not preparing adequately&quot;, calling for a regulatory framework &lpar;Bill Gates/GatesNotes&rpar;](https://www.techmeme.com/260826/p13#a260826p13)
- - [Revolut rolls out its euro-pegged stablecoin EURR, initially to eligible customers in Denmark, Poland, and Portugal; Stripe-owned Bridge issues the stablecoin &lpar;Charlie Wells/Bloomberg&rpar;](https://www.techmeme.com/260826/p12#a260826p12)
- - [Navitas Semiconductor agrees to buy Claros, which develops data center power management hardware and software, for ~$232.8M; Claros raised a $30M seed in March &lpar;Nate Doughty/Washington ...&rpar;](https://www.techmeme.com/260826/p11#a260826p11)<!-- TECH:END -->
+ - [The HUAWEI Pura 90s Pro Max is so good that it makes me a little sad](https://www.androidauthority.com/huawei-pura-90s-pro-max-hands-on-3700133/)
+ - [Google’s smartest Pixel 11 Pro feature is already driving me crazy](https://www.androidauthority.com/pixel-11-pro-hilight-hands-on-issues-3701386/)
+ - [A Mutation Is Making It Easier for Drug-Resistant Malaria to Spread](https://www.wired.com/story/genetic-mutation-drug-resistant-malaria-spread/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
