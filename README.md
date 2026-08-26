@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stres](http://9gag.com/gag/aXPD272)
- - ⏩ [Lost her rizz](http://9gag.com/gag/agmM4dv)
- - 👉 [Dayum](http://9gag.com/gag/a5Qm20o)<!-- MEMES:END -->
+ - 💣 [Mental institution it is](http://9gag.com/gag/ae9o2RW)
+ - ⏩ [100% Artist, 0% Greed, 0% political bullshit, 100% Heart](http://9gag.com/gag/ae9o7Db)
+ - 👉 [Teach &#39;Em Early](http://9gag.com/gag/awyR49W)<!-- MEMES:END -->
 
 ---
 
