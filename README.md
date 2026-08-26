@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lost her rizz](http://9gag.com/gag/agmM4dv)
- - ⏩ [You are not a garage](http://9gag.com/gag/aoyr81n)
- - 👉 [A man called off his wedding because his finance supported Lindsay Clancy](http://9gag.com/gag/aD2pVBB)<!-- MEMES:END -->
+ - 💣 [She had no idea back then. And neither did we](http://9gag.com/gag/aKG0OxN)
+ - ⏩ [A man called off his wedding because his finance supported Lindsay Clancy](http://9gag.com/gag/aD2pVBB)
+ - 👉 [Lost her rizz](http://9gag.com/gag/agmM4dv)<!-- MEMES:END -->
 
 ---
 
