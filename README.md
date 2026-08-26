@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cyberpunk 2077 meets the Commodore 64 in this gloriously retro crossover](https://www.androidauthority.com/commodore-64-cyberpunk-edition-3703517/)
- - [There Are No Trans Women in the WNBA, so Right-Wingers Are Making Some Up](https://www.wired.com/story/there-are-no-trans-women-in-the-wnba-so-right-wingers-are-making-some-up/)
- - [The Humanoids at China’s Robot Games Were Faster Than Usain Bolt—but I’m More Impressed by Their Tweezer Mastery](https://www.wired.com/story/i-could-watch-the-robot-games-forever-ai-lab/)<!-- TECH:END -->
+ - [CrowdStrike reports Q2 revenue up 26% YoY to $1.47B, vs. $1.44B est., and forecasts FY 2027 revenue above estimates; CRWD jumps 9%+ after hours &lpar;Jake Bleiberg/Bloomberg&rpar;](https://www.techmeme.com/260826/p56#a260826p56)
+ - [Salesforce reports Q2 revenue up 11% YoY to $11.35B, vs. $11.32B est., net income up 87% to $3.5B, forecasts Q3 revenue above est.; CRM jumps 13%+ after hours &lpar;Jordan Novet/CNBC&rpar;](https://www.techmeme.com/260826/p55#a260826p55)
+ - [HP reports Q3 revenue up 12.5% YoY to $15.7B, PC revenue up 18% to $11.8B, but units down 16%, and Printing revenue down 2% to $3.9B; HPQ drops 9%+ after hours &lpar;Dina Bass/Bloomberg&rpar;](https://www.techmeme.com/260826/p54#a260826p54)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
