@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Im I a inferior copy](http://9gag.com/gag/aXPD206)
- - ⏩ [Rip](http://9gag.com/gag/aRB5Omj)
+ - 💣 [Stres](http://9gag.com/gag/aXPD272)
+ - ⏩ [Lost her rizz](http://9gag.com/gag/agmM4dv)
  - 👉 [Dayum](http://9gag.com/gag/a5Qm20o)<!-- MEMES:END -->
 
 ---
