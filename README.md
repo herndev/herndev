@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Granny was ready](http://9gag.com/gag/a1mzLD2)
- - ⏩ [She had no idea back then. And neither did we](http://9gag.com/gag/aKG0OxN)
+ - 💣 [Im I a inferior copy](http://9gag.com/gag/aXPD206)
+ - ⏩ [Rip](http://9gag.com/gag/aRB5Omj)
  - 👉 [Dayum](http://9gag.com/gag/a5Qm20o)<!-- MEMES:END -->
 
 ---
