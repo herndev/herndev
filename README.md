@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Granny was ready](http://9gag.com/gag/a1mzLD2)
- - ⏩ [Dayum](http://9gag.com/gag/a5Qm20o)
- - 👉 [Lost her rizz](http://9gag.com/gag/agmM4dv)<!-- MEMES:END -->
+ - ⏩ [Lost her rizz](http://9gag.com/gag/agmM4dv)
+ - 👉 [Dayum](http://9gag.com/gag/a5Qm20o)<!-- MEMES:END -->
 
 ---
 
