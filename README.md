@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro was too honest](http://9gag.com/gag/axyxPm1)
+ - 💣 [Granny was ready](http://9gag.com/gag/a1mzLD2)
  - ⏩ [Rip](http://9gag.com/gag/aRB5Omj)
- - 👉 [So very sad.](http://9gag.com/gag/aByqOj2)<!-- MEMES:END -->
+ - 👉 [Im I a inferior copy](http://9gag.com/gag/aXPD206)<!-- MEMES:END -->
 
 ---
 
