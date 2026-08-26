@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rockstar finally responds to &amp;#8216;heartbreaking&amp;#8217; GTA 6 leaks](https://www.theverge.com/games/984959/gta-vi-leaks-rockstar-games-official-statement-heartbreaking)
- - [Microsoft faces investor criticism over opaque financial reporting across capex, its OpenAI deal, and Azure, which is buried in the Intelligent Cloud segment &lpar;Jonathan Weil/Wall Street Journal&rpar;](https://www.techmeme.com/260826/p25#a260826p25)
- - [The second-generation Bose QuietComfort Headphones are good, but don’t stand out](https://www.theverge.com/tech/984764/bose-quietcomfort-headphones-gen-2-review)<!-- TECH:END -->
+ - [Meta says it reached a deal with 51 US AGs, including &quot;strict daily time limits teens can&#39;t turn off&quot;, and calls on TikTok and YouTube to adopt the standards &lpar;Meta Newsroom&rpar;](https://www.techmeme.com/260826/p29#a260826p29)
+ - [Motorola shares all the new features coming with its Android 17 update](https://www.androidauthority.com/motorola-android-17-update-official-changelog-3703287/)
+ - [Meta agrees to heavy restrictions on teen users in major lawsuit settlement](https://www.theverge.com/policy/985032/meta-state-ag-kids-online-safety-settlement)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
