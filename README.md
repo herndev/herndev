@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta says it reached a deal with 51 US AGs, including &quot;strict daily time limits teens can&#39;t turn off&quot;, and calls on TikTok and YouTube to adopt the standards &lpar;Meta Newsroom&rpar;](https://www.techmeme.com/260826/p29#a260826p29)
- - [Motorola shares all the new features coming with its Android 17 update](https://www.androidauthority.com/motorola-android-17-update-official-changelog-3703287/)
- - [Meta agrees to heavy restrictions on teen users in major lawsuit settlement](https://www.theverge.com/policy/985032/meta-state-ag-kids-online-safety-settlement)<!-- TECH:END -->
+ - [Xbox announces disc-to-digital feature that digitizes your physical games](https://www.theverge.com/tech/984936/xbox-disc-to-digital-feature-official)
+ - [Z.ai releases GLM-5.3-Flash, the first natively multimodal GLM-5 series model, with 320B parameters, saying it outperforms GLM-5.2 at &quot;one-tenth the price&quot; &lpar;Z.ai&rpar;](https://www.techmeme.com/260826/p35#a260826p35)
+ - [Sources: Sword Health plans to acquire mental health company Headspace for between $200M and $300M in cash, far below its ~$3B valuation in 2021 &lpar;Brock E.W. Turner/Axios&rpar;](https://www.techmeme.com/260826/p34#a260826p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
