@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel reveals that Xeon 7, aimed at HPC and debuting in 2027, will support up to 256 cores and 22 chiplets, with 16 built on its bleeding-edge 18A-P process &lpar;Tobias Mann/The Register&rpar;](https://www.techmeme.com/260826/p5#a260826p5)
- - [HP signs a multi-year global agreement with Huawei to license certain standard essential Wi-Fi patents, a sign of adoption of Huawei&#39;s technology outside China &lpar;Evelyn Cheng/CNBC&rpar;](https://www.techmeme.com/260826/p4#a260826p4)
- - [Indian AI infrastructure company AM Intelligence orders 9,000 Nvidia Vera Rubin systems and plans to offer 1GW of computing capacity as part of an $8B project &lpar;Saritha Rai/Bloomberg&rpar;](https://www.techmeme.com/260826/p3#a260826p3)<!-- TECH:END -->
+ - [Lenovo’s first Android handheld lets you stream PC games without a network connection](https://www.androidauthority.com/lenovo-c700-android-handheld-3703077/)
+ - [The US AI data center buildout is posing complex challenges to major lenders as they stretch themselves to finance, insure, and underwrite a novel asset class &lpar;Financial Times&rpar;](https://www.techmeme.com/260826/p9#a260826p9)
+ - [Perplexity launches a local AI agent with zero token costs](https://www.androidauthority.com/perplexity-portable-computer-local-ai-agent-3703083/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
