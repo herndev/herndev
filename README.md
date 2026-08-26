@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Digs, which is building AI software for residential construction, raised a $25.3M Series A led by building materials giant Builders FirstSource &lpar;Kurt Schlosser/GeekWire&rpar;](https://www.techmeme.com/260826/p1#a260826p1)
  - [Pennsylvania&#39;s AG sues Snap, alleging Snapchat fails to protect teens from compulsively using the app, two weeks after filing a similar lawsuit against TikTok &lpar;Miranda Nazzaro/The Hill&rpar;](https://www.techmeme.com/260825/p49#a260825p49)
- - [Sources: Meta and state AGs have discussed a possible mid-trial settlement of the social media addiction lawsuit, which is currently in its second week of trial &lpar;Bloomberg&rpar;](https://www.techmeme.com/260825/p48#a260825p48)
- - [AWS says it plans to shut down Mechanical Turk on September 30, 2026, following an assessment; the service, launched in 2005, outsourced tasks to humans &lpar;Annie Palmer/CNBC&rpar;](https://www.techmeme.com/260825/p47#a260825p47)<!-- TECH:END -->
+ - [Sources: Meta and state AGs have discussed a possible mid-trial settlement of the social media addiction lawsuit, which is currently in its second week of trial &lpar;Bloomberg&rpar;](https://www.techmeme.com/260825/p48#a260825p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
