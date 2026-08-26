@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She had no idea back then. And neither did we](http://9gag.com/gag/aKG0OxN)
- - ⏩ [A man called off his wedding because his finance supported Lindsay Clancy](http://9gag.com/gag/aD2pVBB)
+ - 💣 [Granny was ready](http://9gag.com/gag/a1mzLD2)
+ - ⏩ [Dayum](http://9gag.com/gag/a5Qm20o)
  - 👉 [Lost her rizz](http://9gag.com/gag/agmM4dv)<!-- MEMES:END -->
 
 ---
