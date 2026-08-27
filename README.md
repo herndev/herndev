@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Average DEI hired girl](http://9gag.com/gag/aByqOZD)
- - ⏩ [You are not a garage](http://9gag.com/gag/aoyr81n)
+ - 💣 [Bro was too honest](http://9gag.com/gag/axyxPm1)
+ - ⏩ [Devastating flash flood hits Nepal/China border near Rasuwa, sweeps downstream](http://9gag.com/gag/aVvnRv8)
  - 👉 [Husband sleeping in the car in front of the house](http://9gag.com/gag/an7pGKB)<!-- MEMES:END -->
 
 ---
