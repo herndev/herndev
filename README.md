@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Plaud unveils Plaud One, a $250 pair of 4G, eSIM-enabled AI earbuds with coverage in 80+ countries and $200 in AI feature credits; Plaud is making 2,000 units &lpar;Natalie Lung/Bloomberg&rpar;](https://www.techmeme.com/260827/p28#a260827p28)
- - [Plaud’s new earbuds take notes, then take action](https://www.androidauthority.com/plaud-ai-earbuds-take-notes-action-3701242/)
- - [Alienware AW3926QW Review: 39 Inches of Gaming Glory](https://www.wired.com/review/alienware-aw3926qw-gaming-monitor/)<!-- TECH:END -->
+ - [Sources: the FTC has been investigating whether YouTube broke consumer protection laws by violating its own policies when suspending accounts or banning content &lpar;Bloomberg&rpar;](https://www.techmeme.com/260827/p55#a260827p55)
+ - [Sources: Nvidia paused some deals with AI cloud providers in the revenue-sharing program it announced in July; Nvidia says the program is still in place &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260827/p54#a260827p54)
+ - [Sources: Anthropic discussed buying AI chip startup MatX for ~$7B, but talks are no longer active; MatX is now seeking to raise new capital at a ~$4B valuation &lpar;Reuters&rpar;](https://www.techmeme.com/260827/p53#a260827p53)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
