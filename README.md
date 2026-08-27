@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It was a long day](http://9gag.com/gag/ajPbyrw)
+ - 💣 [Are They ? From Bethlehem .](http://9gag.com/gag/avyYdvM)
  - ⏩ [Bad parenting](http://9gag.com/gag/abAPR2r)
- - 👉 [Average DEI hired girl](http://9gag.com/gag/aByqOZD)<!-- MEMES:END -->
+ - 👉 [So very sad.](http://9gag.com/gag/aByqOj2)<!-- MEMES:END -->
 
 ---
 
