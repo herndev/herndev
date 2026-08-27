@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Thinking Machines Lab co-founder Barret Zoph is returning to Google as VP of research, after leaving OpenAI in June and Thinking Machines Lab in January &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260826/p67#a260826p67)
- - [Okta reports Q2 revenue up 11% YoY to $805M, vs. $795M est., net income up 73% YoY to $116M, and raises its full-year guidance; OKTA surges 20% after hours &lpar;Samantha Subin/CNBC&rpar;](https://www.techmeme.com/260826/p66#a260826p66)
- - [Source: Nvidia has agreed to buy Hugging Face for $12.9B &lpar;The Information&rpar;](https://www.techmeme.com/260826/p65#a260826p65)<!-- TECH:END -->
+ - [Plaud unveils Plaud One, a $250 pair of 4G, eSIM-enabled AI earbuds with coverage in 80+ countries and $200 in AI feature credits; Plaud is making 2,000 units &lpar;Natalie Lung/Bloomberg&rpar;](https://www.techmeme.com/260827/p28#a260827p28)
+ - [Plaud’s new earbuds take notes, then take action](https://www.androidauthority.com/plaud-ai-earbuds-take-notes-action-3701242/)
+ - [Alienware AW3926QW Review: 39 Inches of Gaming Glory](https://www.wired.com/review/alienware-aw3926qw-gaming-monitor/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
