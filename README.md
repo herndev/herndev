@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CrowdStrike reports Q2 revenue up 26% YoY to $1.47B, vs. $1.44B est., and forecasts FY 2027 revenue above estimates; CRWD jumps 9%+ after hours &lpar;Jake Bleiberg/Bloomberg&rpar;](https://www.techmeme.com/260826/p56#a260826p56)
- - [Salesforce reports Q2 revenue up 11% YoY to $11.35B, vs. $11.32B est., net income up 87% to $3.5B, forecasts Q3 revenue above est.; CRM jumps 13%+ after hours &lpar;Jordan Novet/CNBC&rpar;](https://www.techmeme.com/260826/p55#a260826p55)
- - [HP reports Q3 revenue up 12.5% YoY to $15.7B, PC revenue up 18% to $11.8B, but units down 16%, and Printing revenue down 2% to $3.9B; HPQ drops 9%+ after hours &lpar;Dina Bass/Bloomberg&rpar;](https://www.techmeme.com/260826/p54#a260826p54)<!-- TECH:END -->
+ - [Thinking Machines Lab co-founder Barret Zoph is returning to Google as VP of research, after leaving OpenAI in June and Thinking Machines Lab in January &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260826/p67#a260826p67)
+ - [Okta reports Q2 revenue up 11% YoY to $805M, vs. $795M est., net income up 73% YoY to $116M, and raises its full-year guidance; OKTA surges 20% after hours &lpar;Samantha Subin/CNBC&rpar;](https://www.techmeme.com/260826/p66#a260826p66)
+ - [Source: Nvidia has agreed to buy Hugging Face for $12.9B &lpar;The Information&rpar;](https://www.techmeme.com/260826/p65#a260826p65)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
