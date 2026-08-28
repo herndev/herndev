@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Quick Shave](https://www.reddit.com/r/funny/comments/1w0jfx8/quick_shave/)
- - ⏩ [Gonna drop this for degenerates](http://9gag.com/gag/ae9oW9p)
- - 👉 [Let me make sure you are not bringing anything safe](http://9gag.com/gag/a0eAO0v)<!-- MEMES:END -->
+ - 💣 [Whamen couldn&#39;t keep their mouth shut if their life depended on it](http://9gag.com/gag/aNDx3qw)
+ - ⏩ [Should have been me.](http://9gag.com/gag/a5QmDry)
+ - 👉 [I love her more each day!](http://9gag.com/gag/a6Zv3X9)<!-- MEMES:END -->
 
 ---
 
