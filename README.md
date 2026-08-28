@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Are They ? From Bethlehem .](http://9gag.com/gag/avyYdvM)
- - ⏩ [Bad parenting](http://9gag.com/gag/abAPR2r)
- - 👉 [So very sad.](http://9gag.com/gag/aByqOj2)<!-- MEMES:END -->
+ - 💣 [Quick Shave](https://www.reddit.com/r/funny/comments/1w0jfx8/quick_shave/)
+ - ⏩ [Gonna drop this for degenerates](http://9gag.com/gag/ae9oW9p)
+ - 👉 [Let me make sure you are not bringing anything safe](http://9gag.com/gag/a0eAO0v)<!-- MEMES:END -->
 
 ---
 
