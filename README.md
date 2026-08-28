@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the FTC has been investigating whether YouTube broke consumer protection laws by violating its own policies when suspending accounts or banning content &lpar;Bloomberg&rpar;](https://www.techmeme.com/260827/p55#a260827p55)
- - [Sources: Nvidia paused some deals with AI cloud providers in the revenue-sharing program it announced in July; Nvidia says the program is still in place &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260827/p54#a260827p54)
- - [Sources: Anthropic discussed buying AI chip startup MatX for ~$7B, but talks are no longer active; MatX is now seeking to raise new capital at a ~$4B valuation &lpar;Reuters&rpar;](https://www.techmeme.com/260827/p53#a260827p53)<!-- TECH:END -->
+ - [The first phone with three 200MP cameras &lpar;!&rpar; is coming soon, and we have high hopes](https://www.androidauthority.com/first-phone-three-200mp-cameras-3704215/)
+ - [Sources: some tech companies are courting Democrats and hiring advisers to prepare for potential investigations if Republicans lose control of the House &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260828/p1#a260828p1)
+ - [Uber Eats Promo Codes: $15 Off │September 2026](https://www.wired.com/story/uber-eats-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
