@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The first phone with three 200MP cameras &lpar;!&rpar; is coming soon, and we have high hopes](https://www.androidauthority.com/first-phone-three-200mp-cameras-3704215/)
- - [Sources: some tech companies are courting Democrats and hiring advisers to prepare for potential investigations if Republicans lose control of the House &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260828/p1#a260828p1)
- - [Uber Eats Promo Codes: $15 Off │September 2026](https://www.wired.com/story/uber-eats-promo-code/)<!-- TECH:END -->
+ - [Now Brief can now tell you what movies you should watch next](https://www.androidauthority.com/now-brief-netflix-recommendations-3704543/)
+ - [Haven’t ordered your Pixel 11 yet? Here’s what your trade-in delay is costing you](https://www.androidauthority.com/pixel-11-trade-values-3704519/)
+ - [Google confirms: Keep lists on Home devices are working again](https://www.androidauthority.com/google-home-keep-lists-glitch-3704554/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
