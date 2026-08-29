@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Now Brief can now tell you what movies you should watch next](https://www.androidauthority.com/now-brief-netflix-recommendations-3704543/)
- - [Haven’t ordered your Pixel 11 yet? Here’s what your trade-in delay is costing you](https://www.androidauthority.com/pixel-11-trade-values-3704519/)
- - [Google confirms: Keep lists on Home devices are working again](https://www.androidauthority.com/google-home-keep-lists-glitch-3704554/)<!-- TECH:END -->
+ - [CXMT sues the Pentagon over its Chinese military company designation, saying it isn&#39;t affiliated with the Chinese military and its chips aren&#39;t for military use &lpar;Reuters&rpar;](https://www.techmeme.com/260828/p29#a260828p29)
+ - [OpenAI says it plans to stop providing its models to Cursor from November 12, as &quot;we cannot be confident that SpaceX will use our technology within our ToS&quot; &lpar;OpenAI&rpar;](https://www.techmeme.com/260828/p28#a260828p28)
+ - [Texas Gov. Greg Abbott orders state agencies to pause funding for Flock cameras; an investigation found an agency allocating $30M+ to build Texas&#39; Flock network &lpar;Ayden Runnels/The Texas Tribune&rpar;](https://www.techmeme.com/260828/p27#a260828p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
