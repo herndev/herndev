@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Whamen couldn&#39;t keep their mouth shut if their life depended on it](http://9gag.com/gag/aNDx3qw)
- - ⏩ [Should have been me.](http://9gag.com/gag/a5QmDry)
- - 👉 [I love her more each day!](http://9gag.com/gag/a6Zv3X9)<!-- MEMES:END -->
+ - 💣 [Stress level: max](http://9gag.com/gag/aE0rEWn)
+ - ⏩ [Nepal floods](http://9gag.com/gag/aAyWNe0)
+ - 👉 [A new weight loss machine getting viral among young women with exceptional satisfaction rate](http://9gag.com/gag/aNDxq73)<!-- MEMES:END -->
 
 ---
 
