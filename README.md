@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CXMT sues the Pentagon over its Chinese military company designation, saying it isn&#39;t affiliated with the Chinese military and its chips aren&#39;t for military use &lpar;Reuters&rpar;](https://www.techmeme.com/260828/p29#a260828p29)
- - [OpenAI says it plans to stop providing its models to Cursor from November 12, as &quot;we cannot be confident that SpaceX will use our technology within our ToS&quot; &lpar;OpenAI&rpar;](https://www.techmeme.com/260828/p28#a260828p28)
- - [Texas Gov. Greg Abbott orders state agencies to pause funding for Flock cameras; an investigation found an agency allocating $30M+ to build Texas&#39; Flock network &lpar;Ayden Runnels/The Texas Tribune&rpar;](https://www.techmeme.com/260828/p27#a260828p27)<!-- TECH:END -->
+ - [Chip design startup Agentrys has raised a $19.1M seed round led by Etna Labs and a $5.4M pre-seed led by MediaTek &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/260830/p12#a260830p12)
+ - [The challenges John Ternus inherits as he replaces Tim Cook on Sept. 1 amid rising component costs, staff retention issues, efforts to catch up in AI, and more &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260830/p11#a260830p11)
+ - [Anthropic signs out some Claude users, removes saved payment methods, and issues refunds after infostealer malware on user PCs hijacked sessions to drain usage &lpar;Mayank Parmar/BleepingComputer&rpar;](https://www.techmeme.com/260830/p10#a260830p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
