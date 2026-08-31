@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Best life &lpar;if you&#39;re poor&rpar;](http://9gag.com/gag/agmMbQ1)
- - ⏩ [You are on the other side of the law](http://9gag.com/gag/adBZWED)
- - 👉 [Christmas classics](http://9gag.com/gag/azxNvKp)<!-- MEMES:END -->
+ - 💣 [Here we go](http://9gag.com/gag/aZZA4e3)
+ - ⏩ [Best life &lpar;if you&#39;re poor&rpar;](http://9gag.com/gag/agmMbQ1)
+ - 👉 [Not a troll, who do you think is right?](http://9gag.com/gag/aQzwK8d)<!-- MEMES:END -->
 
 ---
 
