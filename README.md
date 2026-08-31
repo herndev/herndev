@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stress level: max](http://9gag.com/gag/aE0rEWn)
- - ⏩ [Nepal floods](http://9gag.com/gag/aAyWNe0)
- - 👉 [A new weight loss machine getting viral among young women with exceptional satisfaction rate](http://9gag.com/gag/aNDxq73)<!-- MEMES:END -->
+ - 💣 [Facts are stubborn things](http://9gag.com/gag/a0eADOv)
+ - ⏩ [This is why it&#39;s important to let kids be bored](http://9gag.com/gag/ajPbGb8)
+ - 👉 [Efficiency is clearly not appreciated by everyone](http://9gag.com/gag/adBZW4M)<!-- MEMES:END -->
 
 ---
 
