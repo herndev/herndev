@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Found 9gager\u2019s grandma!](http://9gag.com/gag/a6ZvejA)
- - ⏩ [Christmas classics](http://9gag.com/gag/azxNvKp)
- - 👉 [You are on the other side of the law](http://9gag.com/gag/adBZWED)<!-- MEMES:END -->
+ - 💣 [Best life &lpar;if you&#39;re poor&rpar;](http://9gag.com/gag/agmMbQ1)
+ - ⏩ [You are on the other side of the law](http://9gag.com/gag/adBZWED)
+ - 👉 [Christmas classics](http://9gag.com/gag/azxNvKp)<!-- MEMES:END -->
 
 ---
 
