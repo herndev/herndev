@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Facts are stubborn things](http://9gag.com/gag/a0eADOv)
- - ⏩ [This is why it&#39;s important to let kids be bored](http://9gag.com/gag/ajPbGb8)
- - 👉 [Efficiency is clearly not appreciated by everyone](http://9gag.com/gag/adBZW4M)<!-- MEMES:END -->
+ - 💣 [Found 9gager\u2019s grandma!](http://9gag.com/gag/a6ZvejA)
+ - ⏩ [Christmas classics](http://9gag.com/gag/azxNvKp)
+ - 👉 [You are on the other side of the law](http://9gag.com/gag/adBZWED)<!-- MEMES:END -->
 
 ---
 
