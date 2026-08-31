@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ANBERNIC’s Switch Lite clone launches today for under $150](https://www.androidauthority.com/anbernic-switch-lite-clone-price-3704639/)
- - [Lake Ontario is now ‘Lake America’ on Google Maps, but not for everyone](https://www.androidauthority.com/google-maps-lake-ontario-america-3704644/)
- - [Big Tech reported Q2 &quot;other income&quot; rose significantly to $160B+, driven by investments in AI companies, raising concerns of paper gains overstating the AI boom &lpar;Financial Times&rpar;](https://www.techmeme.com/260831/p5#a260831p5)<!-- TECH:END -->
+ - [Reolink’s 2K wireless 4G LTE security camera gets its first big price drop!](https://www.androidauthority.com/reolink-2k-plus-security-camera-deal-3705029/)
+ - [Galaxy Z Fold 8 is selling so well, Samsung is borrowing parts from the future](https://www.androidauthority.com/samsung-galaxy-z-fold-8-ddi-demand-ramp-up-3704985/)
+ - [Together AI, which serves open models, announces a deal to use compute from Humain in Saudi Arabia, where it can bypass US backlash over data centers &lpar;Niko Gallogly/New York Times&rpar;](https://www.techmeme.com/260831/p21#a260831p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
