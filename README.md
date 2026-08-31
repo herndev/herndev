@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reolink’s 2K wireless 4G LTE security camera gets its first big price drop!](https://www.androidauthority.com/reolink-2k-plus-security-camera-deal-3705029/)
- - [Galaxy Z Fold 8 is selling so well, Samsung is borrowing parts from the future](https://www.androidauthority.com/samsung-galaxy-z-fold-8-ddi-demand-ramp-up-3704985/)
- - [Together AI, which serves open models, announces a deal to use compute from Humain in Saudi Arabia, where it can bypass US backlash over data centers &lpar;Niko Gallogly/New York Times&rpar;](https://www.techmeme.com/260831/p21#a260831p21)<!-- TECH:END -->
+ - [The Pentagon launches ChatGPT Mil and Grok for Government on its GenAI.mil platform, giving its 3M personnel access to AI tools &quot;tailored to warfighter needs&quot; &lpar;Kirsten Korosec/TechCrunch&rpar;](https://www.techmeme.com/260831/p38#a260831p38)
+ - [Best Early Tech Labor Day Sales I’d Shop Myself &lpar;2026&rpar;: AirTags, Dyson, and More](https://www.wired.com/story/early-tech-labor-day-sales-2026/)
+ - [Apple ends hardware support for three Intel MacBook models](https://appleinsider.com/articles/26/08/31/apple-ends-hardware-support-for-three-intel-macbook-models?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
