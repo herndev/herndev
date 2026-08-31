@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chip design startup Agentrys has raised a $19.1M seed round led by Etna Labs and a $5.4M pre-seed led by MediaTek &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/260830/p12#a260830p12)
- - [The challenges John Ternus inherits as he replaces Tim Cook on Sept. 1 amid rising component costs, staff retention issues, efforts to catch up in AI, and more &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260830/p11#a260830p11)
- - [Anthropic signs out some Claude users, removes saved payment methods, and issues refunds after infostealer malware on user PCs hijacked sessions to drain usage &lpar;Mayank Parmar/BleepingComputer&rpar;](https://www.techmeme.com/260830/p10#a260830p10)<!-- TECH:END -->
+ - [ANBERNIC’s Switch Lite clone launches today for under $150](https://www.androidauthority.com/anbernic-switch-lite-clone-price-3704639/)
+ - [Lake Ontario is now ‘Lake America’ on Google Maps, but not for everyone](https://www.androidauthority.com/google-maps-lake-ontario-america-3704644/)
+ - [Big Tech reported Q2 &quot;other income&quot; rose significantly to $160B+, driven by investments in AI companies, raising concerns of paper gains overstating the AI boom &lpar;Financial Times&rpar;](https://www.techmeme.com/260831/p5#a260831p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
