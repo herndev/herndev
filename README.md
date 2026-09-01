@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Aslan, which offers AI agents for the FBI and wider intelligence community that can pose as analysts and undercover spies in online forums, raised $20.8M &lpar;Sam Sabin/Axios&rpar;](https://www.techmeme.com/260901/p37#a260901p37)
- - [Anthropic launches Enterprise Frontier Safeguards to let businesses control how their data is reviewed, stored, and managed, after pushback from customers &lpar;Ashley Capoot/CNBC&rpar;](https://www.techmeme.com/260901/p36#a260901p36)
- - [Anthropic says Fable 5.1 will cost an estimated 25% less than Fable 5 for typical workloads and up to 45% less for highly agentic work &lpar;Rachel Metz/Bloomberg&rpar;](https://www.techmeme.com/260901/p35#a260901p35)<!-- TECH:END -->
+ - [Apple Maps follows Google in renaming Lake Ontario](https://www.theverge.com/tech/987784/apple-maps-lake-america-renaming)
+ - [ECOVACS Deebot X9 Pro Omni deal cuts 44% off the $799.99 RRP](https://www.androidauthority.com/ecovacs-deebot-x9-pro-omni-deal-3705622/)
+ - [Palo Alto Networks reports Q4 revenue up 34% YoY to $3.41B, vs. $3.35B est., and acquires Console, which provides AI-powered IT service management &lpar;Samantha Subin/CNBC&rpar;](https://www.techmeme.com/260901/p49#a260901p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
