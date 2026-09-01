@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&#39;s M5 Pro Mac mini preorder discount extends into September](https://appleinsider.com/articles/26/09/01/amazons-m5-pro-mac-mini-preorder-discount-extends-into-september?utm_source=rss)
- - [Is Proton Mail, VPN, Calendar, and more down for you? Here’s what’s going on](https://www.androidauthority.com/proton-partial-outage-sept-1-3705564/)
- - [Sonos opens its platform to third-party AI assistants, upgrades Sonos 27voice assistant with an in-house LLM, and plans to let users create their own AI agents &lpar;Chris Welch/Bloomberg&rpar;](https://www.techmeme.com/260901/p21#a260901p21)<!-- TECH:END -->
+ - [Aslan, which offers AI agents for the FBI and wider intelligence community that can pose as analysts and undercover spies in online forums, raised $20.8M &lpar;Sam Sabin/Axios&rpar;](https://www.techmeme.com/260901/p37#a260901p37)
+ - [Anthropic launches Enterprise Frontier Safeguards to let businesses control how their data is reviewed, stored, and managed, after pushback from customers &lpar;Ashley Capoot/CNBC&rpar;](https://www.techmeme.com/260901/p36#a260901p36)
+ - [Anthropic says Fable 5.1 will cost an estimated 25% less than Fable 5 for typical workloads and up to 45% less for highly agentic work &lpar;Rachel Metz/Bloomberg&rpar;](https://www.techmeme.com/260901/p35#a260901p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
