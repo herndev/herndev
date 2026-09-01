@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic details security efforts following Claude cyber evaluation incidents, including a weeks-long pause on higher-risk RL and work to curb reward hacking &lpar;Anthropic&rpar;](https://www.techmeme.com/260831/p43#a260831p43)
- - [uGreen NASync DXP4800 Pro review: Sweet spot of price &amp; performance](https://appleinsider.com/articles/26/08/31/ugreen-nasync-dxp4800-pro-review-sweet-spot-of-price-performance?utm_source=rss)
- - [Sources: Anthropic has signed a $35B cloud deal with Nvidia-backed Lambda; Nvidia will hold the lease on and supply chips to a Texas data center built by Hut 8 &lpar;Anissa Gardizy/Wall Street Journal&rpar;](https://www.techmeme.com/260831/p42#a260831p42)<!-- TECH:END -->
+ - [Android Auto gets a fresh new icon before its big redesign](https://www.androidauthority.com/google-android-auto-new-green-icon-3705210/)
+ - [LG Promo Codes and Coupons for September 2026](https://www.wired.com/story/lg-promo-code/)
+ - [50% Off DoorDash Promo Code | September 2026](https://www.wired.com/story/doordash-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
