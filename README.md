@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bruuuuuuh](http://9gag.com/gag/ae9oE6b)
- - ⏩ [Jessica no! No Jessica!](http://9gag.com/gag/a7o4gzz)
- - 👉 [Looks like a trap](http://9gag.com/gag/aoyr6dg)<!-- MEMES:END -->
+ - 💣 [If you ever har Chinese food then you could be one of them..](http://9gag.com/gag/abAPDDp)
+ - ⏩ [Do not compare saaaaar!](http://9gag.com/gag/aPAN0eP)
+ - 👉 [Sweaty!](http://9gag.com/gag/aqy3OnY)<!-- MEMES:END -->
 
 ---
 
