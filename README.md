@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Maps follows Google in renaming Lake Ontario](https://www.theverge.com/tech/987784/apple-maps-lake-america-renaming)
- - [ECOVACS Deebot X9 Pro Omni deal cuts 44% off the $799.99 RRP](https://www.androidauthority.com/ecovacs-deebot-x9-pro-omni-deal-3705622/)
- - [Palo Alto Networks reports Q4 revenue up 34% YoY to $3.41B, vs. $3.35B est., and acquires Console, which provides AI-powered IT service management &lpar;Samantha Subin/CNBC&rpar;](https://www.techmeme.com/260901/p49#a260901p49)<!-- TECH:END -->
+ - [India&#39;s JioHotstar launches internationally without live sports, replacing Hotstar in the UK, Canada, and Singapore; the company says it has 500M+ MAUs in India &lpar;TechCrunch&rpar;](https://www.techmeme.com/260901/p57#a260901p57)
+ - [IPO filing: SB Energy says it has 8.8GW of data center capacity contracted or under construction across Texas and Ohio and a $430B data center segment backlog &lpar;Monique Mulima/Bloomberg&rpar;](https://www.techmeme.com/260901/p56#a260901p56)
+ - [Apple’s iPhone 18 Pro Could Come in Black, but Skip Silver This Year](https://www.cnet.com/tech/mobile/apples-iphone-18-pro-could-come-in-black-but-skip-silver-this-year/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
