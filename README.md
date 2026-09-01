@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You are on the other side of the law](http://9gag.com/gag/adBZWED)
- - ⏩ [Release the tension](http://9gag.com/gag/ajPb3wp)
- - 👉 [Not a troll, who do you think is right?](http://9gag.com/gag/aQzwK8d)<!-- MEMES:END -->
+ - 💣 [Best life &lpar;if you&#39;re poor&rpar;](http://9gag.com/gag/agmMbQ1)
+ - ⏩ [Improve your mobility](http://9gag.com/gag/amojygv)
+ - 👉 [You are on the other side of the law](http://9gag.com/gag/adBZWED)<!-- MEMES:END -->
 
 ---
 
