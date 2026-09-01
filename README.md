@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Pentagon launches ChatGPT Mil and Grok for Government on its GenAI.mil platform, giving its 3M personnel access to AI tools &quot;tailored to warfighter needs&quot; &lpar;Kirsten Korosec/TechCrunch&rpar;](https://www.techmeme.com/260831/p38#a260831p38)
- - [Best Early Tech Labor Day Sales I’d Shop Myself &lpar;2026&rpar;: AirTags, Dyson, and More](https://www.wired.com/story/early-tech-labor-day-sales-2026/)
- - [Apple ends hardware support for three Intel MacBook models](https://appleinsider.com/articles/26/08/31/apple-ends-hardware-support-for-three-intel-macbook-models?utm_source=rss)<!-- TECH:END -->
+ - [Anthropic details security efforts following Claude cyber evaluation incidents, including a weeks-long pause on higher-risk RL and work to curb reward hacking &lpar;Anthropic&rpar;](https://www.techmeme.com/260831/p43#a260831p43)
+ - [uGreen NASync DXP4800 Pro review: Sweet spot of price &amp; performance](https://appleinsider.com/articles/26/08/31/ugreen-nasync-dxp4800-pro-review-sweet-spot-of-price-performance?utm_source=rss)
+ - [Sources: Anthropic has signed a $35B cloud deal with Nvidia-backed Lambda; Nvidia will hold the lease on and supply chips to a Texas data center built by Hut 8 &lpar;Anissa Gardizy/Wall Street Journal&rpar;](https://www.techmeme.com/260831/p42#a260831p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
