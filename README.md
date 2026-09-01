@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jessica no! No Jessica!](http://9gag.com/gag/a7o4gzz)
- - ⏩ [Here we go](http://9gag.com/gag/aZZA4e3)
- - 👉 [You are on the other side of the law](http://9gag.com/gag/adBZWED)<!-- MEMES:END -->
+ - 💣 [Bruuuuuuh](http://9gag.com/gag/ae9oE6b)
+ - ⏩ [Jessica no! No Jessica!](http://9gag.com/gag/a7o4gzz)
+ - 👉 [Looks like a trap](http://9gag.com/gag/aoyr6dg)<!-- MEMES:END -->
 
 ---
 
