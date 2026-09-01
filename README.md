@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Here we go](http://9gag.com/gag/aZZA4e3)
- - ⏩ [Best life &lpar;if you&#39;re poor&rpar;](http://9gag.com/gag/agmMbQ1)
+ - 💣 [You are on the other side of the law](http://9gag.com/gag/adBZWED)
+ - ⏩ [Release the tension](http://9gag.com/gag/ajPb3wp)
  - 👉 [Not a troll, who do you think is right?](http://9gag.com/gag/aQzwK8d)<!-- MEMES:END -->
 
 ---
