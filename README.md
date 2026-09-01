@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s new Extreme Charging on the Pixel 11 Pro XL has a heat problem](https://www.androidauthority.com/pixel-11-pro-extreme-charging-tested-heat-problem-3703479/)
- - [Tim Cook took Apple&#39;s market cap from under $350B in 2011 to $4.6T today, a 2,736% total return, and annual revenue from $157B in FY 2012 to ~$477B in FY 2026 &lpar;Ryan Vlastelica/Bloomberg&rpar;](https://www.techmeme.com/260901/p8#a260901p8)
- - [TP-Link’s first Wi-Fi 8 router is almost here](https://www.theverge.com/gadgets/987277/tplink-wifi-8-archer-8-ultra-availability)<!-- TECH:END -->
+ - [Amazon&#39;s M5 Pro Mac mini preorder discount extends into September](https://appleinsider.com/articles/26/09/01/amazons-m5-pro-mac-mini-preorder-discount-extends-into-september?utm_source=rss)
+ - [Is Proton Mail, VPN, Calendar, and more down for you? Here’s what’s going on](https://www.androidauthority.com/proton-partial-outage-sept-1-3705564/)
+ - [Sonos opens its platform to third-party AI assistants, upgrades Sonos 27voice assistant with an in-house LLM, and plans to let users create their own AI agents &lpar;Chris Welch/Bloomberg&rpar;](https://www.techmeme.com/260901/p21#a260901p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
