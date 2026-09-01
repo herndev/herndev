@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android Auto gets a fresh new icon before its big redesign](https://www.androidauthority.com/google-android-auto-new-green-icon-3705210/)
- - [LG Promo Codes and Coupons for September 2026](https://www.wired.com/story/lg-promo-code/)
- - [50% Off DoorDash Promo Code | September 2026](https://www.wired.com/story/doordash-promo-code/)<!-- TECH:END -->
+ - [Google’s new Extreme Charging on the Pixel 11 Pro XL has a heat problem](https://www.androidauthority.com/pixel-11-pro-extreme-charging-tested-heat-problem-3703479/)
+ - [Tim Cook took Apple&#39;s market cap from under $350B in 2011 to $4.6T today, a 2,736% total return, and annual revenue from $157B in FY 2012 to ~$477B in FY 2026 &lpar;Ryan Vlastelica/Bloomberg&rpar;](https://www.techmeme.com/260901/p8#a260901p8)
+ - [TP-Link’s first Wi-Fi 8 router is almost here](https://www.theverge.com/gadgets/987277/tplink-wifi-8-archer-8-ultra-availability)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
