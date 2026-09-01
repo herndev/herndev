@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you ever har Chinese food then you could be one of them..](http://9gag.com/gag/abAPDDp)
- - ⏩ [Do not compare saaaaar!](http://9gag.com/gag/aPAN0eP)
- - 👉 [Sweaty!](http://9gag.com/gag/aqy3OnY)<!-- MEMES:END -->
+ - 💣 [Cancion del Mariachi](http://9gag.com/gag/aByqzDD)
+ - ⏩ [Hello fellow kids](http://9gag.com/gag/aVvnryw)
+ - 👉 [GTA VI is gonna need a lot to top San Andreas, the most iconic of all Imao](http://9gag.com/gag/a2vBVBZ)<!-- MEMES:END -->
 
 ---
 
