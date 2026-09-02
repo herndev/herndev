@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Austin-based HiddenLayer, which makes security tools to protect AI models, agents, and workflows, raised a $100M Series B led by Delta-v Capital &lpar;Ram Iyer/TechCrunch&rpar;](https://www.techmeme.com/260902/p26#a260902p26)
- - [153 million stolen driver&#39;s license scans expose a growing ID problem](https://appleinsider.com/articles/26/09/02/153-million-stolen-drivers-license-scans-expose-a-growing-id-problem?utm_source=rss)
- - [Save $200 on Apple&#39;s M5 MacBook Air with 32GB RAM, 2TB SSD](https://appleinsider.com/articles/26/09/02/save-200-on-apples-m5-macbook-air-with-32gb-ram-2tb-ssd?utm_source=rss)<!-- TECH:END -->
+ - [Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit](https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/)
+ - [Trump Administration Sides With OpenAI in Publishers’ Copyright Lawsuits](https://www.cnet.com/tech/services-and-software/trump-administration-sides-with-openai-in-publishers-copyright-lawsuits/)
+ - [ICE Plans to Pay $5 Million to Create National Voting Database](https://www.wired.com/story/ice-plans-to-pay-5-million-to-create-national-voting-database/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
