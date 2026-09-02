@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Frontier AI labs are stepping up biological risk testing, which is harder than cybersecurity testing, where capabilities can be tested in digital environments &lpar;Financial Times&rpar;](https://www.techmeme.com/260902/p2#a260902p2)
- - [This new Roomba seals itself to your carpet](https://www.theverge.com/tech/987582/irobot-roomba-max-875-sealforce-robot-vacuum-announced)
- - [Perplexity can now split your tasks between the cloud and local AI to reduce costs](https://www.androidauthority.com/perplexity-hybrid-compute-3705883/)<!-- TECH:END -->
+ - [M6 Mac mini vs M1 Mac mini: Five-year-gap hardware, compared](https://appleinsider.com/inside/mac-mini/vs/m6-mac-mini-vs-m1-mac-mini-five-year-gap-hardware-compared?utm_source=rss)
+ - [Survey: 53% of US adults say they spend too much time on their smartphone and 36% say about the right amount; 70% of ages 18 to 29 report spending too much time &lpar;Pew Research Center&rpar;](https://www.techmeme.com/260902/p15#a260902p15)
+ - [Galaxy S27 Ultra could go Exynos again, and this time, Snapdragon fans might get jealous](https://www.androidauthority.com/galaxy-s27-ultra-exynos-rumor-3706017/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
