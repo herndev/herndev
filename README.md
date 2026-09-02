@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just another reason keanu is the best human on earth](http://9gag.com/gag/a9yQG26)
- - ⏩ [Those poor men.](http://9gag.com/gag/aGy35Q0)
- - 👉 [Nature is healing](http://9gag.com/gag/aByqevD)<!-- MEMES:END -->
+ - 💣 [Procrastination](http://9gag.com/gag/aYQ85Km)
+ - ⏩ [Which one would you come home to?](http://9gag.com/gag/aW4K5zq)
+ - 👉 [Woman refuses to pay after eating her dinner because `it wasn&#39;t done to her liking`](http://9gag.com/gag/awyR2WB)<!-- MEMES:END -->
 
 ---
 
