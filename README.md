@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Muse Spark 1.3 with max reasoning, in limited preview for partners, scores 62 on the Artificial Analysis Intelligence Index, behind only Fable 5.1 and Opus 5 &lpar;@artificialanlys&rpar;](https://www.techmeme.com/260902/p42#a260902p42)
- - [HPE reports Q3 revenue up 34% YoY to $12.2B, vs. $11.9B est., forecasts FY 2026 and FY 2027 sales growth above est., signs a $3.5B server deal with a cloud firm &lpar;Dina Bass/Bloomberg&rpar;](https://www.techmeme.com/260902/p41#a260902p41)
- - [Democrats Have a Plan to Force Trump’s Associates to Cooperate With Investigations](https://www.wired.com/story/democrats-have-a-plan-to-force-trumps-associates-to-cooperate-with-investigations/)<!-- TECH:END -->
+ - [Uber launches London&#39;s first commercial robotaxi service; the vehicles use Wayve&#39;s autonomous driving tech and will initially have human safety drivers &lpar;Andrew J. Hawkins/The Verge&rpar;](https://www.techmeme.com/260902/p45#a260902p45)
+ - [Hate AI Data Centers? Big Tech’s New Ad Campaign Aims to Change Your Mind](https://www.cnet.com/tech/services-and-software/hate-ai-data-centers-big-techs-new-ad-campaign-will-try-to-change-your-mind/)
+ - [Sources: Palo Alto Networks paid $500M in cash and stock to acquire agentic IT support startup Console; PitchBook: Console was valued at $157M before the sale &lpar;Marina Temkin/TechCrunch&rpar;](https://www.techmeme.com/260902/p44#a260902p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
