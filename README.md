@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Woman refuses to pay after eating her dinner because `it wasn&#39;t done to her liking`](http://9gag.com/gag/awyR2WB)
- - ⏩ [Because disney kicked out Nick Gilliard who is the choreographer from prequels](http://9gag.com/gag/abAPDjr)
- - 👉 [GTA VI: India.](http://9gag.com/gag/a9yQGmW)<!-- MEMES:END -->
+ - 💣 [The wonders of physics](http://9gag.com/gag/a6Zv6Pq)
+ - ⏩ [Lord of the Rings and the others](http://9gag.com/gag/apRywwn)
+ - 👉 [Earth is not normal anymore](http://9gag.com/gag/aVvnyjK)<!-- MEMES:END -->
 
 ---
 
