@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [M6 Mac mini vs M1 Mac mini: Five-year-gap hardware, compared](https://appleinsider.com/inside/mac-mini/vs/m6-mac-mini-vs-m1-mac-mini-five-year-gap-hardware-compared?utm_source=rss)
- - [Survey: 53% of US adults say they spend too much time on their smartphone and 36% say about the right amount; 70% of ages 18 to 29 report spending too much time &lpar;Pew Research Center&rpar;](https://www.techmeme.com/260902/p15#a260902p15)
- - [Galaxy S27 Ultra could go Exynos again, and this time, Snapdragon fans might get jealous](https://www.androidauthority.com/galaxy-s27-ultra-exynos-rumor-3706017/)<!-- TECH:END -->
+ - [Austin-based HiddenLayer, which makes security tools to protect AI models, agents, and workflows, raised a $100M Series B led by Delta-v Capital &lpar;Ram Iyer/TechCrunch&rpar;](https://www.techmeme.com/260902/p26#a260902p26)
+ - [153 million stolen driver&#39;s license scans expose a growing ID problem](https://appleinsider.com/articles/26/09/02/153-million-stolen-drivers-license-scans-expose-a-growing-id-problem?utm_source=rss)
+ - [Save $200 on Apple&#39;s M5 MacBook Air with 32GB RAM, 2TB SSD](https://appleinsider.com/articles/26/09/02/save-200-on-apples-m5-macbook-air-with-32gb-ram-2tb-ssd?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
