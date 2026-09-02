@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Procrastination](http://9gag.com/gag/aYQ85Km)
- - ⏩ [Which one would you come home to?](http://9gag.com/gag/aW4K5zq)
- - 👉 [Woman refuses to pay after eating her dinner because `it wasn&#39;t done to her liking`](http://9gag.com/gag/awyR2WB)<!-- MEMES:END -->
+ - 💣 [Just another reason keanu is the best human on earth](http://9gag.com/gag/a9yQG26)
+ - ⏩ [The M-She-U experience](http://9gag.com/gag/aVvn68P)
+ - 👉 [Hope this is appreciated here.](http://9gag.com/gag/ae9o8Yq)<!-- MEMES:END -->
 
 ---
 
