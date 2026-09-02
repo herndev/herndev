@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Back old days](http://9gag.com/gag/a6Zvg2N)
- - ⏩ [Starcraft, Warcraft, Red Alert, Empire Earth, Supreme Commander, Dawn of War and many others rocked the early 2000, yet the genre seems to have died out completely? Best they could do is a remake of classic AOE. Meanwhile turn based games like Civ are still going.](http://9gag.com/gag/aW4Ky5n)
- - 👉 [Well that didn&#39;t stay in Vegas.](http://9gag.com/gag/aByq5Qx)<!-- MEMES:END -->
+ - 💣 [Woman refuses to pay after eating her dinner because `it wasn&#39;t done to her liking`](http://9gag.com/gag/awyR2WB)
+ - ⏩ [Because disney kicked out Nick Gilliard who is the choreographer from prequels](http://9gag.com/gag/abAPDjr)
+ - 👉 [GTA VI: India.](http://9gag.com/gag/a9yQGmW)<!-- MEMES:END -->
 
 ---
 
