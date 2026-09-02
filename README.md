@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit](https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/)
- - [Trump Administration Sides With OpenAI in Publishers’ Copyright Lawsuits](https://www.cnet.com/tech/services-and-software/trump-administration-sides-with-openai-in-publishers-copyright-lawsuits/)
- - [ICE Plans to Pay $5 Million to Create National Voting Database](https://www.wired.com/story/ice-plans-to-pay-5-million-to-create-national-voting-database/)<!-- TECH:END -->
+ - [Muse Spark 1.3 with max reasoning, in limited preview for partners, scores 62 on the Artificial Analysis Intelligence Index, behind only Fable 5.1 and Opus 5 &lpar;@artificialanlys&rpar;](https://www.techmeme.com/260902/p42#a260902p42)
+ - [HPE reports Q3 revenue up 34% YoY to $12.2B, vs. $11.9B est., forecasts FY 2026 and FY 2027 sales growth above est., signs a $3.5B server deal with a cloud firm &lpar;Dina Bass/Bloomberg&rpar;](https://www.techmeme.com/260902/p41#a260902p41)
+ - [Democrats Have a Plan to Force Trump’s Associates to Cooperate With Investigations](https://www.wired.com/story/democrats-have-a-plan-to-force-trumps-associates-to-cooperate-with-investigations/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
