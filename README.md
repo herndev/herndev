@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Cognition is raising around $1B at a ~$47B valuation, up from $26B in May; Cognition received nearly $10B in investor interest &lpar;Bloomberg&rpar;](https://www.techmeme.com/260901/p60#a260901p60)
- - [Anthropic says Fable 5.1 will cost an estimated 25% less than Fable 5 for typical workloads and up to 45% less for highly agentic work &lpar;Zac Hall/9to5Mac&rpar;](https://www.techmeme.com/260901/p59#a260901p59)
- - [Anthropic prices Fable 5.1 at $10/1M input tokens and $50/1M output tokens, unchanged from Fable 5, and cuts cache read pricing by 75% to $0.25/1M tokens &lpar;Frederic Lardinois/The New Stack&rpar;](https://www.techmeme.com/260901/p58#a260901p58)<!-- TECH:END -->
+ - [Frontier AI labs are stepping up biological risk testing, which is harder than cybersecurity testing, where capabilities can be tested in digital environments &lpar;Financial Times&rpar;](https://www.techmeme.com/260902/p2#a260902p2)
+ - [This new Roomba seals itself to your carpet](https://www.theverge.com/tech/987582/irobot-roomba-max-875-sealforce-robot-vacuum-announced)
+ - [Perplexity can now split your tasks between the cloud and local AI to reduce costs](https://www.androidauthority.com/perplexity-hybrid-compute-3705883/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
