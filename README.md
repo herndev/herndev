@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Grace, Beauty, and Elegance of this young woman](http://9gag.com/gag/adBZA4j)
- - ⏩ [If you ever har Chinese food then you could be one of them..](http://9gag.com/gag/abAPDDp)
- - 👉 [The boss arrived](http://9gag.com/gag/aYQ869N)<!-- MEMES:END -->
+ - 💣 [Not today death.](http://9gag.com/gag/a6ZvgBm)
+ - ⏩ [Two women on the jury showed up wearing pink, IN SOLIDARITY.](http://9gag.com/gag/avyYwWE)
+ - 👉 [Woman refuses to pay after eating her dinner because `it wasn&#39;t done to her liking`](http://9gag.com/gag/awyR2WB)<!-- MEMES:END -->
 
 ---
 
