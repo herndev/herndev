@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Loudoun County, Virginia, dubbed &quot;Data Center Alley&quot;, which hosts ~250 data centers and offers a glimpse into data centers&#39; impact on communities &lpar;Lauren Feiner/The Verge&rpar;](https://www.techmeme.com/260902/p48#a260902p48)
- - [Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing](https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/)
- - [Microsoft shifts from three reporting segments to two: Agents and Infra, including Microsoft 365 and Azure, and Devices and Consumer, with Windows and Xbox &lpar;Stephen Nakrosis/Wall Street Journal&rpar;](https://www.techmeme.com/260902/p47#a260902p47)<!-- TECH:END -->
+ - [How organized opposition that toppled a $100B data center project in Virginia&#39;s Prince William County became a blueprint for data center backlash in the US &lpar;Dawn Lim/Bloomberg&rpar;](https://www.techmeme.com/260903/p7#a260903p7)
+ - [The 2026 El Niño Is Being ‘Supersized’ as Impacts Worsen](https://www.wired.com/story/2026-supersized-el-nino-impacts-worsen/)
+ - [Several international law firms are seeking to build bespoke AI tools to gain an edge and protect their IP, while using off-the-shelf AI for everyday tasks &lpar;Nick Huber/Financial Times&rpar;](https://www.techmeme.com/260903/p6#a260903p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
