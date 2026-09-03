@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber launches London&#39;s first commercial robotaxi service; the vehicles use Wayve&#39;s autonomous driving tech and will initially have human safety drivers &lpar;Andrew J. Hawkins/The Verge&rpar;](https://www.techmeme.com/260902/p45#a260902p45)
- - [Hate AI Data Centers? Big Tech’s New Ad Campaign Aims to Change Your Mind](https://www.cnet.com/tech/services-and-software/hate-ai-data-centers-big-techs-new-ad-campaign-will-try-to-change-your-mind/)
- - [Sources: Palo Alto Networks paid $500M in cash and stock to acquire agentic IT support startup Console; PitchBook: Console was valued at $157M before the sale &lpar;Marina Temkin/TechCrunch&rpar;](https://www.techmeme.com/260902/p44#a260902p44)<!-- TECH:END -->
+ - [A look at Loudoun County, Virginia, dubbed &quot;Data Center Alley&quot;, which hosts ~250 data centers and offers a glimpse into data centers&#39; impact on communities &lpar;Lauren Feiner/The Verge&rpar;](https://www.techmeme.com/260902/p48#a260902p48)
+ - [Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing](https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/)
+ - [Microsoft shifts from three reporting segments to two: Agents and Infra, including Microsoft 365 and Azure, and Devices and Consumer, with Windows and Xbox &lpar;Stephen Nakrosis/Wall Street Journal&rpar;](https://www.techmeme.com/260902/p47#a260902p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
