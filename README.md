@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How organized opposition that toppled a $100B data center project in Virginia&#39;s Prince William County became a blueprint for data center backlash in the US &lpar;Dawn Lim/Bloomberg&rpar;](https://www.techmeme.com/260903/p7#a260903p7)
- - [The 2026 El Niño Is Being ‘Supersized’ as Impacts Worsen](https://www.wired.com/story/2026-supersized-el-nino-impacts-worsen/)
- - [Several international law firms are seeking to build bespoke AI tools to gain an edge and protect their IP, while using off-the-shelf AI for everyday tasks &lpar;Nick Huber/Financial Times&rpar;](https://www.techmeme.com/260903/p6#a260903p6)<!-- TECH:END -->
+ - [Sources: neocloud Fluidstack closed a $1.5B round led by Jane Street at an $18B+ valuation; in July, the company announced a $750M round at a $7.5B valuation &lpar;Iain Martin/Forbes&rpar;](https://www.techmeme.com/260903/p16#a260903p16)
+ - [iPhone Air review one year later: More than the sum of its flaws](https://appleinsider.com/articles/26/09/03/iphone-air-review-one-year-later-more-than-the-sum-of-its-flaws?utm_source=rss)
+ - [Roborock expands beyond vacuums and mowers with its first pool-cleaning robot](https://www.androidauthority.com/roborock-pool-cleaning-3706450/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
