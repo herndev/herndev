@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just another reason keanu is the best human on earth](http://9gag.com/gag/a9yQG26)
- - ⏩ [The M-She-U experience](http://9gag.com/gag/aVvn68P)
- - 👉 [Hope this is appreciated here.](http://9gag.com/gag/ae9o8Yq)<!-- MEMES:END -->
+ - 💣 [This needs that Draco Malfoy hate then ok gif](http://9gag.com/gag/an7pPBq)
+ - ⏩ [Can you make it change direction](http://9gag.com/gag/aD2p5qB)
+ - 👉 [Procrastination](http://9gag.com/gag/aYQ85Km)<!-- MEMES:END -->
 
 ---
 
