@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple sued over App Tracking Transparency in $2.7 billion class action](https://appleinsider.com/articles/26/09/03/apple-sued-over-app-tracking-transparency-in-27-billion-class-action?utm_source=rss)
- - [MAMMOTION brings its most capable robot mowers yet to IFA 2026](https://www.androidauthority.com/mammotion-ifa-2026-3705548/)
- - [Google says its AI weather model is getting better](https://www.theverge.com/tech/988921/weather-forecast-ai-model-google-satellite-update)<!-- TECH:END -->
+ - [Apple TV picks up sci-fi thriller &#39;Waffle House Index&#39; in seven-figure deal](https://appleinsider.com/articles/26/09/03/apple-tv-picks-up-sci-fi-thriller-waffle-house-index-in-seven-figure-deal?utm_source=rss)
+ - [Congressman says TikTok backed out of a meeting to avoid child safety questions](https://www.theverge.com/policy/989769/tiktok-house-committee-china-kids-online-safety)
+ - [M4 Macs can share local AI work with PCs using Nvidia PAIR](https://appleinsider.com/articles/26/09/03/m4-macs-can-share-local-ai-work-with-pcs-using-nvidia-pair?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
