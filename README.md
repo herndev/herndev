@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Which one would you come home to?](http://9gag.com/gag/aW4K5zq)
- - ⏩ [That was so close to ending very badly](http://9gag.com/gag/aVvn6O2)
- - 👉 [Not so secret anymore.](http://9gag.com/gag/a2vBXq9)<!-- MEMES:END -->
+ - 💣 [What you thought? It&#39;s rated R for rainbows?](http://9gag.com/gag/awyRWy1)
+ - ⏩ [Telepathic](http://9gag.com/gag/aNDxEo4)
+ - 👉 [That was so close to ending very badly](http://9gag.com/gag/aVvn6O2)<!-- MEMES:END -->
 
 ---
 
