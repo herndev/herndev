@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: neocloud Fluidstack closed a $1.5B round led by Jane Street at an $18B+ valuation; in July, the company announced a $750M round at a $7.5B valuation &lpar;Iain Martin/Forbes&rpar;](https://www.techmeme.com/260903/p16#a260903p16)
- - [iPhone Air review one year later: More than the sum of its flaws](https://appleinsider.com/articles/26/09/03/iphone-air-review-one-year-later-more-than-the-sum-of-its-flaws?utm_source=rss)
- - [Roborock expands beyond vacuums and mowers with its first pool-cleaning robot](https://www.androidauthority.com/roborock-pool-cleaning-3706450/)<!-- TECH:END -->
+ - [Apple sued over App Tracking Transparency in $2.7 billion class action](https://appleinsider.com/articles/26/09/03/apple-sued-over-app-tracking-transparency-in-27-billion-class-action?utm_source=rss)
+ - [MAMMOTION brings its most capable robot mowers yet to IFA 2026](https://www.androidauthority.com/mammotion-ifa-2026-3705548/)
+ - [Google says its AI weather model is getting better](https://www.theverge.com/tech/988921/weather-forecast-ai-model-google-satellite-update)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
