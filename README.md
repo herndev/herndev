@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Video game graphics peaked a decade ago and have been the same since](http://9gag.com/gag/avyYKDO)
- - ⏩ [First victim of A.I.](http://9gag.com/gag/apRyZpB)
- - 👉 [Telepathic](http://9gag.com/gag/aNDxEo4)<!-- MEMES:END -->
+ - 💣 [Backyard Archaeology](http://9gag.com/gag/azxNpnq)
+ - ⏩ [Earth is not normal anymore](http://9gag.com/gag/aVvnyjK)
+ - 👉 [Hero work changing the world one bacteria at a time](http://9gag.com/gag/a7o4xwL)<!-- MEMES:END -->
 
 ---
 
