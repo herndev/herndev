@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [First victim of A.I.](http://9gag.com/gag/apRyZpB)
- - ⏩ [That was so close to ending very badly](http://9gag.com/gag/aVvn6O2)
- - 👉 [Even better](http://9gag.com/gag/a87PxKO)<!-- MEMES:END -->
+ - 💣 [Video game graphics peaked a decade ago and have been the same since](http://9gag.com/gag/avyYKDO)
+ - ⏩ [First victim of A.I.](http://9gag.com/gag/apRyZpB)
+ - 👉 [Telepathic](http://9gag.com/gag/aNDxEo4)<!-- MEMES:END -->
 
 ---
 
