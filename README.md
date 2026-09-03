@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This needs that Draco Malfoy hate then ok gif](http://9gag.com/gag/an7pPBq)
- - ⏩ [Can you make it change direction](http://9gag.com/gag/aD2p5qB)
- - 👉 [Procrastination](http://9gag.com/gag/aYQ85Km)<!-- MEMES:END -->
+ - 💣 [Which one would you come home to?](http://9gag.com/gag/aW4K5zq)
+ - ⏩ [That was so close to ending very badly](http://9gag.com/gag/aVvn6O2)
+ - 👉 [Not so secret anymore.](http://9gag.com/gag/a2vBXq9)<!-- MEMES:END -->
 
 ---
 
