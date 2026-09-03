@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GPT-6 Stole the Show, but Anthropic, Meta and Google Also Had New AI Models This Week](https://www.cnet.com/tech/services-and-software/gpt-6-stole-the-show-but-anthropic-meta-and-google-also-had-new-ai-models-this-week/)
- - [Oura files for a US IPO, reporting a $924.3M net loss on $1.21B in revenue for the nine months ended June 30, vs. a $182.8M net loss on $697.6M a year earlier &lpar;Subrat Patnaik/Bloomberg&rpar;](https://www.techmeme.com/260903/p44#a260903p44)
- - [The New iPhones Could Cost 10-20% More, an Analyst Predicts. Thanks a Lot, RAMageddon](https://www.cnet.com/tech/mobile/the-new-iphones-could-cost-10-20-more-an-analyst-predicts-thanks-a-lot-ramageddon/)<!-- TECH:END -->
+ - [Global chemical giant BASF sues Apple over Face ID tech](https://appleinsider.com/articles/26/09/03/apples-face-id-technology-target-of-latest-lawsuit-from-german-company-basf?utm_source=rss)
+ - [Sources: Index Ventures dropped plans to invest in AI assistant Town after Instinct, which Index is backing, complained about a potential conflict of interest &lpar;Alex Konrad/Upstarts Media&rpar;](https://www.techmeme.com/260903/p47#a260903p47)
+ - [Sources: Crusoe raised $3B+ at a ~$30B post-money valuation; Atreides Management and Valor Equity Partners co-led the round, with Mubadala Capital participating &lpar;Bloomberg&rpar;](https://www.techmeme.com/260903/p46#a260903p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
