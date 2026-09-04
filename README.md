@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I live it when a plan comes together](http://9gag.com/gag/aByqAEz)
- - ⏩ [Irony..](http://9gag.com/gag/aGy3m8z)
- - 👉 [Snoopy gets it](http://9gag.com/gag/ary6YE0)<!-- MEMES:END -->
+ - 💣 [Like where?](http://9gag.com/gag/a3496dr)
+ - ⏩ [The end of a great debate](http://9gag.com/gag/aE0rmje)
+ - 👉 [Ahhh yes, The seks, I do it all the time, 100x a month](http://9gag.com/gag/aYQ89yO)<!-- MEMES:END -->
 
 ---
 
