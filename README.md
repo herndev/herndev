@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hey! Hey!](http://9gag.com/gag/a7o4xRL)
- - ⏩ [Even better](http://9gag.com/gag/a87PxKO)
- - 👉 [First victim of A.I.](http://9gag.com/gag/apRyZpB)<!-- MEMES:END -->
+ - 💣 [French is a funny language.](https://www.reddit.com/r/funny/comments/1w72383/french_is_a_funny_language/)
+ - ⏩ [Never trust a woman with a male best friend](http://9gag.com/gag/azxNWRz)
+ - 👉 [Irony..](http://9gag.com/gag/aGy3m8z)<!-- MEMES:END -->
 
 ---
 
