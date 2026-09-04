@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Please enjoy](http://9gag.com/gag/aMVRo0G)
- - ⏩ [Fed-up judge in the Lindsay Clancy case admonishing jurors who are refusing to follow his instructions to apply the laws as written because they didn&#39;t like how the laws work](http://9gag.com/gag/aGy3mmZ)
- - 👉 [Like where?](http://9gag.com/gag/a3496dr)<!-- MEMES:END -->
+ - 💣 [I live it when a plan comes together](http://9gag.com/gag/aByqAEz)
+ - ⏩ [Irony..](http://9gag.com/gag/aGy3m8z)
+ - 👉 [Snoopy gets it](http://9gag.com/gag/ary6YE0)<!-- MEMES:END -->
 
 ---
 
