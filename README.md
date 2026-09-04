@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Backyard Archaeology](http://9gag.com/gag/azxNpnq)
- - ⏩ [Earth is not normal anymore](http://9gag.com/gag/aVvnyjK)
- - 👉 [Hero work changing the world one bacteria at a time](http://9gag.com/gag/a7o4xwL)<!-- MEMES:END -->
+ - 💣 [Any business that doesn\u2019t take cash deserves no business.](http://9gag.com/gag/aD2pKmZ)
+ - ⏩ [Nature is healing](http://9gag.com/gag/aByqevD)
+ - 👉 [Real magic](http://9gag.com/gag/aByqBLQ)<!-- MEMES:END -->
 
 ---
 
