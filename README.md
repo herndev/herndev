@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Any business that doesn\u2019t take cash deserves no business.](http://9gag.com/gag/aD2pKmZ)
- - ⏩ [Nature is healing](http://9gag.com/gag/aByqevD)
- - 👉 [Real magic](http://9gag.com/gag/aByqBLQ)<!-- MEMES:END -->
+ - 💣 [Hey! Hey!](http://9gag.com/gag/a7o4xRL)
+ - ⏩ [Even better](http://9gag.com/gag/a87PxKO)
+ - 👉 [First victim of A.I.](http://9gag.com/gag/apRyZpB)<!-- MEMES:END -->
 
 ---
 
