@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [French is a funny language.](https://www.reddit.com/r/funny/comments/1w72383/french_is_a_funny_language/)
- - ⏩ [Never trust a woman with a male best friend](http://9gag.com/gag/azxNWRz)
- - 👉 [Irony..](http://9gag.com/gag/aGy3m8z)<!-- MEMES:END -->
+ - 💣 [Please enjoy](http://9gag.com/gag/aMVRo0G)
+ - ⏩ [Fed-up judge in the Lindsay Clancy case admonishing jurors who are refusing to follow his instructions to apply the laws as written because they didn&#39;t like how the laws work](http://9gag.com/gag/aGy3mmZ)
+ - 👉 [Like where?](http://9gag.com/gag/a3496dr)<!-- MEMES:END -->
 
 ---
 
