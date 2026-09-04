@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Global chemical giant BASF sues Apple over Face ID tech](https://appleinsider.com/articles/26/09/03/apples-face-id-technology-target-of-latest-lawsuit-from-german-company-basf?utm_source=rss)
- - [Sources: Index Ventures dropped plans to invest in AI assistant Town after Instinct, which Index is backing, complained about a potential conflict of interest &lpar;Alex Konrad/Upstarts Media&rpar;](https://www.techmeme.com/260903/p47#a260903p47)
- - [Sources: Crusoe raised $3B+ at a ~$30B post-money valuation; Atreides Management and Valor Equity Partners co-led the round, with Mubadala Capital participating &lpar;Bloomberg&rpar;](https://www.techmeme.com/260903/p46#a260903p46)<!-- TECH:END -->
+ - [Tesla says Cybercab rides are available in limited areas of Austin; the two-seater has no steering wheel or pedals, and 45 Cybercabs are registered in Texas &lpar;Reuters&rpar;](https://www.techmeme.com/260903/p49#a260903p49)
+ - [Wikipedia Workers Unionize for the First Time](https://www.wired.com/story/wikipedia-workers-vote-on-whether-to-unionize/)
+ - [AI scientist and Google researcher Ray Kurzweil joins BCI startup Subsense, which develops non-surgical BCI tech involving inhaled nanoparticles, as an advisor &lpar;Alexei Oreskovic/Fortune&rpar;](https://www.techmeme.com/260903/p48#a260903p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
