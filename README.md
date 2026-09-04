@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla says Cybercab rides are available in limited areas of Austin; the two-seater has no steering wheel or pedals, and 45 Cybercabs are registered in Texas &lpar;Reuters&rpar;](https://www.techmeme.com/260903/p49#a260903p49)
- - [Wikipedia Workers Unionize for the First Time](https://www.wired.com/story/wikipedia-workers-vote-on-whether-to-unionize/)
- - [AI scientist and Google researcher Ray Kurzweil joins BCI startup Subsense, which develops non-surgical BCI tech involving inhaled nanoparticles, as an advisor &lpar;Alexei Oreskovic/Fortune&rpar;](https://www.techmeme.com/260903/p48#a260903p48)<!-- TECH:END -->
+ - [Google’s Scam Detection feature is expanding to even more Android brands](https://www.androidauthority.com/google-scam-detection-xiaomi-apk-teardown-3707387/)
+ - [You can finally get your hands on the Stephen Curry special edition Pixel Watch 5](https://www.androidauthority.com/pixel-watch-5-stephen-curry-edition-3707436/)
+ - [Q&amp;A with Jensen Huang and Clément Delangue on the Nvidia-Hugging Face deal, scaling open-source models, the rumored $1B talent retention plan, and more &lpar;CNBC&rpar;](https://www.techmeme.com/260904/p2#a260904p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
