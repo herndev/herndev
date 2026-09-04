@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wokyis G7 Thunderbolt 5 dock - Retro styled, speedy connectivity](https://appleinsider.com/articles/26/09/04/wokyis-g7-thunderbolt-5-dock---retro-styled-speedy-connectivity?utm_source=rss)
- - [Sources: Moonshot may seek to raise $3B to $5B in a planned Hong Kong IPO that could occur as soon as this year &lpar;Bloomberg&rpar;](https://www.techmeme.com/260904/p11#a260904p11)
- - [The Best Dyson Vacuums &lpar;2026&rpar; to Buy—and Some to Avoid](https://www.wired.com/gallery/best-dyson-vacuums/)<!-- TECH:END -->
+ - [By declaring GPT-6 Astra to be AGI, OpenAI is being flippant and cementing the term&#39;s status as nothing more than marketing &lpar;M.G. Siegler/Spyglass&rpar;](https://www.techmeme.com/260904/p18#a260904p18)
+ - [Who Cares if AI Is Conscious—It’s Basically Alive](https://www.wired.com/story/who-cares-if-ai-is-conscious-its-basically-alive/)
+ - [Alienware’s refurbished 16 Aurora is almost $200 off at Woot](https://www.theverge.com/gadgets/989407/alienware-gaming-laptop-capsule-dishwasher-samsung-oled-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
