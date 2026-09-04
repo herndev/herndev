@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s Scam Detection feature is expanding to even more Android brands](https://www.androidauthority.com/google-scam-detection-xiaomi-apk-teardown-3707387/)
- - [You can finally get your hands on the Stephen Curry special edition Pixel Watch 5](https://www.androidauthority.com/pixel-watch-5-stephen-curry-edition-3707436/)
- - [Q&amp;A with Jensen Huang and Clément Delangue on the Nvidia-Hugging Face deal, scaling open-source models, the rumored $1B talent retention plan, and more &lpar;CNBC&rpar;](https://www.techmeme.com/260904/p2#a260904p2)<!-- TECH:END -->
+ - [Wokyis G7 Thunderbolt 5 dock - Retro styled, speedy connectivity](https://appleinsider.com/articles/26/09/04/wokyis-g7-thunderbolt-5-dock---retro-styled-speedy-connectivity?utm_source=rss)
+ - [Sources: Moonshot may seek to raise $3B to $5B in a planned Hong Kong IPO that could occur as soon as this year &lpar;Bloomberg&rpar;](https://www.techmeme.com/260904/p11#a260904p11)
+ - [The Best Dyson Vacuums &lpar;2026&rpar; to Buy—and Some to Avoid](https://www.wired.com/gallery/best-dyson-vacuums/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
