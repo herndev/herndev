@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google wants to let you use your phone as a remote Googlebook trackpad](https://www.androidauthority.com/googlebook-trackpad-3707888/)
- - [Tesla’s Cybercab Opened Up to Riders — and the Feds Opened an Investigation](https://www.cnet.com/roadshow/automobiles/tesla-cybercab-launch-investigation/)
- - [Withings’ ‘Thermometer of the Future’ Is Getting an AI Analysis Upgrade](https://www.cnet.com/health/medical/withings-thermometer-of-the-future-getting-ai-analysis-upgrade/)<!-- TECH:END -->
+ - [Sources: the US and China will discuss AI safety risks during talks planned for mid-September, with Treasury Secretary Scott Bessent leading the US side &lpar;Laurie Chen/Reuters&rpar;](https://www.techmeme.com/260904/p32#a260904p32)
+ - [Sources: Anthropic is expected to make its IPO prospectus public late September and complete the listing days before the US midterm elections in November &lpar;Echo Wang/Reuters&rpar;](https://www.techmeme.com/260904/p31#a260904p31)
+ - [Apple’s Foldable iPhone Ultra Launch May Be Days Away, if You Can Get One](https://www.cnet.com/tech/mobile/iphone-fold-what-we-know-so-far-about-apples-2026-foldable-before-september-9/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
