@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Like where?](http://9gag.com/gag/a3496dr)
- - ⏩ [The end of a great debate](http://9gag.com/gag/aE0rmje)
+ - 💣 [Familyzoned](http://9gag.com/gag/aE0rLve)
+ - ⏩ [I like them cold](http://9gag.com/gag/awyREEx)
  - 👉 [Ahhh yes, The seks, I do it all the time, 100x a month](http://9gag.com/gag/aYQ89yO)<!-- MEMES:END -->
 
 ---
