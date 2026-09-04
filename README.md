@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [By declaring GPT-6 Astra to be AGI, OpenAI is being flippant and cementing the term&#39;s status as nothing more than marketing &lpar;M.G. Siegler/Spyglass&rpar;](https://www.techmeme.com/260904/p18#a260904p18)
- - [Who Cares if AI Is Conscious—It’s Basically Alive](https://www.wired.com/story/who-cares-if-ai-is-conscious-its-basically-alive/)
- - [Alienware’s refurbished 16 Aurora is almost $200 off at Woot](https://www.theverge.com/gadgets/989407/alienware-gaming-laptop-capsule-dishwasher-samsung-oled-deal-sale)<!-- TECH:END -->
+ - [Gemini hands Lyria 3.5 the mic as the music model makes its debut on the app](https://www.androidauthority.com/latest-lyria-model-comes-to-gemini-app-3707842/)
+ - [Deal: This 4K dual dash cam with GPS just fell to $89.97](https://www.androidauthority.com/70mai-a810-lite-4k-dash-cam-deal-3707861/)
+ - [OpenAI says it can&#39;t read all of Astra&#39;s reasoning and admits covert sandbagging would likely go uncaught, yet still calls it the world&#39;s most aligned model &lpar;Celia Ford/Transformer&rpar;](https://www.techmeme.com/260904/p24#a260904p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
