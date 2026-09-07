@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dawg! what do you mean WE? You on this alone](http://9gag.com/gag/ajPb26G)
- - ⏩ [Stroke my chin real slow when I&#39;m lyin&#39;... And I was laughing super hard as Darnell was dyin&#39;!](http://9gag.com/gag/aryP126)
- - 👉 [My stick&#39;s better than yours!](http://9gag.com/gag/a9y3jYL)<!-- MEMES:END -->
+ - 💣 [Watch out buddy](http://9gag.com/gag/aByqDo2)
+ - ⏩ [Norway&#39;s Prime Minister rips apart Trump&#39;s letter](http://9gag.com/gag/aW4KVYA)
+ - 👉 [Ok guys... feel free to confessss](http://9gag.com/gag/aQzwYBq)<!-- MEMES:END -->
 
 ---
 
