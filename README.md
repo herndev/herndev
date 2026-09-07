@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A women using logic?](http://9gag.com/gag/aD2pp4G)
- - ⏩ [History teacher final boss](http://9gag.com/gag/azxN6bb)
- - 👉 [\u200e \u200e \u200e \u200e \u200e \u200e\u200e \u200e \u200e \u200e \u200e \u200e](http://9gag.com/gag/ajPbb4R)<!-- MEMES:END -->
+ - 💣 [Women Logic](http://9gag.com/gag/amojDov)
+ - ⏩ [Power of collective loyalty](http://9gag.com/gag/aE0rerx)
+ - 👉 [God forbid a woman sit in Starbucks all day every day to use their wifi without ordering anything](http://9gag.com/gag/aqy33bZ)<!-- MEMES:END -->
 
 ---
 
