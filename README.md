@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the US and China will discuss AI safety risks during talks planned for mid-September, with Treasury Secretary Scott Bessent leading the US side &lpar;Laurie Chen/Reuters&rpar;](https://www.techmeme.com/260904/p32#a260904p32)
- - [Sources: Anthropic is expected to make its IPO prospectus public late September and complete the listing days before the US midterm elections in November &lpar;Echo Wang/Reuters&rpar;](https://www.techmeme.com/260904/p31#a260904p31)
- - [Apple’s Foldable iPhone Ultra Launch May Be Days Away, if You Can Get One](https://www.cnet.com/tech/mobile/iphone-fold-what-we-know-so-far-about-apples-2026-foldable-before-september-9/)<!-- TECH:END -->
+ - [How Inspur, a blacklisted China-owned company, is bypassing US export restrictions on advanced AI chips via a network of new subsidiaries and partners &lpar;New York Times&rpar;](https://www.techmeme.com/260906/p10#a260906p10)
+ - [Seattle Times and Newsday sue OpenAI and Microsoft for infringement](https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft)
+ - [Sources: UBS requires AI skills when hiring junior investment bankers, making it one of the first major financial institutions to explicitly require AI literacy &lpar;Simon Foy/Financial Times&rpar;](https://www.techmeme.com/260906/p9#a260906p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
