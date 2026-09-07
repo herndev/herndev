@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hunter Biden teases a $LAPTOP memecoin launch on September 9; sources: it will launch on Base, and some tokens will be sent to wallets that lost money on $TRUMP &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](https://www.techmeme.com/260907/p19#a260907p19)
- - [Retroid takes on Nintendo nostalgia with new dual-screen Android handheld](https://www.androidauthority.com/retroid-pocket-duo-teaser-3708592/)
- - [&#39;Cupertino&#39; legal drama doesn&#39;t represent region demographics, landmarks, or reality](https://appleinsider.com/articles/26/09/07/cupertino-legal-drama-isnt-representative-region-demographics-landmarks-or-reality?utm_source=rss)<!-- TECH:END -->
+ - [Le Creuset x Star Trek Collection: Prices, availability, release date](https://www.wired.com/story/to-boldly-dough-le-creuset-sent-its-new-star-trek-cooking-collection-into-space/)
+ - [Robinhood secures its first IPO underwriting role, in Oura&#39;s IPO, which could give it more influence over how many shares are allocated to its customers &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260907/p20#a260907p20)
+ - [Hunter Biden teases a $LAPTOP memecoin launch on September 9; sources: it will launch on Base, and some tokens will be sent to wallets that lost money on $TRUMP &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](https://www.techmeme.com/260907/p19#a260907p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
