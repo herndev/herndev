@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is iKairos a Robot, or Jewelry? It’s Both, and It Wants to Be Your Ever-Present AI Memory Keeper](https://www.cnet.com/tech/computing/ikairos-wearable-ai-robot/)
- - [The latest Wide Fold is here and has everything the Galaxy Z Fold 8 lacks](https://www.androidauthority.com/xiaomi-18-fold-launched-3708357/)
- - [A look at Anthropic&#39;s Labs team, a ~20-person group led by cofounder Ben Mann that acts as an internal startup incubator for developing flagship products &lpar;Stephen Council/Business Insider&rpar;](https://www.techmeme.com/260907/p10#a260907p10)<!-- TECH:END -->
+ - [Apple TV&#39;s dystopian drama &#39;Silo&#39; could live on with a rumored spinoff](https://appleinsider.com/articles/26/09/07/apple-tvs-dystopian-drama-silo-could-live-on-with-a-rumored-spinoff?utm_source=rss)
+ - [JMGO’s New Projectors Go Big on Brightness and Refresh Rate. I Had a Look at IFA 2026](https://www.cnet.com/tech/home-entertainment/jmgos-new-projectors-go-big-on-brightness-and-refresh-rate/)
+ - [Astra working with Blender via computer use feels like magic, showing computer use could be the fourth demand wave after chatbots, reasoning, and agentic coding &lpar;Tae Kim/Key Context&rpar;](https://www.techmeme.com/260907/p17#a260907p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
