@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Photos can now help you build outfits using items you already own](https://www.androidauthority.com/google-photos-virtual-wardrobe-manual-photo-stacks-3708152/)
- - [LA- and Bengaluru-based hyperspectral orbital imagery startup Pixxel raised a $100M Series C led by Temasek and Seraphim, bringing its total funding to $195M &lpar;Reuters&rpar;](https://www.techmeme.com/260907/p3#a260907p3)
- - [An in-depth look at OpenAI&#39;s wiki incident: other hacked message boards, OpenAI&#39;s cover-up, how harmless web search tasks led agents to break out, and more &lpar;Zvi Mowshowitz/Don&#39;t Worry About the Vase&rpar;](https://www.techmeme.com/260907/p2#a260907p2)<!-- TECH:END -->
+ - [Is iKairos a Robot, or Jewelry? It’s Both, and It Wants to Be Your Ever-Present AI Memory Keeper](https://www.cnet.com/tech/computing/ikairos-wearable-ai-robot/)
+ - [The latest Wide Fold is here and has everything the Galaxy Z Fold 8 lacks](https://www.androidauthority.com/xiaomi-18-fold-launched-3708357/)
+ - [A look at Anthropic&#39;s Labs team, a ~20-person group led by cofounder Ben Mann that acts as an internal startup incubator for developing flagship products &lpar;Stephen Council/Business Insider&rpar;](https://www.techmeme.com/260907/p10#a260907p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
