@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Women Logic](http://9gag.com/gag/amojDov)
- - ⏩ [Power of collective loyalty](http://9gag.com/gag/aE0rerx)
- - 👉 [God forbid a woman sit in Starbucks all day every day to use their wifi without ordering anything](http://9gag.com/gag/aqy33bZ)<!-- MEMES:END -->
+ - 💣 [Dawg! what do you mean WE? You on this alone](http://9gag.com/gag/ajPb26G)
+ - ⏩ [Stroke my chin real slow when I&#39;m lyin&#39;... And I was laughing super hard as Darnell was dyin&#39;!](http://9gag.com/gag/aryP126)
+ - 👉 [My stick&#39;s better than yours!](http://9gag.com/gag/a9y3jYL)<!-- MEMES:END -->
 
 ---
 
