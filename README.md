@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Inspur, a blacklisted China-owned company, is bypassing US export restrictions on advanced AI chips via a network of new subsidiaries and partners &lpar;New York Times&rpar;](https://www.techmeme.com/260906/p10#a260906p10)
- - [Seattle Times and Newsday sue OpenAI and Microsoft for infringement](https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft)
- - [Sources: UBS requires AI skills when hiring junior investment bankers, making it one of the first major financial institutions to explicitly require AI literacy &lpar;Simon Foy/Financial Times&rpar;](https://www.techmeme.com/260906/p9#a260906p9)<!-- TECH:END -->
+ - [Google Photos can now help you build outfits using items you already own](https://www.androidauthority.com/google-photos-virtual-wardrobe-manual-photo-stacks-3708152/)
+ - [LA- and Bengaluru-based hyperspectral orbital imagery startup Pixxel raised a $100M Series C led by Temasek and Seraphim, bringing its total funding to $195M &lpar;Reuters&rpar;](https://www.techmeme.com/260907/p3#a260907p3)
+ - [An in-depth look at OpenAI&#39;s wiki incident: other hacked message boards, OpenAI&#39;s cover-up, how harmless web search tasks led agents to break out, and more &lpar;Zvi Mowshowitz/Don&#39;t Worry About the Vase&rpar;](https://www.techmeme.com/260907/p2#a260907p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
