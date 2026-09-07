@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV&#39;s dystopian drama &#39;Silo&#39; could live on with a rumored spinoff](https://appleinsider.com/articles/26/09/07/apple-tvs-dystopian-drama-silo-could-live-on-with-a-rumored-spinoff?utm_source=rss)
- - [JMGO’s New Projectors Go Big on Brightness and Refresh Rate. I Had a Look at IFA 2026](https://www.cnet.com/tech/home-entertainment/jmgos-new-projectors-go-big-on-brightness-and-refresh-rate/)
- - [Astra working with Blender via computer use feels like magic, showing computer use could be the fourth demand wave after chatbots, reasoning, and agentic coding &lpar;Tae Kim/Key Context&rpar;](https://www.techmeme.com/260907/p17#a260907p17)<!-- TECH:END -->
+ - [Hunter Biden teases a $LAPTOP memecoin launch on September 9; sources: it will launch on Base, and some tokens will be sent to wallets that lost money on $TRUMP &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](https://www.techmeme.com/260907/p19#a260907p19)
+ - [Retroid takes on Nintendo nostalgia with new dual-screen Android handheld](https://www.androidauthority.com/retroid-pocket-duo-teaser-3708592/)
+ - [&#39;Cupertino&#39; legal drama doesn&#39;t represent region demographics, landmarks, or reality](https://appleinsider.com/articles/26/09/07/cupertino-legal-drama-isnt-representative-region-demographics-landmarks-or-reality?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
