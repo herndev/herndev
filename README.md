@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Familyzoned](http://9gag.com/gag/aE0rLve)
- - ⏩ [I like them cold](http://9gag.com/gag/awyREEx)
- - 👉 [Ahhh yes, The seks, I do it all the time, 100x a month](http://9gag.com/gag/aYQ89yO)<!-- MEMES:END -->
+ - 💣 [That&#39;s my Portuguese neighbor](http://9gag.com/gag/aLnYyeM)
+ - ⏩ [Behind the scenes: Mystique body painting](http://9gag.com/gag/aYQ88gq)
+ - 👉 [God forbid a woman sit in Starbucks all day every day to use their wifi without ordering anything](http://9gag.com/gag/aqy33bZ)<!-- MEMES:END -->
 
 ---
 
