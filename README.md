@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grindr pays £26M to settle a 2024 UK lawsuit that alleged it shared users&#39; HIV status with ad firms, in breach of UK law &lpar;Julia Kollewe/The Guardian&rpar;](https://www.techmeme.com/260907/p21#a260907p21)
- - [Le Creuset x Star Trek Collection: Prices, availability, release date](https://www.wired.com/story/to-boldly-dough-le-creuset-sent-its-new-star-trek-cooking-collection-into-space/)
- - [Robinhood secures its first IPO underwriting role, in Oura&#39;s IPO, which could give it more influence over how many shares are allocated to its customers &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260907/p20#a260907p20)<!-- TECH:END -->
+ - [Meta wants you to trust its Muse AI with your calendar, reminders, and bank accounts](https://www.androidauthority.com/meta-muse-agentic-ai-report-3708619/)
+ - [Mistral raised a €3B Series D led by Samsung at a €21B valuation, up from €11.7B a year ago, as it expands into data centers beyond developing AI models &lpar;Adam Satariano/New York Times&rpar;](https://www.techmeme.com/260908/p4#a260908p4)
+ - [Arm debuts Neoverse CSS N4, its next-gen semi-custom chip design platform, and says it supports 8 to 128 Neoverse N4 cores at up to 3.8 GHz on TSMC&#39;s N3P node &lpar;Jake Roach/Tom&#39;s Hardware&rpar;](https://www.techmeme.com/260908/p3#a260908p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
