@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI launches ChatGPT Images 2.5, which it says cuts image generation latency by up to 50% vs. Images 2.0, and adds a Sketch feature for drawing in ChatGPT &lpar;Ina Fried/Axios&rpar;](https://www.techmeme.com/260908/p34#a260908p34)
- - [OpenAI&#39;s Sébastien Bubeck says he never asked for removal of Levent Alpöge from authorship of the work Alpöge and Tristan Buckmaster did on Navier-Stokes &lpar;Sebastien Bubeck/@sebastienbubeck&rpar;](https://www.techmeme.com/260908/p33#a260908p33)
- - [Apple TV 4K may get Siri AI, thanks to the A19 or A19 Pro chip](https://appleinsider.com/articles/26/09/08/apple-tv-4k-may-get-siri-ai-thanks-to-the-a19-or-a19-pro-chip?utm_source=rss)<!-- TECH:END -->
+ - [Ireland&#39;s media watchdog investigates X over concerns about age assurance measures and parental controls, the first formal probe under the Online Safety Code &lpar;Brian O&#39;Donovan/RTÉ&rpar;](https://www.techmeme.com/260908/p43#a260908p43)
+ - [Sony isn’t phasing out discs quite as quickly as we thought](https://www.theverge.com/games/991806/sony-disc-plant-90-percent-10-percent)
+ - [Block says it has submitted an application to US regulators to establish a federally regulated, uninsured national trust bank called Builders Bank &amp; Trust &lpar;Elias Schisgall/Wall Street Journal&rpar;](https://www.techmeme.com/260908/p42#a260908p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
