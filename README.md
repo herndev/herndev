@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don&#39;t say &#39;good morning&#39; to people in Bronx](http://9gag.com/gag/ae9Xjnp)
- - ⏩ [Cowabunga it is](http://9gag.com/gag/apReKnn)
- - 👉 [The GOAT of apps Thank you to the creator](http://9gag.com/gag/aoyBEZ2)<!-- MEMES:END -->
+ - 💣 [Heavily Guarded Cheese](https://www.reddit.com/r/funny/comments/1wb2mdw/heavily_guarded_cheese/)
+ - ⏩ [Valve](http://9gag.com/gag/aXP80Y2)
+ - 👉 [Don&#39;t say &#39;good morning&#39; to people in Bronx](http://9gag.com/gag/ae9Xjnp)<!-- MEMES:END -->
 
 ---
 
