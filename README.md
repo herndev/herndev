@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;ll keep you posted once we open it.](http://9gag.com/gag/a7o4jRz)
- - ⏩ [Cowabunga it is](http://9gag.com/gag/apReKnn)
- - 👉 [That&#39;s enough reason for me to watch it.](http://9gag.com/gag/aQzY6Y2)<!-- MEMES:END -->
+ - 💣 [Equality is hard](http://9gag.com/gag/amoDqXV)
+ - ⏩ [I&#39;ll keep you posted once we open it.](http://9gag.com/gag/a7o4jRz)
+ - 👉 [Women Logic](http://9gag.com/gag/amojDov)<!-- MEMES:END -->
 
 ---
 
