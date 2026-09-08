@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: Grab the compact Anker 13-in-1 Nano laptop dock for just $112](https://www.androidauthority.com/anker-nano-laptop-docking-station-deal-3708881/)
- - [Pusheen’s first game is coming to Apple Arcade](https://www.theverge.com/games/991398/pusheen-apple-arcade-game)
- - [Circle agrees to acquire Singapore-based cross-border B2B payments company Tazapay for $400M, in one of its largest publicly disclosed acquisitions to date &lpar;Francisco Rodrigues/CoinDesk&rpar;](https://www.techmeme.com/260908/p24#a260908p24)<!-- TECH:END -->
+ - [OpenAI launches ChatGPT Images 2.5, which it says cuts image generation latency by up to 50% vs. Images 2.0, and adds a Sketch feature for drawing in ChatGPT &lpar;Ina Fried/Axios&rpar;](https://www.techmeme.com/260908/p34#a260908p34)
+ - [OpenAI&#39;s Sébastien Bubeck says he never asked for removal of Levent Alpöge from authorship of the work Alpöge and Tristan Buckmaster did on Navier-Stokes &lpar;Sebastien Bubeck/@sebastienbubeck&rpar;](https://www.techmeme.com/260908/p33#a260908p33)
+ - [Apple TV 4K may get Siri AI, thanks to the A19 or A19 Pro chip](https://appleinsider.com/articles/26/09/08/apple-tv-4k-may-get-siri-ai-thanks-to-the-a19-or-a19-pro-chip?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
