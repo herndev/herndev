@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Equality is hard](http://9gag.com/gag/amoDqXV)
- - ⏩ [I&#39;ll keep you posted once we open it.](http://9gag.com/gag/a7o4jRz)
- - 👉 [Women Logic](http://9gag.com/gag/amojDov)<!-- MEMES:END -->
+ - 💣 [A woman with four kids called her child\u2019s father for help. He showed up with food \u2014 for his son only.](http://9gag.com/gag/a34oPMQ)
+ - ⏩ [Cowabunga it is](http://9gag.com/gag/apReKnn)
+ - 👉 [NGL, I&#39;d watch this](http://9gag.com/gag/a9yQ34o)<!-- MEMES:END -->
 
 ---
 
