@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A woman with four kids called her child\u2019s father for help. He showed up with food \u2014 for his son only.](http://9gag.com/gag/a34oPMQ)
- - ⏩ [Cowabunga it is](http://9gag.com/gag/apReKnn)
- - 👉 [NGL, I&#39;d watch this](http://9gag.com/gag/a9yQ34o)<!-- MEMES:END -->
+ - 💣 [Stroke my chin real slow when I&#39;m lyin&#39;... And I was laughing super hard as Darnell was dyin&#39;!](http://9gag.com/gag/aryP126)
+ - ⏩ [The GOAT of apps Thank you to the creator](http://9gag.com/gag/aoyBEZ2)
+ - 👉 [Big deal. I\u2019ve peed out my ass before](http://9gag.com/gag/aMVRpRA)<!-- MEMES:END -->
 
 ---
 
