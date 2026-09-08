@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta wants you to trust its Muse AI with your calendar, reminders, and bank accounts](https://www.androidauthority.com/meta-muse-agentic-ai-report-3708619/)
- - [Mistral raised a €3B Series D led by Samsung at a €21B valuation, up from €11.7B a year ago, as it expands into data centers beyond developing AI models &lpar;Adam Satariano/New York Times&rpar;](https://www.techmeme.com/260908/p4#a260908p4)
- - [Arm debuts Neoverse CSS N4, its next-gen semi-custom chip design platform, and says it supports 8 to 128 Neoverse N4 cores at up to 3.8 GHz on TSMC&#39;s N3P node &lpar;Jake Roach/Tom&#39;s Hardware&rpar;](https://www.techmeme.com/260908/p3#a260908p3)<!-- TECH:END -->
+ - [Apple acquires brain imaging firm for health and accessibility features](https://appleinsider.com/articles/26/09/08/apple-acquires-brain-imaging-firm-for-health-and-accessibility-features?utm_source=rss)
+ - [Google is finally undoing this annoying Now Playing downgrade on Pixels](https://www.androidauthority.com/pixel-now-playing-notifications-restored-3708730/)
+ - [Forus, which uses AI to help patients get prescribed drugs more quickly by navigating steps like insurance coverage, raised a $150M Series C at a $3B valuation &lpar;Micah Barkley/Bloomberg&rpar;](https://www.techmeme.com/260908/p12#a260908p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
