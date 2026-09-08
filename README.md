@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple acquires brain imaging firm for health and accessibility features](https://appleinsider.com/articles/26/09/08/apple-acquires-brain-imaging-firm-for-health-and-accessibility-features?utm_source=rss)
- - [Google is finally undoing this annoying Now Playing downgrade on Pixels](https://www.androidauthority.com/pixel-now-playing-notifications-restored-3708730/)
- - [Forus, which uses AI to help patients get prescribed drugs more quickly by navigating steps like insurance coverage, raised a $150M Series C at a $3B valuation &lpar;Micah Barkley/Bloomberg&rpar;](https://www.techmeme.com/260908/p12#a260908p12)<!-- TECH:END -->
+ - [Deal: Grab the compact Anker 13-in-1 Nano laptop dock for just $112](https://www.androidauthority.com/anker-nano-laptop-docking-station-deal-3708881/)
+ - [Pusheen’s first game is coming to Apple Arcade](https://www.theverge.com/games/991398/pusheen-apple-arcade-game)
+ - [Circle agrees to acquire Singapore-based cross-border B2B payments company Tazapay for $400M, in one of its largest publicly disclosed acquisitions to date &lpar;Francisco Rodrigues/CoinDesk&rpar;](https://www.techmeme.com/260908/p24#a260908p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
