@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Glug! glug!](http://9gag.com/gag/a87rdxO)
- - ⏩ [Stroke my chin real slow when I&#39;m lyin&#39;... And I was laughing super hard as Darnell was dyin&#39;!](http://9gag.com/gag/aryP126)
- - 👉 [King is back](http://9gag.com/gag/a0eAmEO)<!-- MEMES:END -->
+ - 💣 [I&#39;ll keep you posted once we open it.](http://9gag.com/gag/a7o4jRz)
+ - ⏩ [Cowabunga it is](http://9gag.com/gag/apReKnn)
+ - 👉 [That&#39;s enough reason for me to watch it.](http://9gag.com/gag/aQzY6Y2)<!-- MEMES:END -->
 
 ---
 
