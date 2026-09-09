@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ireland&#39;s media watchdog investigates X over concerns about age assurance measures and parental controls, the first formal probe under the Online Safety Code &lpar;Brian O&#39;Donovan/RTÉ&rpar;](https://www.techmeme.com/260908/p43#a260908p43)
- - [Sony isn’t phasing out discs quite as quickly as we thought](https://www.theverge.com/games/991806/sony-disc-plant-90-percent-10-percent)
- - [Block says it has submitted an application to US regulators to establish a federally regulated, uninsured national trust bank called Builders Bank &amp; Trust &lpar;Elias Schisgall/Wall Street Journal&rpar;](https://www.techmeme.com/260908/p42#a260908p42)<!-- TECH:END -->
+ - [Anthropic researcher Jacob Coxon says he is quitting the AI industry over fears that tech companies are racing to build systems they won&#39;t be able to control &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](https://www.techmeme.com/260908/p47#a260908p47)
+ - [New product identifiers show up in Apple&#39;s backend, don&#39;t indicate release timing](https://appleinsider.com/articles/26/09/09/new-product-identifiers-show-up-in-apples-backend-dont-indicate-release-timing?utm_source=rss)
+ - [The NSA, CISA, and FBI issue a joint advisory warning that Chinese AI companies, including DeepSeek, are conducting &quot;industrial-scale&quot; distillation campaigns &lpar;Reuters&rpar;](https://www.techmeme.com/260908/p46#a260908p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
