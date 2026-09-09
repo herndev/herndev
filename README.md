@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: China Securities Regulatory Commission is informally tightening IPO approvals for humanoid startups after a volatile debut by industry leader Unitree &lpar;The Information&rpar;](https://www.techmeme.com/260909/p3#a260909p3)
- - [20% Off Brooks Promo Code | September 2026](https://www.wired.com/story/brooks-promo-code/)
- - [TurboTax Full Service Coupons This September 2026](https://www.wired.com/story/turbotax-coupon/)<!-- TECH:END -->
+ - [Lyft Sees a Future for Its Drivers in a Driverless World: Servicing Waymos](https://www.wired.com/story/lyft-waymo-partnership-nashville/)
+ - [A US Census Report on Noncitizen Voting Used Bad Data to Reach Faulty Conclusions](https://www.wired.com/story/a-us-census-report-on-noncitizen-voting-used-bad-data-to-reach-faulty-conclusions/)
+ - [There’s a Hot New Egg-Freezing Startup. It’s Weirder Than You Could Imagine](https://www.wired.com/story/egg-freezing-startup-cofertility-weirder-than-you-could-imagine/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
