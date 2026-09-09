@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Apple Watch Series 12 highlights: improved health sensing system, Readiness app](https://appleinsider.com/articles/26/09/09/new-apple-watch-series-12-highlights-improved-health-sensing-system-readiness-app?utm_source=rss)
- - [Apple finally reveals foldable iPhone Duo with Z Fold 8-like form factor](https://www.androidauthority.com/iphone-duo-launch-3709342/)
- - [Apple Debuts the iPhone Duo, Its First Folding iPhone](https://www.wired.com/story/apple-debuts-the-iphone-duo-its-first-folding-iphone/)<!-- TECH:END -->
+ - [Google’s got a surprise new update hitting Pixel 11 phones](https://www.androidauthority.com/september-pixel-11-update-3709570/)
+ - [New opt-in Apple Watch Siri audio features can listen to and transcribe conversations all day; Apple says raw audio is inaccessible and deleted after processing &lpar;Lily Hay Newman/Wired&rpar;](https://www.techmeme.com/260909/p44#a260909p44)
+ - [All iPhones — Not Just the Pro Models — Now Cost $100 More](https://www.cnet.com/tech/mobile/all-iphones-not-just-the-pro-models-now-cost-100-more/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
