@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A woman with four kids called her child\u2019s father for help. He showed up with food \u2014 for his son only.](http://9gag.com/gag/a34oPMQ)
- - ⏩ [Crossing the street in Sarajevo 1994](http://9gag.com/gag/ajPb2bg)
- - 👉 [Female jurors speak out about the man who still held out after they yelled at him for days](http://9gag.com/gag/avyb0EX)<!-- MEMES:END -->
+ - 💣 [Skincare routine is clearly doing some heavy lifting](http://9gag.com/gag/aByDKzD)
+ - ⏩ [Cybercab turned into Cybercop](http://9gag.com/gag/aYQzNgV)
+ - 👉 [How stupid are you? Yes](http://9gag.com/gag/adB3Nj9)<!-- MEMES:END -->
 
 ---
 
