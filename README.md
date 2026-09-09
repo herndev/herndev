@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lyft Sees a Future for Its Drivers in a Driverless World: Servicing Waymos](https://www.wired.com/story/lyft-waymo-partnership-nashville/)
- - [A US Census Report on Noncitizen Voting Used Bad Data to Reach Faulty Conclusions](https://www.wired.com/story/a-us-census-report-on-noncitizen-voting-used-bad-data-to-reach-faulty-conclusions/)
- - [There’s a Hot New Egg-Freezing Startup. It’s Weirder Than You Could Imagine](https://www.wired.com/story/egg-freezing-startup-cofertility-weirder-than-you-could-imagine/)<!-- TECH:END -->
+ - [Inside Apple Park&#39;s &#39;Welcome Run&#39; ahead of the iPhone 18 Pro event](https://appleinsider.com/articles/26/09/09/inside-apple-parks-welcome-run-ahead-of-the-iphone-18-pro-event?utm_source=rss)
+ - [The Switch 2 is getting a 2D Metroid called Ravenous](https://www.theverge.com/games/992053/the-switch-2-is-getting-a-2d-metroid-called-ravenous)
+ - [I spent an hour riding inside Tesla’s steering-wheel-free Cybercab](https://www.theverge.com/transportation/992014/tesla-cybercab-hands-on-test-robotaxi-austin)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
