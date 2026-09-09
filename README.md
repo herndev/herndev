@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic researcher Jacob Coxon says he is quitting the AI industry over fears that tech companies are racing to build systems they won&#39;t be able to control &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](https://www.techmeme.com/260908/p47#a260908p47)
- - [New product identifiers show up in Apple&#39;s backend, don&#39;t indicate release timing](https://appleinsider.com/articles/26/09/09/new-product-identifiers-show-up-in-apples-backend-dont-indicate-release-timing?utm_source=rss)
- - [The NSA, CISA, and FBI issue a joint advisory warning that Chinese AI companies, including DeepSeek, are conducting &quot;industrial-scale&quot; distillation campaigns &lpar;Reuters&rpar;](https://www.techmeme.com/260908/p46#a260908p46)<!-- TECH:END -->
+ - [Sources: China Securities Regulatory Commission is informally tightening IPO approvals for humanoid startups after a volatile debut by industry leader Unitree &lpar;The Information&rpar;](https://www.techmeme.com/260909/p3#a260909p3)
+ - [20% Off Brooks Promo Code | September 2026](https://www.wired.com/story/brooks-promo-code/)
+ - [TurboTax Full Service Coupons This September 2026](https://www.wired.com/story/turbotax-coupon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
