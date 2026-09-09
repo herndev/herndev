@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s got a surprise new update hitting Pixel 11 phones](https://www.androidauthority.com/september-pixel-11-update-3709570/)
- - [New opt-in Apple Watch Siri audio features can listen to and transcribe conversations all day; Apple says raw audio is inaccessible and deleted after processing &lpar;Lily Hay Newman/Wired&rpar;](https://www.techmeme.com/260909/p44#a260909p44)
- - [All iPhones — Not Just the Pro Models — Now Cost $100 More](https://www.cnet.com/tech/mobile/all-iphones-not-just-the-pro-models-now-cost-100-more/)<!-- TECH:END -->
+ - [How iPhone Duo compares in size to the iPhone 18 Pro in the wild](https://appleinsider.com/articles/26/09/09/how-iphone-duo-compares-in-size-to-the-iphone-18-pro-in-the-wild?utm_source=rss)
+ - [My Favorite Things from Apple’s iPhone 18 Event](https://www.cnet.com/tech/mobile/favorite-things-apples-iphone-18-duo-event/)
+ - [Where’s the iPhone 18? Here’s Why Apple Didn’t Reveal a New Standard iPhone](https://www.cnet.com/tech/mobile/wheres-the-iphone-18-heres-why-apple-didnt-reveal-a-new-standard-iphone/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
