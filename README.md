@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside Apple Park&#39;s &#39;Welcome Run&#39; ahead of the iPhone 18 Pro event](https://appleinsider.com/articles/26/09/09/inside-apple-parks-welcome-run-ahead-of-the-iphone-18-pro-event?utm_source=rss)
- - [The Switch 2 is getting a 2D Metroid called Ravenous](https://www.theverge.com/games/992053/the-switch-2-is-getting-a-2d-metroid-called-ravenous)
- - [I spent an hour riding inside Tesla’s steering-wheel-free Cybercab](https://www.theverge.com/transportation/992014/tesla-cybercab-hands-on-test-robotaxi-austin)<!-- TECH:END -->
+ - [New Apple Watch Series 12 highlights: improved health sensing system, Readiness app](https://appleinsider.com/articles/26/09/09/new-apple-watch-series-12-highlights-improved-health-sensing-system-readiness-app?utm_source=rss)
+ - [Apple finally reveals foldable iPhone Duo with Z Fold 8-like form factor](https://www.androidauthority.com/iphone-duo-launch-3709342/)
+ - [Apple Debuts the iPhone Duo, Its First Folding iPhone](https://www.wired.com/story/apple-debuts-the-iphone-duo-its-first-folding-iphone/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
