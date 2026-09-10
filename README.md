@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Taste of Equality](http://9gag.com/gag/aoyB0qe)
- - ⏩ [They hiding among us](http://9gag.com/gag/aGyPwXK)
- - 👉 [Sometimes, you do want to punch them in the face.](http://9gag.com/gag/aO86b9E)<!-- MEMES:END -->
+ - 💣 [guys swapping ugly pants before holiday](https://www.reddit.com/r/funny/comments/1wcw0w5/guys_swapping_ugly_pants_before_holiday/)
+ - ⏩ [This is what an electric bus with an exploding battery looks like.](http://9gag.com/gag/azx6VgN)
+ - 👉 [`oH No yOu wOrK AlL DaY AnD LeAvE Me aT HoMe aLl aLoNe i hAd nO ChOiCe`](http://9gag.com/gag/aE0e1rN)<!-- MEMES:END -->
 
 ---
 
