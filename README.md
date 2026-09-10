@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at why the oft-discussed predictions that AI will deliver double-digit GDP growth in advanced economies are extremely unlikely over the next 10-15 years &lpar;Ghosts of Electricity&rpar;](https://www.techmeme.com/260910/p10#a260910p10)
- - [Trump offers every American $5,000 If Republicans Win The Midterms](https://www.wired.com/story/trump-offers-every-american-dollar5000-if-republicans-win-the-midterms/)
- - [The AI boom is fueling a resurgence in VC bets in &quot;moonshot&quot; sectors such as BCI; Dealroom says non-AI deeptech funding has topped $150B since the start of 2024 &lpar;Tim Bradshaw/Financial Times&rpar;](https://www.techmeme.com/260910/p9#a260910p9)<!-- TECH:END -->
+ - [Ant International, Visa, and Mastercard plan a new standard for payments made via AI agents, citing McKinsey&#39;s projection of $3T to $5T in commerce by 2030 &lpar;Evelyn Cheng/CNBC&rpar;](https://www.techmeme.com/260910/p17#a260910p17)
+ - [Sources: Nasdaq is investing $100M in Kraken parent Payward, valuing the cryptocurrency exchange at $21B; Kraken will distribute Nasdaq&#39;s tokenized stocks &lpar;Katherine Doherty/Bloomberg&rpar;](https://www.techmeme.com/260910/p16#a260910p16)
+ - [Google Photos could soon let you choose a consistent look for your home feed](https://www.androidauthority.com/google-photos-consistent-home-layout-apk-teardown-3709729/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
