@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple unveils AppleCare One Family, extending AppleCare coverage to every eligible device in an Apple Family Sharing group of up to 6 people for $49.99/month &lpar;Hartley Charlton/MacRumors&rpar;](https://www.techmeme.com/260909/p50#a260909p50)
- - [iPhone Duo supports Apple Pencil with USB-C on both displays](https://appleinsider.com/articles/26/09/10/iphone-duo-supports-apple-pencil-with-usb-c-on-both-displays?utm_source=rss)
- - [iPhone Duo vs Samsung Galaxy Z Fold8 Ultra: Foldabes compared](https://appleinsider.com/articles/26/09/09/iphone-duo-vs-samsung-galaxy-z-fold8-ultra-foldabes-compared?utm_source=rss)<!-- TECH:END -->
+ - [A look at why the oft-discussed predictions that AI will deliver double-digit GDP growth in advanced economies are extremely unlikely over the next 10-15 years &lpar;Ghosts of Electricity&rpar;](https://www.techmeme.com/260910/p10#a260910p10)
+ - [Trump offers every American $5,000 If Republicans Win The Midterms](https://www.wired.com/story/trump-offers-every-american-dollar5000-if-republicans-win-the-midterms/)
+ - [The AI boom is fueling a resurgence in VC bets in &quot;moonshot&quot; sectors such as BCI; Dealroom says non-AI deeptech funding has topped $150B since the start of 2024 &lpar;Tim Bradshaw/Financial Times&rpar;](https://www.techmeme.com/260910/p9#a260910p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
