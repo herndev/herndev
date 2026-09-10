@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How iPhone Duo compares in size to the iPhone 18 Pro in the wild](https://appleinsider.com/articles/26/09/09/how-iphone-duo-compares-in-size-to-the-iphone-18-pro-in-the-wild?utm_source=rss)
- - [My Favorite Things from Apple’s iPhone 18 Event](https://www.cnet.com/tech/mobile/favorite-things-apples-iphone-18-duo-event/)
- - [Where’s the iPhone 18? Here’s Why Apple Didn’t Reveal a New Standard iPhone](https://www.cnet.com/tech/mobile/wheres-the-iphone-18-heres-why-apple-didnt-reveal-a-new-standard-iphone/)<!-- TECH:END -->
+ - [Apple unveils AppleCare One Family, extending AppleCare coverage to every eligible device in an Apple Family Sharing group of up to 6 people for $49.99/month &lpar;Hartley Charlton/MacRumors&rpar;](https://www.techmeme.com/260909/p50#a260909p50)
+ - [iPhone Duo supports Apple Pencil with USB-C on both displays](https://appleinsider.com/articles/26/09/10/iphone-duo-supports-apple-pencil-with-usb-c-on-both-displays?utm_source=rss)
+ - [iPhone Duo vs Samsung Galaxy Z Fold8 Ultra: Foldabes compared](https://appleinsider.com/articles/26/09/09/iphone-duo-vs-samsung-galaxy-z-fold8-ultra-foldabes-compared?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
