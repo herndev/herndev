@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel’s best music feature is finally coming to Apple, but not on the iPhone](https://www.androidauthority.com/apple-watch-series-12-ultra-4-shazam-instant-music-recognition-3709942/)
- - [Where to preorder the new Apple Watch Series 12 and Ultra 4](https://www.theverge.com/gadgets/988579/apple-watch-series-12-5g-ultra-4-preorder-buy)
- - [Wolverine on the PS5 goes back to a simpler &lpar;and bloodier&rpar; style of action game](https://www.theverge.com/games/992937/wolverine-review-ps5)<!-- TECH:END -->
+ - [Android Auto users say Google’s wavy media progress bar is gone](https://www.androidauthority.com/android-auto-wavy-progress-bar-bug-3710055/)
+ - [Deal: The highly rated Energizer outdoor speaker just got cheaper](https://www.androidauthority.com/energizer-outdoor-speaker-deal-3710094/)
+ - [iPhone Duo won&#39;t work with every MagSafe accessory, and that&#39;s okay](https://appleinsider.com/articles/26/09/10/iphone-duo-wont-work-with-every-magsafe-accessory?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
