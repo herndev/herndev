@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Retroid Pocket Duo takes on Anbernic with more RAM and storage](https://www.androidauthority.com/retroid-pocket-duo-specs-pricing-3710136/)
- - [California Gov. Gavin Newsom signs bills restricting &quot;addictive&quot; social media features for under-16s and limiting minors&#39; interactions with chatbots &lpar;Colin Lecher/CalMatters&rpar;](https://www.techmeme.com/260910/p36#a260910p36)
- - [Is AI Actually Going to Kill Us All?](https://www.wired.com/story/uncanny-valley-podcast-is-ai-actually-going-to-kill-us-all/)<!-- TECH:END -->
+ - [London-based Xapien, which uses AI for background checks and due diligence, raised a $56M Series B led by Spectrum Equity &lpar;Lucinda Shen/Axios&rpar;](https://www.techmeme.com/260910/p40#a260910p40)
+ - [Today’s NYT Connections: Sports Edition Hints and Answers for Sept. 11, #718](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-11-718/)
+ - [Sources: the Pentagon is in talks to lend roughly $5B to neocloud Fluidstack; Fluidstack is being advised on its loan application by Palmer Luckey&#39;s Erebor Bank &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260910/p39#a260910p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
