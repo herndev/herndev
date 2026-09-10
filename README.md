@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [How stupid are you? Yes](http://9gag.com/gag/adB3Nj9)
- - ⏩ [Skincare routine is clearly doing some heavy lifting](http://9gag.com/gag/aByDKzD)
- - 👉 [In 2009, 21-year-old model Gabriela Rico Jim\u00e9nez screamed this on camera before being arrested. After being arrested, nothing more was heard from him she disappeared.](http://9gag.com/gag/aQzYqZq)<!-- MEMES:END -->
+ - ⏩ [Show me your drawing skills](http://9gag.com/gag/aPAO46n)
+ - 👉 [Skincare routine is clearly doing some heavy lifting](http://9gag.com/gag/aByDKzD)<!-- MEMES:END -->
 
 ---
 
