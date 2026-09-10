@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ant International, Visa, and Mastercard plan a new standard for payments made via AI agents, citing McKinsey&#39;s projection of $3T to $5T in commerce by 2030 &lpar;Evelyn Cheng/CNBC&rpar;](https://www.techmeme.com/260910/p17#a260910p17)
- - [Sources: Nasdaq is investing $100M in Kraken parent Payward, valuing the cryptocurrency exchange at $21B; Kraken will distribute Nasdaq&#39;s tokenized stocks &lpar;Katherine Doherty/Bloomberg&rpar;](https://www.techmeme.com/260910/p16#a260910p16)
- - [Google Photos could soon let you choose a consistent look for your home feed](https://www.androidauthority.com/google-photos-consistent-home-layout-apk-teardown-3709729/)<!-- TECH:END -->
+ - [Pixel’s best music feature is finally coming to Apple, but not on the iPhone](https://www.androidauthority.com/apple-watch-series-12-ultra-4-shazam-instant-music-recognition-3709942/)
+ - [Where to preorder the new Apple Watch Series 12 and Ultra 4](https://www.theverge.com/gadgets/988579/apple-watch-series-12-5g-ultra-4-preorder-buy)
+ - [Wolverine on the PS5 goes back to a simpler &lpar;and bloodier&rpar; style of action game](https://www.theverge.com/games/992937/wolverine-review-ps5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
