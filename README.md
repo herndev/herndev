@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android Auto users say Google’s wavy media progress bar is gone](https://www.androidauthority.com/android-auto-wavy-progress-bar-bug-3710055/)
- - [Deal: The highly rated Energizer outdoor speaker just got cheaper](https://www.androidauthority.com/energizer-outdoor-speaker-deal-3710094/)
- - [iPhone Duo won&#39;t work with every MagSafe accessory, and that&#39;s okay](https://appleinsider.com/articles/26/09/10/iphone-duo-wont-work-with-every-magsafe-accessory?utm_source=rss)<!-- TECH:END -->
+ - [Retroid Pocket Duo takes on Anbernic with more RAM and storage](https://www.androidauthority.com/retroid-pocket-duo-specs-pricing-3710136/)
+ - [California Gov. Gavin Newsom signs bills restricting &quot;addictive&quot; social media features for under-16s and limiting minors&#39; interactions with chatbots &lpar;Colin Lecher/CalMatters&rpar;](https://www.techmeme.com/260910/p36#a260910p36)
+ - [Is AI Actually Going to Kill Us All?](https://www.wired.com/story/uncanny-valley-podcast-is-ai-actually-going-to-kill-us-all/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
