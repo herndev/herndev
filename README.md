@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How stupid are you? Yes](http://9gag.com/gag/adB3Nj9)
- - ⏩ [Show me your drawing skills](http://9gag.com/gag/aPAO46n)
- - 👉 [Skincare routine is clearly doing some heavy lifting](http://9gag.com/gag/aByDKzD)<!-- MEMES:END -->
+ - 💣 [Skincare routine is clearly doing some heavy lifting](http://9gag.com/gag/aByDKzD)
+ - ⏩ [A vlog about happy dude with his new friend &lpar;exchange student from China&rpar;](http://9gag.com/gag/aryPpR7)
+ - 👉 [Ok mom](http://9gag.com/gag/aAynrx9)<!-- MEMES:END -->
 
 ---
 
