@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [guys swapping ugly pants before holiday](https://www.reddit.com/r/funny/comments/1wcw0w5/guys_swapping_ugly_pants_before_holiday/)
- - ⏩ [This is what an electric bus with an exploding battery looks like.](http://9gag.com/gag/azx6VgN)
- - 👉 [`oH No yOu wOrK AlL DaY AnD LeAvE Me aT HoMe aLl aLoNe i hAd nO ChOiCe`](http://9gag.com/gag/aE0e1rN)<!-- MEMES:END -->
+ - 💣 [He heard the song Let&#39;s Talk About Segs and he took it personally](http://9gag.com/gag/a4PMLL1)
+ - ⏩ [`oH No yOu wOrK AlL DaY AnD LeAvE Me aT HoMe aLl aLoNe i hAd nO ChOiCe`](http://9gag.com/gag/aE0e1rN)
+ - 👉 [They hiding among us](http://9gag.com/gag/aGyPwXK)<!-- MEMES:END -->
 
 ---
 
