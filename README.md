@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Skincare routine is clearly doing some heavy lifting](http://9gag.com/gag/aByDKzD)
- - ⏩ [A vlog about happy dude with his new friend &lpar;exchange student from China&rpar;](http://9gag.com/gag/aryPpR7)
+ - 💣 [Taste of Equality](http://9gag.com/gag/aoyB0qe)
+ - ⏩ [Sometimes, you do want to punch them in the face.](http://9gag.com/gag/aO86b9E)
  - 👉 [Ok mom](http://9gag.com/gag/aAynrx9)<!-- MEMES:END -->
 
 ---
