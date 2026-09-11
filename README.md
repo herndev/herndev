@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone Duo design &amp; MagSafe problems on the AppleInsider Podcast](https://appleinsider.com/articles/26/09/11/iphone-duo-design-magsafe-problems-on-the-appleinsider-podcast?utm_source=rss)
- - [Visual Intelligence on iOS and macOS: Using Apple&#39;s image-based AI feature](https://appleinsider.com/inside/ios-27/tips/visual-intelligence-on-ios-and-macos-using-apples-image-based-ai-feature?utm_source=rss)
- - [Source: former OpenAI executive Fidji Simo joins the board of directors at AI infrastructure startup Nscale; Simo will continue as a part-time advisor to OpenAI &lpar;Anissa Gardizy/Wall Street Journal&rpar;](https://www.techmeme.com/260911/p14#a260911p14)<!-- TECH:END -->
+ - [Anime reaction YouTubers are at war with copyright enforcers](https://www.theverge.com/tech/993898/nicholaslighttv-remove-your-media-youtube-crunchyroll-viz-media)
+ - [Meta says it is making changes to prompts suggested by Meta AI after a viral video showed it posing invasive personal questions about a woman&#39;s young daughters &lpar;Emma Roth/The Verge&rpar;](https://www.techmeme.com/260911/p19#a260911p19)
+ - [Save $600 on Apple&#39;s M5 Max 14-inch MacBook Pro at Amazon](https://appleinsider.com/articles/26/09/11/save-600-on-apples-m5-max-14-inch-macbook-pro-at-amazon?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
