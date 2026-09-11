@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FOIA docs: the CFTC launched at least three previously unreported investigations into Polymarket trading, including about Google&#39;s 2025 Year in Search Ranking &lpar;Kate Knibbs/Wired&rpar;](https://www.techmeme.com/260911/p29#a260911p29)
- - [GTA 5 Mod Adds Flock Surveillance Cameras So Players Can Blow Them Up](https://www.cnet.com/tech/gaming/gta-5-mod-235-flock-cameras-destroy-for-cash/)
- - [Building websites with ChatGPT just got faster and more collaborative](https://www.androidauthority.com/chatgpt-sites-new-features-3710506/)<!-- TECH:END -->
+ - [Sources: Jeff Dean is raising funds again for Discovery Loop, seeking a valuation of ~$50B; Discovery Loop was raising $1B at a ~$10B valuation a few weeks ago &lpar;Ben Bergman/Business Insider&rpar;](https://www.techmeme.com/260911/p33#a260911p33)
+ - [Researchers: OpenAI agents attacked Ruby package manager RubyGems in May; OpenAI says its agents used RubyGems to access the internet to do &quot;benign tasks&quot; &lpar;Robert McMillan/Wall Street Journal&rpar;](https://www.techmeme.com/260911/p32#a260911p32)
+ - [Sources: US Senate negotiators are debating a bill to impose a &quot;duty of care&quot; for AI companies and let the government block the release of models deemed unsafe &lpar;Courtney Rozen/Reuters&rpar;](https://www.techmeme.com/260911/p31#a260911p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
