@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They hiding among us](http://9gag.com/gag/aGyPwXK)
- - ⏩ [Let the people decide...](http://9gag.com/gag/aVvGXL2)
- - 👉 [`the jet fuel store called, they&#39;re running out of you!`](http://9gag.com/gag/apReB08)<!-- MEMES:END -->
+ - 💣 [Taste of Equality](http://9gag.com/gag/aoyB0qe)
+ - ⏩ [On this day in 2001, WTC Tower 7 kill*d itself.](http://9gag.com/gag/ajP2nRg)
+ - 👉 [Nice](http://9gag.com/gag/a34o39m)<!-- MEMES:END -->
 
 ---
 
