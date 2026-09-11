@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MIT launches the LLM Election Observatory, a dashboard tracking how nearly a dozen AI models tailor responses to political queries during the 2026 US midterms &lpar;Tiffany Hsu/New York Times&rpar;](https://www.techmeme.com/260911/p5#a260911p5)
- - [Get iPhone 18 Pro on Us at T-Mobile — America&#39;s Best Network &lpar;T-Mobile&rpar;](https://www.techmeme.com/260911/p4#a260911p4)
- - [Official doc: India&#39;s Serious Fraud Office urges the government to probe Xiaomi over alleged business model irregularities and foreign investment law violations &lpar;Aditya Kalra/Reuters&rpar;](https://www.techmeme.com/260911/p3#a260911p3)<!-- TECH:END -->
+ - [iPhone Duo design &amp; MagSafe problems on the AppleInsider Podcast](https://appleinsider.com/articles/26/09/11/iphone-duo-design-magsafe-problems-on-the-appleinsider-podcast?utm_source=rss)
+ - [Visual Intelligence on iOS and macOS: Using Apple&#39;s image-based AI feature](https://appleinsider.com/inside/ios-27/tips/visual-intelligence-on-ios-and-macos-using-apples-image-based-ai-feature?utm_source=rss)
+ - [Source: former OpenAI executive Fidji Simo joins the board of directors at AI infrastructure startup Nscale; Simo will continue as a part-time advisor to OpenAI &lpar;Anissa Gardizy/Wall Street Journal&rpar;](https://www.techmeme.com/260911/p14#a260911p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
