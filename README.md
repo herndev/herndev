@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [London-based Xapien, which uses AI for background checks and due diligence, raised a $56M Series B led by Spectrum Equity &lpar;Lucinda Shen/Axios&rpar;](https://www.techmeme.com/260910/p40#a260910p40)
- - [Today’s NYT Connections: Sports Edition Hints and Answers for Sept. 11, #718](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-11-718/)
- - [Sources: the Pentagon is in talks to lend roughly $5B to neocloud Fluidstack; Fluidstack is being advised on its loan application by Palmer Luckey&#39;s Erebor Bank &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260910/p39#a260910p39)<!-- TECH:END -->
+ - [Sources: Sam Altman told OpenAI employees that the company is considering slowing cutting-edge AI development, and he hopes other AI companies will do the same &lpar;Bloomberg&rpar;](https://www.techmeme.com/260910/p44#a260910p44)
+ - [Sources: OpenAI asked members of Congress for guidance on whether orchestrating an industry-wide slowdown in AI development would be legal under antitrust law &lpar;Maxwell Zeff/Wired&rpar;](https://www.techmeme.com/260910/p43#a260910p43)
+ - [Only 4% of the startups in YC&#39;s 2026 spring batch had a native mobile app as their main product, down from 15% in 2013, as startups focus on AI and agents &lpar;Parmy Olson/Bloomberg&rpar;](https://www.techmeme.com/260910/p42#a260910p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
