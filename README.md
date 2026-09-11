@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The real facial expressions](http://9gag.com/gag/aKGbqPj)
- - ⏩ [What are you waiting for the most?](http://9gag.com/gag/aoyBj4n)
- - 👉 [`the jet fuel store called, they&#39;re running out of you!`](http://9gag.com/gag/apReB08)<!-- MEMES:END -->
+ - 💣 [What&#39;s going on here?](http://9gag.com/gag/aD2Bo3d)
+ - ⏩ [`the jet fuel store called, they&#39;re running out of you!`](http://9gag.com/gag/apReB08)
+ - 👉 [Would you date a woman with tattoos](http://9gag.com/gag/aGyPw56)<!-- MEMES:END -->
 
 ---
 
