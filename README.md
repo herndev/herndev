@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He heard the song Let&#39;s Talk About Segs and he took it personally](http://9gag.com/gag/a4PMLL1)
- - ⏩ [A question: In *Avengers: Endgame*, when Spider-Man hands the Gauntlet to Captain Marvel, why didn&#39;t she use it to finish off Thanos and his entire army?](http://9gag.com/gag/aYQzwYm)
- - 👉 [`oH No yOu wOrK AlL DaY AnD LeAvE Me aT HoMe aLl aLoNe i hAd nO ChOiCe`](http://9gag.com/gag/aE0e1rN)<!-- MEMES:END -->
+ - 💣 [They hiding among us](http://9gag.com/gag/aGyPwXK)
+ - ⏩ [Let the people decide...](http://9gag.com/gag/aVvGXL2)
+ - 👉 [`the jet fuel store called, they&#39;re running out of you!`](http://9gag.com/gag/apReB08)<!-- MEMES:END -->
 
 ---
 
