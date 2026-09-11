@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anime reaction YouTubers are at war with copyright enforcers](https://www.theverge.com/tech/993898/nicholaslighttv-remove-your-media-youtube-crunchyroll-viz-media)
- - [Meta says it is making changes to prompts suggested by Meta AI after a viral video showed it posing invasive personal questions about a woman&#39;s young daughters &lpar;Emma Roth/The Verge&rpar;](https://www.techmeme.com/260911/p19#a260911p19)
- - [Save $600 on Apple&#39;s M5 Max 14-inch MacBook Pro at Amazon](https://appleinsider.com/articles/26/09/11/save-600-on-apples-m5-max-14-inch-macbook-pro-at-amazon?utm_source=rss)<!-- TECH:END -->
+ - [Sources: some lawmakers urge Speaker Johnson to cancel the fall House recess until Congress passes AI safeguards, after Anthropic researcher warnings &lpar;Andrew Solender/Axios&rpar;](https://www.techmeme.com/260911/p24#a260911p24)
+ - [Samsung gets ‘Tim Cook’ to praise the Galaxy Z Fold 8](https://www.androidauthority.com/galaxy-z-fold-8-ad-trolls-apple-3710440/)
+ - [iPhone 18 Pro vs iPhone 15 Pro: Three-year upgrade](https://appleinsider.com/inside/iphone-18/vs/iphone-18-pro-vs-iphone-15-pro-three-year-upgrade?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
