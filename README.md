@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Sam Altman told OpenAI employees that the company is considering slowing cutting-edge AI development, and he hopes other AI companies will do the same &lpar;Bloomberg&rpar;](https://www.techmeme.com/260910/p44#a260910p44)
- - [Sources: OpenAI asked members of Congress for guidance on whether orchestrating an industry-wide slowdown in AI development would be legal under antitrust law &lpar;Maxwell Zeff/Wired&rpar;](https://www.techmeme.com/260910/p43#a260910p43)
- - [Only 4% of the startups in YC&#39;s 2026 spring batch had a native mobile app as their main product, down from 15% in 2013, as startups focus on AI and agents &lpar;Parmy Olson/Bloomberg&rpar;](https://www.techmeme.com/260910/p42#a260910p42)<!-- TECH:END -->
+ - [MIT launches the LLM Election Observatory, a dashboard tracking how nearly a dozen AI models tailor responses to political queries during the 2026 US midterms &lpar;Tiffany Hsu/New York Times&rpar;](https://www.techmeme.com/260911/p5#a260911p5)
+ - [Get iPhone 18 Pro on Us at T-Mobile — America&#39;s Best Network &lpar;T-Mobile&rpar;](https://www.techmeme.com/260911/p4#a260911p4)
+ - [Official doc: India&#39;s Serious Fraud Office urges the government to probe Xiaomi over alleged business model irregularities and foreign investment law violations &lpar;Aditya Kalra/Reuters&rpar;](https://www.techmeme.com/260911/p3#a260911p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
