@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: some lawmakers urge Speaker Johnson to cancel the fall House recess until Congress passes AI safeguards, after Anthropic researcher warnings &lpar;Andrew Solender/Axios&rpar;](https://www.techmeme.com/260911/p24#a260911p24)
- - [Samsung gets ‘Tim Cook’ to praise the Galaxy Z Fold 8](https://www.androidauthority.com/galaxy-z-fold-8-ad-trolls-apple-3710440/)
- - [iPhone 18 Pro vs iPhone 15 Pro: Three-year upgrade](https://appleinsider.com/inside/iphone-18/vs/iphone-18-pro-vs-iphone-15-pro-three-year-upgrade?utm_source=rss)<!-- TECH:END -->
+ - [FOIA docs: the CFTC launched at least three previously unreported investigations into Polymarket trading, including about Google&#39;s 2025 Year in Search Ranking &lpar;Kate Knibbs/Wired&rpar;](https://www.techmeme.com/260911/p29#a260911p29)
+ - [GTA 5 Mod Adds Flock Surveillance Cameras So Players Can Blow Them Up](https://www.cnet.com/tech/gaming/gta-5-mod-235-flock-cameras-destroy-for-cash/)
+ - [Building websites with ChatGPT just got faster and more collaborative](https://www.androidauthority.com/chatgpt-sites-new-features-3710506/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
