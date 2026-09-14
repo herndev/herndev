@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Anthropic signed a $13.7B, six-year deal to lease compute from Rum Group&#39;s upcoming Georgia data center; Rum operates Rumble and hosts Truth Social &lpar;The Information&rpar;](https://www.techmeme.com/260913/p16#a260913p16)
- - [Report: former EPA officials identify 30 federal actions since January 2025 that they say exacerbate health risks stemming from data center pollution &lpar;Justine Calma/The Verge&rpar;](https://www.techmeme.com/260913/p15#a260913p15)
- - [Sources: Anthropic told investors it will be profitable for a second straight quarter, with 80%+ gross margins before partner revenue sharing and training costs &lpar;Financial Times&rpar;](https://www.techmeme.com/260913/p14#a260913p14)<!-- TECH:END -->
+ - [Filing: San Jose-based Chinese optical module maker Ligent seeks ~$727M in a Hong Kong IPO, after its rival Zhongji Innolight&#39;s $6.8B Hong Kong debut in July &lpar;Sangmi Cha/Bloomberg&rpar;](https://www.techmeme.com/260914/p4#a260914p4)
+ - [Could Galaxy S27 Ultra bring zoom camera upgrades? New leak has bad news](https://www.androidauthority.com/samsung-galaxy-s27-ultra-5x-camera-leaks-3710729/)
+ - [The Google Drive beta program is finally here, letting you try new features first](https://www.androidauthority.com/google-drive-beta-program-play-store-3710741/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
