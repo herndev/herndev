@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump slams Dario Amodei, saying &quot;the only control or &#39;guardrails&#39; that AI needs is a STRONG AND SMART &lpar;High IQ!&rpar; PRESIDENT, and the USA has that, in spades!&quot; &lpar;Ryan Chua/Bloomberg&rpar;](https://www.techmeme.com/260914/p19#a260914p19)
- - [Apple has altered course on using customer data to train its AI](https://appleinsider.com/articles/26/09/14/apple-has-altered-course-on-using-customer-data-to-train-its-ai?utm_source=rss)
- - [A profile of Mark Zuckerberg, based on interviews with him, his parents, and dozens of others, looking at his MMA training, AI pivot, management style, and more &lpar;Jeremy Stern/Colossus&rpar;](https://www.techmeme.com/260914/p18#a260914p18)<!-- TECH:END -->
+ - [Gemini Live may finally let you switch seamlessly between speaking and typing](https://www.androidauthority.com/gemini-live-keyboard-3711060/)
+ - [It&#39;s not clear why Elon Musk&#39;s has filed to dismiss App Store favoritism suit](https://appleinsider.com/articles/26/09/14/elon-musks-x-corp-files-to-dismiss-app-store-favoritism-case?utm_source=rss)
+ - [Apple updates AirPods as iOS 27 adds customizable EQ](https://appleinsider.com/articles/26/09/14/apple-updates-airpods-as-ios-27-adds-customizable-eq?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
