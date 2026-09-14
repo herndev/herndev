@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: San Jose-based Chinese optical module maker Ligent seeks ~$727M in a Hong Kong IPO, after its rival Zhongji Innolight&#39;s $6.8B Hong Kong debut in July &lpar;Sangmi Cha/Bloomberg&rpar;](https://www.techmeme.com/260914/p4#a260914p4)
- - [Could Galaxy S27 Ultra bring zoom camera upgrades? New leak has bad news](https://www.androidauthority.com/samsung-galaxy-s27-ultra-5x-camera-leaks-3710729/)
- - [The Google Drive beta program is finally here, letting you try new features first](https://www.androidauthority.com/google-drive-beta-program-play-store-3710741/)<!-- TECH:END -->
+ - [Trump slams Dario Amodei, saying &quot;the only control or &#39;guardrails&#39; that AI needs is a STRONG AND SMART &lpar;High IQ!&rpar; PRESIDENT, and the USA has that, in spades!&quot; &lpar;Ryan Chua/Bloomberg&rpar;](https://www.techmeme.com/260914/p19#a260914p19)
+ - [Apple has altered course on using customer data to train its AI](https://appleinsider.com/articles/26/09/14/apple-has-altered-course-on-using-customer-data-to-train-its-ai?utm_source=rss)
+ - [A profile of Mark Zuckerberg, based on interviews with him, his parents, and dozens of others, looking at his MMA training, AI pivot, management style, and more &lpar;Jeremy Stern/Colossus&rpar;](https://www.techmeme.com/260914/p18#a260914p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
