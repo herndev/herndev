@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [There is a difference](http://9gag.com/gag/aKGb35j)
+ - 💣 [Would you date a woman taller than you](http://9gag.com/gag/aYQzxW0)
  - ⏩ [Computer science guys, which OS you use on your desktop?](http://9gag.com/gag/avybGm5)
  - 👉 [Would you date a woman taller than you](http://9gag.com/gag/aYQzxW0)<!-- MEMES:END -->
 
