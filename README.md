@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Jeff Dean is raising funds again for Discovery Loop, seeking a valuation of ~$50B; Discovery Loop was raising $1B at a ~$10B valuation a few weeks ago &lpar;Ben Bergman/Business Insider&rpar;](https://www.techmeme.com/260911/p33#a260911p33)
- - [Researchers: OpenAI agents attacked Ruby package manager RubyGems in May; OpenAI says its agents used RubyGems to access the internet to do &quot;benign tasks&quot; &lpar;Robert McMillan/Wall Street Journal&rpar;](https://www.techmeme.com/260911/p32#a260911p32)
- - [Sources: US Senate negotiators are debating a bill to impose a &quot;duty of care&quot; for AI companies and let the government block the release of models deemed unsafe &lpar;Courtney Rozen/Reuters&rpar;](https://www.techmeme.com/260911/p31#a260911p31)<!-- TECH:END -->
+ - [Source: Anthropic signed a $13.7B, six-year deal to lease compute from Rum Group&#39;s upcoming Georgia data center; Rum operates Rumble and hosts Truth Social &lpar;The Information&rpar;](https://www.techmeme.com/260913/p16#a260913p16)
+ - [Report: former EPA officials identify 30 federal actions since January 2025 that they say exacerbate health risks stemming from data center pollution &lpar;Justine Calma/The Verge&rpar;](https://www.techmeme.com/260913/p15#a260913p15)
+ - [Sources: Anthropic told investors it will be profitable for a second straight quarter, with 80%+ gross margins before partner revenue sharing and training costs &lpar;Financial Times&rpar;](https://www.techmeme.com/260913/p14#a260913p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
