@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini Live may finally let you switch seamlessly between speaking and typing](https://www.androidauthority.com/gemini-live-keyboard-3711060/)
- - [It&#39;s not clear why Elon Musk&#39;s has filed to dismiss App Store favoritism suit](https://appleinsider.com/articles/26/09/14/elon-musks-x-corp-files-to-dismiss-app-store-favoritism-case?utm_source=rss)
- - [Apple updates AirPods as iOS 27 adds customizable EQ](https://appleinsider.com/articles/26/09/14/apple-updates-airpods-as-ios-27-adds-customizable-eq?utm_source=rss)<!-- TECH:END -->
+ - [London-based Jack &amp; Jill, which offers Jack, an AI agent for job seekers, and Jill, an agent for companies, raised a $40M Series A, after raising $20M in 2025 &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/260914/p39#a260914p39)
+ - [Apple Could Be Working on Multiple Foldable Phones, Report Predicts](https://www.cnet.com/tech/mobile/apple-could-be-working-on-multiple-foldable-phones-report-predicts/)
+ - [Apple Home’s new security camera features cost up to $60 a month](https://www.theverge.com/tech/994949/apple-intelligence-apple-home-icloud-plus-cost-subscription)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
