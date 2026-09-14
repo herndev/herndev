@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Agree?](http://9gag.com/gag/aYQz4PO)
- - ⏩ [Computer science guys, which OS you use on your desktop?](http://9gag.com/gag/avybGm5)
- - 👉 [Agree?](http://9gag.com/gag/aYQz4PO)<!-- MEMES:END -->
+ - ⏩ [That&#39;s a good one](http://9gag.com/gag/aqyv14Q)
+ - 👉 [Is living with your parents after 25 socially unacceptable?](http://9gag.com/gag/aVvGMAd)<!-- MEMES:END -->
 
 ---
 
