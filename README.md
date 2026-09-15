@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vera Rubin NVL72 inference tests show up to 7x better token throughput per MW vs. Blackwell on a 1.6T DeepSeek model, above Huang&#39;s 3x claim for 1T-3T LLMs &lpar;Bryan Shan/SemiAnalysis&rpar;](https://www.techmeme.com/260914/p41#a260914p41)
- - [The Supreme Court Just Blocked Trump’s Efforts to Control Mail-In Voting for the Midterms](https://www.wired.com/story/the-supreme-court-just-blocked-trumps-efforts-to-control-mail-in-voting-for-the-midterms/)
- - [Valve is still figuring out ‘how and when’ to do Steam Deck 2](https://www.theverge.com/games/995256/valve-steam-deck-2-how-and-when)<!-- TECH:END -->
+ - [Sources: Tokyo-based memory maker Kioxia is considering raising $10B+ through a 2027 US ADR listing as it seeks liquidity after billions in share buybacks &lpar;Bloomberg&rpar;](https://www.techmeme.com/260915/p2#a260915p2)
+ - [Want a cheaper Galaxy S26? Samsung’s Certified Re-Newed lineup has you covered](https://www.androidauthority.com/galaxy-s26-series-samsung-certified-re-newed-program-3711211/)
+ - [This Harry Potter-themed Android phone is straight out of Hogwarts](https://www.androidauthority.com/realme-16-pro-harry-potter-edition-3711191/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
