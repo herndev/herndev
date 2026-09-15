@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Tokyo-based memory maker Kioxia is considering raising $10B+ through a 2027 US ADR listing as it seeks liquidity after billions in share buybacks &lpar;Bloomberg&rpar;](https://www.techmeme.com/260915/p2#a260915p2)
- - [Want a cheaper Galaxy S26? Samsung’s Certified Re-Newed lineup has you covered](https://www.androidauthority.com/galaxy-s26-series-samsung-certified-re-newed-program-3711211/)
- - [This Harry Potter-themed Android phone is straight out of Hogwarts](https://www.androidauthority.com/realme-16-pro-harry-potter-edition-3711191/)<!-- TECH:END -->
+ - [Apple Intelligence HomeKit Secure Video summaries cost up to $60 per month](https://appleinsider.com/articles/26/09/15/apple-intelligence-homekit-secure-video-summaries-cost-up-to-60-per-month?utm_source=rss)
+ - [You can now run Perplexity’s local AI agent on your Windows PC](https://www.androidauthority.com/perplexity-portable-computer-windows-rtx-gpu-3711403/)
+ - [New York-based AI marketing startup Profound raised a $180M Series D led by Sequoia and Kleiner Perkins at a $1.8B valuation, taking its total funding to $335M+ &lpar;Rebecca Torrence/Bloomberg&rpar;](https://www.techmeme.com/260915/p17#a260915p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
