@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Wolverine Game Sinks Its Claws Into Emotional Heights Rather Than Story Cohesion](https://www.cnet.com/tech/gaming/the-wolverine-game-sinks-its-claws-into-emotional-heights-rather-than-story-cohesion/)
- - [During a Salesforce event, Jensen Huang says the AI industry doesn&#39;t need any new laws or regulations and market forces will help companies safely innovate &lpar;Brody Ford/Bloomberg&rpar;](https://www.techmeme.com/260915/p45#a260915p45)
- - [The Gemini 3.8 family is getting a little bigger with two new additions](https://www.androidauthority.com/gemini-3-8-live-and-extended-thinking-3711621/)<!-- TECH:END -->
+ - [Sources: Meta plans to release a camera-free pair of smart glasses this fall; the new model has six mics to let users speak with Meta&#39;s AI chatbot and Muse &lpar;Jyoti Mann/The Information&rpar;](https://www.techmeme.com/260915/p52#a260915p52)
+ - [TypeSafe AI, which is developing a model that outputs numerical responses with probability estimates to help businesses assess reliability, raised a $40M seed &lpar;Rashi Shrivastava/Forbes&rpar;](https://www.techmeme.com/260915/p51#a260915p51)
+ - [PS Plus Gets a Diverse Lineup for September With WWE 2K26, RuneScape: Dragonwilds and More](https://www.cnet.com/tech/gaming/ps-plus-september-2026-lineup/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
