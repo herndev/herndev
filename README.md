@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [The number of casualties in World War II according to a museum. Is it correct?](http://9gag.com/gag/a9y3pdD)
- - ⏩ [The current state of the United States](http://9gag.com/gag/aMVpA56)
- - 👉 [Agree?](http://9gag.com/gag/aYQz4PO)<!-- MEMES:END -->
+ - ⏩ [Her reaction...need sauce](http://9gag.com/gag/aD2BxQZ)
+ - 👉 [Timeless classic](http://9gag.com/gag/aYQz4n7)<!-- MEMES:END -->
 
 ---
 
