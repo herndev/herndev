@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [London-based Jack &amp; Jill, which offers Jack, an AI agent for job seekers, and Jill, an agent for companies, raised a $40M Series A, after raising $20M in 2025 &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/260914/p39#a260914p39)
- - [Apple Could Be Working on Multiple Foldable Phones, Report Predicts](https://www.cnet.com/tech/mobile/apple-could-be-working-on-multiple-foldable-phones-report-predicts/)
- - [Apple Home’s new security camera features cost up to $60 a month](https://www.theverge.com/tech/994949/apple-intelligence-apple-home-icloud-plus-cost-subscription)<!-- TECH:END -->
+ - [Vera Rubin NVL72 inference tests show up to 7x better token throughput per MW vs. Blackwell on a 1.6T DeepSeek model, above Huang&#39;s 3x claim for 1T-3T LLMs &lpar;Bryan Shan/SemiAnalysis&rpar;](https://www.techmeme.com/260914/p41#a260914p41)
+ - [The Supreme Court Just Blocked Trump’s Efforts to Control Mail-In Voting for the Midterms](https://www.wired.com/story/the-supreme-court-just-blocked-trumps-efforts-to-control-mail-in-voting-for-the-midterms/)
+ - [Valve is still figuring out ‘how and when’ to do Steam Deck 2](https://www.theverge.com/games/995256/valve-steam-deck-2-how-and-when)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
