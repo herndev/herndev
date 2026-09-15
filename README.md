@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Intelligence HomeKit Secure Video summaries cost up to $60 per month](https://appleinsider.com/articles/26/09/15/apple-intelligence-homekit-secure-video-summaries-cost-up-to-60-per-month?utm_source=rss)
- - [You can now run Perplexity’s local AI agent on your Windows PC](https://www.androidauthority.com/perplexity-portable-computer-windows-rtx-gpu-3711403/)
- - [New York-based AI marketing startup Profound raised a $180M Series D led by Sequoia and Kleiner Perkins at a $1.8B valuation, taking its total funding to $335M+ &lpar;Rebecca Torrence/Bloomberg&rpar;](https://www.techmeme.com/260915/p17#a260915p17)<!-- TECH:END -->
+ - [ZuckOff Is a Free App That Sees Meta Glasses Before They See You](https://www.wired.com/story/zuckoff-app-sees-meta-glasses-before-they-see-you/)
+ - [Amazon slashes the Razer Huntsman Mini to $69, beating its Prime Day price](https://www.androidauthority.com/razer-huntsman-mini-deal-3711575/)
+ - [Samsung’s NavStar app has a bug that refuses to let your navigation bar hide](https://www.androidauthority.com/navstar-navigation-bar-hide-bug-3711527/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
