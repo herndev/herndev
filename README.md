@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ZuckOff Is a Free App That Sees Meta Glasses Before They See You](https://www.wired.com/story/zuckoff-app-sees-meta-glasses-before-they-see-you/)
- - [Amazon slashes the Razer Huntsman Mini to $69, beating its Prime Day price](https://www.androidauthority.com/razer-huntsman-mini-deal-3711575/)
- - [Samsung’s NavStar app has a bug that refuses to let your navigation bar hide](https://www.androidauthority.com/navstar-navigation-bar-hide-bug-3711527/)<!-- TECH:END -->
+ - [The Wolverine Game Sinks Its Claws Into Emotional Heights Rather Than Story Cohesion](https://www.cnet.com/tech/gaming/the-wolverine-game-sinks-its-claws-into-emotional-heights-rather-than-story-cohesion/)
+ - [During a Salesforce event, Jensen Huang says the AI industry doesn&#39;t need any new laws or regulations and market forces will help companies safely innovate &lpar;Brody Ford/Bloomberg&rpar;](https://www.techmeme.com/260915/p45#a260915p45)
+ - [The Gemini 3.8 family is getting a little bigger with two new additions](https://www.androidauthority.com/gemini-3-8-live-and-extended-thinking-3711621/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
