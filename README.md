@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Agree?](http://9gag.com/gag/aYQz4PO)
- - ⏩ [That&#39;s a good one](http://9gag.com/gag/aqyv14Q)
+ - 💣 [The current state of the United States](http://9gag.com/gag/aMVpA56)
+ - ⏩ [Agree?](http://9gag.com/gag/aYQz4PO)
  - 👉 [Is living with your parents after 25 socially unacceptable?](http://9gag.com/gag/aVvGMAd)<!-- MEMES:END -->
 
 ---
