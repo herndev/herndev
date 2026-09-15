@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Timeless classic](http://9gag.com/gag/aYQz4n7)
+ - 💣 [Would you date a woman who voted for Trump](http://9gag.com/gag/aoyBNX3)
  - ⏩ [Would you date a woman who voted for Trump](http://9gag.com/gag/aoyBNX3)
- - 👉 [Timeless classic](http://9gag.com/gag/aYQz4n7)<!-- MEMES:END -->
+ - 👉 [Would you date a woman who voted for Trump](http://9gag.com/gag/aoyBNX3)<!-- MEMES:END -->
 
 ---
 
