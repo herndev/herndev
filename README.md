@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: only ~2.3 GW of planned data center capacity is delayed by direct project-level policies like local moratoriums and New York&#39;s data center EO &lpar;SemiAnalysis&rpar;](https://www.techmeme.com/260915/p57#a260915p57)
- - [The EOS R8 Mark II is Canon’s lightest full-frame camera with stabilization](https://www.theverge.com/tech/995430/canon-eos-r8-mark-11-full-frame-digital-camera-pricing-availability)
- - [Zuckerberg says &quot;Meta delayed shipping Muse for several months to focus on safety and security&quot; and didn&#39;t call on other AI labs to do the same before acting &lpar;Tom Giles/Bloomberg&rpar;](https://www.techmeme.com/260915/p56#a260915p56)<!-- TECH:END -->
+ - [A viral social media post from a Chinese math teacher sparks debate over making English optional in schools across China especially as AI translation improves &lpar;New York Times&rpar;](https://www.techmeme.com/260916/p8#a260916p8)
+ - [Sources: Shanghai-based Anew Labs, a ByteDance spinoff using AI for drug discovery, raised $290M from HSG, IDG Capital, and others at a $1.5B valuation &lpar;Kane Wu/Reuters&rpar;](https://www.techmeme.com/260916/p7#a260916p7)
+ - [SK Hynix has struck an agreement with its union to pay out half of all profit-sharing bonuses in cash, replacing a previously proposed 40-60 cash-stock split &lpar;Yoolim Lee/Bloomberg&rpar;](https://www.techmeme.com/260916/p6#a260916p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
