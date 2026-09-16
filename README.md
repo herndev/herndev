@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Home will soon let you swap Gemini for Claude, or another agent of your choice](https://www.androidauthority.com/google-home-mcp-connector-ai-agents-3711914/)
- - [Your ‘health age’ is fake](https://www.theverge.com/column/995939/optimizer-health-age-wearables-longevity)
- - [Google will now let any AI agent run your smart home](https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date)<!-- TECH:END -->
+ - [Hang Ten Systems, which uses AI to help large enterprises build software, raised an additional $53M seed led by Xora, five weeks after its initial $32M seed &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/260916/p43#a260916p43)
+ - [AI’s Rising Costs Cast Doubts on Cloud Gaming’s Future](https://www.cnet.com/tech/services-and-software/ai-rising-costs-cloud-gaming-future/)
+ - [A Deal Hunter’s Guide to Amazon Prime Big Deal Days &lpar;2026&rpar;](https://www.wired.com/story/amazon-prime-day-october-2026-tips/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
