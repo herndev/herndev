@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A viral social media post from a Chinese math teacher sparks debate over making English optional in schools across China especially as AI translation improves &lpar;New York Times&rpar;](https://www.techmeme.com/260916/p8#a260916p8)
- - [Sources: Shanghai-based Anew Labs, a ByteDance spinoff using AI for drug discovery, raised $290M from HSG, IDG Capital, and others at a $1.5B valuation &lpar;Kane Wu/Reuters&rpar;](https://www.techmeme.com/260916/p7#a260916p7)
- - [SK Hynix has struck an agreement with its union to pay out half of all profit-sharing bonuses in cash, replacing a previously proposed 40-60 cash-stock split &lpar;Yoolim Lee/Bloomberg&rpar;](https://www.techmeme.com/260916/p6#a260916p6)<!-- TECH:END -->
+ - [iPhone 18 Pro and 18 Pro Max review: manual camera exposure controls and image quality improvements, but $100 more than the 17 Pro and expensive storage tiers &lpar;Allison Johnson/The Verge&rpar;](https://www.techmeme.com/260916/p21#a260916p21)
+ - [Apple iPhone 18 Pro and iPhone 18 Pro Max Review: For Camera Fiends](https://www.wired.com/review/apple-iphone-18-pro-and-iphone-18-pro-max/)
+ - [A brief history of AI executives calling for regulation](https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
