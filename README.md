@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 18 Pro and 18 Pro Max review: manual camera exposure controls and image quality improvements, but $100 more than the 17 Pro and expensive storage tiers &lpar;Allison Johnson/The Verge&rpar;](https://www.techmeme.com/260916/p21#a260916p21)
- - [Apple iPhone 18 Pro and iPhone 18 Pro Max Review: For Camera Fiends](https://www.wired.com/review/apple-iphone-18-pro-and-iphone-18-pro-max/)
- - [A brief history of AI executives calling for regulation](https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation)<!-- TECH:END -->
+ - [Google Home will soon let you swap Gemini for Claude, or another agent of your choice](https://www.androidauthority.com/google-home-mcp-connector-ai-agents-3711914/)
+ - [Your ‘health age’ is fake](https://www.theverge.com/column/995939/optimizer-health-age-wearables-longevity)
+ - [Google will now let any AI agent run your smart home](https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
