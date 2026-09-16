@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Going to Finland next year &lpar; \u00b1 01-2027 &rpar;, any do&#39;s &amp; don&#39;t&#39;s , or tips &amp; pointers ? Except the obvious ofc&lpar; like bring a sweater etc.&rpar;..hmm no wait, you know what, the obvious is fine too.. Just in case](http://9gag.com/gag/agmRn6r)
- - ⏩ [The number of casualties in World War II according to a museum. Is it correct?](http://9gag.com/gag/a9y3pdD)
- - 👉 [Priorities...](http://9gag.com/gag/aO86Y9y)<!-- MEMES:END -->
+ - 💣 [The Enshittificator and Death comes to gather to make stuff more shitty](https://www.reddit.com/r/funny/comments/1whvfxr/the_enshittificator_and_death_comes_to_gather_to/)
+ - ⏩ [First date, nervous heart, awkward smiles, unforgettable night.](http://9gag.com/gag/aVvG37P)
+ - 👉 [You don&#39;t even have to do anything](http://9gag.com/gag/a2vQZV1)<!-- MEMES:END -->
 
 ---
 
