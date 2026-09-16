@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hang Ten Systems, which uses AI to help large enterprises build software, raised an additional $53M seed led by Xora, five weeks after its initial $32M seed &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/260916/p43#a260916p43)
- - [AI’s Rising Costs Cast Doubts on Cloud Gaming’s Future](https://www.cnet.com/tech/services-and-software/ai-rising-costs-cloud-gaming-future/)
- - [A Deal Hunter’s Guide to Amazon Prime Big Deal Days &lpar;2026&rpar;](https://www.wired.com/story/amazon-prime-day-october-2026-tips/)<!-- TECH:END -->
+ - [DRAM pricing will mean more iPhone price hikes in 2027, no relief through 2028](https://appleinsider.com/articles/26/09/16/dram-pricing-will-mean-more-iphone-price-hikes-in-2027-no-relief-through-2028?utm_source=rss)
+ - [iOS 27 Notification Center issue persists from beta to public release](https://appleinsider.com/articles/26/09/16/ios-27-notification-center-issue-persists-from-beta-to-public-release?utm_source=rss)
+ - [OpenAI discloses six new AI safety incidents since October, including models concealing mistakes, and announces a new framework for reporting model misalignment &lpar;Axios&rpar;](https://www.techmeme.com/260916/p48#a260916p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
