@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Would you date a woman who voted for Trump](http://9gag.com/gag/aoyBNX3)
- - ⏩ [Would you date a woman who voted for Trump](http://9gag.com/gag/aoyBNX3)
+ - 💣 [Wonder How Melania Feels About This?](http://9gag.com/gag/a4PMQz1)
+ - ⏩ [Capitalism working exactly as intended until it actually helps people](http://9gag.com/gag/amoDBGv)
  - 👉 [Would you date a woman who voted for Trump](http://9gag.com/gag/aoyBNX3)<!-- MEMES:END -->
 
 ---
