@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Series 12 and Ultra 4 review: new colors and materials, revamped Health Sensing System, an S11 chip, and future AI features, but few design changes &lpar;Chance Miller/9to5Mac&rpar;](https://www.techmeme.com/260917/p23#a260917p23)
- - [A20 Pro succeeds because it was built just for what Apple needs](https://appleinsider.com/articles/26/09/17/a20-pro-succeeds-because-it-was-built-just-for-what-apple-needs?utm_source=rss)
- - [Apple Watch Series 12 Review: Finally, a Readiness Score &lpar;2026&rpar;](https://www.wired.com/review/apple-watch-series-12/)<!-- TECH:END -->
+ - [Analysis: tech employers filed layoff notices for 14,500+ Bay Area workers in the 12 months to June; Bay Area software engineer demand is down 42% since 2022 &lpar;Francesca Maglione/Bloomberg&rpar;](https://www.techmeme.com/260917/p34#a260917p34)
+ - [Need backup power on the go? The BLUETTI Elite 10 Mini is 40% off right now](https://www.androidauthority.com/bluetti-elite-10-mini-deal-3712550/)
+ - [Sharing Google Photos albums via QR codes may soon become way easier](https://www.androidauthority.com/google-photos-qr-code-copy-download-apk-teardown-3712463/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
