@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: tech employers filed layoff notices for 14,500+ Bay Area workers in the 12 months to June; Bay Area software engineer demand is down 42% since 2022 &lpar;Francesca Maglione/Bloomberg&rpar;](https://www.techmeme.com/260917/p34#a260917p34)
- - [Need backup power on the go? The BLUETTI Elite 10 Mini is 40% off right now](https://www.androidauthority.com/bluetti-elite-10-mini-deal-3712550/)
- - [Sharing Google Photos albums via QR codes may soon become way easier](https://www.androidauthority.com/google-photos-qr-code-copy-download-apk-teardown-3712463/)<!-- TECH:END -->
+ - [26 Amazon Prime Perks You Might Know You Have &lpar;2026&rpar;](https://www.wired.com/story/amazon-prime-perks/)
+ - [Andrew Ng says renewed AI extinction warnings are &quot;much more science fiction than science&quot; and the latest &quot;wave of PR&quot; is probably intended to shape regulation &lpar;Micah Barkley/Bloomberg&rpar;](https://www.techmeme.com/260917/p37#a260917p37)
+ - [The AI ‘Slowdown’ Is an Antitrust Mess](https://www.wired.com/story/the-ai-slowdown-is-an-antitrust-mess/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
