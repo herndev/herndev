@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [26 Amazon Prime Perks You Might Know You Have &lpar;2026&rpar;](https://www.wired.com/story/amazon-prime-perks/)
- - [Andrew Ng says renewed AI extinction warnings are &quot;much more science fiction than science&quot; and the latest &quot;wave of PR&quot; is probably intended to shape regulation &lpar;Micah Barkley/Bloomberg&rpar;](https://www.techmeme.com/260917/p37#a260917p37)
- - [The AI ‘Slowdown’ Is an Antitrust Mess](https://www.wired.com/story/the-ai-slowdown-is-an-antitrust-mess/)<!-- TECH:END -->
+ - [Congratulations, World: A New Supercute Cat Species Has Been Found](https://www.cnet.com/home/kitchen-and-household/new-cat-species-found-leopardus-tilcayo/)
+ - [A NASA Scientist Found a Huge New Crater on the Moon by Accident](https://www.cnet.com/science/nasa-found-a-new-moon-crater/)
+ - [Here’s What the AI Apocalypse Could Look Like](https://www.wired.com/story/uncanny-valley-podcast-heres-what-the-ai-apocalypse-could-look-like/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
