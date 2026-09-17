@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DRAM pricing will mean more iPhone price hikes in 2027, no relief through 2028](https://appleinsider.com/articles/26/09/16/dram-pricing-will-mean-more-iphone-price-hikes-in-2027-no-relief-through-2028?utm_source=rss)
- - [iOS 27 Notification Center issue persists from beta to public release](https://appleinsider.com/articles/26/09/16/ios-27-notification-center-issue-persists-from-beta-to-public-release?utm_source=rss)
- - [OpenAI discloses six new AI safety incidents since October, including models concealing mistakes, and announces a new framework for reporting model misalignment &lpar;Axios&rpar;](https://www.techmeme.com/260916/p48#a260916p48)<!-- TECH:END -->
+ - [Generac signs a long-term deal to supply Amazon with up to $8B worth of backup generators for data centers and grants Amazon a warrant for up to a 2.6% stake &lpar;Michelle Ma/Bloomberg&rpar;](https://www.techmeme.com/260916/p52#a260916p52)
+ - [Hands-on with Snap&#39;s Specs: more advanced than Meta&#39;s top-end glasses, fully untethered, mostly comfortable, navigation works well, but design has compromises &lpar;Bloomberg&rpar;](https://www.techmeme.com/260916/p51#a260916p51)
+ - [Google Home Stuns by Announcing AI Support for Claude and OpenClaw](https://www.cnet.com/tech/services-and-software/google-home-stuns-by-announcing-ai-support-for-claude-and-openclaw/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
