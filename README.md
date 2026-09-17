@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Generac signs a long-term deal to supply Amazon with up to $8B worth of backup generators for data centers and grants Amazon a warrant for up to a 2.6% stake &lpar;Michelle Ma/Bloomberg&rpar;](https://www.techmeme.com/260916/p52#a260916p52)
- - [Hands-on with Snap&#39;s Specs: more advanced than Meta&#39;s top-end glasses, fully untethered, mostly comfortable, navigation works well, but design has compromises &lpar;Bloomberg&rpar;](https://www.techmeme.com/260916/p51#a260916p51)
- - [Google Home Stuns by Announcing AI Support for Claude and OpenClaw](https://www.cnet.com/tech/services-and-software/google-home-stuns-by-announcing-ai-support-for-claude-and-openclaw/)<!-- TECH:END -->
+ - [The team behind those great N64 Zelda ports just released Paper Mario on PC](https://www.androidauthority.com/paper-mario-unofficial-pc-port-3712235/)
+ - [A look at the rapid integration of AI into warfare, as the greater speed and scale of AI-assisted target generation processes increase the risk of errors &lpar;Financial Times&rpar;](https://www.techmeme.com/260917/p10#a260917p10)
+ - [Anthropic and other researchers detail how thousands of people were catfished by dating scam apps using LLM-generated replies from Claude and other models &lpar;Yael Grauer/The Verge&rpar;](https://www.techmeme.com/260917/p9#a260917p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
