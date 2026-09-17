@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Rare sighting of a billionaire with a soul](http://9gag.com/gag/ajP25B0)
- - ⏩ [Rare sighting of a billionaire with a soul](http://9gag.com/gag/ajP25B0)
- - 👉 [Saw this ad when scrolling. Can’t wait to go see Sample Title! lol](https://www.reddit.com/r/funny/comments/1wicvnj/saw_this_ad_when_scrolling_cant_wait_to_go_see/)<!-- MEMES:END -->
+ - ⏩ [The future of gaming.](http://9gag.com/gag/aYQz702)
+ - 👉 [Rare sighting of a billionaire with a soul](http://9gag.com/gag/ajP25B0)<!-- MEMES:END -->
 
 ---
 
