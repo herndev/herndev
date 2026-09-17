@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The future of gaming.](http://9gag.com/gag/aYQz702)
+ - 💣 [Anger woman&#39;s](http://9gag.com/gag/aZZ9ypp)
  - ⏩ [Anger woman&#39;s](http://9gag.com/gag/aZZ9ypp)
- - 👉 [The future of gaming.](http://9gag.com/gag/aYQz702)<!-- MEMES:END -->
+ - 👉 [Look like he&#39;s late](https://www.reddit.com/r/funny/comments/1wis582/look_like_hes_late/)<!-- MEMES:END -->
 
 ---
 
