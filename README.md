@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Anger woman&#39;s](http://9gag.com/gag/aZZ9ypp)
+ - 💣 [Woman Arrested After Husband Found Video Of Her Performing Sex Acts With Family Dog](http://9gag.com/gag/a4PM3Ov)
  - ⏩ [Anger woman&#39;s](http://9gag.com/gag/aZZ9ypp)
- - 👉 [Look like he&#39;s late](https://www.reddit.com/r/funny/comments/1wis582/look_like_hes_late/)<!-- MEMES:END -->
+ - 👉 [Woman Arrested After Husband Found Video Of Her Performing Sex Acts With Family Dog](http://9gag.com/gag/a4PM3Ov)<!-- MEMES:END -->
 
 ---
 
