@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The team behind those great N64 Zelda ports just released Paper Mario on PC](https://www.androidauthority.com/paper-mario-unofficial-pc-port-3712235/)
- - [A look at the rapid integration of AI into warfare, as the greater speed and scale of AI-assisted target generation processes increase the risk of errors &lpar;Financial Times&rpar;](https://www.techmeme.com/260917/p10#a260917p10)
- - [Anthropic and other researchers detail how thousands of people were catfished by dating scam apps using LLM-generated replies from Claude and other models &lpar;Yael Grauer/The Verge&rpar;](https://www.techmeme.com/260917/p9#a260917p9)<!-- TECH:END -->
+ - [Apple Watch Series 12 and Ultra 4 review: new colors and materials, revamped Health Sensing System, an S11 chip, and future AI features, but few design changes &lpar;Chance Miller/9to5Mac&rpar;](https://www.techmeme.com/260917/p23#a260917p23)
+ - [A20 Pro succeeds because it was built just for what Apple needs](https://appleinsider.com/articles/26/09/17/a20-pro-succeeds-because-it-was-built-just-for-what-apple-needs?utm_source=rss)
+ - [Apple Watch Series 12 Review: Finally, a Readiness Score &lpar;2026&rpar;](https://www.wired.com/review/apple-watch-series-12/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
