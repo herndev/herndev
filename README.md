@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web](https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero)
- - [Galaxy Tab S12 leak spills the beans on the Plus and Ultra specs](https://www.androidauthority.com/galaxy-tab-s12-specs-revealed-3713106/)
- - [Anthropic partners with Accenture to embed evaluators within Anthropic, including red teaming models and conducting alignment assessments &lpar;Anthropic&rpar;](https://www.techmeme.com/260918/p28#a260918p28)<!-- TECH:END -->
+ - [Meta&#39;s personal AI agent Muse climbs to No. 1 among free apps on Apple&#39;s US App Store, ahead of ChatGPT; Muse launched on September 8 &lpar;Georgia Hennessy/Business Insider&rpar;](https://www.techmeme.com/260918/p36#a260918p36)
+ - [Sources: ~$18B of debt tied to an Oracle New Mexico data center slid into stressed territory, as investors grow wary of construction delays amid local pushback &lpar;Financial Times&rpar;](https://www.techmeme.com/260918/p35#a260918p35)
+ - [Leaked presentation: OpenAI expects negative free cash flow of $278B from 2026 to 2030 and projects its revenue will grow from $36B this year to $350B in 2030 &lpar;Financial Times&rpar;](https://www.techmeme.com/260918/p34#a260918p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
