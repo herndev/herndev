@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Eternal jar of mystery](http://9gag.com/gag/aMVpKd1)
- - ⏩ [Woman Arrested After Husband Found Video Of Her Performing Sex Acts With Family Dog](http://9gag.com/gag/a4PM3Ov)
+ - 💣 [Woman Arrested After Husband Found Video Of Her Performing Sex Acts With Family Dog](http://9gag.com/gag/a4PM3Ov)
+ - ⏩ [Yes, why?](http://9gag.com/gag/a4PMEE1)
  - 👉 [Anger woman&#39;s](http://9gag.com/gag/aZZ9ypp)<!-- MEMES:END -->
 
 ---
