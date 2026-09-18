@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Congratulations, World: A New Supercute Cat Species Has Been Found](https://www.cnet.com/home/kitchen-and-household/new-cat-species-found-leopardus-tilcayo/)
- - [A NASA Scientist Found a Huge New Crater on the Moon by Accident](https://www.cnet.com/science/nasa-found-a-new-moon-crater/)
- - [Here’s What the AI Apocalypse Could Look Like](https://www.wired.com/story/uncanny-valley-podcast-heres-what-the-ai-apocalypse-could-look-like/)<!-- TECH:END -->
+ - [An interview with OpenAI researcher Noam Brown about multi-agent systems, AI solving the Navier-Stokes problem, the internal/external model gap, and more &lpar;Dwarkesh Patel/Dwarkesh Podcast&rpar;](https://www.techmeme.com/260917/p43#a260917p43)
+ - [The UN says it is working with Google on the UN System Data Commons, which lets users search for statistics from across UN agencies via natural-language queries &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/260917/p42#a260917p42)
+ - [Apple&#39;s &#39;Friday Night Baseball&#39; broadcast will be partially captured by iPhone 18 Pro](https://appleinsider.com/articles/26/09/17/apples-friday-night-baseball-broadcast-will-be-partially-captured-by-iphone-18-pro?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
