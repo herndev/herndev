@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Texas Police Department Shut Down For Failing To Provide \u2018Public Benefit\u2019\u00a0](http://9gag.com/gag/a2vQ7Ad)
- - ⏩ [Eternal jar of mystery](http://9gag.com/gag/aMVpKd1)
- - 👉 [I&#39;m enraged](http://9gag.com/gag/a87rEKO)<!-- MEMES:END -->
+ - ⏩ [I&#39;m enraged](http://9gag.com/gag/a87rEKO)
+ - 👉 [Eternal jar of mystery](http://9gag.com/gag/aMVpKd1)<!-- MEMES:END -->
 
 ---
 
