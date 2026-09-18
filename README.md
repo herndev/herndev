@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Virginia governor creates an AI task force and moves to restrain data centers](https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force)
- - [Disney’s first CTO is Character.AI’s former CEO](https://www.theverge.com/entertainment/997555/karandeep-anand-disney-character-ai)
- - [A US NAND factory could reshape storage supply, but not yet for Apple](https://appleinsider.com/articles/26/09/18/a-us-nand-factory-could-reshape-storage-supply-but-not-yet-for-apple?utm_source=rss)<!-- TECH:END -->
+ - [OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web](https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero)
+ - [Galaxy Tab S12 leak spills the beans on the Plus and Ultra specs](https://www.androidauthority.com/galaxy-tab-s12-specs-revealed-3713106/)
+ - [Anthropic partners with Accenture to embed evaluators within Anthropic, including red teaming models and conducting alignment assessments &lpar;Anthropic&rpar;](https://www.techmeme.com/260918/p28#a260918p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
