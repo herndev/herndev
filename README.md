@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SK Hynix launches SK Hynix Ventures in Silicon Valley, expanding its corporate investment scope into AI computing, data centers, and optical interconnect tech &lpar;Jie Ye-eun/The Korea Herald&rpar;](https://www.techmeme.com/260918/p13#a260918p13)
- - [Android Auto may finally be fixing this annoying dashboard bug](https://www.androidauthority.com/android-auto-signal-bars-fix-3712743/)
- - [Sources: SK Hynix subsidiary Solidigm weighs building a NAND flash memory factory in the US; SK Hynix is also in talks with Intel for a separate project in Ohio &lpar;Reuters&rpar;](https://www.techmeme.com/260918/p12#a260918p12)<!-- TECH:END -->
+ - [Nothing Headphone 1 falls to $225 with spatial audio and 80 hours of battery life](https://www.androidauthority.com/nothing-headphone-1-amazon-deal-3712975/)
+ - [Google’s Pixel VIPs redesign starts rolling out to users](https://www.androidauthority.com/pixel-vips-redesign-rollout-3712863/)
+ - [AI PACs Have Dumped Nearly $1 Million Into an Obscure Senate Race](https://www.wired.com/story/ai-pacs-have-dumped-nearly-1-million-into-an-obscure-senate-race/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
