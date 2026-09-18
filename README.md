@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing Headphone 1 falls to $225 with spatial audio and 80 hours of battery life](https://www.androidauthority.com/nothing-headphone-1-amazon-deal-3712975/)
- - [Google’s Pixel VIPs redesign starts rolling out to users](https://www.androidauthority.com/pixel-vips-redesign-rollout-3712863/)
- - [AI PACs Have Dumped Nearly $1 Million Into an Obscure Senate Race](https://www.wired.com/story/ai-pacs-have-dumped-nearly-1-million-into-an-obscure-senate-race/)<!-- TECH:END -->
+ - [Virginia governor creates an AI task force and moves to restrain data centers](https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force)
+ - [Disney’s first CTO is Character.AI’s former CEO](https://www.theverge.com/entertainment/997555/karandeep-anand-disney-character-ai)
+ - [A US NAND factory could reshape storage supply, but not yet for Apple](https://appleinsider.com/articles/26/09/18/a-us-nand-factory-could-reshape-storage-supply-but-not-yet-for-apple?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
