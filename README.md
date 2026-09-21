@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta&#39;s personal AI agent Muse climbs to No. 1 among free apps on Apple&#39;s US App Store, ahead of ChatGPT; Muse launched on September 8 &lpar;Georgia Hennessy/Business Insider&rpar;](https://www.techmeme.com/260918/p36#a260918p36)
- - [Sources: ~$18B of debt tied to an Oracle New Mexico data center slid into stressed territory, as investors grow wary of construction delays amid local pushback &lpar;Financial Times&rpar;](https://www.techmeme.com/260918/p35#a260918p35)
- - [Leaked presentation: OpenAI expects negative free cash flow of $278B from 2026 to 2030 and projects its revenue will grow from $36B this year to $350B in 2030 &lpar;Financial Times&rpar;](https://www.techmeme.com/260918/p34#a260918p34)<!-- TECH:END -->
+ - [Scott Bessent says the US proposed an AI incident notification mechanism to China, and both sides agreed to set up an AI dialogue ahead of the Trump-Xi summit &lpar;Demetri Sevastopulo/Financial Times&rpar;](https://www.techmeme.com/260920/p17#a260920p17)
+ - [Mithrl, which integrates its proprietary biomedical world model with the R&amp;D systems of pharmaceutical companies, raised a $20M Series A led by Obvious Ventures &lpar;Natalie Breymeyer/Axios&rpar;](https://www.techmeme.com/260920/p16#a260920p16)
+ - [UK-based Unit1, which develops &quot;hyper-realistic&quot; digital avatars of musicians to recreate classic concerts, raised nearly £15M from Balderton Capital and others &lpar;Alex Lawson/The Guardian&rpar;](https://www.techmeme.com/260920/p15#a260920p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
