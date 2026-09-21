@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Scott Bessent says the US proposed an AI incident notification mechanism to China, and both sides agreed to set up an AI dialogue ahead of the Trump-Xi summit &lpar;Demetri Sevastopulo/Financial Times&rpar;](https://www.techmeme.com/260920/p17#a260920p17)
- - [Mithrl, which integrates its proprietary biomedical world model with the R&amp;D systems of pharmaceutical companies, raised a $20M Series A led by Obvious Ventures &lpar;Natalie Breymeyer/Axios&rpar;](https://www.techmeme.com/260920/p16#a260920p16)
- - [UK-based Unit1, which develops &quot;hyper-realistic&quot; digital avatars of musicians to recreate classic concerts, raised nearly £15M from Balderton Capital and others &lpar;Alex Lawson/The Guardian&rpar;](https://www.techmeme.com/260920/p15#a260920p15)<!-- TECH:END -->
+ - [More Android phones in US, EU could finally get huge batteries, thanks to Apple](https://www.androidauthority.com/android-phones-big-batteries-apple-prepare-to-ship-3713245/)
+ - [Gmail just made copying 2FA codes much less annoying](https://www.androidauthority.com/gmail-copy-2fa-codes-inbox-3713263/)
+ - [This is the OnePlus 16 and it has a Pixel HiLight-like feature](https://www.androidauthority.com/oneplus-16-design-colors-revealed-3713268/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
