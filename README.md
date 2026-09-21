@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Amsterdam](http://9gag.com/gag/aPAOZrB)
- - ⏩ [I&#39;m enraged](http://9gag.com/gag/a87rEKO)
- - 👉 [Well, you&#39;re not wrong, Grok](http://9gag.com/gag/amoDPpd)<!-- MEMES:END -->
+ - 💣 [Your 1st World Problem of the Day](http://9gag.com/gag/a6ZWXm2)
+ - ⏩ [100% better than The Matrix &amp; absolutely underrated](http://9gag.com/gag/aoyBygx)
+ - 👉 [Just a everyday thing](http://9gag.com/gag/a34oGyr)<!-- MEMES:END -->
 
 ---
 
