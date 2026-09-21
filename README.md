@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus 16’s glowing rear lights look even cooler in action](https://www.androidauthority.com/oneplus-16-interstellar-lighting-hands-on-3713735/)
- - [California Gov. Gavin Newsom signs seven bills aimed at regulating data centers, imposing new requirements on electricity costs, water use, and local oversight &lpar;Nichola Groom/Reuters&rpar;](https://www.techmeme.com/260921/p49#a260921p49)
- - [Amazon cuts 23% off the Energizer Bluetooth speaker, but only for a few hours](https://www.androidauthority.com/energizer-portable-bluetooth-speaker-deal-3713764/)<!-- TECH:END -->
+ - [Apple&#39;s iOS 27.2 beta 2 reveals new anti-snatching protections](https://appleinsider.com/articles/26/09/21/apples-ios-272-beta-2-reveals-new-anti-snatching-protections?utm_source=rss)
+ - [Xiaomi debuts open-weight omnimodal models MiMo-V2.6 Pro and Flash; Pro allegedly performs &quot;on par with Opus 5 and GPT-5.6 Sol across most agent benchmarks&quot; &lpar;Xiaomi&rpar;](https://www.techmeme.com/260921/p52#a260921p52)
+ - [Say Hello to RatHat, a New AI-Powered Malware Invading the Android Ecosystem](https://www.cnet.com/tech/services-and-software/rathat-malware-attacks-android-phones/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
