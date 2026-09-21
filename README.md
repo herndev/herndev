@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How do we tell him](http://9gag.com/gag/aXP8Pev)
- - ⏩ [100% better than The Matrix &amp; absolutely underrated](http://9gag.com/gag/aoyBygx)
- - 👉 [Just a everyday thing](http://9gag.com/gag/a34oGyr)<!-- MEMES:END -->
+ - 💣 [EU maintain extremely strict conditions when it comes to food](http://9gag.com/gag/a2vQwew)
+ - ⏩ [Wyd](http://9gag.com/gag/aO86223)
+ - 👉 [We have reached the bottom - for now](http://9gag.com/gag/aqyvXYR)<!-- MEMES:END -->
 
 ---
 
