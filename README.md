@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Acer Googlebook has a touchscreen trick its peers miss out on](https://www.androidauthority.com/acer-googlebook-14-360-convertible-3713566/)
- - [M5 Ultra Mac Studio&#39;s GPU, AI performance keeps up with desktop graphics cards](https://appleinsider.com/articles/26/09/21/m5-ultra-mac-studios-gpu-ai-performance-keeps-up-with-desktop-graphics-cards?utm_source=rss)
- - [Here’s the iFixit Repairability Rating for the iPhone 18 Pro](https://www.wired.com/story/ifixit-rating-for-the-iphone-18-pro-repairability/)<!-- TECH:END -->
+ - [OnePlus 16’s glowing rear lights look even cooler in action](https://www.androidauthority.com/oneplus-16-interstellar-lighting-hands-on-3713735/)
+ - [California Gov. Gavin Newsom signs seven bills aimed at regulating data centers, imposing new requirements on electricity costs, water use, and local oversight &lpar;Nichola Groom/Reuters&rpar;](https://www.techmeme.com/260921/p49#a260921p49)
+ - [Amazon cuts 23% off the Energizer Bluetooth speaker, but only for a few hours](https://www.androidauthority.com/energizer-portable-bluetooth-speaker-deal-3713764/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
