@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Your 1st World Problem of the Day](http://9gag.com/gag/a6ZWXm2)
+ - 💣 [How do we tell him](http://9gag.com/gag/aXP8Pev)
  - ⏩ [100% better than The Matrix &amp; absolutely underrated](http://9gag.com/gag/aoyBygx)
  - 👉 [Just a everyday thing](http://9gag.com/gag/a34oGyr)<!-- MEMES:END -->
 
