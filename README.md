@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [More Android phones in US, EU could finally get huge batteries, thanks to Apple](https://www.androidauthority.com/android-phones-big-batteries-apple-prepare-to-ship-3713245/)
- - [Gmail just made copying 2FA codes much less annoying](https://www.androidauthority.com/gmail-copy-2fa-codes-inbox-3713263/)
- - [This is the OnePlus 16 and it has a Pixel HiLight-like feature](https://www.androidauthority.com/oneplus-16-design-colors-revealed-3713268/)<!-- TECH:END -->
+ - [The Acer Googlebook has a touchscreen trick its peers miss out on](https://www.androidauthority.com/acer-googlebook-14-360-convertible-3713566/)
+ - [M5 Ultra Mac Studio&#39;s GPU, AI performance keeps up with desktop graphics cards](https://appleinsider.com/articles/26/09/21/m5-ultra-mac-studios-gpu-ai-performance-keeps-up-with-desktop-graphics-cards?utm_source=rss)
+ - [Here’s the iFixit Repairability Rating for the iPhone 18 Pro](https://www.wired.com/story/ifixit-rating-for-the-iphone-18-pro-repairability/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
