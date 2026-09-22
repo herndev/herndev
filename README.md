@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Zuck definitely hiding something on that boat](http://9gag.com/gag/azx6PYK)
+ - 💣 [How to get a girlfriend 101](http://9gag.com/gag/aNDyLLv)
  - ⏩ [NBA Star Sophie Cunningham Defends Sydney Sweeney Amid Backlash Over Sports Betting Ad](http://9gag.com/gag/agmR1Pg)
- - 👉 [Wyd](http://9gag.com/gag/aO86223)<!-- MEMES:END -->
+ - 👉 [Yummy](http://9gag.com/gag/a5QLBxG)<!-- MEMES:END -->
 
 ---
 
