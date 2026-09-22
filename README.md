@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI ‘Actress’ Tilly Norwood Glitches on Live TV in Surreal Nightmare](https://www.cnet.com/tech/services-and-software/tilly-norwood-ai-actress-speaks-cantonese-live-interview-glitch/)
- - [Shopify plans to allow Meta&#39;s Muse to complete purchases on behalf of users at Shopify-powered stores via its one-tap checkout service Shop Pay &lpar;Kelly Cloonan/Wall Street Journal&rpar;](https://www.techmeme.com/260921/p55#a260921p55)
- - [A cut cable disrupted hundreds of flights across the US](https://www.theverge.com/transportation/998550/a-cut-cable-disrupted-hundreds-of-flights-across-the-us)<!-- TECH:END -->
+ - [This brand-new Googlebook chip is basically an old flagship smartphone processor](https://www.androidauthority.com/mediatek-googlebook-chip-3713603/)
+ - [Dutch nanoimprint lithography startup Morphotonics raised €40M from 3M Ventures, EIC Fund, and others, and plans to expand into data center optical components &lpar;TechCrunch&rpar;](https://www.techmeme.com/260922/p5#a260922p5)
+ - [Belgium-based AI recruitment platform Spott raised a $21M Series A led by Balderton, with Base10, YC, and Fortino participating, bringing total funding to $24M &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/260922/p4#a260922p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
