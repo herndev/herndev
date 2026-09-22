@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s iOS 27.2 beta 2 reveals new anti-snatching protections](https://appleinsider.com/articles/26/09/21/apples-ios-272-beta-2-reveals-new-anti-snatching-protections?utm_source=rss)
- - [Xiaomi debuts open-weight omnimodal models MiMo-V2.6 Pro and Flash; Pro allegedly performs &quot;on par with Opus 5 and GPT-5.6 Sol across most agent benchmarks&quot; &lpar;Xiaomi&rpar;](https://www.techmeme.com/260921/p52#a260921p52)
- - [Say Hello to RatHat, a New AI-Powered Malware Invading the Android Ecosystem](https://www.cnet.com/tech/services-and-software/rathat-malware-attacks-android-phones/)<!-- TECH:END -->
+ - [AI ‘Actress’ Tilly Norwood Glitches on Live TV in Surreal Nightmare](https://www.cnet.com/tech/services-and-software/tilly-norwood-ai-actress-speaks-cantonese-live-interview-glitch/)
+ - [Shopify plans to allow Meta&#39;s Muse to complete purchases on behalf of users at Shopify-powered stores via its one-tap checkout service Shop Pay &lpar;Kelly Cloonan/Wall Street Journal&rpar;](https://www.techmeme.com/260921/p55#a260921p55)
+ - [A cut cable disrupted hundreds of flights across the US](https://www.theverge.com/transportation/998550/a-cut-cable-disrupted-hundreds-of-flights-across-the-us)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
