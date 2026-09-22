@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Future Apple Watch could be screen-less Whoop competitor, says rumor](https://appleinsider.com/articles/26/09/22/future-apple-watch-could-be-screen-less-whoop-competitor-says-rumor?utm_source=rss)
- - [Apple is reportedly working on a Whoop-like fitness tracker](https://www.theverge.com/gadgets/998902/apple-whoop-fitness-tracker)
- - [The TCL TAB A1 falls back to its all-time low with an 18% discount](https://www.androidauthority.com/tcl-tab-a1-tablet-deal-3714174/)<!-- TECH:END -->
+ - [Qualcomm unveils the Snapdragon 8 Elite Gen 6 and 8 Elite Extreme Gen 6, both on TSMC&#39;s 2nm process, with two 5GHz prime cores and six 4GHz performance cores &lpar;Axel Metz/TechRadar&rpar;](https://www.techmeme.com/260922/p51#a260922p51)
+ - [San Francisco sues Trump Media &amp; Technology, claiming its Truth API service violates California&#39;s Unfair Competition Law by creating an insider trading market &lpar;Heather Knight/New York Times&rpar;](https://www.techmeme.com/260922/p50#a260922p50)
+ - [Good Lock, bad lock screen: Weird bug messes with clock placement following One UI 9 update](https://www.androidauthority.com/samsung-good-lock-bug-lock-screen-clocks-3714266/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
