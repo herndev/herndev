@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Qualcomm unveils the Snapdragon 8 Elite Gen 6 and 8 Elite Extreme Gen 6, both on TSMC&#39;s 2nm process, with two 5GHz prime cores and six 4GHz performance cores &lpar;Axel Metz/TechRadar&rpar;](https://www.techmeme.com/260922/p51#a260922p51)
- - [San Francisco sues Trump Media &amp; Technology, claiming its Truth API service violates California&#39;s Unfair Competition Law by creating an insider trading market &lpar;Heather Knight/New York Times&rpar;](https://www.techmeme.com/260922/p50#a260922p50)
- - [Good Lock, bad lock screen: Weird bug messes with clock placement following One UI 9 update](https://www.androidauthority.com/samsung-good-lock-bug-lock-screen-clocks-3714266/)<!-- TECH:END -->
+ - [Apple Is Reportedly Developing a Screenless Fitness Tracker](https://www.cnet.com/tech/mobile/apple-screenless-fitness-tracker/)
+ - [Rabbit launches OS3, a cloud AI agent that connects to local apps and files on Windows, Mac, and Linux and works via web, Telegram, iMessage, or its R1 device &lpar;Julian Chokkattu/Wired&rpar;](https://www.techmeme.com/260922/p56#a260922p56)
+ - [Data security startup Cyera raised $400M from Goldman Sachs in a Series G extension, bringing its total funding since June 2025 to $1.94B &lpar;James Rundle/Wall Street Journal&rpar;](https://www.techmeme.com/260922/p55#a260922p55)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
