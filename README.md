@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This brand-new Googlebook chip is basically an old flagship smartphone processor](https://www.androidauthority.com/mediatek-googlebook-chip-3713603/)
- - [Dutch nanoimprint lithography startup Morphotonics raised €40M from 3M Ventures, EIC Fund, and others, and plans to expand into data center optical components &lpar;TechCrunch&rpar;](https://www.techmeme.com/260922/p5#a260922p5)
- - [Belgium-based AI recruitment platform Spott raised a $21M Series A led by Balderton, with Base10, YC, and Fortino participating, bringing total funding to $24M &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/260922/p4#a260922p4)<!-- TECH:END -->
+ - [Spectacular Apple Music Hall concert venue opens in London](https://appleinsider.com/articles/26/09/22/spectacular-apple-music-hall-concert-venue-opens-in-london?utm_source=rss)
+ - [DoorDash agrees to a $131.5M settlement with NYC&#39;s DCWP to resolve a year-plus investigation into its compliance with the city&#39;s 2023 delivery driver pay law &lpar;Elias Schisgall/Wall Street Journal&rpar;](https://www.techmeme.com/260922/p17#a260922p17)
+ - [It’s time for the Mac Neo](https://www.theverge.com/report/998501/apple-mac-mini-m6-price-mac-neo-concept)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
