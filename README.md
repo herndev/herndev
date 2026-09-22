@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In this economy](http://9gag.com/gag/azx6KDq)
+ - 💣 [Coco Beach](https://www.reddit.com/r/funny/comments/1wnl2in/coco_beach/)
  - ⏩ [NBA Star Sophie Cunningham Defends Sydney Sweeney Amid Backlash Over Sports Betting Ad](http://9gag.com/gag/agmR1Pg)
- - 👉 [EU maintain extremely strict conditions when it comes to food](http://9gag.com/gag/a2vQwew)<!-- MEMES:END -->
+ - 👉 [Callina Liang Unveils New Behind-the-Scenes Look As Chun-Li In \u2018Street Fighter\u2019 Movie](http://9gag.com/gag/a0em0Wq)<!-- MEMES:END -->
 
 ---
 
