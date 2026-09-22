@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [NBA Star Sophie Cunningham Defends Sydney Sweeney Amid Backlash Over Sports Betting Ad](http://9gag.com/gag/agmR1Pg)
- - ⏩ [Trump Obeys Putin](http://9gag.com/gag/aLnqevz)
- - 👉 [EU maintain extremely strict conditions when it comes to food](http://9gag.com/gag/a2vQwew)<!-- MEMES:END -->
+ - ⏩ [Free Daycare in the Netherlands](http://9gag.com/gag/an7A2bz)
+ - 👉 [This is how nukes were built](http://9gag.com/gag/azx6dWx)<!-- MEMES:END -->
 
 ---
 
