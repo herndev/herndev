@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta’s Muse AI Assistant Rolled Out With a Serious Security Flaw](https://www.wired.com/story/metas-muse-ai-agent-zero-day/)
- - [This Mac mini gaming handheld is one of the most ambitious projects we&#39;ve seen](https://appleinsider.com/articles/26/09/23/this-mac-mini-gaming-handheld-is-one-of-the-most-ambitious-projects-weve-seen?utm_source=rss)
- - [These Android flagships pair the latest Snapdragon chips with not one, but two unique displays](https://www.androidauthority.com/xiaomi-18-pro-max-launch-3714485/)<!-- TECH:END -->
+ - [New T-Mobile plan perks could be coming next week](https://www.androidauthority.com/new-t-mobile-perks-3714692/)
+ - [YouTube Music is rolling out some features to freshen up your podcast collection](https://www.androidauthority.com/youtube-music-your-podcast-lineup-3714671/)
+ - [Grab Apple&#39;s new M6 Mac mini for $879.99 during month-end sale](https://appleinsider.com/articles/26/09/23/grab-apples-new-m6-mac-mini-for-87999-during-month-end-sale?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
