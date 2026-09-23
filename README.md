@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Is Reportedly Developing a Screenless Fitness Tracker](https://www.cnet.com/tech/mobile/apple-screenless-fitness-tracker/)
- - [Rabbit launches OS3, a cloud AI agent that connects to local apps and files on Windows, Mac, and Linux and works via web, Telegram, iMessage, or its R1 device &lpar;Julian Chokkattu/Wired&rpar;](https://www.techmeme.com/260922/p56#a260922p56)
- - [Data security startup Cyera raised $400M from Goldman Sachs in a Series G extension, bringing its total funding since June 2025 to $1.94B &lpar;James Rundle/Wall Street Journal&rpar;](https://www.techmeme.com/260922/p55#a260922p55)<!-- TECH:END -->
+ - [Xbox has become a shell of its former self, weighed down by job cuts and studio closures, as it focuses on franchises like Halo and reaching &quot;a billion people&quot; &lpar;Andrew Webster/The Verge&rpar;](https://www.techmeme.com/260922/p60#a260922p60)
+ - [Discord rolls out its updated age-verification policy this week, sorting users into either the Adult or Teen group based on account age, activity levels, more &lpar;Anna Washenko/Engadget&rpar;](https://www.techmeme.com/260922/p59#a260922p59)
+ - [OpenAI wants to consult elite mathematicians about how to not fumble again](https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
