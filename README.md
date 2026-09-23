@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xbox has become a shell of its former self, weighed down by job cuts and studio closures, as it focuses on franchises like Halo and reaching &quot;a billion people&quot; &lpar;Andrew Webster/The Verge&rpar;](https://www.techmeme.com/260922/p60#a260922p60)
- - [Discord rolls out its updated age-verification policy this week, sorting users into either the Adult or Teen group based on account age, activity levels, more &lpar;Anna Washenko/Engadget&rpar;](https://www.techmeme.com/260922/p59#a260922p59)
- - [OpenAI wants to consult elite mathematicians about how to not fumble again](https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel)<!-- TECH:END -->
+ - [Motorola is finally bringing its true flagship with Snapdragon to the US](https://www.androidauthority.com/motorola-signature-27-us-launch-3714359/)
+ - [Profile of Noah Shinn, founder of AI assistant Instinct, who soft-launched it as an invite-only site for VCs, and is reportedly fundraising at a $10B valuation &lpar;Business Insider&rpar;](https://www.techmeme.com/260923/p6#a260923p6)
+ - [Google Sheets now plays more nicely with your imported Excel spreadsheets](https://www.androidauthority.com/google-sheets-reorder-sort-pivot-tables-3714348/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
