@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola is finally bringing its true flagship with Snapdragon to the US](https://www.androidauthority.com/motorola-signature-27-us-launch-3714359/)
- - [Profile of Noah Shinn, founder of AI assistant Instinct, who soft-launched it as an invite-only site for VCs, and is reportedly fundraising at a $10B valuation &lpar;Business Insider&rpar;](https://www.techmeme.com/260923/p6#a260923p6)
- - [Google Sheets now plays more nicely with your imported Excel spreadsheets](https://www.androidauthority.com/google-sheets-reorder-sort-pivot-tables-3714348/)<!-- TECH:END -->
+ - [Meta’s Muse AI Assistant Rolled Out With a Serious Security Flaw](https://www.wired.com/story/metas-muse-ai-agent-zero-day/)
+ - [This Mac mini gaming handheld is one of the most ambitious projects we&#39;ve seen](https://appleinsider.com/articles/26/09/23/this-mac-mini-gaming-handheld-is-one-of-the-most-ambitious-projects-weve-seen?utm_source=rss)
+ - [These Android flagships pair the latest Snapdragon chips with not one, but two unique displays](https://www.androidauthority.com/xiaomi-18-pro-max-launch-3714485/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
