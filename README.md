@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New T-Mobile plan perks could be coming next week](https://www.androidauthority.com/new-t-mobile-perks-3714692/)
- - [YouTube Music is rolling out some features to freshen up your podcast collection](https://www.androidauthority.com/youtube-music-your-podcast-lineup-3714671/)
- - [Grab Apple&#39;s new M6 Mac mini for $879.99 during month-end sale](https://appleinsider.com/articles/26/09/23/grab-apples-new-m6-mac-mini-for-87999-during-month-end-sale?utm_source=rss)<!-- TECH:END -->
+ - [Apple’s iPhone Duo could help fix one of Android’s biggest foldable problems](https://www.androidauthority.com/iphone-duo-android-foldable-app-support-3714733/)
+ - [A US-China AI Hotline Won&#39;t Be Ready For a While](https://www.wired.com/story/a-us-china-ai-hotline-wont-be-ready-for-a-while/)
+ - [Google’s Omni video generator is now free to try in Vids](https://www.androidauthority.com/google-vids-omni-flash-lite-3714767/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
