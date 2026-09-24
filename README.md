@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Jev developer TypeSafe is in talks to raise $1B+ at a $10B+ valuation; last week the startup announced a $40M seed, PitchBook says at a $200M valuation &lpar;The Information&rpar;](https://www.techmeme.com/260924/p40#a260924p40)
- - [Google Maps is failing to complete basic searches for some users](https://www.androidauthority.com/google-maps-search-error-on-browser-3715210/)
- - [These smart glasses are being recalled to stop them burning your face off](https://www.androidauthority.com/inmo-air-3-smart-glasses-recall-3715219/)<!-- TECH:END -->
+ - [Documents: Jeff Bezos has invested $30B in Blue Origin since 2000, including $2B in its first outside funding round, which has raised $10B at a $140B valuation &lpar;Micah Maidenberg/Wall Street Journal&rpar;](https://www.techmeme.com/260924/p49#a260924p49)
+ - [Microsoft puts Brad Smith in charge of communications](https://www.theverge.com/news/1000374/microsoft-comms-pr-brad-smith-cela)
+ - [Forget new models — Gemini’s working on what really matters: dark mode options](https://www.androidauthority.com/gemini-dark-mode-3715309/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
