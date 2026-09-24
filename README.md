@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta Connect 2026: The 7 biggest announcements](https://www.theverge.com/tech/999593/meta-connect-2026-everything-announced)
- - [Trove of Stolen Sensitive FBI Employee Data Is Significant Intelligence Risk](https://www.cnet.com/tech/services-and-software/stolen-sensitive-fbi-employee-data-significant-intelligence-risk/)
- - [Meta Pinky-Promises Its Smart Glasses Will Be Private Soon](https://www.wired.com/story/meta-pinky-promises-its-smart-glasses-are-going-to-be-private-soon/)<!-- TECH:END -->
+ - [TurboTax Full Service Coupons This September 2026](https://www.wired.com/story/turbotax-coupon/)
+ - [Peacock Promo Codes: 40% Off September 2026](https://www.wired.com/story/peacock-promo-code/)
+ - [Motley Fool Promo Code: $200 Off on Stock Advisor September 2026](https://www.wired.com/story/the-motley-fool-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
