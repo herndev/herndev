@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon, B&amp;H battle for the best price with $1,849 M5 MacBook Pro deal](https://appleinsider.com/articles/26/09/24/amazon-bh-battle-for-the-best-price-with-1849-m5-macbook-pro-deal?utm_source=rss)
- - [At a White House summit, Xi Jinping says the US and China share the &quot;capability and responsibility&quot; to manage AI for good and calls for healthy competition &lpar;Financial Times&rpar;](https://www.techmeme.com/260924/p32#a260924p32)
- - [Meta’s New AI Device Is This Tamagotchi-Like Muse Charm Keychain](https://www.cnet.com/tech/services-and-software/meta-connect-muse-charm-ai-keychain-announcement/)<!-- TECH:END -->
+ - [Sources: Jev developer TypeSafe is in talks to raise $1B+ at a $10B+ valuation; last week the startup announced a $40M seed, PitchBook says at a $200M valuation &lpar;The Information&rpar;](https://www.techmeme.com/260924/p40#a260924p40)
+ - [Google Maps is failing to complete basic searches for some users](https://www.androidauthority.com/google-maps-search-error-on-browser-3715210/)
+ - [These smart glasses are being recalled to stop them burning your face off](https://www.androidauthority.com/inmo-air-3-smart-glasses-recall-3715219/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
