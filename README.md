@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hollywood Producer Harvey Weinstein Sentenced To 15 Years In Prison For Sexual Assault](http://9gag.com/gag/aW4VoDd)
- - ⏩ [This-19YearOld](http://9gag.com/gag/azx6Oop)
- - 👉 [No wonder people hang onto their old cars.](http://9gag.com/gag/axyp68D)<!-- MEMES:END -->
+ - 💣 [I get that everyday. Everytime and beyond](http://9gag.com/gag/a0em60B)
+ - ⏩ [Hollywood Producer Harvey Weinstein Sentenced To 15 Years In Prison For Sexual Assault](http://9gag.com/gag/aW4VoDd)
+ - 👉 [This-19YearOld](http://9gag.com/gag/azx6Oop)<!-- MEMES:END -->
 
 ---
 
