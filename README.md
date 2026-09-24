@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Callina Liang Unveils New Behind-the-Scenes Look As Chun-Li In \u2018Street Fighter\u2019 Movie](http://9gag.com/gag/a0em0Wq)
- - ⏩ [Hollywood Producer Harvey Weinstein Sentenced To 15 Years In Prison For Sexual Assault](http://9gag.com/gag/aW4VoDd)
- - 👉 [I get that everyday. Everytime and beyond](http://9gag.com/gag/a0em60B)<!-- MEMES:END -->
+ - 💣 [We are cooked.](http://9gag.com/gag/aRBxoyB)
+ - ⏩ [Look carefully](http://9gag.com/gag/a87rDVY)
+ - 👉 [Wholesome moment](http://9gag.com/gag/aXP8W19)<!-- MEMES:END -->
 
 ---
 
