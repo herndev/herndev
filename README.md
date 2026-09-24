@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Data privacy isn’t just for nerds — here’s why you should care too](https://www.androidauthority.com/why-data-privacy-matters-for-everyone-3709285/)
- - [The Ovary Is Surprisingly Active After Menopause. Scientists Are Trying to Figure Out Why](https://www.wired.com/story/ovary-activity-after-menopause/)
- - [OpenAI says its AI agents &quot;took actions we did not intend&quot; when they tried to hack government and university websites, and it is working with the organizations &lpar;New York Times&rpar;](https://www.techmeme.com/260924/p16#a260924p16)<!-- TECH:END -->
+ - [Amazon, B&amp;H battle for the best price with $1,849 M5 MacBook Pro deal](https://appleinsider.com/articles/26/09/24/amazon-bh-battle-for-the-best-price-with-1849-m5-macbook-pro-deal?utm_source=rss)
+ - [At a White House summit, Xi Jinping says the US and China share the &quot;capability and responsibility&quot; to manage AI for good and calls for healthy competition &lpar;Financial Times&rpar;](https://www.techmeme.com/260924/p32#a260924p32)
+ - [Meta’s New AI Device Is This Tamagotchi-Like Muse Charm Keychain](https://www.cnet.com/tech/services-and-software/meta-connect-muse-charm-ai-keychain-announcement/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
