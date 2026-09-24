@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TurboTax Full Service Coupons This September 2026](https://www.wired.com/story/turbotax-coupon/)
- - [Peacock Promo Codes: 40% Off September 2026](https://www.wired.com/story/peacock-promo-code/)
- - [Motley Fool Promo Code: $200 Off on Stock Advisor September 2026](https://www.wired.com/story/the-motley-fool-promo-code/)<!-- TECH:END -->
+ - [Data privacy isn’t just for nerds — here’s why you should care too](https://www.androidauthority.com/why-data-privacy-matters-for-everyone-3709285/)
+ - [The Ovary Is Surprisingly Active After Menopause. Scientists Are Trying to Figure Out Why](https://www.wired.com/story/ovary-activity-after-menopause/)
+ - [OpenAI says its AI agents &quot;took actions we did not intend&quot; when they tried to hack government and university websites, and it is working with the organizations &lpar;New York Times&rpar;](https://www.techmeme.com/260924/p16#a260924p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
