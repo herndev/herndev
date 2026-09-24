@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s iPhone Duo could help fix one of Android’s biggest foldable problems](https://www.androidauthority.com/iphone-duo-android-foldable-app-support-3714733/)
- - [A US-China AI Hotline Won&#39;t Be Ready For a While](https://www.wired.com/story/a-us-china-ai-hotline-wont-be-ready-for-a-while/)
- - [Google’s Omni video generator is now free to try in Vids](https://www.androidauthority.com/google-vids-omni-flash-lite-3714767/)<!-- TECH:END -->
+ - [Meta Connect 2026: The 7 biggest announcements](https://www.theverge.com/tech/999593/meta-connect-2026-everything-announced)
+ - [Trove of Stolen Sensitive FBI Employee Data Is Significant Intelligence Risk](https://www.cnet.com/tech/services-and-software/stolen-sensitive-fbi-employee-data-significant-intelligence-risk/)
+ - [Meta Pinky-Promises Its Smart Glasses Will Be Private Soon](https://www.wired.com/story/meta-pinky-promises-its-smart-glasses-are-going-to-be-private-soon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
