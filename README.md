@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Databricks acquires spreadsheet startup Row Zero to expand the capabilities of its AI coworker Genie; Row Zero raised a $10M seed led by IA Ventures last year &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/260924/p52#a260924p52)
- - [Meta employees ordered ‘attorney/client privilege’ hats while fighting child safety disclosures](https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats)
- - [Qualcomm’s new ‘Elite’ sound chip might finally deliver the Wi-Fi earbud dream](https://www.theverge.com/tech/1000443/qualcomms-new-elite-sound-chip-might-finally-deliver-the-wi-fi-earbud-dream)<!-- TECH:END -->
+ - [Chinese local governments are offering subsidies like computing vouchers, rent waivers, and dedicated funding to lure AI filmmakers as part of China&#39;s AI push &lpar;Reuters&rpar;](https://www.techmeme.com/260925/p1#a260925p1)
+ - [Ulta Promo Codes: Up to 20% Off in September 2026](https://www.wired.com/story/ulta-coupon/)
+ - [Therabody Promo Codes: 15% Off September 2026](https://www.wired.com/story/therabody-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
