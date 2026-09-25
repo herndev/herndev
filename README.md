@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We are cooked.](http://9gag.com/gag/aRBxoyB)
- - ⏩ [Look carefully](http://9gag.com/gag/a87rDVY)
- - 👉 [Now that&#39;s a fun kinda wife to have](http://9gag.com/gag/a2vQbzw)<!-- MEMES:END -->
+ - 💣 [POV: The Oldest House has fallen, Manhattan is cooked.](http://9gag.com/gag/a2vQbG9)
+ - ⏩ [We are cooked.](http://9gag.com/gag/aRBxoyB)
+ - 👉 [Commitment level extreme](http://9gag.com/gag/aqyvzxM)<!-- MEMES:END -->
 
 ---
 
