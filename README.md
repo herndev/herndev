@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Ultra 4 drops to $779 during weekend sale](https://appleinsider.com/articles/26/09/25/apple-watch-ultra-4-drops-to-779-during-weekend-sale?utm_source=rss)
- - [Amazon deal makes the Razer Kishi V3 Pro XL easier to grab at $159.99](https://www.androidauthority.com/razer-kishi-v3-pro-xl-deal-3715656/)
- - [An Imminent Google Satellite Test Is Another Step Toward Data Centers in Space](https://www.cnet.com/tech/services-and-software/google-satellite-space-data-center/)<!-- TECH:END -->
+ - [Where’s my timestamp? Google Messages is updating its UI, and users are confused](https://www.androidauthority.com/google-messages-swipe-3715719/)
+ - [Microsoft confirms that 2026 Surface PCs have dropped the Copilot+ PC branding, even though they meet all the requirements of Copilot+ devices &lpar;Zac Bowden/Windows Central&rpar;](https://www.techmeme.com/260925/p15#a260925p15)
+ - [Google Calendar is getting an update that global teams will appreciate](https://www.androidauthority.com/google-calendar-third-time-zone-3715732/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
