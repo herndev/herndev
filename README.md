@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [POV: The Oldest House has fallen, Manhattan is cooked.](http://9gag.com/gag/a2vQbG9)
- - ⏩ [Survive 20 jumps](http://9gag.com/gag/a9y3X5W)
- - 👉 [We are cooked.](http://9gag.com/gag/aRBxoyB)<!-- MEMES:END -->
+ - ⏩ [We are cooked.](http://9gag.com/gag/aRBxoyB)
+ - 👉 [POV: The Oldest House has fallen, Manhattan is cooked.](http://9gag.com/gag/a2vQbG9)<!-- MEMES:END -->
 
 ---
 
