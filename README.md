@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [POV: The Oldest House has fallen, Manhattan is cooked.](http://9gag.com/gag/a2vQbG9)
  - ⏩ [We are cooked.](http://9gag.com/gag/aRBxoyB)
- - 👉 [Commitment level extreme](http://9gag.com/gag/aqyvzxM)<!-- MEMES:END -->
+ - 👉 [Go Sports!](http://9gag.com/gag/apReA15)<!-- MEMES:END -->
 
 ---
 
