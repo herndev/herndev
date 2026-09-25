@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When the immoveable force meets the unstoppable object](http://9gag.com/gag/aNDyRQb)
- - ⏩ [We are cooked.](http://9gag.com/gag/aRBxoyB)
- - 👉 [I would have gotten this one wrong for sure](http://9gag.com/gag/avybvEE)<!-- MEMES:END -->
+ - 💣 [We are cooked.](http://9gag.com/gag/aRBxoyB)
+ - ⏩ [Look carefully](http://9gag.com/gag/a87rDVY)
+ - 👉 [Now that&#39;s a fun kinda wife to have](http://9gag.com/gag/a2vQbzw)<!-- MEMES:END -->
 
 ---
 
