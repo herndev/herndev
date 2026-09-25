@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Where’s my timestamp? Google Messages is updating its UI, and users are confused](https://www.androidauthority.com/google-messages-swipe-3715719/)
- - [Microsoft confirms that 2026 Surface PCs have dropped the Copilot+ PC branding, even though they meet all the requirements of Copilot+ devices &lpar;Zac Bowden/Windows Central&rpar;](https://www.techmeme.com/260925/p15#a260925p15)
- - [Google Calendar is getting an update that global teams will appreciate](https://www.androidauthority.com/google-calendar-third-time-zone-3715732/)<!-- TECH:END -->
+ - [OpenAI says the 53 images its agents uploaded were on &quot;image-hosting sites as links that weren&#39;t publicly listed&quot; and &quot;most&quot; of the images have been removed &lpar;@openai&rpar;](https://www.techmeme.com/260925/p22#a260925p22)
+ - [Google Health 5.09 arrives with more than just your new Pixel Watch features](https://www.androidauthority.com/google-health-5-09-3715801/)
+ - [FTC Chairman Andrew Ferguson says he resists anthropomorphizing AI agents as autonomous actors with &quot;wills and desires&quot;, suggesting developers hold liability &lpar;Reuters&rpar;](https://www.techmeme.com/260925/p21#a260925p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
