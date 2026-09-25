@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ATV Launcher’s latest update brings big home screen upgrades for your Android TV](https://www.androidauthority.com/atv-launcher-v0-1-41-update-3715420/)
- - [Pixel 11 signal problems? Try these 7 fixes before returning it](https://www.androidauthority.com/pixel-11-signal-problems-troubleshooting-tips-3714401/)
- - [How to Record Your Screen on Any Phone](https://www.wired.com/story/how-to-record-your-screen-on-any-phone/)<!-- TECH:END -->
+ - [Apple Watch Ultra 4 drops to $779 during weekend sale](https://appleinsider.com/articles/26/09/25/apple-watch-ultra-4-drops-to-779-during-weekend-sale?utm_source=rss)
+ - [Amazon deal makes the Razer Kishi V3 Pro XL easier to grab at $159.99](https://www.androidauthority.com/razer-kishi-v3-pro-xl-deal-3715656/)
+ - [An Imminent Google Satellite Test Is Another Step Toward Data Centers in Space](https://www.cnet.com/tech/services-and-software/google-satellite-space-data-center/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
