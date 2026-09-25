@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Documents: Jeff Bezos has invested $30B in Blue Origin since 2000, including $2B in its first outside funding round, which has raised $10B at a $140B valuation &lpar;Micah Maidenberg/Wall Street Journal&rpar;](https://www.techmeme.com/260924/p49#a260924p49)
- - [Microsoft puts Brad Smith in charge of communications](https://www.theverge.com/news/1000374/microsoft-comms-pr-brad-smith-cela)
- - [Forget new models — Gemini’s working on what really matters: dark mode options](https://www.androidauthority.com/gemini-dark-mode-3715309/)<!-- TECH:END -->
+ - [Databricks acquires spreadsheet startup Row Zero to expand the capabilities of its AI coworker Genie; Row Zero raised a $10M seed led by IA Ventures last year &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/260924/p52#a260924p52)
+ - [Meta employees ordered ‘attorney/client privilege’ hats while fighting child safety disclosures](https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats)
+ - [Qualcomm’s new ‘Elite’ sound chip might finally deliver the Wi-Fi earbud dream](https://www.theverge.com/tech/1000443/qualcomms-new-elite-sound-chip-might-finally-deliver-the-wi-fi-earbud-dream)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
