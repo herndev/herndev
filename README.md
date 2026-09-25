@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese local governments are offering subsidies like computing vouchers, rent waivers, and dedicated funding to lure AI filmmakers as part of China&#39;s AI push &lpar;Reuters&rpar;](https://www.techmeme.com/260925/p1#a260925p1)
- - [Ulta Promo Codes: Up to 20% Off in September 2026](https://www.wired.com/story/ulta-coupon/)
- - [Therabody Promo Codes: 15% Off September 2026](https://www.wired.com/story/therabody-promo-code/)<!-- TECH:END -->
+ - [ATV Launcher’s latest update brings big home screen upgrades for your Android TV](https://www.androidauthority.com/atv-launcher-v0-1-41-update-3715420/)
+ - [Pixel 11 signal problems? Try these 7 fixes before returning it](https://www.androidauthority.com/pixel-11-signal-problems-troubleshooting-tips-3714401/)
+ - [How to Record Your Screen on Any Phone](https://www.wired.com/story/how-to-record-your-screen-on-any-phone/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
