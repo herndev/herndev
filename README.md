@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [POV: The Oldest House has fallen, Manhattan is cooked.](http://9gag.com/gag/a2vQbG9)
- - ⏩ [We are cooked.](http://9gag.com/gag/aRBxoyB)
- - 👉 [POV: The Oldest House has fallen, Manhattan is cooked.](http://9gag.com/gag/a2vQbG9)<!-- MEMES:END -->
+ - ⏩ [Only UAE Is Sitting There ...](http://9gag.com/gag/a6ZWjz9)
+ - 👉 [Dark humor hits different](http://9gag.com/gag/ayNyYm8)<!-- MEMES:END -->
 
 ---
 
