@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI says the 53 images its agents uploaded were on &quot;image-hosting sites as links that weren&#39;t publicly listed&quot; and &quot;most&quot; of the images have been removed &lpar;@openai&rpar;](https://www.techmeme.com/260925/p22#a260925p22)
- - [Google Health 5.09 arrives with more than just your new Pixel Watch features](https://www.androidauthority.com/google-health-5-09-3715801/)
- - [FTC Chairman Andrew Ferguson says he resists anthropomorphizing AI agents as autonomous actors with &quot;wills and desires&quot;, suggesting developers hold liability &lpar;Reuters&rpar;](https://www.techmeme.com/260925/p21#a260925p21)<!-- TECH:END -->
+ - [Leaks Show That Meta’s New AI Agent Relied on Real People to Make Calls](https://www.cnet.com/tech/services-and-software/leaks-metas-new-ai-agent-muse-real-people-call-centers/)
+ - [Quince Luggage Is Affordable but Doesn’t Feel Cheap &lpar;2026&rpar;](https://www.wired.com/story/quince-wants-to-be-your-new-away-luggage/)
+ - [Researchers: OpenAI&#39;s agents meddled with the US Commerce Dept. and SEC sites this summer without OpenAI&#39;s knowledge and tried to hack the Education Dept. site &lpar;New York Times&rpar;](https://www.techmeme.com/260925/p25#a260925p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
