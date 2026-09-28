@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NXP and TSMC affiliate Vanguard inaugurate their joint advanced chip fab in Singapore, targeting mass production in early 2027 and eyeing a second facility &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](https://www.techmeme.com/260928/p6#a260928p6)
- - [Hundreds of people attended a pro-AI party in DC on September 26, in what the organizers called a counterprogram to the &quot;bipartisan psychosis&quot; over data centers &lpar;The Washington Sun&rpar;](https://www.techmeme.com/260928/p5#a260928p5)
- - [Galaxy S26’s stable One UI 9 rollout is expanding in the US, with an official changelog at last](https://www.androidauthority.com/galaxy-s26-one-ui-9-stable-us-rollout-changelog-3715904/)<!-- TECH:END -->
+ - [Google says it will migrate Gems, which let users create custom versions of Gemini, to &quot;skills&quot;, starting Nov. 17; Google introduced skills with Gemini Spark &lpar;Abner Li/9to5Google&rpar;](https://www.techmeme.com/260928/p31#a260928p31)
+ - [Google’s new 3D emoji are coming to more Pixel Watches](https://www.androidauthority.com/google-pixel-watch-3d-emojis-3716406/)
+ - [First granular 27.0.1 updates arrive for iOS, macOS](https://appleinsider.com/articles/26/09/28/first-granular-2701-updates-arrive-for-ios-macos?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
