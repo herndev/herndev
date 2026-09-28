@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Aggressive jungle wildlife](http://9gag.com/gag/aPAOnoG)
- - ⏩ [Faster than food](http://9gag.com/gag/apRedDb)
- - 👉 [Visit Mexico](http://9gag.com/gag/aVvGdpM)<!-- MEMES:END -->
+ - 💣 [Pay here&#39;s two more dollar](http://9gag.com/gag/a6ZWx5A)
+ - ⏩ [Pay here&#39;s two more dollar](http://9gag.com/gag/a6ZWx5A)
+ - 👉 [Pay here&#39;s two more dollar](http://9gag.com/gag/a6ZWx5A)<!-- MEMES:END -->
 
 ---
 
