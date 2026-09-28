@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says it will migrate Gems, which let users create custom versions of Gemini, to &quot;skills&quot;, starting Nov. 17; Google introduced skills with Gemini Spark &lpar;Abner Li/9to5Google&rpar;](https://www.techmeme.com/260928/p31#a260928p31)
- - [Google’s new 3D emoji are coming to more Pixel Watches](https://www.androidauthority.com/google-pixel-watch-3d-emojis-3716406/)
- - [First granular 27.0.1 updates arrive for iOS, macOS](https://appleinsider.com/articles/26/09/28/first-granular-2701-updates-arrive-for-ios-macos?utm_source=rss)<!-- TECH:END -->
+ - [OpenAI scraps plans to publicly launch a model dubbed GPT-6.1 Astra, saying it didn&#39;t quite meet its safety bar; it had been targeting an October release &lpar;Maxwell Zeff/Wall Street Journal&rpar;](https://www.techmeme.com/260928/p37#a260928p37)
+ - [SNL Skewers Anthropic CEO: ‘I Urge You to Urge Me to Stop’](https://www.cnet.com/tech/services-and-software/snl-skewers-anthropic-ceo-i-urge-you-to-urge-me-to-stop/)
+ - [Apple Ordered to Pay $5.7 Billion for Infringing Haptics Patent in iPhone, Apple Watch](https://www.cnet.com/tech/mobile/apple-5-billion-dollars-haptics-patent-iphone-apple-watch/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
