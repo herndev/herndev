@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaks Show That Meta’s New AI Agent Relied on Real People to Make Calls](https://www.cnet.com/tech/services-and-software/leaks-metas-new-ai-agent-muse-real-people-call-centers/)
- - [Quince Luggage Is Affordable but Doesn’t Feel Cheap &lpar;2026&rpar;](https://www.wired.com/story/quince-wants-to-be-your-new-away-luggage/)
- - [Researchers: OpenAI&#39;s agents meddled with the US Commerce Dept. and SEC sites this summer without OpenAI&#39;s knowledge and tried to hack the Education Dept. site &lpar;New York Times&rpar;](https://www.techmeme.com/260925/p25#a260925p25)<!-- TECH:END -->
+ - [NYC-based Precision Neuroscience, which develops brain-computer interfaces, raised a $250M Series D at a $1B+ valuation, taking its total funding to $430M &lpar;Lauren Hirsch/New York Times&rpar;](https://www.techmeme.com/260927/p13#a260927p13)
+ - [Mentions of open models in latest US earnings calls surged 6x YoY, with open models hitting 56% of Vercel tokens in August and 40% of AT&amp;T&#39;s AI workloads &lpar;Financial Times&rpar;](https://www.techmeme.com/260927/p12#a260927p12)
+ - [Out of the Park Baseball lets me enjoy baseball even when the Mets suck](https://www.theverge.com/games/1001206/out-of-the-park-baseball-cozy-sim-video-game-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
