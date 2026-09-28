@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NYC-based Precision Neuroscience, which develops brain-computer interfaces, raised a $250M Series D at a $1B+ valuation, taking its total funding to $430M &lpar;Lauren Hirsch/New York Times&rpar;](https://www.techmeme.com/260927/p13#a260927p13)
- - [Mentions of open models in latest US earnings calls surged 6x YoY, with open models hitting 56% of Vercel tokens in August and 40% of AT&amp;T&#39;s AI workloads &lpar;Financial Times&rpar;](https://www.techmeme.com/260927/p12#a260927p12)
- - [Out of the Park Baseball lets me enjoy baseball even when the Mets suck](https://www.theverge.com/games/1001206/out-of-the-park-baseball-cozy-sim-video-game-review)<!-- TECH:END -->
+ - [NXP and TSMC affiliate Vanguard inaugurate their joint advanced chip fab in Singapore, targeting mass production in early 2027 and eyeing a second facility &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](https://www.techmeme.com/260928/p6#a260928p6)
+ - [Hundreds of people attended a pro-AI party in DC on September 26, in what the organizers called a counterprogram to the &quot;bipartisan psychosis&quot; over data centers &lpar;The Washington Sun&rpar;](https://www.techmeme.com/260928/p5#a260928p5)
+ - [Galaxy S26’s stable One UI 9 rollout is expanding in the US, with an official changelog at last](https://www.androidauthority.com/galaxy-s26-one-ui-9-stable-us-rollout-changelog-3715904/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
