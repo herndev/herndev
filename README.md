@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pay here&#39;s two more dollar](http://9gag.com/gag/a6ZWx5A)
+ - 💣 [Christa Pike&#39;s execution by lethal injection is scheduled for September 30, 2026](http://9gag.com/gag/aRBxN5y)
  - ⏩ [Pay here&#39;s two more dollar](http://9gag.com/gag/a6ZWx5A)
- - 👉 [Pay here&#39;s two more dollar](http://9gag.com/gag/a6ZWx5A)<!-- MEMES:END -->
+ - 👉 [Christa Pike&#39;s execution by lethal injection is scheduled for September 30, 2026](http://9gag.com/gag/aRBxN5y)<!-- MEMES:END -->
 
 ---
 
