@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [POV: The Oldest House has fallen, Manhattan is cooked.](http://9gag.com/gag/a2vQbG9)
- - ⏩ [Only UAE Is Sitting There ...](http://9gag.com/gag/a6ZWjz9)
- - 👉 [Dark humor hits different](http://9gag.com/gag/ayNyYm8)<!-- MEMES:END -->
+ - 💣 [Faster than food](http://9gag.com/gag/apRedDb)
+ - ⏩ [It&#39;s Fred Flintstones rocklight](http://9gag.com/gag/azx6Qzm)
+ - 👉 [Pay here&#39;s two more dollar](http://9gag.com/gag/a6ZWx5A)<!-- MEMES:END -->
 
 ---
 
