@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How I replaced 4 popular Android apps with built-in Gboard features](https://www.androidauthority.com/replaced-popular-android-apps-with-gboard-features-3713524/)
- - [Sources: six independent advisory board experts resigned from the Global Internet Forum to Counter Terrorism, as Meta and others push for structural changes &lpar;Paresh Dave/Wired&rpar;](https://www.techmeme.com/260929/p5#a260929p5)
- - [This new emulator lets you play Switch games on your PlayStation 5](https://www.androidauthority.com/prosperoeden-switch-emulator-playstation-5-3716603/)<!-- TECH:END -->
+ - [OpenAI DevDay 2026: The biggest news and announcements](https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements)
+ - [This might be our first look at Google’s Pixel 11A](https://www.theverge.com/tech/1002072/google-pixel-11a-leaked-renders-first-look)
+ - [Save up to $600 on these 2TB MacBook Pros heading into October](https://appleinsider.com/articles/26/09/29/save-up-to-600-on-these-2tb-macbook-pros-heading-into-october?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
