@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pay here&#39;s two more dollar](http://9gag.com/gag/a6ZWx5A)
- - ⏩ [Look where they sent the Google Street View guy.](http://9gag.com/gag/aoyBAmx)
- - 👉 [Pay here&#39;s two more dollar](http://9gag.com/gag/a6ZWx5A)<!-- MEMES:END -->
+ - 💣 [F&rpar; Op likes trans](http://9gag.com/gag/aQzYD4e)
+ - ⏩ [F&rpar; Op likes trans](http://9gag.com/gag/aQzYD4e)
+ - 👉 [F&rpar; Op likes trans](http://9gag.com/gag/aQzYD4e)<!-- MEMES:END -->
 
 ---
 
