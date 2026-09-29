@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google confirms it&#39;ll phase out ChromeOS by mid-2034, cutting short a 10-year support period for some devices but noting it will help orgs move to Googlebook OS &lpar;Andrew E. Freedman/Tom&#39;s Hardware&rpar;](https://www.techmeme.com/260928/p46#a260928p46)
- - [Sources on how SoftBank&#39;s $11B junk bond sale landed, despite investor questions about OpenAI&#39;s listing timeline, data center plans, and SB Energy&#39;s delayed IPO &lpar;Bloomberg&rpar;](https://www.techmeme.com/260928/p45#a260928p45)
- - [Nothing Headphone 1 goes Pro with a triple-driver setup and a $100 price hike](https://www.androidauthority.com/nothing-headphone-1-pro-launch-price-specs-features-3715645/)<!-- TECH:END -->
+ - [How I replaced 4 popular Android apps with built-in Gboard features](https://www.androidauthority.com/replaced-popular-android-apps-with-gboard-features-3713524/)
+ - [Sources: six independent advisory board experts resigned from the Global Internet Forum to Counter Terrorism, as Meta and others push for structural changes &lpar;Paresh Dave/Wired&rpar;](https://www.techmeme.com/260929/p5#a260929p5)
+ - [This new emulator lets you play Switch games on your PlayStation 5](https://www.androidauthority.com/prosperoeden-switch-emulator-playstation-5-3716603/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
