@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI DevDay 2026: The biggest news and announcements](https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements)
- - [This might be our first look at Google’s Pixel 11A](https://www.theverge.com/tech/1002072/google-pixel-11a-leaked-renders-first-look)
- - [Save up to $600 on these 2TB MacBook Pros heading into October](https://appleinsider.com/articles/26/09/29/save-up-to-600-on-these-2tb-macbook-pros-heading-into-october?utm_source=rss)<!-- TECH:END -->
+ - [Android 17 QPR2 Beta 6.1 is here to make up for last week’s Pixel 11 oversight](https://www.androidauthority.com/android-17-qpr-2-beta-6-1-3717098/)
+ - [Henry Cavill’s next big role is game developer, and he’s doing it on a Googlebook](https://www.androidauthority.com/googlebook-henry-cavill-partnership-3717060/)
+ - [Look Out for This iPhone Duo Preorder Scam That Can Steal Your Data](https://www.cnet.com/tech/services-and-software/apple-iphone-duo-preorder-scam-steal-data/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
