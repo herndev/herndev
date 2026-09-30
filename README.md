@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Open Standard launches its OUSD stablecoin; founding partners Visa, Stripe, Mastercard, and Coinbase will offer initial access to businesses and developers &lpar;Ben Weiss/Bloomberg&rpar;](https://www.techmeme.com/260930/p40#a260930p40)
- - [Google maps out transition plan to replace Gemini Gems with Skills](https://www.androidauthority.com/gemini-gems-phase-out-timeline-3717503/)
- - [Document: SpaceXAI plans a unified subscription for Grok and X with four tiers, including a $100/month Ultra plan, an $8/month Lite plan, and a free offering &lpar;Edward Ludlow/Bloomberg&rpar;](https://www.techmeme.com/260930/p39#a260930p39)<!-- TECH:END -->
+ - [Cycle-Tracking Apps Bring Substantial Risks to Users, New Analysis Finds](https://www.cnet.com/health/cycle-tracking-apps-substantial-risks-new-analysis/)
+ - [Sources: Jensen Huang and other execs asked Dario Amodei at the White House why he was so extreme in public on AI risks; Amodei said it&#39;s important to be honest &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260930/p48#a260930p48)
+ - [EVgo’s Next-Gen 750kW EV Charging System Is Capable of 10-Minute Recharge](https://www.cnet.com/home/electric-vehicles/evgo-next-gen-750kw-ev-charging-system-10-minute-recharge/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
