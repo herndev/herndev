@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Someone clearly had a rough night with the bronzer](http://9gag.com/gag/a1m48nP)
- - ⏩ [What?](http://9gag.com/gag/a7ojm1A)
- - 👉 [Someone clearly had a rough night with the bronzer](http://9gag.com/gag/a1m48nP)<!-- MEMES:END -->
+ - 💣 [Play stupid games\u2026](http://9gag.com/gag/aAynLZR)
+ - ⏩ [Play stupid games\u2026](http://9gag.com/gag/aAynLZR)
+ - 👉 [Play stupid games\u2026](http://9gag.com/gag/aAynLZR)<!-- MEMES:END -->
 
 ---
 
