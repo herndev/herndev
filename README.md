@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&amp;#8217;s new Fire TV Stick 4K can pull power directly from your TV](https://www.theverge.com/streaming/1002597/amazon-fire-tv-stick-4k-direct-power)
- - [Nanoleaf will soon let you control your smart lights with ChatGPT and Claude](https://www.androidauthority.com/nanoleaf-smart-lights-mcp-chatgpt-claude-3717231/)
- - [The Sonos Ace Ultra are the headphones Sonos should have made the first time](https://www.theverge.com/tech/1002122/sonos-ace-ultra-headphones-review)<!-- TECH:END -->
+ - [Open Standard launches its OUSD stablecoin; founding partners Visa, Stripe, Mastercard, and Coinbase will offer initial access to businesses and developers &lpar;Ben Weiss/Bloomberg&rpar;](https://www.techmeme.com/260930/p40#a260930p40)
+ - [Google maps out transition plan to replace Gemini Gems with Skills](https://www.androidauthority.com/gemini-gems-phase-out-timeline-3717503/)
+ - [Document: SpaceXAI plans a unified subscription for Grok and X with four tiers, including a $100/month Ultra plan, an $8/month Lite plan, and a free offering &lpar;Edward Ludlow/Bloomberg&rpar;](https://www.techmeme.com/260930/p39#a260930p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
