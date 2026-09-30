@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 17 QPR2 Beta 6.1 is here to make up for last week’s Pixel 11 oversight](https://www.androidauthority.com/android-17-qpr-2-beta-6-1-3717098/)
- - [Henry Cavill’s next big role is game developer, and he’s doing it on a Googlebook](https://www.androidauthority.com/googlebook-henry-cavill-partnership-3717060/)
- - [Look Out for This iPhone Duo Preorder Scam That Can Steal Your Data](https://www.cnet.com/tech/services-and-software/apple-iphone-duo-preorder-scam-steal-data/)<!-- TECH:END -->
+ - [AI infrastructure company Accelevation and backer Olympus raise $540M in a US IPO after selling 30M shares for $18 each, below its marketed $20-$24 range &lpar;Bloomberg&rpar;](https://www.techmeme.com/260929/p57#a260929p57)
+ - [Sam Altman says OpenAI won’t go public until its models are safe](https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety)
+ - [Robinhood plans to let users trade some US stocks round-the-clock during weekends, wager on specific corporate earnings metrics, and trade perpetual futures &lpar;Reuters&rpar;](https://www.techmeme.com/260929/p56#a260929p56)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
