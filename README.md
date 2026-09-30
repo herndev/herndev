@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s time to update your Galaxy S24 again, but don’t get too excited just yet](https://www.androidauthority.com/samsung-galaxy-s24-series-september-2026-update-3717189/)
- - [Sources: US-based PaleBlueDot AI is seeking $600M in private credit to buy chips for its South Korea site, to be used by Chinese social media app Xiaohongshu &lpar;Megawati Wijaya/Bloomberg&rpar;](https://www.techmeme.com/260930/p5#a260930p5)
- - [The 6 Best Laptop Docking Stations to Unlock the Full Desktop Experience &lpar;2026&rpar;](https://www.wired.com/gallery/best-laptop-docking-stations/)<!-- TECH:END -->
+ - [Amazon&amp;#8217;s new Fire TV Stick 4K can pull power directly from your TV](https://www.theverge.com/streaming/1002597/amazon-fire-tv-stick-4k-direct-power)
+ - [Nanoleaf will soon let you control your smart lights with ChatGPT and Claude](https://www.androidauthority.com/nanoleaf-smart-lights-mcp-chatgpt-claude-3717231/)
+ - [The Sonos Ace Ultra are the headphones Sonos should have made the first time](https://www.theverge.com/tech/1002122/sonos-ace-ultra-headphones-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
