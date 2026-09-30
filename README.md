@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [Tipping culture is insane](http://9gag.com/gag/avybVeO)
- - ⏩ [Pubest le fromage?](http://9gag.com/gag/aMVp6KM)
+ - ⏩ [I&#39;ll take your entire stock](http://9gag.com/gag/aVvG8Kw)
  - 👉 [Play stupid games\u2026](http://9gag.com/gag/aAynLZR)<!-- MEMES:END -->
 
 ---
