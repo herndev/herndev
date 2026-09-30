@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [What?](http://9gag.com/gag/a7ojm1A)
- - ⏩ [You are only allowed to eat food from one region, which one do you choose?](http://9gag.com/gag/aKGbXV1)
- - 👉 [Close the Strait of Hormuz, stop winning, and bomb Japan.](http://9gag.com/gag/aAynLG0)<!-- MEMES:END -->
+ - ⏩ [The guy left work, ordered an Uber, and while waiting, he was arrested for sitting on a bench right after the store closed](http://9gag.com/gag/aYQzvwm)
+ - 👉 [What?](http://9gag.com/gag/a7ojm1A)<!-- MEMES:END -->
 
 ---
 
