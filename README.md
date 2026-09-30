@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI infrastructure company Accelevation and backer Olympus raise $540M in a US IPO after selling 30M shares for $18 each, below its marketed $20-$24 range &lpar;Bloomberg&rpar;](https://www.techmeme.com/260929/p57#a260929p57)
- - [Sam Altman says OpenAI won’t go public until its models are safe](https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety)
- - [Robinhood plans to let users trade some US stocks round-the-clock during weekends, wager on specific corporate earnings metrics, and trade perpetual futures &lpar;Reuters&rpar;](https://www.techmeme.com/260929/p56#a260929p56)<!-- TECH:END -->
+ - [It’s time to update your Galaxy S24 again, but don’t get too excited just yet](https://www.androidauthority.com/samsung-galaxy-s24-series-september-2026-update-3717189/)
+ - [Sources: US-based PaleBlueDot AI is seeking $600M in private credit to buy chips for its South Korea site, to be used by Chinese social media app Xiaohongshu &lpar;Megawati Wijaya/Bloomberg&rpar;](https://www.techmeme.com/260930/p5#a260930p5)
+ - [The 6 Best Laptop Docking Stations to Unlock the Full Desktop Experience &lpar;2026&rpar;](https://www.wired.com/gallery/best-laptop-docking-stations/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
