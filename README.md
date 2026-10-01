@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone Duo inner display has a replaceable $19 top layer](https://appleinsider.com/articles/26/10/01/iphone-duo-inner-display-has-a-replaceable-29-top-layer?utm_source=rss)
- - [Google’s new Guided Vision feature can help you read the fine print](https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision)
- - [T-Mobile’s next plans could give customers more ways to mix things up](https://www.androidauthority.com/t-mobile-t-mix-plans-leak-3718145/)<!-- TECH:END -->
+ - [A look at two opposing perspectives on AI agent sandboxing: infosec says labs need better containment, AI alignment says sandboxes can&#39;t fully contain agents &lpar;Matthew Green/A Few Thoughts ...&rpar;](https://www.techmeme.com/261001/p44#a261001p44)
+ - [California AG Rob Bonta issues an investigative subpoena to OpenAI, as part of a broader inquiry into cybersecurity incidents and risks related to its AI models &lpar;Jaspreet Singh/Reuters&rpar;](https://www.techmeme.com/261001/p43#a261001p43)
+ - [Microsoft launches MAI-Transcribe-2-Streaming, a model for low-latency, real-time transcripts, and two new voice models, MAI-Voice-2.1 and MAI-Voice-2.1-Flash &lpar;Microsoft AI&rpar;](https://www.techmeme.com/261001/p42#a261001p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
