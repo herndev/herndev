@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cycle-Tracking Apps Bring Substantial Risks to Users, New Analysis Finds](https://www.cnet.com/health/cycle-tracking-apps-substantial-risks-new-analysis/)
- - [Sources: Jensen Huang and other execs asked Dario Amodei at the White House why he was so extreme in public on AI risks; Amodei said it&#39;s important to be honest &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260930/p48#a260930p48)
- - [EVgo’s Next-Gen 750kW EV Charging System Is Capable of 10-Minute Recharge](https://www.cnet.com/home/electric-vehicles/evgo-next-gen-750kw-ev-charging-system-10-minute-recharge/)<!-- TECH:END -->
+ - [Grindr agrees to acquire PurposeMed, owner of HIV-prevention telehealth provider Freddie, for $250M, its first major acquisition as it expands into a gay hub &lpar;Elias Schisgall/Wall Street Journal&rpar;](https://www.techmeme.com/260930/p54#a260930p54)
+ - [WhatsApp Unveils Strict Parental Controls to Head Off Looming Age Laws](https://www.cnet.com/tech/services-and-software/whatsapp-unveils-strict-parental-controls-to-head-off-looming-age-laws/)
+ - [Amazon Delivery Driver Smart Glasses Will Snap Pictures of… Everything?](https://www.cnet.com/tech/amazon-delivery-driver-ai-smart-glasses-privacy/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
