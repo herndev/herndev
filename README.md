@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grindr agrees to acquire PurposeMed, owner of HIV-prevention telehealth provider Freddie, for $250M, its first major acquisition as it expands into a gay hub &lpar;Elias Schisgall/Wall Street Journal&rpar;](https://www.techmeme.com/260930/p54#a260930p54)
- - [WhatsApp Unveils Strict Parental Controls to Head Off Looming Age Laws](https://www.cnet.com/tech/services-and-software/whatsapp-unveils-strict-parental-controls-to-head-off-looming-age-laws/)
- - [Amazon Delivery Driver Smart Glasses Will Snap Pictures of… Everything?](https://www.cnet.com/tech/amazon-delivery-driver-ai-smart-glasses-privacy/)<!-- TECH:END -->
+ - [Pixel phones are finally getting widespread VoLTE, but there’s still a catch](https://www.androidauthority.com/google-pixel-volte-support-gsma-3717731/)
+ - [Samsung is quietly killing one of its newest apps](https://www.androidauthority.com/samsung-sound-app-discontinued-3717755/)
+ - [A profile of Xbox CEO Asha Sharma, who insists that &quot;Xbox is not for sale&quot; despite mass layoffs and divested studios since inheriting the flailing division &lpar;Zachary Small/New York Times&rpar;](https://www.techmeme.com/261001/p10#a261001p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
