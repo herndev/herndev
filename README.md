@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Behind only the $16.4 million Pikachu Illustrator.](http://9gag.com/gag/ayNyrxV)
- - ⏩ [Christa Pike. Sentenced to death, she survived two pentobarbital injections..](http://9gag.com/gag/aZZ9Xd6)
- - 👉 [F**k it](http://9gag.com/gag/a6ZWg3b)<!-- MEMES:END -->
+ - ⏩ [I&#39;m not trying to do a Facebook thing, but I broke my ankle a couple weeks ago and I was surprised that I had to have surgery done and so much medal added. has anyone else dealt with this before?](http://9gag.com/gag/aPAO26P)
+ - 👉 [YES or NO?](http://9gag.com/gag/aO86OZ6)<!-- MEMES:END -->
 
 ---
 
