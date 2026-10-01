@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Anyone surprised?](http://9gag.com/gag/a4PM8Zv)
- - ⏩ [I&#39;ll take your entire stock](http://9gag.com/gag/aVvG8Kw)
- - 👉 [YES or NO?](http://9gag.com/gag/aO86OZ6)<!-- MEMES:END -->
+ - 💣 [Behind only the $16.4 million Pikachu Illustrator.](http://9gag.com/gag/ayNyrxV)
+ - ⏩ [Fuel](http://9gag.com/gag/a9y3ex1)
+ - 👉 [Delicious](http://9gag.com/gag/a1m486w)<!-- MEMES:END -->
 
 ---
 
