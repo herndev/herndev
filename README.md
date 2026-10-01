@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Behind only the $16.4 million Pikachu Illustrator.](http://9gag.com/gag/ayNyrxV)
- - ⏩ [Fuel](http://9gag.com/gag/a9y3ex1)
- - 👉 [Delicious](http://9gag.com/gag/a1m486w)<!-- MEMES:END -->
+ - ⏩ [Christa Pike. Sentenced to death, she survived two pentobarbital injections..](http://9gag.com/gag/aZZ9Xd6)
+ - 👉 [F**k it](http://9gag.com/gag/a6ZWg3b)<!-- MEMES:END -->
 
 ---
 
