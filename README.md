@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Miami-based Doxx.net, whose platform enables serverless P2P calling, messaging, and file transfers for humans and AI agents, raised a $38M Series A led by a16z &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/261001/p23#a261001p23)
- - [Apple&#39;s Home Hub color options surface ahead of expected October debut](https://appleinsider.com/articles/26/10/01/apples-home-hub-color-options-surface-ahead-of-expected-october-debut?utm_source=rss)
- - [Belkin’s slim 10K magnetic battery pack gets a solid early Prime Day price drop](https://www.androidauthority.com/belkin-qi2-15w-slim-magnetic-power-bank-deal-3717087/)<!-- TECH:END -->
+ - [iPhone Duo inner display has a replaceable $19 top layer](https://appleinsider.com/articles/26/10/01/iphone-duo-inner-display-has-a-replaceable-29-top-layer?utm_source=rss)
+ - [Google’s new Guided Vision feature can help you read the fine print](https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision)
+ - [T-Mobile’s next plans could give customers more ways to mix things up](https://www.androidauthority.com/t-mobile-t-mix-plans-leak-3718145/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
