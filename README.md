@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tipping culture is insane](http://9gag.com/gag/avybVeO)
+ - 💣 [Anyone surprised?](http://9gag.com/gag/a4PM8Zv)
  - ⏩ [I&#39;ll take your entire stock](http://9gag.com/gag/aVvG8Kw)
- - 👉 [Play stupid games\u2026](http://9gag.com/gag/aAynLZR)<!-- MEMES:END -->
+ - 👉 [YES or NO?](http://9gag.com/gag/aO86OZ6)<!-- MEMES:END -->
 
 ---
 
