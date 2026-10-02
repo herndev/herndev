@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at two opposing perspectives on AI agent sandboxing: infosec says labs need better containment, AI alignment says sandboxes can&#39;t fully contain agents &lpar;Matthew Green/A Few Thoughts ...&rpar;](https://www.techmeme.com/261001/p44#a261001p44)
- - [California AG Rob Bonta issues an investigative subpoena to OpenAI, as part of a broader inquiry into cybersecurity incidents and risks related to its AI models &lpar;Jaspreet Singh/Reuters&rpar;](https://www.techmeme.com/261001/p43#a261001p43)
- - [Microsoft launches MAI-Transcribe-2-Streaming, a model for low-latency, real-time transcripts, and two new voice models, MAI-Voice-2.1 and MAI-Voice-2.1-Flash &lpar;Microsoft AI&rpar;](https://www.techmeme.com/261001/p42#a261001p42)<!-- TECH:END -->
+ - [Cloudflare debuts open-weight multimodal decision models Clef and Clef-flash, claiming they are smarter and faster than Jev, based on Qwen3.8-27B and Qwen3.5-9B &lpar;Brandon Vigliarolo/The Register&rpar;](https://www.techmeme.com/261001/p48#a261001p48)
+ - [OpenAI says that as of September 26, it has informed 100+ third-party organizations about unauthorized activity involving its AI agents &lpar;Arasu Kannagi Basil/Reuters&rpar;](https://www.techmeme.com/261001/p47#a261001p47)
+ - [Sources: Jay Clayton will likely be the White House&#39;s pick for AI czar, and he may remain in his current role as director of national intelligence &lpar;Jennifer Jacobs/CBS News&rpar;](https://www.techmeme.com/261001/p46#a261001p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
