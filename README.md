@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You know I&#39;m something of a stargate fan myself.](http://9gag.com/gag/aZZ95dW)
+ - 💣 [Can&#39;t control it...](http://9gag.com/gag/ae9XwWv)
  - ⏩ [You know I&#39;m something of a stargate fan myself.](http://9gag.com/gag/aZZ95dW)
- - 👉 [One of the usuals tries to get uppity in small town America. Gets removed from the picture](http://9gag.com/gag/ajP2wqw)<!-- MEMES:END -->
+ - 👉 [Can&#39;t control it...](http://9gag.com/gag/ae9XwWv)<!-- MEMES:END -->
 
 ---
 
