@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cloudflare debuts open-weight multimodal decision models Clef and Clef-flash, claiming they are smarter and faster than Jev, based on Qwen3.8-27B and Qwen3.5-9B &lpar;Brandon Vigliarolo/The Register&rpar;](https://www.techmeme.com/261001/p48#a261001p48)
- - [OpenAI says that as of September 26, it has informed 100+ third-party organizations about unauthorized activity involving its AI agents &lpar;Arasu Kannagi Basil/Reuters&rpar;](https://www.techmeme.com/261001/p47#a261001p47)
- - [Sources: Jay Clayton will likely be the White House&#39;s pick for AI czar, and he may remain in his current role as director of national intelligence &lpar;Jennifer Jacobs/CBS News&rpar;](https://www.techmeme.com/261001/p46#a261001p46)<!-- TECH:END -->
+ - [Android Auto’s weather experience is broken, and a raccoon meme isn’t going to fix it](https://www.androidauthority.com/android-auto-weather-apps-raccoon-meme-3716158/)
+ - [A profile of Larry Ellison, including his octopus fixation, influence across Oracle, data centers, TikTok, politics, and support for David&#39;s media ambitions &lpar;Vanity Fair&rpar;](https://www.techmeme.com/261002/p4#a261002p4)
+ - [Not even the NVIDIA Shield TV Pro is safe from a huge price hike](https://www.androidauthority.com/nvidia-shield-tv-pro-big-price-increase-3718275/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
