@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android Auto’s weather experience is broken, and a raccoon meme isn’t going to fix it](https://www.androidauthority.com/android-auto-weather-apps-raccoon-meme-3716158/)
- - [A profile of Larry Ellison, including his octopus fixation, influence across Oracle, data centers, TikTok, politics, and support for David&#39;s media ambitions &lpar;Vanity Fair&rpar;](https://www.techmeme.com/261002/p4#a261002p4)
- - [Not even the NVIDIA Shield TV Pro is safe from a huge price hike](https://www.androidauthority.com/nvidia-shield-tv-pro-big-price-increase-3718275/)<!-- TECH:END -->
+ - [Hans Anders, one of the largest Dutch eyewear retail chains, suspends sales of Ray-Ban Meta Glasses in the Netherlands and Belgium amid growing privacy concerns &lpar;Toby Sterling/Reuters&rpar;](https://www.techmeme.com/261002/p15#a261002p15)
+ - [Dots get up in Muse’s business](https://www.theverge.com/podcast/1004059/openai-dots-kindle-homepad-cybercab-vergecast)
+ - [Your Next Mobile Games Will Get AI Graphics Boosts That PCs and Consoles Have Had for Years](https://www.cnet.com/tech/mobile/qualcomm-mobile-games-ai-graphics-boost-adreno-neural-fusion/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
