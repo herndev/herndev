@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hans Anders, one of the largest Dutch eyewear retail chains, suspends sales of Ray-Ban Meta Glasses in the Netherlands and Belgium amid growing privacy concerns &lpar;Toby Sterling/Reuters&rpar;](https://www.techmeme.com/261002/p15#a261002p15)
- - [Dots get up in Muse’s business](https://www.theverge.com/podcast/1004059/openai-dots-kindle-homepad-cybercab-vergecast)
- - [Your Next Mobile Games Will Get AI Graphics Boosts That PCs and Consoles Have Had for Years](https://www.cnet.com/tech/mobile/qualcomm-mobile-games-ai-graphics-boost-adreno-neural-fusion/)<!-- TECH:END -->
+ - [Apple will limit Mac disk access as AI agents ‘substantially’ increase risk](https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents)
+ - [Sling TV drops its one-day cable passes](https://www.theverge.com/streaming/1004300/sling-tv-pass-cable-drops)
+ - [Memo: the US Army is creating an autonomous systems command, after Defense Secretary Pete Hegseth announced the Meridian and Agincourt robotic warfare projects &lpar;Colin Demarest/Axios&rpar;](https://www.techmeme.com/261002/p22#a261002p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
