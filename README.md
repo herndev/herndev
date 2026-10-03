@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple will limit Mac disk access as AI agents ‘substantially’ increase risk](https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents)
- - [Sling TV drops its one-day cable passes](https://www.theverge.com/streaming/1004300/sling-tv-pass-cable-drops)
- - [Memo: the US Army is creating an autonomous systems command, after Defense Secretary Pete Hegseth announced the Meridian and Agincourt robotic warfare projects &lpar;Colin Demarest/Axios&rpar;](https://www.techmeme.com/261002/p22#a261002p22)<!-- TECH:END -->
+ - [David Robinson, who worked on OpenAI&#39;s Safety Systems team and had previously led policy planning, left OpenAI last week &lpar;Stephen Council/Business Insider&rpar;](https://www.techmeme.com/261002/p29#a261002p29)
+ - [Leaked Slack messages show OpenAI employees&#39; pushback in June to Greg Brockman&#39;s Leading the Future ties, contributing to Brockman reneging on a $25M donation &lpar;Garrison Lovely/Semafor&rpar;](https://www.techmeme.com/261002/p28#a261002p28)
+ - [Amazon says it has stopped using NDAs with county officials for data center projects and acknowledges community backlash is leading to data center moratoriums &lpar;Molly Taft/Wired&rpar;](https://www.techmeme.com/261002/p27#a261002p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
