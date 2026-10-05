@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [David Robinson, who worked on OpenAI&#39;s Safety Systems team and had previously led policy planning, left OpenAI last week &lpar;Stephen Council/Business Insider&rpar;](https://www.techmeme.com/261002/p29#a261002p29)
- - [Leaked Slack messages show OpenAI employees&#39; pushback in June to Greg Brockman&#39;s Leading the Future ties, contributing to Brockman reneging on a $25M donation &lpar;Garrison Lovely/Semafor&rpar;](https://www.techmeme.com/261002/p28#a261002p28)
- - [Amazon says it has stopped using NDAs with county officials for data center projects and acknowledges community backlash is leading to data center moratoriums &lpar;Molly Taft/Wired&rpar;](https://www.techmeme.com/261002/p27#a261002p27)<!-- TECH:END -->
+ - [Change.org says it is investing $100M of its own money to rebuild its core petitions platform with AI and has launched an AI copilot beta for petition creators &lpar;Dan Primack/Axios&rpar;](https://www.techmeme.com/261004/p22#a261004p22)
+ - [Q&amp;A with Google SVP and DeepMind Institute co-director James Manyika on AI risks and why responsibility must be shared across industry, government, and society &lpar;Mishal Husain/Bloomberg&rpar;](https://www.techmeme.com/261004/p21#a261004p21)
+ - [Sources: UK neobank Monzo is in talks with CVC and Advent to sell up to a 15% stake, after Nubank takeover talks collapsed over the ~£10B valuation Monzo sought &lpar;Laith Al-Khalaf/Financial Times&rpar;](https://www.techmeme.com/261004/p20#a261004p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
