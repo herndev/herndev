@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He dieded btw](http://9gag.com/gag/a2vQXbD)
- - ⏩ [Don&#39;t go for a game](http://9gag.com/gag/ae9XBgq)
- - 👉 [What do you learn from this video?](http://9gag.com/gag/aXP8OYd)<!-- MEMES:END -->
+ - 💣 [Still answers 17, though](http://9gag.com/gag/aKGbomN)
+ - ⏩ [Dating Options Nowadays](http://9gag.com/gag/a9y3x4j)
+ - 👉 [Silence, colonizer.](http://9gag.com/gag/aZZ9eg6)<!-- MEMES:END -->
 
 ---
 
