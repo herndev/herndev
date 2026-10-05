@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Change.org says it is investing $100M of its own money to rebuild its core petitions platform with AI and has launched an AI copilot beta for petition creators &lpar;Dan Primack/Axios&rpar;](https://www.techmeme.com/261004/p22#a261004p22)
- - [Q&amp;A with Google SVP and DeepMind Institute co-director James Manyika on AI risks and why responsibility must be shared across industry, government, and society &lpar;Mishal Husain/Bloomberg&rpar;](https://www.techmeme.com/261004/p21#a261004p21)
- - [Sources: UK neobank Monzo is in talks with CVC and Advent to sell up to a 15% stake, after Nubank takeover talks collapsed over the ~£10B valuation Monzo sought &lpar;Laith Al-Khalaf/Financial Times&rpar;](https://www.techmeme.com/261004/p20#a261004p20)<!-- TECH:END -->
+ - [We’re witnessing a critical moment for Amazon Kindles](https://www.androidauthority.com/critical-moment-for-amazon-kindle-2026-3718411/)
+ - [A Prediction Market About the Past? Sure, Why Not!](https://www.wired.com/story/a-prediction-market-about-the-past-sure-why-not/)
+ - [This Android flagship won our best iPhone 18 Pro alternative survey by a landslide](https://www.androidauthority.com/best-iphone-18-pro-alternative-poll-results-3718944/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
