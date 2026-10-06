@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: AI inference-chip startup Etched is in early talks to raise funding at a $40B-$50B valuation, up from $21B in August &lpar;Marina Temkin/TechCrunch&rpar;](https://www.techmeme.com/261005/p34#a261005p34)
- - [Gemini Call for Me might tell your mom you&amp;#8217;re running late](https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors)
- - [macOS development continues to hint at touchscreen MacBooks](https://appleinsider.com/articles/26/10/05/macos-development-continues-to-hint-at-touchscreen-macbooks?utm_source=rss)<!-- TECH:END -->
+ - [Google adds support for Markdown files in Google Docs and Drive](https://www.androidauthority.com/google-docs-drive-markdown-file-support-3719441/)
+ - [Analysis: insurers brace for multimillion-dollar claims caused by rogue AI agents, amid concern that execs like Sam Altman and Dario Amodei could be held liable &lpar;Lee Harris/Financial Times&rpar;](https://www.techmeme.com/261006/p3#a261006p3)
+ - [Snapseed could soon bring a professional camera feature to your phone](https://www.androidauthority.com/snapseed-focus-peaking-apk-teardown-3719427/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
