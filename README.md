@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [More details about the outbreak in Russia](http://9gag.com/gag/ajP2pWQ)
- - ⏩ [Let\u2019s make a list.](http://9gag.com/gag/apReZeb)
- - 👉 [More details about the outbreak in Russia](http://9gag.com/gag/ajP2pWQ)<!-- MEMES:END -->
+ - 💣 [\u200e](http://9gag.com/gag/aYQz2Zx)
+ - ⏩ [More details about the outbreak in Russia](http://9gag.com/gag/ajP2pWQ)
+ - 👉 [\u200e](http://9gag.com/gag/aYQz2Zx)<!-- MEMES:END -->
 
 ---
 
