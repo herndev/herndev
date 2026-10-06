@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alexa can’t control the aux input on Amazon Echo speakers anymore](https://www.theverge.com/tech/1006103/amazon-alexa-aux-voice-commands)
- - [Walmart challenges Amazon Prime Big Deal Days with $79 AirPods 4 deal](https://appleinsider.com/articles/26/10/06/walmart-challenges-amazon-prime-big-deal-days-with-79-airpods-4-deal?utm_source=rss)
- - [Mistral says ML4 was trained using 3,800 Nvidia Grace Blackwell GPUs in its own data centers in Europe and much of its training data was multilingual &lpar;Mistral Blog&rpar;](https://www.techmeme.com/261006/p32#a261006p32)<!-- TECH:END -->
+ - [Google releases Nano Banana 2.1, based on Gemini 3.6 Flash, saying it improves on previous versions &quot;across the board&quot;; pricing is ~50% lower vs. Nano Banana 2 &lpar;Matthias Bastian/The Decoder&rpar;](https://www.techmeme.com/261006/p45#a261006p45)
+ - [Sources: SpaceX is seeking to raise $40B, including ~$10B in bank loans and ~$30B in investment-grade debt, to purchase Nvidia chips, in a deal led by Apollo &lpar;Financial Times&rpar;](https://www.techmeme.com/261006/p44#a261006p44)
+ - [You Probably Aren’t Going to Get the Plague](https://www.wired.com/story/what-we-know-about-plague-russia/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
