@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [We’re witnessing a critical moment for Amazon Kindles](https://www.androidauthority.com/critical-moment-for-amazon-kindle-2026-3718411/)
- - [A Prediction Market About the Past? Sure, Why Not!](https://www.wired.com/story/a-prediction-market-about-the-past-sure-why-not/)
- - [This Android flagship won our best iPhone 18 Pro alternative survey by a landslide](https://www.androidauthority.com/best-iphone-18-pro-alternative-poll-results-3718944/)<!-- TECH:END -->
+ - [Sources: AI inference-chip startup Etched is in early talks to raise funding at a $40B-$50B valuation, up from $21B in August &lpar;Marina Temkin/TechCrunch&rpar;](https://www.techmeme.com/261005/p34#a261005p34)
+ - [Gemini Call for Me might tell your mom you&amp;#8217;re running late](https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors)
+ - [macOS development continues to hint at touchscreen MacBooks](https://appleinsider.com/articles/26/10/05/macos-development-continues-to-hint-at-touchscreen-macbooks?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
