@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Prime Day pick: Samsung Galaxy S26 FE gets its first $125 price drop](https://www.androidauthority.com/samsung-galaxy-s26-fe-deal-3718763/)
- - [Nothing Headphone &lpar;a&rpar; falls to $129 on Amazon with 135-hour battery life and ANC](https://www.androidauthority.com/nothing-headphone-a-prime-day-3719383/)
- - [The new Samsung Galaxy Z Fold 8 gets a $350 Prime Day price drop](https://www.androidauthority.com/samsung-galaxy-z-fold-8-deal-3718178/)<!-- TECH:END -->
+ - [Alexa can’t control the aux input on Amazon Echo speakers anymore](https://www.theverge.com/tech/1006103/amazon-alexa-aux-voice-commands)
+ - [Walmart challenges Amazon Prime Big Deal Days with $79 AirPods 4 deal](https://appleinsider.com/articles/26/10/06/walmart-challenges-amazon-prime-big-deal-days-with-79-airpods-4-deal?utm_source=rss)
+ - [Mistral says ML4 was trained using 3,800 Nvidia Grace Blackwell GPUs in its own data centers in Europe and much of its training data was multilingual &lpar;Mistral Blog&rpar;](https://www.techmeme.com/261006/p32#a261006p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
