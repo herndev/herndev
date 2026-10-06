@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Still answers 17, though](http://9gag.com/gag/aKGbomN)
- - ⏩ [Rook at the back just waiting for shit to go sideways](http://9gag.com/gag/aAyn8eL)
- - 👉 [Never eat yellow snow.](http://9gag.com/gag/aMVpM91)<!-- MEMES:END -->
+ - 💣 [More details about the outbreak in Russia](http://9gag.com/gag/ajP2pWQ)
+ - ⏩ [Let\u2019s make a list.](http://9gag.com/gag/apReZeb)
+ - 👉 [More details about the outbreak in Russia](http://9gag.com/gag/ajP2pWQ)<!-- MEMES:END -->
 
 ---
 
