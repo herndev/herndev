@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Why?](http://9gag.com/gag/aLnqyrW)
- - ⏩ [More details about the outbreak in Russia](http://9gag.com/gag/ajP2pWQ)
- - 👉 [\u200e](http://9gag.com/gag/aYQz2Zx)<!-- MEMES:END -->
+ - ⏩ [What&#39;s your favourite?](http://9gag.com/gag/aO86gBM)
+ - 👉 [More details about the outbreak in Russia](http://9gag.com/gag/ajP2pWQ)<!-- MEMES:END -->
 
 ---
 
