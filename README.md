@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google adds support for Markdown files in Google Docs and Drive](https://www.androidauthority.com/google-docs-drive-markdown-file-support-3719441/)
- - [Analysis: insurers brace for multimillion-dollar claims caused by rogue AI agents, amid concern that execs like Sam Altman and Dario Amodei could be held liable &lpar;Lee Harris/Financial Times&rpar;](https://www.techmeme.com/261006/p3#a261006p3)
- - [Snapseed could soon bring a professional camera feature to your phone](https://www.androidauthority.com/snapseed-focus-peaking-apk-teardown-3719427/)<!-- TECH:END -->
+ - [Prime Day pick: Samsung Galaxy S26 FE gets its first $125 price drop](https://www.androidauthority.com/samsung-galaxy-s26-fe-deal-3718763/)
+ - [Nothing Headphone &lpar;a&rpar; falls to $129 on Amazon with 135-hour battery life and ANC](https://www.androidauthority.com/nothing-headphone-a-prime-day-3719383/)
+ - [The new Samsung Galaxy Z Fold 8 gets a $350 Prime Day price drop](https://www.androidauthority.com/samsung-galaxy-z-fold-8-deal-3718178/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
