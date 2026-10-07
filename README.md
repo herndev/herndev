@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why?](http://9gag.com/gag/aLnqyrW)
- - ⏩ [WTF!](http://9gag.com/gag/aVvGG3v)
- - 👉 [Why?](http://9gag.com/gag/aLnqyrW)<!-- MEMES:END -->
+ - 💣 [Mic drop moment](http://9gag.com/gag/aD7RRow)
+ - ⏩ [Why?](http://9gag.com/gag/aLnqyrW)
+ - 👉 [WTF!](http://9gag.com/gag/aVvGG3v)<!-- MEMES:END -->
 
 ---
 
