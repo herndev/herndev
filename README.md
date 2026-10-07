@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Apple Watch Series 12 is a good deal at $50 off](https://www.theverge.com/gadgets/1006806/apple-watch-series-12-prime-day-deal-sale)
- - [The scariest thing about gray-market peptides is how little we know](https://www.theverge.com/column/1006902/optimizer-bpc-157-gray-market-real-world-usage)
- - [Trent Crimm&#39;s new book about Richmond AFC is out](https://appleinsider.com/articles/26/10/07/trent-crimms-new-book-about-richmond-afc-is-out?utm_source=rss)<!-- TECH:END -->
+ - [Today’s NYT Connections Hints and Answers for Thursday, Oct. 8, #1215](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-and-answers-for-oct-8-1215/)
+ - [Is It Even Worth Buying Tech During Early Holiday Sales? Here’s What We Recommend](https://www.cnet.com/tech/is-it-even-worth-buying-tech-during-early-holiday-sales-heres-what-we-recommend/)
+ - [BMW’s iX4 SUV is a 428-mile defensive weapon against China’s EV takeover](https://www.theverge.com/transportation/1006837/bmw-ix4-ev-range-price-specs-tesla-china)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
