@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 30 Best Prime Day Deals Under $100 &lpar;2026&rpar;](https://www.wired.com/story/best-prime-day-deals-under-100-10-07-2026/)
- - [Here’s how readers sideload APKs on their Android phones in 2026](https://www.androidauthority.com/sideload-apks-android-poll-results-3719997/)
- - [5 reasons I’d buy the Pixel 11 Pro over any other Android phone right now](https://www.androidauthority.com/why-id-buy-pixel-11-pro-over-all-other-android-phones-3716793/)<!-- TECH:END -->
+ - [The Apple Watch Series 12 is a good deal at $50 off](https://www.theverge.com/gadgets/1006806/apple-watch-series-12-prime-day-deal-sale)
+ - [The scariest thing about gray-market peptides is how little we know](https://www.theverge.com/column/1006902/optimizer-bpc-157-gray-market-real-world-usage)
+ - [Trent Crimm&#39;s new book about Richmond AFC is out](https://appleinsider.com/articles/26/10/07/trent-crimms-new-book-about-richmond-afc-is-out?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
