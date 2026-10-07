@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Googlebooks have a pretty big problem: They don’t work with Samsung phones yet](https://www.androidauthority.com/googlebook-samsung-phone-cross-device-features-3719854/)
- - [A US federal court sentences Michael Smith, who pleaded guilty to using bots to stream AI-generated songs, making $8M+ in royalties, to 18 months in prison &lpar;Bill Donahue/Billboard&rpar;](https://www.techmeme.com/261006/p50#a261006p50)
- - [Boston Dynamics appoints former Amazon executive Rohit Prasad, who spent 12 years helping build and expand Alexa, as its CEO &lpar;Samantha Kelly/Bloomberg&rpar;](https://www.techmeme.com/261006/p49#a261006p49)<!-- TECH:END -->
+ - [The 30 Best Prime Day Deals Under $100 &lpar;2026&rpar;](https://www.wired.com/story/best-prime-day-deals-under-100-10-07-2026/)
+ - [Here’s how readers sideload APKs on their Android phones in 2026](https://www.androidauthority.com/sideload-apks-android-poll-results-3719997/)
+ - [5 reasons I’d buy the Pixel 11 Pro over any other Android phone right now](https://www.androidauthority.com/why-id-buy-pixel-11-pro-over-all-other-android-phones-3716793/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
