@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google releases Nano Banana 2.1, based on Gemini 3.6 Flash, saying it improves on previous versions &quot;across the board&quot;; pricing is ~50% lower vs. Nano Banana 2 &lpar;Matthias Bastian/The Decoder&rpar;](https://www.techmeme.com/261006/p45#a261006p45)
- - [Sources: SpaceX is seeking to raise $40B, including ~$10B in bank loans and ~$30B in investment-grade debt, to purchase Nvidia chips, in a deal led by Apollo &lpar;Financial Times&rpar;](https://www.techmeme.com/261006/p44#a261006p44)
- - [You Probably Aren’t Going to Get the Plague](https://www.wired.com/story/what-we-know-about-plague-russia/)<!-- TECH:END -->
+ - [Googlebooks have a pretty big problem: They don’t work with Samsung phones yet](https://www.androidauthority.com/googlebook-samsung-phone-cross-device-features-3719854/)
+ - [A US federal court sentences Michael Smith, who pleaded guilty to using bots to stream AI-generated songs, making $8M+ in royalties, to 18 months in prison &lpar;Bill Donahue/Billboard&rpar;](https://www.techmeme.com/261006/p50#a261006p50)
+ - [Boston Dynamics appoints former Amazon executive Rohit Prasad, who spent 12 years helping build and expand Alexa, as its CEO &lpar;Samantha Kelly/Bloomberg&rpar;](https://www.techmeme.com/261006/p49#a261006p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
