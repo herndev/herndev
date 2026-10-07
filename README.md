@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I know it, but I don&#39;t think I should say it.](http://9gag.com/gag/avyb3e5)
- - ⏩ [Why?](http://9gag.com/gag/aLnqyrW)
+ - 💣 [Why?](http://9gag.com/gag/aLnqyrW)
+ - ⏩ [WTF!](http://9gag.com/gag/aVvGG3v)
  - 👉 [What&#39;s your favourite?](http://9gag.com/gag/aO86gBM)<!-- MEMES:END -->
 
 ---
