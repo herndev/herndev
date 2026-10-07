@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [Why?](http://9gag.com/gag/aLnqyrW)
  - ⏩ [WTF!](http://9gag.com/gag/aVvGG3v)
- - 👉 [What&#39;s your favourite?](http://9gag.com/gag/aO86gBM)<!-- MEMES:END -->
+ - 👉 [Why?](http://9gag.com/gag/aLnqyrW)<!-- MEMES:END -->
 
 ---
 
