@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic bans ‘abusive or cruel behavior’ towards Claude](https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude)
- - [Trump administration says Microsoft &amp;#8216;abused&amp;#8217; worker visa program and is cutting off access](https://www.theverge.com/policy/1008115/trump-microsoft-worker-visa-program-vance)
- - [New York accuses TikTok of serving users ‘placebo’ safety features](https://www.theverge.com/tech/1008112/new-york-tiktok-lawsuit-placebo-safety-features)<!-- TECH:END -->
+ - [Anthropic launches free AI security scans for open-source projects](https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner)
+ - [This ‘Mind-Reading’ AI Is a Wiz at Figuring Out What You See](https://www.cnet.com/tech/services-and-software/brain-it-ai-model-image-decoding-mind-reading-weizmann-institute/)
+ - [Samsung’s first over-ear headphones in more than a decade might finally have a name](https://www.androidauthority.com/samsung-galaxy-studio-over-ear-headphones-name-leak-3721023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
