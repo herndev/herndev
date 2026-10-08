@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Unsealed docs: in its lawsuit, New York alleges TikTok gave thousands of users, including youth, non-functional safety features as part of placebo experiments &lpar;Diana Novak Jones/Reuters&rpar;](https://www.techmeme.com/261007/p45#a261007p45)
- - [The Best Prime Day Apple Deals &lpar;2026&rpar; Are About to Expire](https://www.wired.com/story/best-prime-day-apple-deals-10-07-2026/)
- - [Best October Prime Day Deals to Shop Before the Sale Ends &lpar;2026&rpar;](https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-07-2026/)<!-- TECH:END -->
+ - [UK-based quantum computing startup Universal Quantum raised a $100M+ Series A led by DCVC and Firgun Ventures to expand research hubs in Germany and Singapore &lpar;Mark Bergen/Bloomberg&rpar;](https://www.techmeme.com/261008/p12#a261008p12)
+ - [Googlebooks could soon get one of Apple’s best ecosystem tricks, but do it better](https://www.androidauthority.com/googlebook-android-phone-unlock-apk-teardown-3720577/)
+ - [A Scientist Working on the ‘IceCube’ Neutrino Detector Explains the Nobel Prize–Winning Technology](https://www.wired.com/story/a-scientist-working-on-the-icecube-neutrino-detector-explains-the-nobel-prize-winning-technology/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
