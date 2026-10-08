@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today’s NYT Connections Hints and Answers for Thursday, Oct. 8, #1215](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-and-answers-for-oct-8-1215/)
- - [Is It Even Worth Buying Tech During Early Holiday Sales? Here’s What We Recommend](https://www.cnet.com/tech/is-it-even-worth-buying-tech-during-early-holiday-sales-heres-what-we-recommend/)
- - [BMW’s iX4 SUV is a 428-mile defensive weapon against China’s EV takeover](https://www.theverge.com/transportation/1006837/bmw-ix4-ev-range-price-specs-tesla-china)<!-- TECH:END -->
+ - [Unsealed docs: in its lawsuit, New York alleges TikTok gave thousands of users, including youth, non-functional safety features as part of placebo experiments &lpar;Diana Novak Jones/Reuters&rpar;](https://www.techmeme.com/261007/p45#a261007p45)
+ - [The Best Prime Day Apple Deals &lpar;2026&rpar; Are About to Expire](https://www.wired.com/story/best-prime-day-apple-deals-10-07-2026/)
+ - [Best October Prime Day Deals to Shop Before the Sale Ends &lpar;2026&rpar;](https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-07-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
