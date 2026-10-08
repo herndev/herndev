@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK-based quantum computing startup Universal Quantum raised a $100M+ Series A led by DCVC and Firgun Ventures to expand research hubs in Germany and Singapore &lpar;Mark Bergen/Bloomberg&rpar;](https://www.techmeme.com/261008/p12#a261008p12)
- - [Googlebooks could soon get one of Apple’s best ecosystem tricks, but do it better](https://www.androidauthority.com/googlebook-android-phone-unlock-apk-teardown-3720577/)
- - [A Scientist Working on the ‘IceCube’ Neutrino Detector Explains the Nobel Prize–Winning Technology](https://www.wired.com/story/a-scientist-working-on-the-icecube-neutrino-detector-explains-the-nobel-prize-winning-technology/)<!-- TECH:END -->
+ - [Anthropic bans ‘abusive or cruel behavior’ towards Claude](https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude)
+ - [Trump administration says Microsoft &amp;#8216;abused&amp;#8217; worker visa program and is cutting off access](https://www.theverge.com/policy/1008115/trump-microsoft-worker-visa-program-vance)
+ - [New York accuses TikTok of serving users ‘placebo’ safety features](https://www.theverge.com/tech/1008112/new-york-tiktok-lawsuit-placebo-safety-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
