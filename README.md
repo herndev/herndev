@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I just got diagnosed with cancer today. I don&#39;t know whether to be happy or sad.](http://9gag.com/gag/aO2oo7E)
- - ⏩ [Midterms: follow the money](http://9gag.com/gag/aEMddnN)
- - 👉 [Why?](http://9gag.com/gag/aLnqyrW)<!-- MEMES:END -->
+ - 💣 [WTF!](http://9gag.com/gag/aVvGG3v)
+ - ⏩ [Riddle](http://9gag.com/gag/axWEE4K)
+ - 👉 [WTF!](http://9gag.com/gag/aVvGG3v)<!-- MEMES:END -->
 
 ---
 
