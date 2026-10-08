@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [WTF!](http://9gag.com/gag/aVvGG3v)
- - ⏩ [Riddle](http://9gag.com/gag/axWEE4K)
- - 👉 [WTF!](http://9gag.com/gag/aVvGG3v)<!-- MEMES:END -->
+ - 💣 [Dell CEO\u2019s Wife Goes Viral After Appearance At The Oval Office](http://9gag.com/gag/a6Drr69)
+ - ⏩ [WTF!](http://9gag.com/gag/aVvGG3v)
+ - 👉 [Dell CEO\u2019s Wife Goes Viral After Appearance At The Oval Office](http://9gag.com/gag/a6Drr69)<!-- MEMES:END -->
 
 ---
 
