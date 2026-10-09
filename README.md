@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla renames Full Self-Driving to Tesla Assisted Driving in Europe after pushback from Germany, whose transport minister will now back its EU-wide approval &lpar;Sean O&#39;Kane/TechCrunch&rpar;](https://www.techmeme.com/261009/p18#a261009p18)
- - [Govee Mini Panel Lights return to their lowest price at just $99.99](https://www.androidauthority.com/govee-mini-panel-lights-deal-amazon-3721468/)
- - [Character.ai chatbots encouraged self-harm, lawsuit alleges](https://www.androidauthority.com/character-ai-lawsuit-chatbots-encouraged-self-harm-3721360/)<!-- TECH:END -->
+ - [The Feds Might Do Something About Those Distractingly Bright Headlights](https://www.cnet.com/roadshow/nhtsa-regulation-bright-headlights/)
+ - [Sources: as Google prepares to roll out its Gemini 4 Argon, staff are testing a new version internally named Carbon; one staffer says it &quot;feels like Opus 5.5&quot; &lpar;Hugh Langley/Business Insider&rpar;](https://www.techmeme.com/261009/p25#a261009p25)
+ - [Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide](https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
