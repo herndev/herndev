@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [One UI 9 is hiding a clever feature that blocks in-app ads. Here’s how to use it](https://www.androidauthority.com/one-ui-9-ai-network-guard-block-app-ads-how-to-3718527/)
- - [A New Mexico Community Was a Place to Build a Life. Then a Hypersonic Missile Factory Showed Up](https://www.wired.com/story/a-new-mexico-community-was-a-place-to-build-a-life-then-a-hypersonic-missile-factory-showed-up/)
- - [Google could finally fix Gmail’s terrible settings page, and here’s your first look at it](https://www.androidauthority.com/gmail-settings-page-redesign-apk-teardown-3721160/)<!-- TECH:END -->
+ - [Tesla renames Full Self-Driving to Tesla Assisted Driving in Europe after pushback from Germany, whose transport minister will now back its EU-wide approval &lpar;Sean O&#39;Kane/TechCrunch&rpar;](https://www.techmeme.com/261009/p18#a261009p18)
+ - [Govee Mini Panel Lights return to their lowest price at just $99.99](https://www.androidauthority.com/govee-mini-panel-lights-deal-amazon-3721468/)
+ - [Character.ai chatbots encouraged self-harm, lawsuit alleges](https://www.androidauthority.com/character-ai-lawsuit-chatbots-encouraged-self-harm-3721360/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
