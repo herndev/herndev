@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [Dell CEO\u2019s Wife Goes Viral After Appearance At The Oval Office](http://9gag.com/gag/a6Drr69)
- - ⏩ [Dell CEO\u2019s Wife Goes Viral After Appearance At The Oval Office](http://9gag.com/gag/a6Drr69)
+ - ⏩ [6 year old](http://9gag.com/gag/abe35q8)
  - 👉 [Dell CEO\u2019s Wife Goes Viral After Appearance At The Oval Office](http://9gag.com/gag/a6Drr69)<!-- MEMES:END -->
 
 ---
