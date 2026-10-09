@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft denies JD Vance&#39;s claim it replaced thousands of US workers with foreign workers last year, saying most H-1B applications were for existing employees &lpar;Associated Press&rpar;](https://www.techmeme.com/261008/p55#a261008p55)
- - [Live: Watch ‘Uncanny Valley’ on Women, Tech, and Power](https://www.wired.com/story/come-see-uncanny-valley-live/)
- - [A US judge sentenced Raheim Hamilton, co-creator of the dark web marketplace Empire Market, to 40 years in prison for facilitating $430M in illegal transactions &lpar;Sergiu Gatlan/BleepingComputer&rpar;](https://www.techmeme.com/261008/p54#a261008p54)<!-- TECH:END -->
+ - [One UI 9 is hiding a clever feature that blocks in-app ads. Here’s how to use it](https://www.androidauthority.com/one-ui-9-ai-network-guard-block-app-ads-how-to-3718527/)
+ - [A New Mexico Community Was a Place to Build a Life. Then a Hypersonic Missile Factory Showed Up](https://www.wired.com/story/a-new-mexico-community-was-a-place-to-build-a-life-then-a-hypersonic-missile-factory-showed-up/)
+ - [Google could finally fix Gmail’s terrible settings page, and here’s your first look at it](https://www.androidauthority.com/gmail-settings-page-redesign-apk-teardown-3721160/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
