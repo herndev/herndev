@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic launches free AI security scans for open-source projects](https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner)
- - [This ‘Mind-Reading’ AI Is a Wiz at Figuring Out What You See](https://www.cnet.com/tech/services-and-software/brain-it-ai-model-image-decoding-mind-reading-weizmann-institute/)
- - [Samsung’s first over-ear headphones in more than a decade might finally have a name](https://www.androidauthority.com/samsung-galaxy-studio-over-ear-headphones-name-leak-3721023/)<!-- TECH:END -->
+ - [Microsoft denies JD Vance&#39;s claim it replaced thousands of US workers with foreign workers last year, saying most H-1B applications were for existing employees &lpar;Associated Press&rpar;](https://www.techmeme.com/261008/p55#a261008p55)
+ - [Live: Watch ‘Uncanny Valley’ on Women, Tech, and Power](https://www.wired.com/story/come-see-uncanny-valley-live/)
+ - [A US judge sentenced Raheim Hamilton, co-creator of the dark web marketplace Empire Market, to 40 years in prison for facilitating $430M in illegal transactions &lpar;Sergiu Gatlan/BleepingComputer&rpar;](https://www.techmeme.com/261008/p54#a261008p54)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
