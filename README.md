@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hope she gets a medal for her dedication; this Russian prostitute has been standing the same place for 26yrs](http://9gag.com/gag/ap1KoL8)
- - ⏩ [Fifteen dollar too beaucoup](http://9gag.com/gag/aD7RwoG)
+ - 💣 [Dell CEO\u2019s Wife Goes Viral After Appearance At The Oval Office](http://9gag.com/gag/a6Drr69)
+ - ⏩ [Anakin approved this poll](http://9gag.com/gag/aVgjQxM)
  - 👉 [Dell CEO\u2019s Wife Goes Viral After Appearance At The Oval Office](http://9gag.com/gag/a6Drr69)<!-- MEMES:END -->
 
 ---
