@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Feds Might Do Something About Those Distractingly Bright Headlights](https://www.cnet.com/roadshow/nhtsa-regulation-bright-headlights/)
- - [Sources: as Google prepares to roll out its Gemini 4 Argon, staff are testing a new version internally named Carbon; one staffer says it &quot;feels like Opus 5.5&quot; &lpar;Hugh Langley/Business Insider&rpar;](https://www.techmeme.com/261009/p25#a261009p25)
- - [Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide](https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip)<!-- TECH:END -->
+ - [In PA, FBI agents arrested a co-founder of a Canadian cybersecurity firm specializing in ransomware negotiations, as part of the ShinyHunters investigation &lpar;Brian Krebs/Krebs on Security&rpar;](https://www.techmeme.com/261009/p32#a261009p32)
+ - [Sources and internal docs: TikTok cut the violations for which an advertiser could be immediately banned from 37 to 13 last fall, leading to a surge in scams &lpar;Katharine Schwab/Forbes&rpar;](https://www.techmeme.com/261009/p31#a261009p31)
+ - [Sources: Nuvacore, a six-month-old Sequoia-backed chip startup that&#39;s designing a new central processor for data centers, is raising funds at a ~$2.5B valuation &lpar;Reuters&rpar;](https://www.techmeme.com/261009/p30#a261009p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
