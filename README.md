@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In PA, FBI agents arrested a co-founder of a Canadian cybersecurity firm specializing in ransomware negotiations, as part of the ShinyHunters investigation &lpar;Brian Krebs/Krebs on Security&rpar;](https://www.techmeme.com/261009/p32#a261009p32)
- - [Sources and internal docs: TikTok cut the violations for which an advertiser could be immediately banned from 37 to 13 last fall, leading to a surge in scams &lpar;Katharine Schwab/Forbes&rpar;](https://www.techmeme.com/261009/p31#a261009p31)
- - [Sources: Nuvacore, a six-month-old Sequoia-backed chip startup that&#39;s designing a new central processor for data centers, is raising funds at a ~$2.5B valuation &lpar;Reuters&rpar;](https://www.techmeme.com/261009/p30#a261009p30)<!-- TECH:END -->
+ - [Anchorage Digital buys B2B payments automation startup Routable for an undisclosed sum; Anchorage CEO calls it its largest acquisition by team size and revenue &lpar;Ryan Lawler/Axios&rpar;](https://www.techmeme.com/261011/p14#a261011p14)
+ - [Vitalize, an AI platform that helps hospitals manage labor and capacity in real time, raised a $31M Series A led by Oak HC/FT, with YC and others participating &lpar;Heather Landi/Fierce Healthcare&rpar;](https://www.techmeme.com/261011/p13#a261011p13)
+ - [Q&amp;A with Palantir CTO Shyam Sankar on the Iran school strike and AI targeting, the DOD dropping Anthropic, AI liability, effective altruism, and more &lpar;CBS News&rpar;](https://www.techmeme.com/261011/p12#a261011p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
