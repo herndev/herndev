@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Conservatives never stood a chance](http://9gag.com/gag/amWq9qv)
- - ⏩ [Is this allowed ?](http://9gag.com/gag/aNLmKx3)
- - 👉 [Conservatives never stood a chance](http://9gag.com/gag/amWq9qv)<!-- MEMES:END -->
+ - 💣 [Megan Fox Launches Exclusive Paid Content Page](http://9gag.com/gag/awgNKzQ)
+ - ⏩ [Eat it like a real man](http://9gag.com/gag/a78v79e)
+ - 👉 [But... they&#39;re both a kilogram...](http://9gag.com/gag/az57j5B)<!-- MEMES:END -->
 
 ---
 
