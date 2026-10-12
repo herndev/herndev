@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This new Android weather app solves my biggest complaint about Pixel Weather](https://www.androidauthority.com/pixel-weather-vs-meteocompare-android-weather-app-3720716/)
- - [Christian leaders are weighing in on AI earlier than they did with other tech, as AI leaders&#39; talk of creating a new consciousness fuels religious concerns &lpar;Tim Higgins/Wall Street Journal&rpar;](https://www.techmeme.com/261012/p10#a261012p10)
- - [X has re-found its footing under Elon Musk, as it continues to host more interesting discussions on AI and other fun and smart topics than rival platforms &lpar;John Gruber/Daring Fireball&rpar;](https://www.techmeme.com/261012/p9#a261012p9)<!-- TECH:END -->
+ - [YouTube’s chat-style search lands on mobile](https://www.androidauthority.com/ask-youtube-rolls-out-to-mobile-3722238/)
+ - [Sources: Bumble is in advanced talks to be taken private at a ~$1B valuation by Ithaca Holdings, founded recently by two Silicon Valley execs; BMBL jumps 45%+ &lpar;Cara Lombardo/Wall Street Journal&rpar;](https://www.techmeme.com/261012/p37#a261012p37)
+ - [Gemini’s floating overlay may soon help you ‘Shop this’ right from your screen](https://www.androidauthority.com/gemini-shop-this-3722162/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
