@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dell CEO\u2019s Wife Goes Viral After Appearance At The Oval Office](http://9gag.com/gag/a6Drr69)
- - ⏩ [Anakin approved this poll](http://9gag.com/gag/aVgjQxM)
- - 👉 [Dell CEO\u2019s Wife Goes Viral After Appearance At The Oval Office](http://9gag.com/gag/a6Drr69)<!-- MEMES:END -->
+ - 💣 [Conservatives never stood a chance](http://9gag.com/gag/amWq9qv)
+ - ⏩ [Is this allowed ?](http://9gag.com/gag/aNLmKx3)
+ - 👉 [Conservatives never stood a chance](http://9gag.com/gag/amWq9qv)<!-- MEMES:END -->
 
 ---
 
