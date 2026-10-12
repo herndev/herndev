@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anchorage Digital buys B2B payments automation startup Routable for an undisclosed sum; Anchorage CEO calls it its largest acquisition by team size and revenue &lpar;Ryan Lawler/Axios&rpar;](https://www.techmeme.com/261011/p14#a261011p14)
- - [Vitalize, an AI platform that helps hospitals manage labor and capacity in real time, raised a $31M Series A led by Oak HC/FT, with YC and others participating &lpar;Heather Landi/Fierce Healthcare&rpar;](https://www.techmeme.com/261011/p13#a261011p13)
- - [Q&amp;A with Palantir CTO Shyam Sankar on the Iran school strike and AI targeting, the DOD dropping Anthropic, AI liability, effective altruism, and more &lpar;CBS News&rpar;](https://www.techmeme.com/261011/p12#a261011p12)<!-- TECH:END -->
+ - [This new Android weather app solves my biggest complaint about Pixel Weather](https://www.androidauthority.com/pixel-weather-vs-meteocompare-android-weather-app-3720716/)
+ - [Christian leaders are weighing in on AI earlier than they did with other tech, as AI leaders&#39; talk of creating a new consciousness fuels religious concerns &lpar;Tim Higgins/Wall Street Journal&rpar;](https://www.techmeme.com/261012/p10#a261012p10)
+ - [X has re-found its footing under Elon Musk, as it continues to host more interesting discussions on AI and other fun and smart topics than rival platforms &lpar;John Gruber/Daring Fireball&rpar;](https://www.techmeme.com/261012/p9#a261012p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
