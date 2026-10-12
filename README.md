@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Megan Fox Launches Exclusive Paid Content Page](http://9gag.com/gag/awgNKzQ)
- - ⏩ [Eat it like a real man](http://9gag.com/gag/a78v79e)
+ - 💣 [But... they&#39;re both a kilogram...](http://9gag.com/gag/az57j5B)
+ - ⏩ [Tiger That Mauled Man To Death At Wildlife Park Will Not Be Euthanised, Park Confirms](http://9gag.com/gag/abe30jL)
  - 👉 [But... they&#39;re both a kilogram...](http://9gag.com/gag/az57j5B)<!-- MEMES:END -->
 
 ---
