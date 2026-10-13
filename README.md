@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bye Bye Walt Jr. - &lpar;34&rpar;](http://9gag.com/gag/aNLmWGA)
- - ⏩ [Easy to test](http://9gag.com/gag/ayqEdAr)
- - 👉 [Sprite captured by accident by french photographer](http://9gag.com/gag/a17pXw8)<!-- MEMES:END -->
+ - 💣 [Easy to test](http://9gag.com/gag/ayqEdAr)
+ - ⏩ [Bye Bye Walt Jr. - &lpar;34&rpar;](http://9gag.com/gag/aNLmWGA)
+ - 👉 [Tiger That Mauled Man To Death At Wildlife Park Will Not Be Euthanised, Park Confirms](http://9gag.com/gag/abe30jL)<!-- MEMES:END -->
 
 ---
 
