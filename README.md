@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Japanese manufacturer Omron says it will acquire US industrial PC firm OnLogic and its parent company, Interlogic, for $675M, to boost its &quot;physical AI&quot; efforts &lpar;Anton Bridge/Reuters&rpar;](https://www.techmeme.com/261012/p43#a261012p43)
- - [Want Your New iPhone Duo Fast? Lock in Your Details Now](https://www.cnet.com/tech/mobile/iphone-duo-preorder-oct-16/)
- - [Leading Chinese mathematicians launch an alliance, including eight orgs and aiming for 1,000+ scientists, to focus on developing specialized AI models for math &lpar;Chao Kong/South China Morning Post&rpar;](https://www.techmeme.com/261012/p42#a261012p42)<!-- TECH:END -->
+ - [IDC: China&#39;s Q3 smartphone shipments fell 15.4% YoY to 57.9M units, the sixth straight quarter of decline; Huawei led with a 21% share and Apple had 17.8% &lpar;Reuters&rpar;](https://www.techmeme.com/261013/p7#a261013p7)
+ - [The iPhone Duo’s hinge cooling is the breakthrough Android foldables need](https://www.androidauthority.com/iphone-duo-hinge-cooling-breakthrough-3722435/)
+ - [Singapore-based data center developer DayOne raises ~$3.67B, including a ~$2.4B offshore term loan facility, from seven banks to fund its Malaysia expansion &lpar;Jasmeen Ara Shaikh/Reuters&rpar;](https://www.techmeme.com/261013/p6#a261013p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
