@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gamer deal: Corsair HS80 RGB Wireless gaming headset falls 44% to $89.99](https://www.androidauthority.com/corsair-hs80-rgb-wireless-deal-3722758/)
- - [Apple says HomeView&#39;s facial recognition works only if users have a &quot;registered personal device&quot; with Apple Intelligence and Siri AI on the same Wi-Fi network &lpar;John Gruber/Daring Fireball&rpar;](https://www.techmeme.com/261013/p31#a261013p31)
- - [Save $600 on Apple&#39;s 14-inch MacBook Pro with a 20-core GPU](https://appleinsider.com/articles/26/10/13/save-600-on-apples-14-inch-macbook-pro-with-a-20-core-gpu?utm_source=rss)<!-- TECH:END -->
+ - [Apple v. OpenAI: a US judge partly grants Apple&#39;s motion for expedited discovery, ordering OpenAI to hand over forensic images of devices and other documents &lpar;Annelise Levy/Bloomberg Law&rpar;](https://www.techmeme.com/261013/p44#a261013p44)
+ - [Google Home users are watching their carefully organized rooms fall apart](https://www.androidauthority.com/google-home-devices-ungrouped-rooms-bug-3722814/)
+ - [The FBI says it worked with CrowdStrike to dismantle 40+ laptop farms across Texas used to help North Koreans get remote US tech jobs under stolen identities &lpar;Dustin Volz/New York Times&rpar;](https://www.techmeme.com/261013/p43#a261013p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
