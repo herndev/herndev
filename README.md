@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [IDC: China&#39;s Q3 smartphone shipments fell 15.4% YoY to 57.9M units, the sixth straight quarter of decline; Huawei led with a 21% share and Apple had 17.8% &lpar;Reuters&rpar;](https://www.techmeme.com/261013/p7#a261013p7)
- - [The iPhone Duo’s hinge cooling is the breakthrough Android foldables need](https://www.androidauthority.com/iphone-duo-hinge-cooling-breakthrough-3722435/)
- - [Singapore-based data center developer DayOne raises ~$3.67B, including a ~$2.4B offshore term loan facility, from seven banks to fund its Malaysia expansion &lpar;Jasmeen Ara Shaikh/Reuters&rpar;](https://www.techmeme.com/261013/p6#a261013p6)<!-- TECH:END -->
+ - [Gamer deal: Corsair HS80 RGB Wireless gaming headset falls 44% to $89.99](https://www.androidauthority.com/corsair-hs80-rgb-wireless-deal-3722758/)
+ - [Apple says HomeView&#39;s facial recognition works only if users have a &quot;registered personal device&quot; with Apple Intelligence and Siri AI on the same Wi-Fi network &lpar;John Gruber/Daring Fireball&rpar;](https://www.techmeme.com/261013/p31#a261013p31)
+ - [Save $600 on Apple&#39;s 14-inch MacBook Pro with a 20-core GPU](https://appleinsider.com/articles/26/10/13/save-600-on-apples-14-inch-macbook-pro-with-a-20-core-gpu?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
