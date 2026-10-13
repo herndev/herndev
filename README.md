@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube’s chat-style search lands on mobile](https://www.androidauthority.com/ask-youtube-rolls-out-to-mobile-3722238/)
- - [Sources: Bumble is in advanced talks to be taken private at a ~$1B valuation by Ithaca Holdings, founded recently by two Silicon Valley execs; BMBL jumps 45%+ &lpar;Cara Lombardo/Wall Street Journal&rpar;](https://www.techmeme.com/261012/p37#a261012p37)
- - [Gemini’s floating overlay may soon help you ‘Shop this’ right from your screen](https://www.androidauthority.com/gemini-shop-this-3722162/)<!-- TECH:END -->
+ - [Japanese manufacturer Omron says it will acquire US industrial PC firm OnLogic and its parent company, Interlogic, for $675M, to boost its &quot;physical AI&quot; efforts &lpar;Anton Bridge/Reuters&rpar;](https://www.techmeme.com/261012/p43#a261012p43)
+ - [Want Your New iPhone Duo Fast? Lock in Your Details Now](https://www.cnet.com/tech/mobile/iphone-duo-preorder-oct-16/)
+ - [Leading Chinese mathematicians launch an alliance, including eight orgs and aiming for 1,000+ scientists, to focus on developing specialized AI models for math &lpar;Chao Kong/South China Morning Post&rpar;](https://www.techmeme.com/261012/p42#a261012p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
