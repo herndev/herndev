@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [But... they&#39;re both a kilogram...](http://9gag.com/gag/az57j5B)
- - ⏩ [Tiger That Mauled Man To Death At Wildlife Park Will Not Be Euthanised, Park Confirms](http://9gag.com/gag/abe30jL)
- - 👉 [But... they&#39;re both a kilogram...](http://9gag.com/gag/az57j5B)<!-- MEMES:END -->
+ - 💣 [Bye Bye Walt Jr. - &lpar;34&rpar;](http://9gag.com/gag/aNLmWGA)
+ - ⏩ [Easy to test](http://9gag.com/gag/ayqEdAr)
+ - 👉 [Sprite captured by accident by french photographer](http://9gag.com/gag/a17pXw8)<!-- MEMES:END -->
 
 ---
 
