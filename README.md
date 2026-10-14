@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [First Look: Google Photos could soon end the hassle of collecting party photos](https://www.androidauthority.com/google-photos-group-camera-first-look-3722917/)
- - [Dell Coupon Codes: 20% Off for October 2026](https://www.wired.com/story/dell-coupon-code/)
- - [Expedia Coupons: 40% Off](https://www.wired.com/story/expedia-coupon/)<!-- TECH:END -->
+ - [The new Alexa Tablets prove it’s time for Amazon to make another Android phone](https://www.androidauthority.com/new-alexa-tablets-prove-amazon-should-make-another-android-phone-3722557/)
+ - [Ukraine&#39;s drone strikes on Yandex data centers disrupted Yandex&#39;s web crawlers, not Russian political bot operations, as Zelenskyy celebrated &quot;less division&quot; &lpar;Gaby Del Valle/The Verge&rpar;](https://www.techmeme.com/261014/p11#a261014p11)
+ - [JackRabbit MG Cargo Bike Review &lpar;2026&rpar;: Compact and Powerful](https://www.wired.com/review/jackrabbit-mg-cargo-electric-bicycle/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
