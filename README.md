@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple v. OpenAI: a US judge partly grants Apple&#39;s motion for expedited discovery, ordering OpenAI to hand over forensic images of devices and other documents &lpar;Annelise Levy/Bloomberg Law&rpar;](https://www.techmeme.com/261013/p44#a261013p44)
- - [Google Home users are watching their carefully organized rooms fall apart](https://www.androidauthority.com/google-home-devices-ungrouped-rooms-bug-3722814/)
- - [The FBI says it worked with CrowdStrike to dismantle 40+ laptop farms across Texas used to help North Koreans get remote US tech jobs under stolen identities &lpar;Dustin Volz/New York Times&rpar;](https://www.techmeme.com/261013/p43#a261013p43)<!-- TECH:END -->
+ - [Filing: Abdulrahman Alfozan, the OpenAI staffer charged with bugging a conference room, used a Seeed Xiao ESP32-S3 Sense dev board; a website sells it for $14 &lpar;Bloomberg&rpar;](https://www.techmeme.com/261013/p49#a261013p49)
+ - [Albert Invent, which launched an AI model trained on chemical patents and data about 15M molecules, raised a $55M Series B, a source says at a $340M valuation &lpar;Rashi Shrivastava/Forbes&rpar;](https://www.techmeme.com/261013/p48#a261013p48)
+ - [This upcoming wide-screen slab phone could pack not one, but two 200MP cameras](https://www.androidauthority.com/wide-screen-phone-dual-200mp-cameras-mid-range-3722883/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
