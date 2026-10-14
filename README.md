@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [Tiger That Mauled Man To Death At Wildlife Park Will Not Be Euthanised, Park Confirms](http://9gag.com/gag/abe30jL)
  - ⏩ [Tiger That Mauled Man To Death At Wildlife Park Will Not Be Euthanised, Park Confirms](http://9gag.com/gag/abe30jL)
- - 👉 [NO6 and 555](http://9gag.com/gag/a78vrEr)<!-- MEMES:END -->
+ - 👉 [Tiger That Mauled Man To Death At Wildlife Park Will Not Be Euthanised, Park Confirms](http://9gag.com/gag/abe30jL)<!-- MEMES:END -->
 
 ---
 
