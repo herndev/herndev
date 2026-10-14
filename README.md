@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Women](http://9gag.com/gag/aK142GQ)
- - ⏩ [Women](http://9gag.com/gag/aK142GQ)
- - 👉 [Women](http://9gag.com/gag/aK142GQ)<!-- MEMES:END -->
+ - 💣 [Dont we know it.](http://9gag.com/gag/a3Gvqp1)
+ - ⏩ [Dont we know it.](http://9gag.com/gag/a3Gvqp1)
+ - 👉 [Dont we know it.](http://9gag.com/gag/a3Gvqp1)<!-- MEMES:END -->
 
 ---
 
