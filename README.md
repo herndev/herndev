@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This project allows you to connect an Apple Watch to Android, Linux, Windows](https://appleinsider.com/articles/26/10/14/this-project-allows-you-to-connect-an-apple-watch-to-android-linux-windows?utm_source=rss)
- - [Galaxy S27 and S27 Plus will reportedly miss out on a key camera upgrade](https://www.androidauthority.com/galaxy-s27-selfie-camera-3723309/)
- - [Researchers say they discovered and communicated with Chinese AI agents that were trying to bypass security controls on websites and were traced to Tencent &lpar;Dylan Freedman/New York Times&rpar;](https://www.techmeme.com/261014/p31#a261014p31)<!-- TECH:END -->
+ - [Even Google’s own support pages aren’t safe from the Gemini takeover](https://www.androidauthority.com/gemini-ask-google-help-support-pages-3723437/)
+ - [SpaceXSI debuts Grok Voice 3.0, saying it tops Artificial Analysis&#39; speech-to-speech index, responds in under a second, and costs less than rivals, at $0.08/min &lpar;SpaceXSI&rpar;](https://www.techmeme.com/261014/p38#a261014p38)
+ - [The AI race is back on](https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
