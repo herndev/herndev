@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Abdulrahman Alfozan, the OpenAI staffer charged with bugging a conference room, used a Seeed Xiao ESP32-S3 Sense dev board; a website sells it for $14 &lpar;Bloomberg&rpar;](https://www.techmeme.com/261013/p49#a261013p49)
- - [Albert Invent, which launched an AI model trained on chemical patents and data about 15M molecules, raised a $55M Series B, a source says at a $340M valuation &lpar;Rashi Shrivastava/Forbes&rpar;](https://www.techmeme.com/261013/p48#a261013p48)
- - [This upcoming wide-screen slab phone could pack not one, but two 200MP cameras](https://www.androidauthority.com/wide-screen-phone-dual-200mp-cameras-mid-range-3722883/)<!-- TECH:END -->
+ - [First Look: Google Photos could soon end the hassle of collecting party photos](https://www.androidauthority.com/google-photos-group-camera-first-look-3722917/)
+ - [Dell Coupon Codes: 20% Off for October 2026](https://www.wired.com/story/dell-coupon-code/)
+ - [Expedia Coupons: 40% Off](https://www.wired.com/story/expedia-coupon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
