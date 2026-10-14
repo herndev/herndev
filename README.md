@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tiger That Mauled Man To Death At Wildlife Park Will Not Be Euthanised, Park Confirms](http://9gag.com/gag/abe30jL)
- - ⏩ [Tiger That Mauled Man To Death At Wildlife Park Will Not Be Euthanised, Park Confirms](http://9gag.com/gag/abe30jL)
+ - 💣 [The Real Point](http://9gag.com/gag/a2MErjO)
+ - ⏩ [Women](http://9gag.com/gag/aK142GQ)
  - 👉 [Tiger That Mauled Man To Death At Wildlife Park Will Not Be Euthanised, Park Confirms](http://9gag.com/gag/abe30jL)<!-- MEMES:END -->
 
 ---
