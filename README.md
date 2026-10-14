@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Real Point](http://9gag.com/gag/a2MErjO)
- - ⏩ [Women](http://9gag.com/gag/aK142GQ)
- - 👉 [Tiger That Mauled Man To Death At Wildlife Park Will Not Be Euthanised, Park Confirms](http://9gag.com/gag/abe30jL)<!-- MEMES:END -->
+ - 💣 [communication is the ... 😜 ?](https://www.reddit.com/r/funny/comments/1x5nwpu/communication_is_the/)
+ - ⏩ [She has some nice skills](http://9gag.com/gag/a3Gvqoe)
+ - 👉 [Women](http://9gag.com/gag/aK142GQ)<!-- MEMES:END -->
 
 ---
 
