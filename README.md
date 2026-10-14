@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [communication is the ... 😜 ?](https://www.reddit.com/r/funny/comments/1x5nwpu/communication_is_the/)
- - ⏩ [She has some nice skills](http://9gag.com/gag/a3Gvqoe)
+ - 💣 [Women](http://9gag.com/gag/aK142GQ)
+ - ⏩ [Women](http://9gag.com/gag/aK142GQ)
  - 👉 [Women](http://9gag.com/gag/aK142GQ)<!-- MEMES:END -->
 
 ---
