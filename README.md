@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The new Alexa Tablets prove it’s time for Amazon to make another Android phone](https://www.androidauthority.com/new-alexa-tablets-prove-amazon-should-make-another-android-phone-3722557/)
- - [Ukraine&#39;s drone strikes on Yandex data centers disrupted Yandex&#39;s web crawlers, not Russian political bot operations, as Zelenskyy celebrated &quot;less division&quot; &lpar;Gaby Del Valle/The Verge&rpar;](https://www.techmeme.com/261014/p11#a261014p11)
- - [JackRabbit MG Cargo Bike Review &lpar;2026&rpar;: Compact and Powerful](https://www.wired.com/review/jackrabbit-mg-cargo-electric-bicycle/)<!-- TECH:END -->
+ - [This project allows you to connect an Apple Watch to Android, Linux, Windows](https://appleinsider.com/articles/26/10/14/this-project-allows-you-to-connect-an-apple-watch-to-android-linux-windows?utm_source=rss)
+ - [Galaxy S27 and S27 Plus will reportedly miss out on a key camera upgrade](https://www.androidauthority.com/galaxy-s27-selfie-camera-3723309/)
+ - [Researchers say they discovered and communicated with Chinese AI agents that were trying to bypass security controls on websites and were traced to Tencent &lpar;Dylan Freedman/New York Times&rpar;](https://www.techmeme.com/261014/p31#a261014p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
