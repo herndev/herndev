@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Even Google’s own support pages aren’t safe from the Gemini takeover](https://www.androidauthority.com/gemini-ask-google-help-support-pages-3723437/)
- - [SpaceXSI debuts Grok Voice 3.0, saying it tops Artificial Analysis&#39; speech-to-speech index, responds in under a second, and costs less than rivals, at $0.08/min &lpar;SpaceXSI&rpar;](https://www.techmeme.com/261014/p38#a261014p38)
- - [The AI race is back on](https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on)<!-- TECH:END -->
+ - [Shareholders for both Fox Corp. and Roku approve Fox&#39;s $22B acquisition of Roku; Fox expects the deal to be finished in H1 2027, subject to regulatory clearance &lpar;Todd Spangler/Variety&rpar;](https://www.techmeme.com/261014/p45#a261014p45)
+ - [Sources: Anthropic told investors that its revenue jumped to $16.8B in Q3, up from $11.5B in Q2, and that the company was profitable on an adjusted basis in Q3 &lpar;Financial Times&rpar;](https://www.techmeme.com/261014/p44#a261014p44)
+ - [Mafia, Horizon Forbidden West and More Games Are Coming to PlayStation Plus Soon](https://www.cnet.com/tech/gaming/mafia-horizon-forbidden-west-ps-plus-games/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
