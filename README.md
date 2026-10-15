@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Shogun 2 - Complete Edition&#39; release crashes and burns](https://appleinsider.com/articles/26/10/15/shogun-2---complete-edition-release-crashes-and-burns?utm_source=rss)
- - [Sources: top DOJ officials halt career prosecutors&#39; Biden-era investigation of Meta over facilitating illegal drug sales and are weighing more lenient options &lpar;Ben Penn/Bloomberg Law&rpar;](https://www.techmeme.com/261015/p46#a261015p46)
- - [Grand Theft Auto 6: The Release Trailer You’ve Been Waiting For](https://www.cnet.com/tech/gaming/grand-theft-auto-6-gta6-trailer/)<!-- TECH:END -->
+ - [Netflix Chief Content Officer Bela Bajaria is leaving the company and will be replaced by former Disney and Fox executive Peter Rice, who starts October 26 &lpar;Rebecca Rubin/Variety&rpar;](https://www.techmeme.com/261015/p54#a261015p54)
+ - [Withings wants you to pay $100 a year to sync a scale with Apple Health](https://appleinsider.com/articles/26/10/15/withings-wants-you-to-pay-100-a-year-to-sync-a-scale-with-apple-health?utm_source=rss)
+ - [New Amazon Bee Personal AI Devices Will Listen and Record You](https://www.cnet.com/tech/mobile/amazon-bee-personal-ai-device-always-listening-and-recording-2/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
