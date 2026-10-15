@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Yoti, a digital ID verification app downloaded by 23M people; its revenue grew from £6.2M in 2022 to £32M+ in 2025, with the UK as its biggest market &lpar;Financial Times&rpar;](https://www.techmeme.com/261015/p5#a261015p5)
- - [Global smartphone shipments fell 22% YoY to 255.3M in Q3, a record quarterly drop, as Samsung and Apple gained while Xiaomi, Oppo, and Vivo saw deeper declines &lpar;IDC&rpar;](https://www.techmeme.com/261015/p4#a261015p4)
- - [Lenovo Coupon Codes: 15% Off in October 2026](https://www.wired.com/story/lenovo-coupon-code/)<!-- TECH:END -->
+ - [Survey: nearly 40% of US adults, and ~50% of those aged 18 to 29, participate in an online community; social media is the primary venue for online communities &lpar;Pew Research Center&rpar;](https://www.techmeme.com/261015/p15#a261015p15)
+ - [TSMC CEO C.C. Wei says the company is in talks over Elon Musk&#39;s Texas-based Terafab project, but stresses that any participating fab &quot;has got to be run by TSMC&quot; &lpar;Debby Wu/Bloomberg&rpar;](https://www.techmeme.com/261015/p14#a261015p14)
+ - [Abdulrahman Alfozan, who worked at Meta and gained US residency in 2020, advised Saudi organizations and is listed as a venture partner at Riyadh-based RAED &lpar;Emmy Martin/New York Times&rpar;](https://www.techmeme.com/261015/p13#a261015p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
