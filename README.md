@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Latest HomePods can output Mac system audio in compatible configurations](https://appleinsider.com/articles/26/10/15/latest-homepods-can-output-mac-system-audio-in-compatible-configurations?utm_source=rss)
- - [OpenAI agrees not to use trade secrets that Apple claims were stolen while their lawsuit plays out, and to collect forensic images of 14 employees&#39; devices &lpar;Bloomberg&rpar;](https://www.techmeme.com/261014/p50#a261014p50)
- - [A US appeals court lets Florida enforce a law banning social media accounts for under-14s, rejecting tech groups&#39; claims that it violates free speech rights &lpar;Diana Novak Jones/Reuters&rpar;](https://www.techmeme.com/261014/p49#a261014p49)<!-- TECH:END -->
+ - [A look at Yoti, a digital ID verification app downloaded by 23M people; its revenue grew from £6.2M in 2022 to £32M+ in 2025, with the UK as its biggest market &lpar;Financial Times&rpar;](https://www.techmeme.com/261015/p5#a261015p5)
+ - [Global smartphone shipments fell 22% YoY to 255.3M in Q3, a record quarterly drop, as Samsung and Apple gained while Xiaomi, Oppo, and Vivo saw deeper declines &lpar;IDC&rpar;](https://www.techmeme.com/261015/p4#a261015p4)
+ - [Lenovo Coupon Codes: 15% Off in October 2026](https://www.wired.com/story/lenovo-coupon-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
