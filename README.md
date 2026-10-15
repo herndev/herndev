@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Trump&#39;s Newly Appointed Ambassador Barbara Thornhill Goes Viral](http://9gag.com/gag/avW27mM)
- - ⏩ [Boobie trap](http://9gag.com/gag/abe3MNE)
- - 👉 [Get Fkd](http://9gag.com/gag/advy7w9)<!-- MEMES:END -->
+ - 💣 [Girls, girls, girls](http://9gag.com/gag/agQrnjv)
+ - ⏩ [Trump&#39;s Newly Appointed Ambassador Barbara Thornhill Goes Viral](http://9gag.com/gag/avW27mM)
+ - 👉 [Boobie trap](http://9gag.com/gag/abe3MNE)<!-- MEMES:END -->
 
 ---
 
