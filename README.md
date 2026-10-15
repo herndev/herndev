@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Survey: nearly 40% of US adults, and ~50% of those aged 18 to 29, participate in an online community; social media is the primary venue for online communities &lpar;Pew Research Center&rpar;](https://www.techmeme.com/261015/p15#a261015p15)
- - [TSMC CEO C.C. Wei says the company is in talks over Elon Musk&#39;s Texas-based Terafab project, but stresses that any participating fab &quot;has got to be run by TSMC&quot; &lpar;Debby Wu/Bloomberg&rpar;](https://www.techmeme.com/261015/p14#a261015p14)
- - [Abdulrahman Alfozan, who worked at Meta and gained US residency in 2020, advised Saudi organizations and is listed as a venture partner at Riyadh-based RAED &lpar;Emmy Martin/New York Times&rpar;](https://www.techmeme.com/261015/p13#a261015p13)<!-- TECH:END -->
+ - [Deal slashes the Razer Kishi V3 to $69.99 for a 30% discount](https://www.androidauthority.com/razer-kishi-v3-deal-3723920/)
+ - [Shelly’s new presence sensor simultaneously detects up to ten people without a camera](https://www.theverge.com/tech/1011967/shellys-new-presence-sensor-simultaneously-detects-up-to-ten-people-without-a-camera)
+ - [Microsoft’s new Photos app combines your PC, OneDrive, and iCloud galleries](https://www.theverge.com/tech/1012003/microsoft-windows-11-new-photos-app-onedrive-icloud)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
