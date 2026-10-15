@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shareholders for both Fox Corp. and Roku approve Fox&#39;s $22B acquisition of Roku; Fox expects the deal to be finished in H1 2027, subject to regulatory clearance &lpar;Todd Spangler/Variety&rpar;](https://www.techmeme.com/261014/p45#a261014p45)
- - [Sources: Anthropic told investors that its revenue jumped to $16.8B in Q3, up from $11.5B in Q2, and that the company was profitable on an adjusted basis in Q3 &lpar;Financial Times&rpar;](https://www.techmeme.com/261014/p44#a261014p44)
- - [Mafia, Horizon Forbidden West and More Games Are Coming to PlayStation Plus Soon](https://www.cnet.com/tech/gaming/mafia-horizon-forbidden-west-ps-plus-games/)<!-- TECH:END -->
+ - [Latest HomePods can output Mac system audio in compatible configurations](https://appleinsider.com/articles/26/10/15/latest-homepods-can-output-mac-system-audio-in-compatible-configurations?utm_source=rss)
+ - [OpenAI agrees not to use trade secrets that Apple claims were stolen while their lawsuit plays out, and to collect forensic images of 14 employees&#39; devices &lpar;Bloomberg&rpar;](https://www.techmeme.com/261014/p50#a261014p50)
+ - [A US appeals court lets Florida enforce a law banning social media accounts for under-14s, rejecting tech groups&#39; claims that it violates free speech rights &lpar;Diana Novak Jones/Reuters&rpar;](https://www.techmeme.com/261014/p49#a261014p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
