@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Trump&#39;s Newly Appointed Ambassador Barbara Thornhill Goes Viral](http://9gag.com/gag/avW27mM)
- - ⏩ [Get Fkd](http://9gag.com/gag/advy7w9)
- - 👉 [Trump&#39;s Newly Appointed Ambassador Barbara Thornhill Goes Viral](http://9gag.com/gag/avW27mM)<!-- MEMES:END -->
+ - ⏩ [Boobie trap](http://9gag.com/gag/abe3MNE)
+ - 👉 [Get Fkd](http://9gag.com/gag/advy7w9)<!-- MEMES:END -->
 
 ---
 
