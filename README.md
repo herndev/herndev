@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [Tesla Roadster flying audience view](http://9gag.com/gag/a17pQ92)
- - ⏩ [Complete video of flying Roadster](http://9gag.com/gag/aoWmere)
+ - ⏩ [Boobie trap](http://9gag.com/gag/abe3MNE)
  - 👉 [Great minds at work](http://9gag.com/gag/a5VpR8L)<!-- MEMES:END -->
 
 ---
