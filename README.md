@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI says its model paid for a deployment on an Ethereum test network with a wallet it did not own, after obtaining keys from public recovery phrases &lpar;Shaurya Malwa/CoinDesk&rpar;](https://www.techmeme.com/261016/p4#a261016p4)
- - [I ignored this Google Maps feature for 10 years, and now I can’t live without it](https://www.androidauthority.com/using-lists-labels-google-maps-3720835/)
- - [Jabra Enhance Select M3 Review &lpar;2026&rpar;: A Big Price for Small Wins](https://www.wired.com/review/review-jabra-enhance-select-m3/)<!-- TECH:END -->
+ - [A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops](https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions)
+ - [In its first meeting, Trump&#39;s Super Intelligence Force says it plans to commission a report on AI risks and develop protocols for labs to provide early warnings &lpar;John Harney/Bloomberg&rpar;](https://www.techmeme.com/261016/p14#a261016p14)
+ - [Vocal developers dismayed at DOJ considering antitrust settlement with Apple](https://appleinsider.com/articles/26/10/16/vocal-developers-dismayed-at-doj-considering-antitrust-settlement-with-apple?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
