@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Tesla Roadster flying audience view](http://9gag.com/gag/a17pQ92)
- - ⏩ [Parasites from a bears butt](http://9gag.com/gag/aGLKg9n)
- - 👉 [Trump&#39;s Newly Appointed Ambassador Barbara Thornhill Goes Viral](http://9gag.com/gag/avW27mM)<!-- MEMES:END -->
+ - ⏩ [Trump&#39;s Newly Appointed Ambassador Barbara Thornhill Goes Viral](http://9gag.com/gag/avW27mM)
+ - 👉 [Parasites from a bears butt](http://9gag.com/gag/aGLKg9n)<!-- MEMES:END -->
 
 ---
 
