@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Skechers Coupon Codes 20% Off](https://www.wired.com/story/skechers-coupon-codes/)
- - [Surfshark Promo Codes: 87% Off | October 2026](https://www.wired.com/story/surfshark-coupon/)
- - [Total Wireless Promo Codes &amp; Deals: 50% Off Select Plans](https://www.wired.com/story/total-wireless-promo-code/)<!-- TECH:END -->
+ - [OpenAI says its model paid for a deployment on an Ethereum test network with a wallet it did not own, after obtaining keys from public recovery phrases &lpar;Shaurya Malwa/CoinDesk&rpar;](https://www.techmeme.com/261016/p4#a261016p4)
+ - [I ignored this Google Maps feature for 10 years, and now I can’t live without it](https://www.androidauthority.com/using-lists-labels-google-maps-3720835/)
+ - [Jabra Enhance Select M3 Review &lpar;2026&rpar;: A Big Price for Small Wins](https://www.wired.com/review/review-jabra-enhance-select-m3/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
