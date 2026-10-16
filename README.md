@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The PostgreSQL Global Development Group delays the general availability of PostgreSQL 19 after LLM-assisted code reviews uncovered architectural defects &lpar;Lindsay Clark/The Register&rpar;](https://www.techmeme.com/261016/p17#a261016p17)
- - [Google’s latest anti-doomscrolling tool is shedding its Pixel exclusivity](https://www.androidauthority.com/pause-point-expanding-3724620/)
- - [Why Apple is finally making its own smart home devices](https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home)<!-- TECH:END -->
+ - [Sources: Apple has hired Scott Tucker, Meta VP and deputy general counsel, as its new litigation chief, as part of a shakeup in its legal team &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/261016/p23#a261016p23)
+ - [Apple says demand for iPhone Duo has been &quot;nothing short of extraordinary&quot;; deliveries slipped to late January within hours of preorders opening &lpar;Michael Acton/Financial Times&rpar;](https://www.techmeme.com/261016/p22#a261016p22)
+ - [Amazon drops the Razer Kraken V4 X to its lowest price in months](https://www.androidauthority.com/razer-kraken-v4-x-deal-3724679/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
