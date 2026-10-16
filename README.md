@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Opsin, which helps companies show where AI agents are active, what data they access, and flag risky behavior, raised $21M led by SYN Ventures and Race Capital &lpar;Stephen Council/Business Insider&rpar;](https://www.techmeme.com/261015/p56#a261015p56)
- - [Did AI Just Erase an Entire Swedish TV Show?](https://www.cnet.com/culture/entertainment/swedish-tv-challenge-ai-deletion/)
- - [Two US officials and a Western official say the order to limit Ukraine&#39;s access to SpaceX&#39;s Starshield came from inside the White House &lpar;Reuters&rpar;](https://www.techmeme.com/261015/p55#a261015p55)<!-- TECH:END -->
+ - [Skechers Coupon Codes 20% Off](https://www.wired.com/story/skechers-coupon-codes/)
+ - [Surfshark Promo Codes: 87% Off | October 2026](https://www.wired.com/story/surfshark-coupon/)
+ - [Total Wireless Promo Codes &amp; Deals: 50% Off Select Plans](https://www.wired.com/story/total-wireless-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
