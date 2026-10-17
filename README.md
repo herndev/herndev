@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tesla Roadster flying audience view](http://9gag.com/gag/a17pQ92)
- - ⏩ [Boobie trap](http://9gag.com/gag/abe3MNE)
+ - 💣 [No denying it: these people make a good argument for abortion with their character and behavior.](http://9gag.com/gag/az57mOK)
+ - ⏩ [Tesla Roadster flying audience view](http://9gag.com/gag/a17pQ92)
  - 👉 [Great minds at work](http://9gag.com/gag/a5VpR8L)<!-- MEMES:END -->
 
 ---
