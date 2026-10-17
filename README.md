@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple has hired Scott Tucker, Meta VP and deputy general counsel, as its new litigation chief, as part of a shakeup in its legal team &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/261016/p23#a261016p23)
- - [Apple says demand for iPhone Duo has been &quot;nothing short of extraordinary&quot;; deliveries slipped to late January within hours of preorders opening &lpar;Michael Acton/Financial Times&rpar;](https://www.techmeme.com/261016/p22#a261016p22)
- - [Amazon drops the Razer Kraken V4 X to its lowest price in months](https://www.androidauthority.com/razer-kraken-v4-x-deal-3724679/)<!-- TECH:END -->
+ - [Intel CEO Lip-Bu Tan says the Trump administration does not have &quot;any policy&quot; to use a minority stake in Intel to interfere in its business strategy &lpar;Kohei Yamada/Nikkei Asia&rpar;](https://www.techmeme.com/261016/p27#a261016p27)
+ - [Apple updates App Review Guidelines to crack down on AI nudify apps and apps that reveal undocumented capabilities, like nudification, after app review &lpar;Marcus Mendes/9to5Mac&rpar;](https://www.techmeme.com/261016/p26#a261016p26)
+ - [All the news about the iPhone Duo](https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
