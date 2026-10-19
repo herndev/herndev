@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [On the clock](http://9gag.com/gag/a9zjqBo)
- - ⏩ [Join or leave](http://9gag.com/gag/aD7RD0d)
- - 👉 [A new player has come onto the field and they&#39;re bringing steroids](http://9gag.com/gag/abe3vKO)<!-- MEMES:END -->
+ - 💣 [Bye bye crazy leader](http://9gag.com/gag/amWqon9)
+ - ⏩ [On the clock](http://9gag.com/gag/a9zjqBo)
+ - 👉 [Gonna check that out](http://9gag.com/gag/aO2oxrr)<!-- MEMES:END -->
 
 ---
 
