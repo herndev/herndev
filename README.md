@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel CEO Lip-Bu Tan says the Trump administration does not have &quot;any policy&quot; to use a minority stake in Intel to interfere in its business strategy &lpar;Kohei Yamada/Nikkei Asia&rpar;](https://www.techmeme.com/261016/p27#a261016p27)
- - [Apple updates App Review Guidelines to crack down on AI nudify apps and apps that reveal undocumented capabilities, like nudification, after app review &lpar;Marcus Mendes/9to5Mac&rpar;](https://www.techmeme.com/261016/p26#a261016p26)
- - [All the news about the iPhone Duo](https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements)<!-- TECH:END -->
+ - [Europe&#39;s three biggest industrial companies are cashing in on the AI boom, as Schneider and Siemens expand further into software, while ABB focuses on equipment &lpar;Aaron Kirchfeld/Financial Times&rpar;](https://www.techmeme.com/261018/p14#a261018p14)
+ - [SF-based home insurer Stand, which uses digital twins of homes to price wildfire risk and insures $10B+ of property, raised a $70M Series C at a $1B valuation &lpar;Nick Lichtenberg/Fortune&rpar;](https://www.techmeme.com/261018/p13#a261018p13)
+ - [A Savannah police officer gave her Flock login to her ICE agent husband](https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
