@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US DHS orders all federal civilian agencies to remove any DeepSeek tech from their IT systems and prohibits future procurement of its products and services &lpar;Connor Hart/Wall Street Journal&rpar;](https://www.techmeme.com/261019/p28#a261019p28)
- - [Save $900 on Apple&#39;s M5 Max 16-inch MacBook Pro while supplies last](https://appleinsider.com/articles/26/10/19/save-900-on-apples-m5-max-16-inch-macbook-pro-while-supplies-last?utm_source=rss)
- - [Apple’s last-gen Mac Mini with the M4 is $150 off](https://www.theverge.com/gadgets/1013645/apple-mac-mini-m4-lg-c6-oled-deal-sale)<!-- TECH:END -->
+ - [Straight Talk is giving its unlimited plans a boost without raising prices](https://www.androidauthority.com/straight-talk-improves-unlimited-plans-3725269/)
+ - [Ramp says it applied to the US OCC for a trust bank charter that, if approved, would allow it to offer fiduciary investment management and digital asset custody &lpar;Paige Smith/Bloomberg&rpar;](https://www.techmeme.com/261019/p42#a261019p42)
+ - [Sources: Nscale is in talks for a second deal with Anthropic worth ~$45B to deliver 460MW of computing power at its West Virginia campus using Vera Rubin chips &lpar;Bloomberg&rpar;](https://www.techmeme.com/261019/p41#a261019p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
