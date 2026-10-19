@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No denying it: these people make a good argument for abortion with their character and behavior.](http://9gag.com/gag/az57mOK)
- - ⏩ [Tesla Roadster flying audience view](http://9gag.com/gag/a17pQ92)
- - 👉 [Great minds at work](http://9gag.com/gag/a5VpR8L)<!-- MEMES:END -->
+ - 💣 [Poor girl](http://9gag.com/gag/aD7RYYG)
+ - ⏩ [Join or leave](http://9gag.com/gag/aD7RD0d)
+ - 👉 [Lol.](http://9gag.com/gag/aGLKp8K)<!-- MEMES:END -->
 
 ---
 
