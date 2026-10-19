@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Poor girl](http://9gag.com/gag/aD7RYYG)
+ - 💣 [On the clock](http://9gag.com/gag/a9zjqBo)
  - ⏩ [Join or leave](http://9gag.com/gag/aD7RD0d)
- - 👉 [Lol.](http://9gag.com/gag/aGLKp8K)<!-- MEMES:END -->
+ - 👉 [A new player has come onto the field and they&#39;re bringing steroids](http://9gag.com/gag/abe3vKO)<!-- MEMES:END -->
 
 ---
 
