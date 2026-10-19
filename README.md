@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Europe&#39;s three biggest industrial companies are cashing in on the AI boom, as Schneider and Siemens expand further into software, while ABB focuses on equipment &lpar;Aaron Kirchfeld/Financial Times&rpar;](https://www.techmeme.com/261018/p14#a261018p14)
- - [SF-based home insurer Stand, which uses digital twins of homes to price wildfire risk and insures $10B+ of property, raised a $70M Series C at a $1B valuation &lpar;Nick Lichtenberg/Fortune&rpar;](https://www.techmeme.com/261018/p13#a261018p13)
- - [A Savannah police officer gave her Flock login to her ICE agent husband](https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband)<!-- TECH:END -->
+ - [iPhone Duo battery specs revealed: Good news for Galaxy Z Fold 8 and other Android rivals](https://www.androidauthority.com/iphone-duo-battery-specs-charging-cycles-3724810/)
+ - [AI&#39;s ability to forecast extreme weather faces a major test in the coming months amid a historic El Niño, as some scientists question the technology&#39;s accuracy &lpar;Financial Times&rpar;](https://www.techmeme.com/261019/p5#a261019p5)
+ - [Survey of 94 economists: 54% expect AI&#39;s gains to spread across the G20 over the next decade, not just the US and China; 32 see African countries falling behind &lpar;Financial Times&rpar;](https://www.techmeme.com/261019/p4#a261019p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
