@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Straight Talk is giving its unlimited plans a boost without raising prices](https://www.androidauthority.com/straight-talk-improves-unlimited-plans-3725269/)
- - [Ramp says it applied to the US OCC for a trust bank charter that, if approved, would allow it to offer fiduciary investment management and digital asset custody &lpar;Paige Smith/Bloomberg&rpar;](https://www.techmeme.com/261019/p42#a261019p42)
- - [Sources: Nscale is in talks for a second deal with Anthropic worth ~$45B to deliver 460MW of computing power at its West Virginia campus using Vera Rubin chips &lpar;Bloomberg&rpar;](https://www.techmeme.com/261019/p41#a261019p41)<!-- TECH:END -->
+ - [Sources: OpenAI is racing to secure investor commitments before Anthropic&#39;s expected IPO in mid-Nov. and aims to raise ~$30B; the round could value it at $1.4T+ &lpar;Reuters&rpar;](https://www.techmeme.com/261019/p49#a261019p49)
+ - [Sources: Ted Sarandos complained for months of a lack of new hit shows at Netflix and US watch time being down; it just fired its film chief and content chief &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/261019/p48#a261019p48)
+ - [Sources: Waymo aims to expand its fleet to 8K by the end of this year, up from 4K today, and to 20K by the end of 2027, after raising $5B in debt this month &lpar;Ellen DiMauro/Semafor&rpar;](https://www.techmeme.com/261019/p47#a261019p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
