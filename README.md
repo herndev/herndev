@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone Duo battery specs revealed: Good news for Galaxy Z Fold 8 and other Android rivals](https://www.androidauthority.com/iphone-duo-battery-specs-charging-cycles-3724810/)
- - [AI&#39;s ability to forecast extreme weather faces a major test in the coming months amid a historic El Niño, as some scientists question the technology&#39;s accuracy &lpar;Financial Times&rpar;](https://www.techmeme.com/261019/p5#a261019p5)
- - [Survey of 94 economists: 54% expect AI&#39;s gains to spread across the G20 over the next decade, not just the US and China; 32 see African countries falling behind &lpar;Financial Times&rpar;](https://www.techmeme.com/261019/p4#a261019p4)<!-- TECH:END -->
+ - [The US DHS orders all federal civilian agencies to remove any DeepSeek tech from their IT systems and prohibits future procurement of its products and services &lpar;Connor Hart/Wall Street Journal&rpar;](https://www.techmeme.com/261019/p28#a261019p28)
+ - [Save $900 on Apple&#39;s M5 Max 16-inch MacBook Pro while supplies last](https://appleinsider.com/articles/26/10/19/save-900-on-apples-m5-max-16-inch-macbook-pro-while-supplies-last?utm_source=rss)
+ - [Apple’s last-gen Mac Mini with the M4 is $150 off](https://www.theverge.com/gadgets/1013645/apple-mac-mini-m4-lg-c6-oled-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
