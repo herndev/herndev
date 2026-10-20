@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rejection..](http://9gag.com/gag/aBZ9dBD)
+ - 💣 [Fun fact: Practical jokes, though sometimes mean, are the purest form of a healthy relationship.](http://9gag.com/gag/anOeOQn)
  - ⏩ [Bad start of a conversation](http://9gag.com/gag/a8Ad7Q3)
  - 👉 [On the clock](http://9gag.com/gag/a9zjqBo)<!-- MEMES:END -->
 
