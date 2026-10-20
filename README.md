@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: OpenAI is racing to secure investor commitments before Anthropic&#39;s expected IPO in mid-Nov. and aims to raise ~$30B; the round could value it at $1.4T+ &lpar;Reuters&rpar;](https://www.techmeme.com/261019/p49#a261019p49)
- - [Sources: Ted Sarandos complained for months of a lack of new hit shows at Netflix and US watch time being down; it just fired its film chief and content chief &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/261019/p48#a261019p48)
- - [Sources: Waymo aims to expand its fleet to 8K by the end of this year, up from 4K today, and to 20K by the end of 2027, after raising $5B in debt this month &lpar;Ellen DiMauro/Semafor&rpar;](https://www.techmeme.com/261019/p47#a261019p47)<!-- TECH:END -->
+ - [Mercury CEO Immad Akhund says the fintech hit $1B in annualized revenue, up ~50% YoY, has more than 450K customers, and is launching a payroll service &lpar;Eric Newcomer/Newcomer&rpar;](https://www.techmeme.com/261019/p52#a261019p52)
+ - [Where to find the best free fonts for Mac without licensing headaches](https://appleinsider.com/inside/macos/tips/where-to-find-the-best-free-fonts-for-mac-without-licensing-headaches?utm_source=rss)
+ - [Today’s NYT Mini Crossword Answers for Tuesday, Oct. 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-oct-20/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
