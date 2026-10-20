@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fed up with ads and bloatware on your smart TV? People are vibecoding ways to remove them](https://www.androidauthority.com/android-tv-vibe-hacking-remove-ads-bloatware-3725338/)
- - [Google TV’s latest surprise is a collection of features you’ve probably seen](https://www.androidauthority.com/google-tv-october-2026-feature-roundup-3725361/)
- - [Ant-backed Mynt, which runs mobile wallet app GCash, rose as much as 2.4% in Manila after raising $841M in the Philippines&#39; largest-ever IPO, valuing it at ~$7B &lpar;Kimberley Kao/Wall Street Journal&rpar;](https://www.techmeme.com/261020/p3#a261020p3)<!-- TECH:END -->
+ - [TikTok staff depositions: TikTok executives ignored internal warnings over child sexual exploitation on Live, where staff said minors appeared in livestreams &lpar;Katie McQue/NPR&rpar;](https://www.techmeme.com/261020/p24#a261020p24)
+ - [Arda, which develops AI software and agents to accelerate assembly line programming and manufacturing automation, raised $230M at a $1.5B valuation &lpar;Kate Rooney/CNBC&rpar;](https://www.techmeme.com/261020/p23#a261020p23)
+ - [Eka Robotics, which is developing a &quot;vision-force-action&quot; architecture for its physical AI models, raised a $150M Series A at a $1.45B post-money valuation &lpar;Tim Fernholz/TechCrunch&rpar;](https://www.techmeme.com/261020/p22#a261020p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
