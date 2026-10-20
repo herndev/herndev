@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok staff depositions: TikTok executives ignored internal warnings over child sexual exploitation on Live, where staff said minors appeared in livestreams &lpar;Katie McQue/NPR&rpar;](https://www.techmeme.com/261020/p24#a261020p24)
- - [Arda, which develops AI software and agents to accelerate assembly line programming and manufacturing automation, raised $230M at a $1.5B valuation &lpar;Kate Rooney/CNBC&rpar;](https://www.techmeme.com/261020/p23#a261020p23)
- - [Eka Robotics, which is developing a &quot;vision-force-action&quot; architecture for its physical AI models, raised a $150M Series A at a $1.45B post-money valuation &lpar;Tim Fernholz/TechCrunch&rpar;](https://www.techmeme.com/261020/p22#a261020p22)<!-- TECH:END -->
+ - [Meta pauses Muse sharing after researchers find AI chats on the web](https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats)
+ - [Foursquare co-founder says the company was acquired a month ago in a deal resulting in a $0 payout for equity holders, and faults leadership installed in 2021 &lpar;Dennis Crowley/Teendrama Snippets&rpar;](https://www.techmeme.com/261020/p33#a261020p33)
+ - [Amazon drops Belkin SoundForm Isolate Buds to a new low](https://www.androidauthority.com/belkin-soundform-isolate-buds-deal-3725606/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
