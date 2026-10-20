@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [On a call](http://9gag.com/gag/aGLKL67)
- - ⏩ [Be honest](http://9gag.com/gag/aO2oedE)
+ - 💣 [Be honest](http://9gag.com/gag/aO2oedE)
+ - ⏩ [Gyros in Paris](http://9gag.com/gag/aAQB0od)
  - 👉 [On the clock](http://9gag.com/gag/a9zjqBo)<!-- MEMES:END -->
 
 ---
