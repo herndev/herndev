@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta pauses Muse sharing after researchers find AI chats on the web](https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats)
- - [Foursquare co-founder says the company was acquired a month ago in a deal resulting in a $0 payout for equity holders, and faults leadership installed in 2021 &lpar;Dennis Crowley/Teendrama Snippets&rpar;](https://www.techmeme.com/261020/p33#a261020p33)
- - [Amazon drops Belkin SoundForm Isolate Buds to a new low](https://www.androidauthority.com/belkin-soundform-isolate-buds-deal-3725606/)<!-- TECH:END -->
+ - [PHP development team plans to release updates tomorrow to address two vulnerabilities, each rated 9.2; security researchers at watchTowr say they are RCE flaws &lpar;Lawrence Abrams/BleepingComputer&rpar;](https://www.techmeme.com/261020/p51#a261020p51)
+ - [Hisense L9Q projector hits record-low price, saving you $2,000](https://www.androidauthority.com/hisense-l9q-projector-deal-3725819/)
+ - [Spotify Launches Paid Fan Memberships for Podcast Creators](https://www.cnet.com/tech/services-and-software/spotify-podcasters-paid-memberships-program/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
