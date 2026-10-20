@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mercury CEO Immad Akhund says the fintech hit $1B in annualized revenue, up ~50% YoY, has more than 450K customers, and is launching a payroll service &lpar;Eric Newcomer/Newcomer&rpar;](https://www.techmeme.com/261019/p52#a261019p52)
- - [Where to find the best free fonts for Mac without licensing headaches](https://appleinsider.com/inside/macos/tips/where-to-find-the-best-free-fonts-for-mac-without-licensing-headaches?utm_source=rss)
- - [Today’s NYT Mini Crossword Answers for Tuesday, Oct. 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-oct-20/)<!-- TECH:END -->
+ - [Fed up with ads and bloatware on your smart TV? People are vibecoding ways to remove them](https://www.androidauthority.com/android-tv-vibe-hacking-remove-ads-bloatware-3725338/)
+ - [Google TV’s latest surprise is a collection of features you’ve probably seen](https://www.androidauthority.com/google-tv-october-2026-feature-roundup-3725361/)
+ - [Ant-backed Mynt, which runs mobile wallet app GCash, rose as much as 2.4% in Manila after raising $841M in the Philippines&#39; largest-ever IPO, valuing it at ~$7B &lpar;Kimberley Kao/Wall Street Journal&rpar;](https://www.techmeme.com/261020/p3#a261020p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
