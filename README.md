@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rejection..](http://9gag.com/gag/aBZ9dBD)
- - ⏩ [On the clock](http://9gag.com/gag/a9zjqBo)
- - 👉 [What do you think?](http://9gag.com/gag/ayqENg8)<!-- MEMES:END -->
+ - 💣 [On a call](http://9gag.com/gag/aGLKL67)
+ - ⏩ [Be honest](http://9gag.com/gag/aO2oedE)
+ - 👉 [On the clock](http://9gag.com/gag/a9zjqBo)<!-- MEMES:END -->
 
 ---
 
