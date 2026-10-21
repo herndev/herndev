@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Be honest](http://9gag.com/gag/aO2oedE)
- - ⏩ [Something about busses](http://9gag.com/gag/aj7Q1d0)
- - 👉 [Understandable](http://9gag.com/gag/aNLm91A)<!-- MEMES:END -->
+ - ⏩ [Brigtened our dark world](http://9gag.com/gag/arW1AEK)
+ - 👉 [Agreement](http://9gag.com/gag/aQg6QNd)<!-- MEMES:END -->
 
 ---
 
