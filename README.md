@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Music&#39;s gorgeous rebrand leans on Liquid Glass](https://appleinsider.com/articles/26/10/21/apple-musics-gorgeous-rebrand-leans-on-liquid-glass?utm_source=rss)
- - [Apple Pencil support arrives on iPhone Duo with iOS 27.2](https://appleinsider.com/articles/26/10/21/apple-pencil-support-arrives-on-iphone-duo-with-ios-272?utm_source=rss)
- - [The PHP Foundation details how it found and fixed the two flaws, and says it had to release patches a day early after the CVE IDs began circulating online &lpar;The PHP Foundation&rpar;](https://www.techmeme.com/261021/p37#a261021p37)<!-- TECH:END -->
+ - [iPhone Duo to offer Edge Light, Smart Take, horizontal Reachability, more](https://appleinsider.com/articles/26/10/21/iphone-duo-to-offer-edge-light-smart-take-horizontal-reachability-more?utm_source=rss)
+ - [Walmart is inviting AI agents to shop for you](https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents)
+ - [Microsoft reveals pricing for Xbox Cloud Gaming without Game Pass, for Xbox Insiders now and others next month: 10 hours for $3.99, 25 for $7.99, 50 for $11.99 &lpar;Tom Warren/The Verge&rpar;](https://www.techmeme.com/261021/p44#a261021p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
