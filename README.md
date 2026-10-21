@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [First iPhone Duo unboxing videos surface ahead of official reviews](https://appleinsider.com/articles/26/10/21/first-iphone-duo-unboxing-videos-surface-ahead-of-official-reviews?utm_source=rss)
- - [This new phone brings Snapdragon 8 Elite Gen 6 with cooling fan, 10,000mAh battery, and more](https://www.androidauthority.com/honor-win-2-series-12000mah-battery-3725933/)
- - [Dario Amodei says Anthropic&#39;s &quot;race to the top&quot; makes AI safer, cites nine safety decisions with &quot;substantial costs&quot;, and admits mishandling a draft AI bill &lpar;Dario Amodei/@darioamodei&rpar;](https://www.techmeme.com/261021/p13#a261021p13)<!-- TECH:END -->
+ - [Apple Music&#39;s gorgeous rebrand leans on Liquid Glass](https://appleinsider.com/articles/26/10/21/apple-musics-gorgeous-rebrand-leans-on-liquid-glass?utm_source=rss)
+ - [Apple Pencil support arrives on iPhone Duo with iOS 27.2](https://appleinsider.com/articles/26/10/21/apple-pencil-support-arrives-on-iphone-duo-with-ios-272?utm_source=rss)
+ - [The PHP Foundation details how it found and fixed the two flaws, and says it had to release patches a day early after the CVE IDs began circulating online &lpar;The PHP Foundation&rpar;](https://www.techmeme.com/261021/p37#a261021p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
