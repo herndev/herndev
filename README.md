@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Nvidia is in talks to invest hundreds of millions of dollars in Firmus, which pulled its IPO earlier this month, citing market volatility &lpar;Phoebe Liu/The Information&rpar;](https://www.techmeme.com/261020/p56#a261020p56)
- - [Reliable Robotics, which develops an autonomous flight system, raised a $115M extension for its $160M Series D, pushing its valuation to $1B+ &lpar;Kirsten Korosec/TechCrunch&rpar;](https://www.techmeme.com/261020/p55#a261020p55)
- - [YouTube might be testing hiding the dislike button](https://www.theverge.com/streaming/1015099/youtube-dislike-button-hide-menu)<!-- TECH:END -->
+ - [An unconfirmed report claims PHP2Shell enables RCE on PHP sites; watchTowr says the exploit allegedly affects all versions since PHP 5, released in 2004 &lpar;Dan Goodin/Ars Technica&rpar;](https://www.techmeme.com/261021/p2#a261021p2)
+ - [TurboTax Full Service Coupons This October 2026](https://www.wired.com/story/turbotax-coupon/)
+ - [Home Depot Promo Codes: 30% Off in October 2026](https://www.wired.com/story/home-depot-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
