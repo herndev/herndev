@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone Duo to offer Edge Light, Smart Take, horizontal Reachability, more](https://appleinsider.com/articles/26/10/21/iphone-duo-to-offer-edge-light-smart-take-horizontal-reachability-more?utm_source=rss)
- - [Walmart is inviting AI agents to shop for you](https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents)
- - [Microsoft reveals pricing for Xbox Cloud Gaming without Game Pass, for Xbox Insiders now and others next month: 10 hours for $3.99, 25 for $7.99, 50 for $11.99 &lpar;Tom Warren/The Verge&rpar;](https://www.techmeme.com/261021/p44#a261021p44)<!-- TECH:END -->
+ - [Apple &amp; DOJ antitrust suit reaches impasse over document collection](https://appleinsider.com/articles/26/10/21/apple-doj-antitrust-suit-reaches-impasse-over-document-collection?utm_source=rss)
+ - [Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure](https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure/)
+ - [SAP: Q3 cloud revenue up 25% YoY to €6.67B, vs. €6.57B est., total revenue up 12% to €10.27B, current cloud backlog up 26% to €24.1B, all in constant currencies &lpar;Christina Kyriasoglou/Bloomberg&rpar;](https://www.techmeme.com/261021/p55#a261021p55)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
