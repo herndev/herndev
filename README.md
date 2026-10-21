@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An unconfirmed report claims PHP2Shell enables RCE on PHP sites; watchTowr says the exploit allegedly affects all versions since PHP 5, released in 2004 &lpar;Dan Goodin/Ars Technica&rpar;](https://www.techmeme.com/261021/p2#a261021p2)
- - [TurboTax Full Service Coupons This October 2026](https://www.wired.com/story/turbotax-coupon/)
- - [Home Depot Promo Codes: 30% Off in October 2026](https://www.wired.com/story/home-depot-promo-code/)<!-- TECH:END -->
+ - [First iPhone Duo unboxing videos surface ahead of official reviews](https://appleinsider.com/articles/26/10/21/first-iphone-duo-unboxing-videos-surface-ahead-of-official-reviews?utm_source=rss)
+ - [This new phone brings Snapdragon 8 Elite Gen 6 with cooling fan, 10,000mAh battery, and more](https://www.androidauthority.com/honor-win-2-series-12000mah-battery-3725933/)
+ - [Dario Amodei says Anthropic&#39;s &quot;race to the top&quot; makes AI safer, cites nine safety decisions with &quot;substantial costs&quot;, and admits mishandling a draft AI bill &lpar;Dario Amodei/@darioamodei&rpar;](https://www.techmeme.com/261021/p13#a261021p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
