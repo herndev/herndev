@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PHP development team plans to release updates tomorrow to address two vulnerabilities, each rated 9.2; security researchers at watchTowr say they are RCE flaws &lpar;Lawrence Abrams/BleepingComputer&rpar;](https://www.techmeme.com/261020/p51#a261020p51)
- - [Hisense L9Q projector hits record-low price, saving you $2,000](https://www.androidauthority.com/hisense-l9q-projector-deal-3725819/)
- - [Spotify Launches Paid Fan Memberships for Podcast Creators](https://www.cnet.com/tech/services-and-software/spotify-podcasters-paid-memberships-program/)<!-- TECH:END -->
+ - [Sources: Nvidia is in talks to invest hundreds of millions of dollars in Firmus, which pulled its IPO earlier this month, citing market volatility &lpar;Phoebe Liu/The Information&rpar;](https://www.techmeme.com/261020/p56#a261020p56)
+ - [Reliable Robotics, which develops an autonomous flight system, raised a $115M extension for its $160M Series D, pushing its valuation to $1B+ &lpar;Kirsten Korosec/TechCrunch&rpar;](https://www.techmeme.com/261020/p55#a261020p55)
+ - [YouTube might be testing hiding the dislike button](https://www.theverge.com/streaming/1015099/youtube-dislike-button-hide-menu)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
