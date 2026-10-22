@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [Be honest](http://9gag.com/gag/aO2oedE)
  - ⏩ [What happened](http://9gag.com/gag/aXLZNmD)
- - 👉 [Who would win?](http://9gag.com/gag/a0ov0Kz)<!-- MEMES:END -->
+ - 👉 [Would You Live On This Planet Part 2 `...it would be so safe &amp; calm`](http://9gag.com/gag/ayqE6Nq)<!-- MEMES:END -->
 
 ---
 
