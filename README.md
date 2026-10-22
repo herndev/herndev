@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shokz OpenRun Pro headphones get a $70 Amazon discount](https://www.androidauthority.com/shokz-openrun-pro-deal-amazon-3726905/)
- - [The Browser Company plans to shut down its Arc browser on December 22, as it shifts attention to the AI-focused Dia browser &lpar;Jay Peters/The Verge&rpar;](https://www.techmeme.com/261022/p42#a261022p42)
- - [Someone hacked the Switch 2 by using an old game and AI](https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai)<!-- TECH:END -->
+ - [Anthropic donates the Agent Skills open standard to the Agentic AI Foundation and says 70+ platforms have integrated it, after donating MCP to the AAIF in 2025 &lpar;Anthropic&rpar;](https://www.techmeme.com/261022/p53#a261022p53)
+ - [Meta&amp;#8217;s AI could still scrape news sites, legal experts say](https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns)
+ - [FTC Imposter Scam Threatens to Unplug Your Phone Number](https://www.cnet.com/news/privacy/ftc-alert-phone-impersonation-scam/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
