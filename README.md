@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Axel Springer CEO Mathias Döpfner proposed joining a bid for TikTok&#39;s European business over lunch with Charles Kushner, the US ambassador to France &lpar;Financial Times&rpar;](https://www.techmeme.com/261022/p6#a261022p6)
- - [Microsoft says China-linked hackers used AI penetration testing tool ARTEX to compromise ConnectWise as part of a campaign targeting hundreds of organizations &lpar;AJ Vicens/Reuters&rpar;](https://www.techmeme.com/261022/p5#a261022p5)
- - [A Micron labor union staged Taiwan&#39;s first-ever strike in the semiconductor industry on Thursday, demanding a regular profit-sharing scheme for its employees &lpar;Nikkei Asia&rpar;](https://www.techmeme.com/261022/p4#a261022p4)<!-- TECH:END -->
+ - [I Went From AI Prompt to 3D-Printed Armor in 18 Hours](https://www.cnet.com/tech/computing/i-went-from-ai-prompt-to-3d-printed-armor-in-18-hours/)
+ - [Xona, which plans to deploy a 258-satellite low-Earth orbit constellation as a commercial alternative to GPS, raised a $250M Series D at a $2.45B valuation &lpar;Monica Hunter-Hart/Forbes&rpar;](https://www.techmeme.com/261022/p21#a261022p21)
+ - [These 2 useful Google Wallet upgrades are starting to roll out](https://www.androidauthority.com/google-wallet-notification-feed-passport-support-3726594/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
