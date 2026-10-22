@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [Be honest](http://9gag.com/gag/aO2oedE)
- - ⏩ [What happened](http://9gag.com/gag/aXLZNmD)
+ - ⏩ [Protect yourselves, kings.](http://9gag.com/gag/aVgjmen)
  - 👉 [Would You Live On This Planet Part 2 `...it would be so safe &amp; calm`](http://9gag.com/gag/ayqE6Nq)<!-- MEMES:END -->
 
 ---
