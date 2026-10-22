@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple &amp; DOJ antitrust suit reaches impasse over document collection](https://appleinsider.com/articles/26/10/21/apple-doj-antitrust-suit-reaches-impasse-over-document-collection?utm_source=rss)
- - [Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure](https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure/)
- - [SAP: Q3 cloud revenue up 25% YoY to €6.67B, vs. €6.57B est., total revenue up 12% to €10.27B, current cloud backlog up 26% to €24.1B, all in constant currencies &lpar;Christina Kyriasoglou/Bloomberg&rpar;](https://www.techmeme.com/261021/p55#a261021p55)<!-- TECH:END -->
+ - [Tons of People Are Apparently Asking Meta’s Muse AI Agent to Shop for Them](https://www.cnet.com/tech/services-and-software/meta-muse-ai-agent-shopping-earnings/)
+ - [AI and Data Centers Will Impact Midterm Voting, According to Experts](https://www.cnet.com/news/politics/polls-experts-ai-data-centers-midterm-voting/)
+ - [Cloud provider Railway says an unauthorized party may have accessed customer encrypted environment variables and, for some, obtained the decrypted contents &lpar;Jacob Cooper/Railway Blog&rpar;](https://www.techmeme.com/261021/p57#a261021p57)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
