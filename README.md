@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Be honest](http://9gag.com/gag/aO2oedE)
- - ⏩ [Protect yourselves, kings.](http://9gag.com/gag/aVgjmen)
- - 👉 [Would You Live On This Planet Part 2 `...it would be so safe &amp; calm`](http://9gag.com/gag/ayqE6Nq)<!-- MEMES:END -->
+ - 💣 [French Student Mocks Owners Who Lost Stores In Riots, Then Her Lifestyle Got Revealed](http://9gag.com/gag/axWEvxD)
+ - ⏩ [Would You Live On This Planet Part 2 `...it would be so safe &amp; calm`](http://9gag.com/gag/ayqE6Nq)
+ - 👉 [Batarangs hurt.](https://www.reddit.com/r/funny/comments/1xcp9oa/batarangs_hurt/)<!-- MEMES:END -->
 
 ---
 
