@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic donates the Agent Skills open standard to the Agentic AI Foundation and says 70+ platforms have integrated it, after donating MCP to the AAIF in 2025 &lpar;Anthropic&rpar;](https://www.techmeme.com/261022/p53#a261022p53)
- - [Meta&amp;#8217;s AI could still scrape news sites, legal experts say](https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns)
- - [FTC Imposter Scam Threatens to Unplug Your Phone Number](https://www.cnet.com/news/privacy/ftc-alert-phone-impersonation-scam/)<!-- TECH:END -->
+ - [A New Bird-Recognizing Feeder Under $100 Launches for Beginner Bird-Watchers](https://www.cnet.com/home/yard-and-outdoors/bird-feeder-ai-recognition-under-100-beginner-birdwatchers/)
+ - [Will Meta’s $25 Billion Court Loss Change Its Ways? &lpar;Spoiler: Probably Not&rpar;](https://www.cnet.com/news/privacy/meta-25-billion-court-loss/)
+ - [Palmer Luckey Made a Genetically Modified Military Dog Startup](https://www.wired.com/story/cool-cool-cool-palmer-luckey-made-a-genetically-modified-military-dog-startup/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
