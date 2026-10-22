@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tons of People Are Apparently Asking Meta’s Muse AI Agent to Shop for Them](https://www.cnet.com/tech/services-and-software/meta-muse-ai-agent-shopping-earnings/)
- - [AI and Data Centers Will Impact Midterm Voting, According to Experts](https://www.cnet.com/news/politics/polls-experts-ai-data-centers-midterm-voting/)
- - [Cloud provider Railway says an unauthorized party may have accessed customer encrypted environment variables and, for some, obtained the decrypted contents &lpar;Jacob Cooper/Railway Blog&rpar;](https://www.techmeme.com/261021/p57#a261021p57)<!-- TECH:END -->
+ - [Sources: Axel Springer CEO Mathias Döpfner proposed joining a bid for TikTok&#39;s European business over lunch with Charles Kushner, the US ambassador to France &lpar;Financial Times&rpar;](https://www.techmeme.com/261022/p6#a261022p6)
+ - [Microsoft says China-linked hackers used AI penetration testing tool ARTEX to compromise ConnectWise as part of a campaign targeting hundreds of organizations &lpar;AJ Vicens/Reuters&rpar;](https://www.techmeme.com/261022/p5#a261022p5)
+ - [A Micron labor union staged Taiwan&#39;s first-ever strike in the semiconductor industry on Thursday, demanding a regular profit-sharing scheme for its employees &lpar;Nikkei Asia&rpar;](https://www.techmeme.com/261022/p4#a261022p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
