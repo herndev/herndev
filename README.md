@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I Went From AI Prompt to 3D-Printed Armor in 18 Hours](https://www.cnet.com/tech/computing/i-went-from-ai-prompt-to-3d-printed-armor-in-18-hours/)
- - [Xona, which plans to deploy a 258-satellite low-Earth orbit constellation as a commercial alternative to GPS, raised a $250M Series D at a $2.45B valuation &lpar;Monica Hunter-Hart/Forbes&rpar;](https://www.techmeme.com/261022/p21#a261022p21)
- - [These 2 useful Google Wallet upgrades are starting to roll out](https://www.androidauthority.com/google-wallet-notification-feed-passport-support-3726594/)<!-- TECH:END -->
+ - [Shokz OpenRun Pro headphones get a $70 Amazon discount](https://www.androidauthority.com/shokz-openrun-pro-deal-amazon-3726905/)
+ - [The Browser Company plans to shut down its Arc browser on December 22, as it shifts attention to the AI-focused Dia browser &lpar;Jay Peters/The Verge&rpar;](https://www.techmeme.com/261022/p42#a261022p42)
+ - [Someone hacked the Switch 2 by using an old game and AI](https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
