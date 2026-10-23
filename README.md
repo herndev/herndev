@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify confirms it is rolling out a new family plan verification method requiring members to scan QR codes on plan managers&#39; phones within seven days of notice &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/261022/p60#a261022p60)
- - [US Treasury proposes rules tightening restrictions on US investments in areas including AI and supercomputing in China, Russia, and other &quot;countries of concern&quot; &lpar;Associated Press&rpar;](https://www.techmeme.com/261022/p59#a261022p59)
- - [Appeals court upholds Apple TV&#39;s &#39;Servant&#39; plagiarism lawsuit win](https://appleinsider.com/articles/26/10/23/appeals-court-upholds-apple-tvs-servant-plagiarism-lawsuit-win?utm_source=rss)<!-- TECH:END -->
+ - [Google is tackling three Googlebook headaches before they become migraines](https://www.androidauthority.com/googlebook-bluetooth-writing-tools-cast-my-apps-fixes-3727078/)
+ - [It’s official: Samsung’s next foldable phone is coming soon](https://www.androidauthority.com/samsung-next-foldable-phone-october-29-3727071/)
+ - [SK Telecom unit SK Hyper is in talks with tech firms and investors to finance 15GW of data center capacity in South Korea by 2035; the first 5GW will cost $350B &lpar;Bloomberg&rpar;](https://www.techmeme.com/261023/p4#a261023p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
