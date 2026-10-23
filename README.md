@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fi’s GPS-equipped dog trackers are on sale for 30 percent off](https://www.theverge.com/gadgets/1017196/fi-ultra-gps-dog-tracker-kirby-air-riders-deal-sale)
- - [How to make an old iPad as close to a HomeView as possible](https://appleinsider.com/inside/homeview/tips/how-to-make-an-old-ipad-as-close-to-a-homeview-as-possible?utm_source=rss)
- - [Strava gets plain-language route search, with turn-by-turn audio navigation coming soon](https://www.androidauthority.com/strava-update-natural-language-search-3727411/)<!-- TECH:END -->
+ - [Sources: Instacart, currently valued at $12B, is in talks to sell itself and held preliminary conversations with DoorDash and Uber; CART jumps 9%+ &lpar;The Information&rpar;](https://www.techmeme.com/261023/p21#a261023p21)
+ - [OpenAI plans to restrict internet access for its frontier models during training until adequate alignment, monitoring, and security safeguards are established &lpar;Rachel Metz/Bloomberg&rpar;](https://www.techmeme.com/261023/p20#a261023p20)
+ - [Your Pixel Watch is getting smarter about tracking activity with Google Health 5.11](https://www.androidauthority.com/google-health-5-11-3727492/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
