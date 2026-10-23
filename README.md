@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TV OS frustrations are leading people to vibe-code](https://www.theverge.com/tech/1016116/vibe-coding-tv-os)
- - [Netflix can’t fire its way out of this downward spiral](https://www.theverge.com/streaming/1017304/netflix-layoffs-bela-bajaria-peter-rice-dan-lin-doug-belgrad)
- - [Someone put Apple CarPlay on an Amazon Echo Show running Android, and it actually works](https://www.androidauthority.com/amazon-echo-show-5-apple-carplay-lineageos-3727158/)<!-- TECH:END -->
+ - [Fi’s GPS-equipped dog trackers are on sale for 30 percent off](https://www.theverge.com/gadgets/1017196/fi-ultra-gps-dog-tracker-kirby-air-riders-deal-sale)
+ - [How to make an old iPad as close to a HomeView as possible](https://appleinsider.com/inside/homeview/tips/how-to-make-an-old-ipad-as-close-to-a-homeview-as-possible?utm_source=rss)
+ - [Strava gets plain-language route search, with turn-by-turn audio navigation coming soon](https://www.androidauthority.com/strava-update-natural-language-search-3727411/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
