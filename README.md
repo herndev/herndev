@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Instacart, currently valued at $12B, is in talks to sell itself and held preliminary conversations with DoorDash and Uber; CART jumps 9%+ &lpar;The Information&rpar;](https://www.techmeme.com/261023/p21#a261023p21)
- - [OpenAI plans to restrict internet access for its frontier models during training until adequate alignment, monitoring, and security safeguards are established &lpar;Rachel Metz/Bloomberg&rpar;](https://www.techmeme.com/261023/p20#a261023p20)
- - [Your Pixel Watch is getting smarter about tracking activity with Google Health 5.11](https://www.androidauthority.com/google-health-5-11-3727492/)<!-- TECH:END -->
+ - [Utopai, an AI film studio that says it has more than 20 projects in the works, raised $60M at a $1B valuation &lpar;Rocket Drew/The Information&rpar;](https://www.techmeme.com/261023/p24#a261023p24)
+ - [Apple’s iPod Turns 25: The Song Catalog That Rode Wit You](https://www.cnet.com/tech/mobile/apple-ipod-25th-anniversary/)
+ - [Memo: Helen Chiang, Xbox&#39;s first COO, is leaving Microsoft on October 23, just months after the role was created; she spent 21 years at the company &lpar;Tom Warren/The Verge&rpar;](https://www.techmeme.com/261023/p23#a261023p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
