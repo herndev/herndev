@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [French Student Mocks Owners Who Lost Stores In Riots, Then Her Lifestyle Got Revealed](http://9gag.com/gag/axWEvxD)
- - ⏩ [My cat crossed the rainbow bridge](http://9gag.com/gag/aZnqQ0W)
- - 👉 [Who would be more terrifying to face?](http://9gag.com/gag/aGLKBZK)<!-- MEMES:END -->
+ - ⏩ [The Transporter](http://9gag.com/gag/aGLKMVw)
+ - 👉 [Check her basement because she sounds sus AF](http://9gag.com/gag/aGLKGVG)<!-- MEMES:END -->
 
 ---
 
