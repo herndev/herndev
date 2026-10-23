@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What happened](http://9gag.com/gag/aXLZNmD)
- - ⏩ [French Student Mocks Owners Who Lost Stores In Riots, Then Her Lifestyle Got Revealed](http://9gag.com/gag/axWEvxD)
- - 👉 [Check her basement because she sounds sus AF](http://9gag.com/gag/aGLKGVG)<!-- MEMES:END -->
+ - 💣 [French Student Mocks Owners Who Lost Stores In Riots, Then Her Lifestyle Got Revealed](http://9gag.com/gag/axWEvxD)
+ - ⏩ [Check her basement because she sounds sus AF](http://9gag.com/gag/aGLKGVG)
+ - 👉 [James. Bond James](http://9gag.com/gag/a9zjmrm)<!-- MEMES:END -->
 
 ---
 
