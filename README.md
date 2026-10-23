@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is tackling three Googlebook headaches before they become migraines](https://www.androidauthority.com/googlebook-bluetooth-writing-tools-cast-my-apps-fixes-3727078/)
- - [It’s official: Samsung’s next foldable phone is coming soon](https://www.androidauthority.com/samsung-next-foldable-phone-october-29-3727071/)
- - [SK Telecom unit SK Hyper is in talks with tech firms and investors to finance 15GW of data center capacity in South Korea by 2035; the first 5GW will cost $350B &lpar;Bloomberg&rpar;](https://www.techmeme.com/261023/p4#a261023p4)<!-- TECH:END -->
+ - [TV OS frustrations are leading people to vibe-code](https://www.theverge.com/tech/1016116/vibe-coding-tv-os)
+ - [Netflix can’t fire its way out of this downward spiral](https://www.theverge.com/streaming/1017304/netflix-layoffs-bela-bajaria-peter-rice-dan-lin-doug-belgrad)
+ - [Someone put Apple CarPlay on an Amazon Echo Show running Android, and it actually works](https://www.androidauthority.com/amazon-echo-show-5-apple-carplay-lineageos-3727158/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
