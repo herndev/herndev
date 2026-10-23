@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Check her basement because she sounds sus AF](http://9gag.com/gag/aGLKGVG)
- - ⏩ [How would you shoot this scene](http://9gag.com/gag/avW2xXZ)
- - 👉 [Check her basement because she sounds sus AF](http://9gag.com/gag/aGLKGVG)<!-- MEMES:END -->
+ - 💣 [Rescued tiger with his beloved ball](https://www.reddit.com/r/funny/comments/1xdptlx/rescued_tiger_with_his_beloved_ball/)
+ - ⏩ [Check her basement because she sounds sus AF](http://9gag.com/gag/aGLKGVG)
+ - 👉 [How would you shoot this scene](http://9gag.com/gag/avW2xXZ)<!-- MEMES:END -->
 
 ---
 
