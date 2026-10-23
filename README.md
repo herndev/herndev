@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A New Bird-Recognizing Feeder Under $100 Launches for Beginner Bird-Watchers](https://www.cnet.com/home/yard-and-outdoors/bird-feeder-ai-recognition-under-100-beginner-birdwatchers/)
- - [Will Meta’s $25 Billion Court Loss Change Its Ways? &lpar;Spoiler: Probably Not&rpar;](https://www.cnet.com/news/privacy/meta-25-billion-court-loss/)
- - [Palmer Luckey Made a Genetically Modified Military Dog Startup](https://www.wired.com/story/cool-cool-cool-palmer-luckey-made-a-genetically-modified-military-dog-startup/)<!-- TECH:END -->
+ - [Spotify confirms it is rolling out a new family plan verification method requiring members to scan QR codes on plan managers&#39; phones within seven days of notice &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/261022/p60#a261022p60)
+ - [US Treasury proposes rules tightening restrictions on US investments in areas including AI and supercomputing in China, Russia, and other &quot;countries of concern&quot; &lpar;Associated Press&rpar;](https://www.techmeme.com/261022/p59#a261022p59)
+ - [Appeals court upholds Apple TV&#39;s &#39;Servant&#39; plagiarism lawsuit win](https://appleinsider.com/articles/26/10/23/appeals-court-upholds-apple-tvs-servant-plagiarism-lawsuit-win?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
