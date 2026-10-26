@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [India&#39;s chip design startups near production with government support, but low volumes, high fab costs, and supply chain bottlenecks hinder commercialization &lpar;Ananta Agarwal/Nikkei Asia&rpar;](https://www.techmeme.com/261026/p3#a261026p3)
- - [Samsung’s first clip-on Galaxy Buds launch tomorrow, and there’s good news for global buyers](https://www.androidauthority.com/samsung-galaxy-buds-on-launch-3727745/)
- - [Amazon Bee Frontier review: a simple $75 AI wearable that excels at always-on listening, summarizing conversations, and suggesting follow-up actions &lpar;M.G. Siegler/Spyglass&rpar;](https://www.techmeme.com/261026/p2#a261026p2)<!-- TECH:END -->
+ - [As iPhone Duo Cracked Screen Reports Surface, a New Teardown Shows a Possible Culprit](https://www.cnet.com/tech/mobile/iphone-duo-ifixit-teardown-cracked-screens-culprit/)
+ - [Is Steam down for you? You’re not alone](https://www.androidauthority.com/steam-outage-oct-2026-3728033/)
+ - [iPad mini is just the start of an exciting week, says Apple](https://appleinsider.com/articles/26/10/26/ipad-mini-is-just-the-start-of-an-exciting-week-says-apple?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
