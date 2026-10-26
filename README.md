@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Utopai, an AI film studio that says it has more than 20 projects in the works, raised $60M at a $1B valuation &lpar;Rocket Drew/The Information&rpar;](https://www.techmeme.com/261023/p24#a261023p24)
- - [Apple’s iPod Turns 25: The Song Catalog That Rode Wit You](https://www.cnet.com/tech/mobile/apple-ipod-25th-anniversary/)
- - [Memo: Helen Chiang, Xbox&#39;s first COO, is leaving Microsoft on October 23, just months after the role was created; she spent 21 years at the company &lpar;Tom Warren/The Verge&rpar;](https://www.techmeme.com/261023/p23#a261023p23)<!-- TECH:END -->
+ - [Sources detail how Ramp investors Joe Lonsdale and Keith Rabois pushed US lawmakers to probe rival Airwallex&#39;s China ties after Airwallex scrapped a Ramp deal &lpar;Michael Roddan/The Information&rpar;](https://www.techmeme.com/261025/p14#a261025p14)
+ - [After day-one screen failures, the iPhone Duo is facing more durability questions](https://www.androidauthority.com/iphone-duo-durability-3727717/)
+ - [iPhone Duo teardown: 5/10 repairability, a foldable record, but some screens crack along the fold, possibly because a hinge support bar fails to drop far enough &lpar;Elizabeth Chamberlain/iFixit News&rpar;](https://www.techmeme.com/261025/p13#a261025p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
