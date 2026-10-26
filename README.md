@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Check her basement because she sounds sus AF](http://9gag.com/gag/aGLKGVG)
- - ⏩ [How would you shoot this scene](http://9gag.com/gag/avW2xXZ)
- - 👉 [Check her basement because she sounds sus AF](http://9gag.com/gag/aGLKGVG)<!-- MEMES:END -->
+ - 💣 [Hell of a song](http://9gag.com/gag/aMdeq2R)
+ - ⏩ [No thx](http://9gag.com/gag/aVgjV2P)
+ - 👉 [Humble beginnings before the empire](http://9gag.com/gag/advy2qd)<!-- MEMES:END -->
 
 ---
 
