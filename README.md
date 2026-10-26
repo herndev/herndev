@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources detail how Ramp investors Joe Lonsdale and Keith Rabois pushed US lawmakers to probe rival Airwallex&#39;s China ties after Airwallex scrapped a Ramp deal &lpar;Michael Roddan/The Information&rpar;](https://www.techmeme.com/261025/p14#a261025p14)
- - [After day-one screen failures, the iPhone Duo is facing more durability questions](https://www.androidauthority.com/iphone-duo-durability-3727717/)
- - [iPhone Duo teardown: 5/10 repairability, a foldable record, but some screens crack along the fold, possibly because a hinge support bar fails to drop far enough &lpar;Elizabeth Chamberlain/iFixit News&rpar;](https://www.techmeme.com/261025/p13#a261025p13)<!-- TECH:END -->
+ - [India&#39;s chip design startups near production with government support, but low volumes, high fab costs, and supply chain bottlenecks hinder commercialization &lpar;Ananta Agarwal/Nikkei Asia&rpar;](https://www.techmeme.com/261026/p3#a261026p3)
+ - [Samsung’s first clip-on Galaxy Buds launch tomorrow, and there’s good news for global buyers](https://www.androidauthority.com/samsung-galaxy-buds-on-launch-3727745/)
+ - [Amazon Bee Frontier review: a simple $75 AI wearable that excels at always-on listening, summarizing conversations, and suggesting follow-up actions &lpar;M.G. Siegler/Spyglass&rpar;](https://www.techmeme.com/261026/p2#a261026p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
