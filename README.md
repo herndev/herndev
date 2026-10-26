@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As iPhone Duo Cracked Screen Reports Surface, a New Teardown Shows a Possible Culprit](https://www.cnet.com/tech/mobile/iphone-duo-ifixit-teardown-cracked-screens-culprit/)
- - [Is Steam down for you? You’re not alone](https://www.androidauthority.com/steam-outage-oct-2026-3728033/)
- - [iPad mini is just the start of an exciting week, says Apple](https://appleinsider.com/articles/26/10/26/ipad-mini-is-just-the-start-of-an-exciting-week-says-apple?utm_source=rss)<!-- TECH:END -->
+ - [My iPhone Duo In-Store Experience Almost Has Me Convinced I Need One](https://www.cnet.com/tech/mobile/iphone-duo-hands-on-at-apple-store-buy-it/)
+ - [Nanoleaf CEO Gimmy Chu on recent merger, AI control, &amp; more on Smart Home Insider](https://appleinsider.com/articles/26/10/26/nanoleaf-ceo-gimmy-chu-on-recent-merger-ai-control-more-on-smart-home-insider?utm_source=rss)
+ - [This tiny 45W 10,000mAh power bank just got a rare drop below $32](https://www.androidauthority.com/lisen-10-000mah-travel-charger-down-3728239/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
