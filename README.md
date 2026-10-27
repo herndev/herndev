@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;F1&#39; star Damson Idris returns to Apple TV for Utah-set thriller](https://appleinsider.com/articles/26/10/26/f1-star-damson-idris-returns-to-apple-tv-for-utah-set-thriller?utm_source=rss)
- - [OpenAI announces three big science discoveries and a new way to work with academics](https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics)
- - [Fitbit Edge review: notable upgrade over the Charge 6 for GPS and heart rate, Google Health app is an improvement, but lacks software polish and NFC payments &lpar;Ray Maker/DC Rainmaker&rpar;](https://www.techmeme.com/261026/p49#a261026p49)<!-- TECH:END -->
+ - [Microsoft patches a severe flaw in its Android Authenticator app that could let untrusted apps impersonate Microsoft apps and obtain delegated account tokens &lpar;Abinaya/Cyber Security News&rpar;](https://www.techmeme.com/261027/p2#a261027p2)
+ - [T-Mobile’s new T-Mix plans are getting roasted by customers](https://www.androidauthority.com/t-mobile-t-mix-plan-customer-reactions-3728317/)
+ - [Experts: since June, $100M+ in US data center freight has been stolen; in two successful heists, robbers struck escorts protecting trucks hauling $10M+ in goods &lpar;Lisa Cavazuti/NBC News&rpar;](https://www.techmeme.com/261027/p1#a261027p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
