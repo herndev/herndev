@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [My Android phone lights things on fire, and I can’t get enough of it](https://www.androidauthority.com/android-phone-lights-things-on-fire-oukitel-wp63-hands-on-3727363/)
- - [AI Agents Are Media’s New Favorite Audience](https://www.wired.com/story/ai-agents-are-medias-new-favorite-audience/)
- - [Sterling Anderson doesn’t think humanoid robots should be building cars](https://www.theverge.com/transportation/1018625/gm-sterling-anderson-interview-robots-ai-autonomous-data-privacy)<!-- TECH:END -->
+ - [Save $20 as the CMF Buds 2 fall 41% back to their record low price](https://www.androidauthority.com/deal-cmf-buds-2-3728574/)
+ - [Meta’s $25 billion legal loss just put blood in the water](https://www.theverge.com/policy/1019604/new-mexico-meta-cambridge-analytica-kids-safety-settlement)
+ - [With the new iMac and MacBook Pro, Apple is targeting stubborn Intel holdouts](https://appleinsider.com/articles/26/10/27/with-the-new-imac-and-macbook-pro-apple-is-targeting-stubborn-intel-holdouts?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
