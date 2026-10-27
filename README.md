@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Waiting For Bus ..](http://9gag.com/gag/aO2opzy)
+ - 💣 [Gennadiy Gennadyevich Golovkin vs The Iiver King](http://9gag.com/gag/aGLKNVz)
  - ⏩ [Meet The Korean Cosplayer Who Went Viral For Kissing Fan At Event](http://9gag.com/gag/aGLKor6)
  - 👉 [This is wild](http://9gag.com/gag/agQrKw1)<!-- MEMES:END -->
 
