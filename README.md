@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [My iPhone Duo In-Store Experience Almost Has Me Convinced I Need One](https://www.cnet.com/tech/mobile/iphone-duo-hands-on-at-apple-store-buy-it/)
- - [Nanoleaf CEO Gimmy Chu on recent merger, AI control, &amp; more on Smart Home Insider](https://appleinsider.com/articles/26/10/26/nanoleaf-ceo-gimmy-chu-on-recent-merger-ai-control-more-on-smart-home-insider?utm_source=rss)
- - [This tiny 45W 10,000mAh power bank just got a rare drop below $32](https://www.androidauthority.com/lisen-10-000mah-travel-charger-down-3728239/)<!-- TECH:END -->
+ - [&#39;F1&#39; star Damson Idris returns to Apple TV for Utah-set thriller](https://appleinsider.com/articles/26/10/26/f1-star-damson-idris-returns-to-apple-tv-for-utah-set-thriller?utm_source=rss)
+ - [OpenAI announces three big science discoveries and a new way to work with academics](https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics)
+ - [Fitbit Edge review: notable upgrade over the Charge 6 for GPS and heart rate, Google Health app is an improvement, but lacks software polish and NFC payments &lpar;Ray Maker/DC Rainmaker&rpar;](https://www.techmeme.com/261026/p49#a261026p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
