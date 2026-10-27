@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save $20 as the CMF Buds 2 fall 41% back to their record low price](https://www.androidauthority.com/deal-cmf-buds-2-3728574/)
- - [Meta’s $25 billion legal loss just put blood in the water](https://www.theverge.com/policy/1019604/new-mexico-meta-cambridge-analytica-kids-safety-settlement)
- - [With the new iMac and MacBook Pro, Apple is targeting stubborn Intel holdouts](https://appleinsider.com/articles/26/10/27/with-the-new-imac-and-macbook-pro-apple-is-targeting-stubborn-intel-holdouts?utm_source=rss)<!-- TECH:END -->
+ - [ChatGPT can now manage your iCloud Calendar and iCloud emails](https://appleinsider.com/articles/26/10/27/chatgpt-can-now-manage-your-icloud-calendar-and-icloud-emails?utm_source=rss)
+ - [Samsung wants you actively approving or blocking your child’s apps](https://www.androidauthority.com/samsung-to-gray-out-unapproved-apps-3728698/)
+ - [Researchers are getting tired of OpenAI gatekeeping its breakthroughs](https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
