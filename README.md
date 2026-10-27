@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Finally some good news](http://9gag.com/gag/aEMdEvn)
- - ⏩ [Yes its happening everywhere around the world , yes its the same issue and crack](http://9gag.com/gag/axWEY0p)
+ - 💣 [Waiting For Bus ..](http://9gag.com/gag/aO2opzy)
+ - ⏩ [Meet The Korean Cosplayer Who Went Viral For Kissing Fan At Event](http://9gag.com/gag/aGLKor6)
  - 👉 [This is wild](http://9gag.com/gag/agQrKw1)<!-- MEMES:END -->
 
 ---
