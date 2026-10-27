@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft patches a severe flaw in its Android Authenticator app that could let untrusted apps impersonate Microsoft apps and obtain delegated account tokens &lpar;Abinaya/Cyber Security News&rpar;](https://www.techmeme.com/261027/p2#a261027p2)
- - [T-Mobile’s new T-Mix plans are getting roasted by customers](https://www.androidauthority.com/t-mobile-t-mix-plan-customer-reactions-3728317/)
- - [Experts: since June, $100M+ in US data center freight has been stolen; in two successful heists, robbers struck escorts protecting trucks hauling $10M+ in goods &lpar;Lisa Cavazuti/NBC News&rpar;](https://www.techmeme.com/261027/p1#a261027p1)<!-- TECH:END -->
+ - [My Android phone lights things on fire, and I can’t get enough of it](https://www.androidauthority.com/android-phone-lights-things-on-fire-oukitel-wp63-hands-on-3727363/)
+ - [AI Agents Are Media’s New Favorite Audience](https://www.wired.com/story/ai-agents-are-medias-new-favorite-audience/)
+ - [Sterling Anderson doesn’t think humanoid robots should be building cars](https://www.theverge.com/transportation/1018625/gm-sterling-anderson-interview-robots-ai-autonomous-data-privacy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
