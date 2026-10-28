@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Meet The Korean Cosplayer Who Went Viral For Kissing Fan At Event](http://9gag.com/gag/aGLKor6)
- - ⏩ [VHS footage](http://9gag.com/gag/ap1KdR8)
- - 👉 [Gennadiy Gennadyevich Golovkin vs The Iiver King](http://9gag.com/gag/aGLKNVz)<!-- MEMES:END -->
+ - 💣 [Gennadiy Gennadyevich Golovkin vs The Iiver King](http://9gag.com/gag/aGLKNVz)
+ - ⏩ [India\u2019s Aquarium mermaid\u2026Uh.. I am speechless](http://9gag.com/gag/amWqbxv)
+ - 👉 [Think different](http://9gag.com/gag/avW2Xob)<!-- MEMES:END -->
 
 ---
 
