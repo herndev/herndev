@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Gennadiy Gennadyevich Golovkin vs The Iiver King](http://9gag.com/gag/aGLKNVz)
- - ⏩ [India\u2019s Aquarium mermaid\u2026Uh.. I am speechless](http://9gag.com/gag/amWqbxv)
- - 👉 [Think different](http://9gag.com/gag/avW2Xob)<!-- MEMES:END -->
+ - ⏩ [Don&#39;t look back. Or take responsibility](http://9gag.com/gag/aRL6Dqq)
+ - 👉 [Its near Halloween guys](http://9gag.com/gag/a4npmKy)<!-- MEMES:END -->
 
 ---
 
