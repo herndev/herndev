@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: OpenAI, a major Nvidia customer, plans to buy Google&#39;s TPUs; a job listing shows it seeks an engineer to &quot;lead the optimization&quot; of its models on TPUs &lpar;Ryan Barwick/The Information&rpar;](https://www.techmeme.com/261027/p39#a261027p39)
- - [Houston, We Have a Workout: Watch This Peloton Ride With Astronaut Jessica Meir](https://www.cnet.com/science/space/astronaut-jessica-meir-peloton-ride-iss-robin-arzon/)
- - [An Anthropic hiring manager says he stopped giving coding interviews because Claude is better at them and tells junior engineers that &quot;hunger beats tenure&quot; &lpar;Felix Rieseberg&rpar;](https://www.techmeme.com/261027/p38#a261027p38)<!-- TECH:END -->
+ - [SK Hynix expects memory shortages to persist through at least 2030; it has long-term deals with 14 major buyers for 50%+ of its output in 2027 and 2028 &lpar;Simon Sharwood/The Register&rpar;](https://www.techmeme.com/261028/p8#a261028p8)
+ - [Should AI Decide Your Court Case? This Judge Says Yes](https://www.wired.com/story/geoffrey-vos-uk-judge-ai-legal-profession-challenges/)
+ - [Sources: TPG is in talks to acquire UK-based Ark Data Centres, which operates 27 data centers in the UK and Belgium, from Elliott Management at a ~$5B valuation &lpar;Financial Times&rpar;](https://www.techmeme.com/261028/p7#a261028p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
