@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gennadiy Gennadyevich Golovkin vs The Iiver King](http://9gag.com/gag/aGLKNVz)
- - ⏩ [Meet The Korean Cosplayer Who Went Viral For Kissing Fan At Event](http://9gag.com/gag/aGLKor6)
- - 👉 [This is wild](http://9gag.com/gag/agQrKw1)<!-- MEMES:END -->
+ - 💣 [Meet The Korean Cosplayer Who Went Viral For Kissing Fan At Event](http://9gag.com/gag/aGLKor6)
+ - ⏩ [Gennadiy Gennadyevich Golovkin vs The Iiver King](http://9gag.com/gag/aGLKNVz)
+ - 👉 [VHS footage](http://9gag.com/gag/ap1KdR8)<!-- MEMES:END -->
 
 ---
 
