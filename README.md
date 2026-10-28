@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [John Ternus teases MacBook Pro announcement](https://appleinsider.com/articles/26/10/28/john-ternus-teases-macbook-pro-announcement?utm_source=rss)
- - [Amazon Kindle Paperwhite and Kindle Colorsoft review: premium feel, lightweight, nice colors, and snappy performance, but expensive after price increases &lpar;Nena Farrell/Wired&rpar;](https://www.techmeme.com/261028/p28#a261028p28)
- - [This is how badly X wants you to pay to promote your posts](https://www.theverge.com/tech/1020488/x-twitter-animated-hand-point-promote-posts)<!-- TECH:END -->
+ - [This Xbox emulator makes Halo, Forza, and more actually playable on Android handhelds](https://www.androidauthority.com/android-xbox-emulator-hakux-update-3729329/)
+ - [The New M6 MacBook Pro Has a Serious Price Problem](https://www.wired.com/story/m6-macbook-pro-price-problem/)
+ - [PROLED 16-inch MacBook Pro vs 16-inch MacBook Pro: Compared](https://appleinsider.com/inside/16-inch-macbook-pro/vs/proled-16-inch-macbook-pro-vs-16-inch-macbook-pro-compared?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
