@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SK Hynix expects memory shortages to persist through at least 2030; it has long-term deals with 14 major buyers for 50%+ of its output in 2027 and 2028 &lpar;Simon Sharwood/The Register&rpar;](https://www.techmeme.com/261028/p8#a261028p8)
- - [Should AI Decide Your Court Case? This Judge Says Yes](https://www.wired.com/story/geoffrey-vos-uk-judge-ai-legal-profession-challenges/)
- - [Sources: TPG is in talks to acquire UK-based Ark Data Centres, which operates 27 data centers in the UK and Belgium, from Elliott Management at a ~$5B valuation &lpar;Financial Times&rpar;](https://www.techmeme.com/261028/p7#a261028p7)<!-- TECH:END -->
+ - [John Ternus teases MacBook Pro announcement](https://appleinsider.com/articles/26/10/28/john-ternus-teases-macbook-pro-announcement?utm_source=rss)
+ - [Amazon Kindle Paperwhite and Kindle Colorsoft review: premium feel, lightweight, nice colors, and snappy performance, but expensive after price increases &lpar;Nena Farrell/Wired&rpar;](https://www.techmeme.com/261028/p28#a261028p28)
+ - [This is how badly X wants you to pay to promote your posts](https://www.theverge.com/tech/1020488/x-twitter-animated-hand-point-promote-posts)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
