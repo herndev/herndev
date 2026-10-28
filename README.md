@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Xbox emulator makes Halo, Forza, and more actually playable on Android handhelds](https://www.androidauthority.com/android-xbox-emulator-hakux-update-3729329/)
- - [The New M6 MacBook Pro Has a Serious Price Problem](https://www.wired.com/story/m6-macbook-pro-price-problem/)
- - [PROLED 16-inch MacBook Pro vs 16-inch MacBook Pro: Compared](https://appleinsider.com/inside/16-inch-macbook-pro/vs/proled-16-inch-macbook-pro-vs-16-inch-macbook-pro-compared?utm_source=rss)<!-- TECH:END -->
+ - [Adam Mosseri says negativity around AI is ‘going to get worse’](https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity)
+ - [A Touchscreen MacBook Pro Just Invites More Filthy Fingerprints](https://www.cnet.com/tech/computing/touchscreen-macbook-pro-invites-smudges-fingerprints/)
+ - [Sources: the US DOJ has inquired about the impact of Nvidia&#39;s Hugging Face deal on AI competition, as antitrust enforcers continue to probe Nvidia&#39;s conduct &lpar;Reuters&rpar;](https://www.techmeme.com/261028/p57#a261028p57)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
