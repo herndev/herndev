@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChatGPT can now manage your iCloud Calendar and iCloud emails](https://appleinsider.com/articles/26/10/27/chatgpt-can-now-manage-your-icloud-calendar-and-icloud-emails?utm_source=rss)
- - [Samsung wants you actively approving or blocking your child’s apps](https://www.androidauthority.com/samsung-to-gray-out-unapproved-apps-3728698/)
- - [Researchers are getting tired of OpenAI gatekeeping its breakthroughs](https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics)<!-- TECH:END -->
+ - [Source: OpenAI, a major Nvidia customer, plans to buy Google&#39;s TPUs; a job listing shows it seeks an engineer to &quot;lead the optimization&quot; of its models on TPUs &lpar;Ryan Barwick/The Information&rpar;](https://www.techmeme.com/261027/p39#a261027p39)
+ - [Houston, We Have a Workout: Watch This Peloton Ride With Astronaut Jessica Meir](https://www.cnet.com/science/space/astronaut-jessica-meir-peloton-ride-iss-robin-arzon/)
+ - [An Anthropic hiring manager says he stopped giving coding interviews because Claude is better at them and tells junior engineers that &quot;hunger beats tenure&quot; &lpar;Felix Rieseberg&rpar;](https://www.techmeme.com/261027/p38#a261027p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
