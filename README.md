@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gennadiy Gennadyevich Golovkin vs The Iiver King](http://9gag.com/gag/aGLKNVz)
- - ⏩ [Don&#39;t look back. Or take responsibility](http://9gag.com/gag/aRL6Dqq)
- - 👉 [Its near Halloween guys](http://9gag.com/gag/a4npmKy)<!-- MEMES:END -->
+ - 💣 [Mom took her 12 yr old son&#39;s phone as punishment for cutting class, no beating since childhood, only verbal words. A child being petted too much, give everything the child wants will always lead to spoiled kid.](http://9gag.com/gag/arW19Q0)
+ - ⏩ [Too Dangerous](http://9gag.com/gag/aGLK60z)
+ - 👉 [Don&#39;t look back. Or take responsibility](http://9gag.com/gag/aRL6Dqq)<!-- MEMES:END -->
 
 ---
 
