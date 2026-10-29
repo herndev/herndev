@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anduril now says its BlueChip laptop will meet Buy American standards at launch](https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american)
- - [Google is rolling out Gemini 4 Carbon to selected cybersecurity defenders through Fairwind at $2/1M input and $10/1M output tokens, rising to $4 and $20 later &lpar;Carl Franzen/VentureBeat&rpar;](https://www.techmeme.com/261028/p63#a261028p63)
- - [The personal data of 41,000+ DHS employees and contractors, including CBP and ICE agents, leaks online after hackers claim they breached DHS&#39; Okta login system &lpar;Wired&rpar;](https://www.techmeme.com/261028/p62#a261028p62)<!-- TECH:END -->
+ - [Sierra Club expects US power emissions to hit 2.1B metric tons by 2030, up 42% on 2025 and erasing 15 years of cuts, with off-grid data centers matching Mexico &lpar;Bloomberg&rpar;](https://www.techmeme.com/261029/p17#a261029p17)
+ - [I Did Push-Ups With Snap’s Chunky AR Glasses](https://www.wired.com/story/i-did-push-ups-with-snaps-chunky-ar-glasses/)
+ - [Vladimir Putin praises Elon Musk as a &quot;real genius&quot; and says Russia is in &quot;close contact&quot; with Musk and the US to coordinate Rassvet and Starlink satellites &lpar;Kali Hays/BBC&rpar;](https://www.techmeme.com/261029/p16#a261029p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
