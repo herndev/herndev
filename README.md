@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sierra Club expects US power emissions to hit 2.1B metric tons by 2030, up 42% on 2025 and erasing 15 years of cuts, with off-grid data centers matching Mexico &lpar;Bloomberg&rpar;](https://www.techmeme.com/261029/p17#a261029p17)
- - [I Did Push-Ups With Snap’s Chunky AR Glasses](https://www.wired.com/story/i-did-push-ups-with-snaps-chunky-ar-glasses/)
- - [Vladimir Putin praises Elon Musk as a &quot;real genius&quot; and says Russia is in &quot;close contact&quot; with Musk and the US to coordinate Rassvet and Starlink satellites &lpar;Kali Hays/BBC&rpar;](https://www.techmeme.com/261029/p16#a261029p16)<!-- TECH:END -->
+ - [Samsung Odyssey G7 drops to $499.99, saving you $400](https://www.androidauthority.com/samsung-odyssey-g7-deal-3729708/)
+ - [SuperMe, which generates AI-powered chats with simulated profiles of prominent industry experts to let users ask questions, raised $20M &lpar;Ivan Mehta/TechCrunch&rpar;](https://www.techmeme.com/261029/p41#a261029p41)
+ - [DoorDash to buy Instacart for $17 billion, slashing user options](https://appleinsider.com/articles/26/10/29/doordash-to-buy-instacart-for-17-billion-slashing-user-options?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
