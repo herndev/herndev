@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Unstatesmanlike](http://9gag.com/gag/amWqOE4)
+ - 💣 [Opera singers use this dental device for warm-ups](http://9gag.com/gag/agQrb5g)
  - ⏩ [Too Dangerous](http://9gag.com/gag/aGLK60z)
- - 👉 [Doll](http://9gag.com/gag/axWEeYK)<!-- MEMES:END -->
+ - 👉 [Is this one of the reasons, why women like horses?](http://9gag.com/gag/anOe0vn)<!-- MEMES:END -->
 
 ---
 
