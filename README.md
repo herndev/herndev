@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How many times are you pressing?](http://9gag.com/gag/aMdeDoX)
- - ⏩ [Don&#39;t look back. Or take responsibility](http://9gag.com/gag/aRL6Dqq)
- - 👉 [You get one for FREE. Which one are you taking?](http://9gag.com/gag/aAQBqmd)<!-- MEMES:END -->
+ - 💣 [Too Dangerous](http://9gag.com/gag/aGLK60z)
+ - ⏩ [Cargo Cultish](http://9gag.com/gag/a0ovDQq)
+ - 👉 [Fatigue Level: RISING](http://9gag.com/gag/aVgj4eP)<!-- MEMES:END -->
 
 ---
 
