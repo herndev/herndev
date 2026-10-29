@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adam Mosseri says negativity around AI is ‘going to get worse’](https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity)
- - [A Touchscreen MacBook Pro Just Invites More Filthy Fingerprints](https://www.cnet.com/tech/computing/touchscreen-macbook-pro-invites-smudges-fingerprints/)
- - [Sources: the US DOJ has inquired about the impact of Nvidia&#39;s Hugging Face deal on AI competition, as antitrust enforcers continue to probe Nvidia&#39;s conduct &lpar;Reuters&rpar;](https://www.techmeme.com/261028/p57#a261028p57)<!-- TECH:END -->
+ - [Anduril now says its BlueChip laptop will meet Buy American standards at launch](https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american)
+ - [Google is rolling out Gemini 4 Carbon to selected cybersecurity defenders through Fairwind at $2/1M input and $10/1M output tokens, rising to $4 and $20 later &lpar;Carl Franzen/VentureBeat&rpar;](https://www.techmeme.com/261028/p63#a261028p63)
+ - [The personal data of 41,000+ DHS employees and contractors, including CBP and ICE agents, leaks online after hackers claim they breached DHS&#39; Okta login system &lpar;Wired&rpar;](https://www.techmeme.com/261028/p62#a261028p62)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
