@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Odyssey G7 drops to $499.99, saving you $400](https://www.androidauthority.com/samsung-odyssey-g7-deal-3729708/)
- - [SuperMe, which generates AI-powered chats with simulated profiles of prominent industry experts to let users ask questions, raised $20M &lpar;Ivan Mehta/TechCrunch&rpar;](https://www.techmeme.com/261029/p41#a261029p41)
- - [DoorDash to buy Instacart for $17 billion, slashing user options](https://appleinsider.com/articles/26/10/29/doordash-to-buy-instacart-for-17-billion-slashing-user-options?utm_source=rss)<!-- TECH:END -->
+ - [Coinbase reports Q3 revenue down 35% YoY to $1.22B, in line with est., and net income up 66% to $719M, its first profit in a year, on unrealized crypto gains &lpar;Olga Kharif/Bloomberg&rpar;](https://www.techmeme.com/261029/p57#a261029p57)
+ - [Patrick Stewart, Who Gracefully Steered Star Trek Into Its Next Generation, Dies at 86](https://www.cnet.com/culture/entertainment/patrick-stewart-death-star-trek-next-generation/)
+ - [Google is cleaning up Home’s messiest bugs, with fixes for cameras, Matter devices, and more](https://www.androidauthority.com/google-home-fixes-2-3729774/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
