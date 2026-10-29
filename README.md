@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Too Dangerous](http://9gag.com/gag/aGLK60z)
- - ⏩ [Cargo Cultish](http://9gag.com/gag/a0ovDQq)
- - 👉 [Fatigue Level: RISING](http://9gag.com/gag/aVgj4eP)<!-- MEMES:END -->
+ - 💣 [Unstatesmanlike](http://9gag.com/gag/amWqOE4)
+ - ⏩ [Too Dangerous](http://9gag.com/gag/aGLK60z)
+ - 👉 [Doll](http://9gag.com/gag/axWEeYK)<!-- MEMES:END -->
 
 ---
 
