@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Leaf Blower We’ve Tested Is Ready for Halloween](https://www.wired.com/story/ego-blower-sale-tp-cannon-october-2026/)
- - [I’ve used Google Home for 10 years, and it’s never felt so frustrating](https://www.androidauthority.com/google-home-user-in-2026-frustrating-hardware-3729289/)
- - [The Iran War’s Impact on Oil Is Hitting Key Senate Races Hard](https://www.wired.com/story/iran-war-impact-on-oil-hits-key-senate-races/)<!-- TECH:END -->
+ - [London&#39;s High Court dismisses Meta, TikTok, and X&#39;s challenge to Ofcom&#39;s Online Safety Act information requests, rejecting arguments they were disproportionate &lpar;Sam Tobin/Reuters&rpar;](https://www.techmeme.com/261030/p15#a261030p15)
+ - [Save $350 on the Pixel 11 Pro XL gets in record-low deal](https://www.androidauthority.com/pixel-11-pro-xl-record-low-deal-3730216/)
+ - [People Are Creating ‘Survival Guides’ to Cope With the ‘AO3 Apocalypse’](https://www.wired.com/story/people-are-creating-survival-guides-to-cope-with-the-ao3-apocalypse/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
