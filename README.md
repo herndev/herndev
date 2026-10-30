@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Opera singers use this dental device for warm-ups](http://9gag.com/gag/agQrb5g)
- - ⏩ [Too Dangerous](http://9gag.com/gag/aGLK60z)
- - 👉 [Is this one of the reasons, why women like horses?](http://9gag.com/gag/anOe0vn)<!-- MEMES:END -->
+ - 💣 [Too Dangerous](http://9gag.com/gag/aGLK60z)
+ - ⏩ [\u00cbwww](http://9gag.com/gag/aVgj8Ed)
+ - 👉 [Opera singers use this dental device for warm-ups](http://9gag.com/gag/agQrb5g)<!-- MEMES:END -->
 
 ---
 
