@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Coinbase reports Q3 revenue down 35% YoY to $1.22B, in line with est., and net income up 66% to $719M, its first profit in a year, on unrealized crypto gains &lpar;Olga Kharif/Bloomberg&rpar;](https://www.techmeme.com/261029/p57#a261029p57)
- - [Patrick Stewart, Who Gracefully Steered Star Trek Into Its Next Generation, Dies at 86](https://www.cnet.com/culture/entertainment/patrick-stewart-death-star-trek-next-generation/)
- - [Google is cleaning up Home’s messiest bugs, with fixes for cameras, Matter devices, and more](https://www.androidauthority.com/google-home-fixes-2-3729774/)<!-- TECH:END -->
+ - [NYSE owner ICE plans US-regulated Hyperliquid-based perpetual markets with Trade.xyz, a market operator on the crypto platform, and takes a stake in Trade.xyz &lpar;Katherine Doherty/Bloomberg&rpar;](https://www.techmeme.com/261029/p68#a261029p68)
+ - [Binance &quot;temporarily suspended&quot; all deposits and withdrawals as it investigates security issues and works with law enforcement; Binance.US says it&#39;s unaffected &lpar;George Steer/Financial Times&rpar;](https://www.techmeme.com/261029/p67#a261029p67)
+ - [Twilio reports Q3 revenue up 20% YoY to $1.56B, vs. $1.52B est., net income up 333% to $161M, and expects slower Q4 revenue growth; TWLO drops 15%+ after hours &lpar;Elias Schisgall/MarketWatch&rpar;](https://www.techmeme.com/261029/p66#a261029p66)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
