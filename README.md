@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Too Dangerous](http://9gag.com/gag/aGLK60z)
- - ⏩ [\u00cbwww](http://9gag.com/gag/aVgj8Ed)
+ - 💣 [Waking up next morning aside an alien](http://9gag.com/gag/aqR4VW7)
+ - ⏩ [Superman could change the colour of her eyes by just looking at her](http://9gag.com/gag/awgNDZR)
  - 👉 [Opera singers use this dental device for warm-ups](http://9gag.com/gag/agQrb5g)<!-- MEMES:END -->
 
 ---
