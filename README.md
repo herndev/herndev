@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [London&#39;s High Court dismisses Meta, TikTok, and X&#39;s challenge to Ofcom&#39;s Online Safety Act information requests, rejecting arguments they were disproportionate &lpar;Sam Tobin/Reuters&rpar;](https://www.techmeme.com/261030/p15#a261030p15)
- - [Save $350 on the Pixel 11 Pro XL gets in record-low deal](https://www.androidauthority.com/pixel-11-pro-xl-record-low-deal-3730216/)
- - [People Are Creating ‘Survival Guides’ to Cope With the ‘AO3 Apocalypse’](https://www.wired.com/story/people-are-creating-survival-guides-to-cope-with-the-ao3-apocalypse/)<!-- TECH:END -->
+ - [OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI across multiple crawlers &lpar;Emma Roth/The Verge&rpar;](https://www.techmeme.com/261030/p26#a261030p26)
+ - [OpenAI tightens limits on the weapons-related information that ChatGPT provides teens, even when a question appears harmless, as part of new safeguards &lpar;Reuters&rpar;](https://www.techmeme.com/261030/p25#a261030p25)
+ - [A Supply Chain Attack Put Malicious Anthropic Claude Extensions on Thousands of Devices](https://www.wired.com/story/trojan-malware-targets-thousands-of-anthropic-claude-developer-systems/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
