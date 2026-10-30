@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NYSE owner ICE plans US-regulated Hyperliquid-based perpetual markets with Trade.xyz, a market operator on the crypto platform, and takes a stake in Trade.xyz &lpar;Katherine Doherty/Bloomberg&rpar;](https://www.techmeme.com/261029/p68#a261029p68)
- - [Binance &quot;temporarily suspended&quot; all deposits and withdrawals as it investigates security issues and works with law enforcement; Binance.US says it&#39;s unaffected &lpar;George Steer/Financial Times&rpar;](https://www.techmeme.com/261029/p67#a261029p67)
- - [Twilio reports Q3 revenue up 20% YoY to $1.56B, vs. $1.52B est., net income up 333% to $161M, and expects slower Q4 revenue growth; TWLO drops 15%+ after hours &lpar;Elias Schisgall/MarketWatch&rpar;](https://www.techmeme.com/261029/p66#a261029p66)<!-- TECH:END -->
+ - [The Best Leaf Blower We’ve Tested Is Ready for Halloween](https://www.wired.com/story/ego-blower-sale-tp-cannon-october-2026/)
+ - [I’ve used Google Home for 10 years, and it’s never felt so frustrating](https://www.androidauthority.com/google-home-user-in-2026-frustrating-hardware-3729289/)
+ - [The Iran War’s Impact on Oil Is Hitting Key Senate Races Hard](https://www.wired.com/story/iran-war-impact-on-oil-hits-key-senate-races/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
