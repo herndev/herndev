@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI across multiple crawlers &lpar;Emma Roth/The Verge&rpar;](https://www.techmeme.com/261030/p26#a261030p26)
- - [OpenAI tightens limits on the weapons-related information that ChatGPT provides teens, even when a question appears harmless, as part of new safeguards &lpar;Reuters&rpar;](https://www.techmeme.com/261030/p25#a261030p25)
- - [A Supply Chain Attack Put Malicious Anthropic Claude Extensions on Thousands of Devices](https://www.wired.com/story/trojan-malware-targets-thousands-of-anthropic-claude-developer-systems/)<!-- TECH:END -->
+ - [Sources: OpenAI now seeks ~$20B at a $1.25T valuation for its latest round, from $30B at a $1.4T valuation, as some investors cut commitments amid an AI selloff &lpar;Financial Times&rpar;](https://www.techmeme.com/261030/p30#a261030p30)
+ - [Sources: Baseten is raising ~$2B in two tranches, one valuing it at $26B and the other at $30B; Baseten was valued at $13B in June after raising $1.5B &lpar;Bloomberg&rpar;](https://www.techmeme.com/261030/p29#a261030p29)
+ - [GM’s $220M Payout Shows How Cars Can Secretly Sell Your Driving Data](https://www.cnet.com/roadshow/auto-tech/gm-privacy-settlement-smart-driver-program/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
