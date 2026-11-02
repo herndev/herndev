@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sunday Reboot: Sam Altman needs to read the RAM room](https://appleinsider.com/articles/26/11/02/sunday-reboot-sam-altman-needs-to-read-the-ram-room?utm_source=rss)
- - [Data analytics provider Hex Technologies, which says it has rebuilt its platform for AI agents, raised a $100M Series D led by Peak XV at a $1.2B valuation &lpar;Tim Keary/Forbes&rpar;](https://www.techmeme.com/261101/p23#a261101p23)
- - [Broccoli AI, which sells AI agents to plumbing, HVAC, and electrical companies, raised a $22M Series A and a $30M Series B; a source says it is valued at $300M &lpar;Nick Lichtenberg/Fortune&rpar;](https://www.techmeme.com/261101/p22#a261101p22)<!-- TECH:END -->
+ - [Samsung hides these useful camera features by default — here’s how to unlock them](https://www.androidauthority.com/camera-assistant-good-lock-module-hands-on-3727811/)
+ - [Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features](https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/)
+ - [Googlebook detachables are coming, and this could be the first one to launch](https://www.androidauthority.com/googlebook-detachables-lenovo-googlebook-duet-m-3730517/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
