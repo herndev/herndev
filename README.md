@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [At Last](http://9gag.com/gag/a78vmyA)
- - ⏩ [WINGARDIUM LEVIOOOOUSA](http://9gag.com/gag/a3Gvg8e)
- - 👉 [Only one GTA can survive. Which one?](http://9gag.com/gag/a3GvDR7)<!-- MEMES:END -->
+ - 💣 [The fall of European Civilization, The future is Euruskan and Eurasian](http://9gag.com/gag/aD7R5ex)
+ - ⏩ [Recipe calls for 2 scoops of gutter water](http://9gag.com/gag/aGLKmx0)
+ - 👉 [Businessman and his secretary](http://9gag.com/gag/aRL6pyQ)<!-- MEMES:END -->
 
 ---
 
