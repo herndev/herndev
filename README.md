@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The fall of European Civilization, The future is Euruskan and Eurasian](http://9gag.com/gag/aD7R5ex)
- - ⏩ [Recipe calls for 2 scoops of gutter water](http://9gag.com/gag/aGLKmx0)
+ - 💣 [Businessman and his secretary](http://9gag.com/gag/aRL6pyQ)
+ - ⏩ [Businessman and his secretary](http://9gag.com/gag/aRL6pyQ)
  - 👉 [Businessman and his secretary](http://9gag.com/gag/aRL6pyQ)<!-- MEMES:END -->
 
 ---
