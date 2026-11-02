@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung hides these useful camera features by default — here’s how to unlock them](https://www.androidauthority.com/camera-assistant-good-lock-module-hands-on-3727811/)
- - [Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features](https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/)
- - [Googlebook detachables are coming, and this could be the first one to launch](https://www.androidauthority.com/googlebook-detachables-lenovo-googlebook-duet-m-3730517/)<!-- TECH:END -->
+ - [ChatGPT Classic app getting killed off, in favor of desktop app](https://appleinsider.com/articles/26/11/02/chatgpt-classic-app-getting-killed-off-in-favor-of-desktop-app?utm_source=rss)
+ - [BMW is taking on Tesla’s FSD with urban driver assist starting in 2027](https://www.theverge.com/transportation/1024616/bmw-level-2-city-driver-assist-2027)
+ - [Researchers say LLMs can be good at natively reading and writing neural network weights; GPT-6 Astra edited Qwen3.5-0.8B&#39;s weights to make it better at math &lpar;Rikiya Takehi&rpar;](https://www.techmeme.com/261102/p36#a261102p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
