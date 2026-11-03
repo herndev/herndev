@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChatGPT Classic app getting killed off, in favor of desktop app](https://appleinsider.com/articles/26/11/02/chatgpt-classic-app-getting-killed-off-in-favor-of-desktop-app?utm_source=rss)
- - [BMW is taking on Tesla’s FSD with urban driver assist starting in 2027](https://www.theverge.com/transportation/1024616/bmw-level-2-city-driver-assist-2027)
- - [Researchers say LLMs can be good at natively reading and writing neural network weights; GPT-6 Astra edited Qwen3.5-0.8B&#39;s weights to make it better at math &lpar;Rikiya Takehi&rpar;](https://www.techmeme.com/261102/p36#a261102p36)<!-- TECH:END -->
+ - [Salesforce announces plans to acquire Cresta, a provider of AI-powered contact center automation software; source: Salesforce agreed to pay $2.7B for Cresta &lpar;The Information&rpar;](https://www.techmeme.com/261102/p48#a261102p48)
+ - [John Ternus says Apple expects memory costs to increase into December and beyond; Apple&#39;s inventory grew to $14.54B in Q4, up 31.1% QoQ and 154.3% YoY &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/261102/p47#a261102p47)
+ - [Apps with dating &amp; location sharing features must be disclosed by January 2027](https://appleinsider.com/articles/26/11/03/apps-with-dating-location-sharing-features-must-be-disclosed-by-january-2027?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
