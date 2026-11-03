@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This is the only refurbished Samsung phone I’d buy in 2026](https://www.androidauthority.com/samsung-certified-refurbished-phone-amazon-3730355/)
- - [Opioid Users Found a ‘Miracle Drug’ to Help Them Quit. Then the DEA Banned It](https://www.wired.com/story/opioid-users-sr-17018-drug-to-help-them-quit-dea-ban/)
- - [The Galaxy A58 beats the base S27 in one area, but it’s not all great news](https://www.androidauthority.com/galaxy-a58-charging-rate-leak-3731041/)<!-- TECH:END -->
+ - [Sources: UK-based Google DeepMind staff urge leaders to drop non-disparagement clauses barring public warnings about AI risks even after they leave the company &lpar;Gerrit De Vynck/Washington Post&rpar;](https://www.techmeme.com/261103/p23#a261103p23)
+ - [Netflix’s AI Recommendations Aim to Play Matchmaker to Your Tastes](https://www.cnet.com/tech/services-and-software/netflixs-ai-recommendations-aim-to-play-matchmaker-to-your-tastes/)
+ - [Garmin Dash Cam X110 gets a rare $50 discount on Amazon](https://www.androidauthority.com/garmin-dash-cam-x110-deal-3731325/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
