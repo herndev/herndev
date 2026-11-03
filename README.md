@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Salesforce announces plans to acquire Cresta, a provider of AI-powered contact center automation software; source: Salesforce agreed to pay $2.7B for Cresta &lpar;The Information&rpar;](https://www.techmeme.com/261102/p48#a261102p48)
- - [John Ternus says Apple expects memory costs to increase into December and beyond; Apple&#39;s inventory grew to $14.54B in Q4, up 31.1% QoQ and 154.3% YoY &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/261102/p47#a261102p47)
- - [Apps with dating &amp; location sharing features must be disclosed by January 2027](https://appleinsider.com/articles/26/11/03/apps-with-dating-location-sharing-features-must-be-disclosed-by-january-2027?utm_source=rss)<!-- TECH:END -->
+ - [This is the only refurbished Samsung phone I’d buy in 2026](https://www.androidauthority.com/samsung-certified-refurbished-phone-amazon-3730355/)
+ - [Opioid Users Found a ‘Miracle Drug’ to Help Them Quit. Then the DEA Banned It](https://www.wired.com/story/opioid-users-sr-17018-drug-to-help-them-quit-dea-ban/)
+ - [The Galaxy A58 beats the base S27 in one area, but it’s not all great news](https://www.androidauthority.com/galaxy-a58-charging-rate-leak-3731041/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
