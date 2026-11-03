@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: UK-based Google DeepMind staff urge leaders to drop non-disparagement clauses barring public warnings about AI risks even after they leave the company &lpar;Gerrit De Vynck/Washington Post&rpar;](https://www.techmeme.com/261103/p23#a261103p23)
- - [Netflix’s AI Recommendations Aim to Play Matchmaker to Your Tastes](https://www.cnet.com/tech/services-and-software/netflixs-ai-recommendations-aim-to-play-matchmaker-to-your-tastes/)
- - [Garmin Dash Cam X110 gets a rare $50 discount on Amazon](https://www.androidauthority.com/garmin-dash-cam-x110-deal-3731325/)<!-- TECH:END -->
+ - [Valve announces changes to Steam&#39;s review process, as a surge in game submissions pushes review times to &quot;up to 12 business days&quot;, instead of the usual 3-5 days &lpar;Jay Peters/The Verge&rpar;](https://www.techmeme.com/261103/p40#a261103p40)
+ - [Apple Is Putting an Age Limit on Falling in Love With AI](https://www.cnet.com/tech/apple-age-limits-dating-app-store-location-sharing-disclose/)
+ - [Traversal, which provides AI agents for site reliability engineering, raised $120M co-led by Kleiner Perkins, Redpoint, and Khosla at a $1B valuation &lpar;Rashi Shrivastava/Forbes&rpar;](https://www.techmeme.com/261103/p39#a261103p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
