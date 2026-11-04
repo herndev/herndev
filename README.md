@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Model Holly Madison Makes Shocking New Revelations About Life Inside Hugh Hefner\u2019s Playboy Mansion](http://9gag.com/gag/aRL6xwB)
- - ⏩ [If he loses man](http://9gag.com/gag/a2MEBGO)
+ - 💣 [How to avoid being pushed in Japan](http://9gag.com/gag/a6DrWML)
+ - ⏩ [Untied myself from monthly subscription payments: old laptop + ~300 EUR Upgrade](http://9gag.com/gag/ae4KX3p)
  - 👉 [A wise man once said- \u201cMen if you enjoy s#x, don\u2019t get married.\u201d](http://9gag.com/gag/aBZ9qdP)<!-- MEMES:END -->
 
 ---
