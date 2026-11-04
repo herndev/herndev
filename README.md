@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Christina Aguilera Reveals Her Best Skill In Bed Is Blowjobs, Calls Herself &#39;Promoter Of The Swallow&#39;](http://9gag.com/gag/aoWmX9A)
- - ⏩ [A wise man once said- \u201cMen if you enjoy s#x, don\u2019t get married.\u201d](http://9gag.com/gag/aBZ9qdP)
- - 👉 [A woman gets caught cheating, but gets violent with her husband for catching her and sending her divorce papers. No accountability.](http://9gag.com/gag/aGLKWqw)<!-- MEMES:END -->
+ - 💣 [Model Holly Madison Makes Shocking New Revelations About Life Inside Hugh Hefner\u2019s Playboy Mansion](http://9gag.com/gag/aRL6xwB)
+ - ⏩ [If he loses man](http://9gag.com/gag/a2MEBGO)
+ - 👉 [A wise man once said- \u201cMen if you enjoy s#x, don\u2019t get married.\u201d](http://9gag.com/gag/aBZ9qdP)<!-- MEMES:END -->
 
 ---
 
