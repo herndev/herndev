@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Valve announces changes to Steam&#39;s review process, as a surge in game submissions pushes review times to &quot;up to 12 business days&quot;, instead of the usual 3-5 days &lpar;Jay Peters/The Verge&rpar;](https://www.techmeme.com/261103/p40#a261103p40)
- - [Apple Is Putting an Age Limit on Falling in Love With AI](https://www.cnet.com/tech/apple-age-limits-dating-app-store-location-sharing-disclose/)
- - [Traversal, which provides AI agents for site reliability engineering, raised $120M co-led by Kleiner Perkins, Redpoint, and Khosla at a $1B valuation &lpar;Rashi Shrivastava/Forbes&rpar;](https://www.techmeme.com/261103/p39#a261103p39)<!-- TECH:END -->
+ - [Golf comedy &#39;Stick&#39; returns for season 2 on Apple TV](https://appleinsider.com/articles/26/11/04/golf-comedy-stick-returns-for-season-2-on-apple-tv?utm_source=rss)
+ - [California accepts $1.42B in federal broadband funding, but challenges the Trump administration&#39;s demand that it stop enforcing state net neutrality rules &lpar;Jon Brodkin/Ars Technica&rpar;](https://www.techmeme.com/261103/p46#a261103p46)
+ - [Q&amp;A with NYC Mayor Zohran Mamdani on new municipal AI policy measures, like an AI ban for some students, support for a one-year data center pause, and more &lpar;Katie Drummond/Wired&rpar;](https://www.techmeme.com/261103/p45#a261103p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
