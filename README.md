@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta acquires Conductor, which lets developers run multiple AI coding agents in parallel; CEO Charlie Holtz says the team will join Meta Superintelligence Labs &lpar;Madison Mills/Axios&rpar;](https://www.techmeme.com/261104/p46#a261104p46)
- - [Apple TV &#39;Silo&#39; might get a spinoff](https://appleinsider.com/articles/26/11/04/apple-tv-silo-might-get-a-spinoff?utm_source=rss)
- - [Moto One phones are getting ready for a comeback, and here’s a first look at the hardware](https://www.androidauthority.com/moto-one-wpc-listing-3731740/)<!-- TECH:END -->
+ - [Data center shares fall as investors expect slower AI buildout after Democrats win Congress; Hut 8 drops 23%, IREN 11%, Core Scientific 10%, Applied Digital 7% &lpar;Reuters&rpar;](https://www.techmeme.com/261104/p55#a261104p55)
+ - [The Blue Wave Has Tech Bros Scrambling for Data Centers in Space](https://www.wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space/)
+ - [Figma reports Q3 revenue up 43% YoY to $391.4M, above est., gross margin of 80%, below 81% est., and lifts its 2026 revenue outlook; FIG drops 6%+ after hours &lpar;Deborah Mary Sophia/Reuters&rpar;](https://www.techmeme.com/261104/p54#a261104p54)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
