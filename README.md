@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk&#39;s preferred US midterm candidates, including Ken Paxton and Vivek Ramaswamy, lost almost everywhere; Musk spent $446M, a record for a non-candidate &lpar;Calder Mchugh/Politico&rpar;](https://www.techmeme.com/261104/p19#a261104p19)
- - [My first Snapdragon 8 Elite Extreme Gen 6 phone doesn’t live up to the hype](https://www.androidauthority.com/snapdragon-elite-gen-6-phone-test-3730103/)
- - [Analysis: SpaceX revises its 2027 data center capacity target up to a record ~13GW, roughly equivalent to all of Google&#39;s capacity from 1999-2026 in 1.5 years &lpar;SemiAnalysis&rpar;](https://www.techmeme.com/261104/p18#a261104p18)<!-- TECH:END -->
+ - [Meta acquires Conductor, which lets developers run multiple AI coding agents in parallel; CEO Charlie Holtz says the team will join Meta Superintelligence Labs &lpar;Madison Mills/Axios&rpar;](https://www.techmeme.com/261104/p46#a261104p46)
+ - [Apple TV &#39;Silo&#39; might get a spinoff](https://appleinsider.com/articles/26/11/04/apple-tv-silo-might-get-a-spinoff?utm_source=rss)
+ - [Moto One phones are getting ready for a comeback, and here’s a first look at the hardware](https://www.androidauthority.com/moto-one-wpc-listing-3731740/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
