@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Golf comedy &#39;Stick&#39; returns for season 2 on Apple TV](https://appleinsider.com/articles/26/11/04/golf-comedy-stick-returns-for-season-2-on-apple-tv?utm_source=rss)
- - [California accepts $1.42B in federal broadband funding, but challenges the Trump administration&#39;s demand that it stop enforcing state net neutrality rules &lpar;Jon Brodkin/Ars Technica&rpar;](https://www.techmeme.com/261103/p46#a261103p46)
- - [Q&amp;A with NYC Mayor Zohran Mamdani on new municipal AI policy measures, like an AI ban for some students, support for a one-year data center pause, and more &lpar;Katie Drummond/Wired&rpar;](https://www.techmeme.com/261103/p45#a261103p45)<!-- TECH:END -->
+ - [Elon Musk&#39;s preferred US midterm candidates, including Ken Paxton and Vivek Ramaswamy, lost almost everywhere; Musk spent $446M, a record for a non-candidate &lpar;Calder Mchugh/Politico&rpar;](https://www.techmeme.com/261104/p19#a261104p19)
+ - [My first Snapdragon 8 Elite Extreme Gen 6 phone doesn’t live up to the hype](https://www.androidauthority.com/snapdragon-elite-gen-6-phone-test-3730103/)
+ - [Analysis: SpaceX revises its 2027 data center capacity target up to a record ~13GW, roughly equivalent to all of Google&#39;s capacity from 1999-2026 in 1.5 years &lpar;SemiAnalysis&rpar;](https://www.techmeme.com/261104/p18#a261104p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
