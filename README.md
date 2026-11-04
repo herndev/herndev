@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Christina Aguilera Reveals Her Best Skill In Bed Is Blowjobs, Calls Herself &#39;Promoter Of The Swallow&#39;](http://9gag.com/gag/aoWmX9A)
+ - 💣 [Who wins?](http://9gag.com/gag/a78v4bb)
  - ⏩ [A woman gets caught cheating, but gets violent with her husband for catching her and sending her divorce papers. No accountability.](http://9gag.com/gag/aGLKWqw)
- - 👉 [Christina Aguilera Reveals Her Best Skill In Bed Is Blowjobs, Calls Herself &#39;Promoter Of The Swallow&#39;](http://9gag.com/gag/aoWmX9A)<!-- MEMES:END -->
+ - 👉 [Who wins?](http://9gag.com/gag/a78v4bb)<!-- MEMES:END -->
 
 ---
 
