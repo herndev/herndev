@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [United Airlines is rolling out a custom native Spotify seatback app across its fleet, letting users log into their accounts, powered by Starlink&#39;s Wi-Fi &lpar;Andrew J. Hawkins/The Verge&rpar;](https://www.techmeme.com/261105/p25#a261105p25)
- - [Apple rolls out Retention Messaging, letting developers present personalized text, images, or special offers to users who are canceling their subscriptions &lpar;Marcus Mendes/9to5Mac&rpar;](https://www.techmeme.com/261105/p24#a261105p24)
- - [Motorola Signature 27 brings a 7,000mAh battery and seven years of Android updates for $1,600](https://www.androidauthority.com/motorola-signature-27-launch-3731987/)<!-- TECH:END -->
+ - [Blue Origin’s next launch now won’t happen until 2027](https://www.theverge.com/science/1028178/blue-origins-next-launch-now-wont-happen-until-2027)
+ - [Apple is gearing up for a fresh $7 billion in bond sale](https://appleinsider.com/articles/26/11/05/apple-is-gearing-up-for-a-fresh-7-billion-in-bond-sale?utm_source=rss)
+ - [Meta President Dina Powell McCormick says building new US data centers will be harder after midterm results, but it will be easier to expand existing projects &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](https://www.techmeme.com/261105/p51#a261105p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
