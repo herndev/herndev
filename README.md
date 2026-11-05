@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Data center shares fall as investors expect slower AI buildout after Democrats win Congress; Hut 8 drops 23%, IREN 11%, Core Scientific 10%, Applied Digital 7% &lpar;Reuters&rpar;](https://www.techmeme.com/261104/p55#a261104p55)
- - [The Blue Wave Has Tech Bros Scrambling for Data Centers in Space](https://www.wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space/)
- - [Figma reports Q3 revenue up 43% YoY to $391.4M, above est., gross margin of 80%, below 81% est., and lifts its 2026 revenue outlook; FIG drops 6%+ after hours &lpar;Deborah Mary Sophia/Reuters&rpar;](https://www.techmeme.com/261104/p54#a261104p54)<!-- TECH:END -->
+ - [Source: Meta has decided to stop using fruit for its AI model codenames, as they didn&#39;t suit its lofty AI ambitions; its latest model was named &quot;Watermelon&quot; &lpar;Charles Rollet/Business Insider&rpar;](https://www.techmeme.com/261104/p66#a261104p66)
+ - [Sources: China has told SoftBank it will not allow the $5.4B acquisition of ABB&#39;s robotics division to go ahead; China is the division&#39;s biggest market &lpar;David Keohane/Financial Times&rpar;](https://www.techmeme.com/261104/p65#a261104p65)
+ - [Sources: Palo Alto Networks is in talks to acquire Israeli startup Clutch Security, which develops software for tracking passwords used by AI agents, for ~$500M &lpar;Valida Pau/The Information&rpar;](https://www.techmeme.com/261104/p64#a261104p64)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
