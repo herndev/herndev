@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Meta has decided to stop using fruit for its AI model codenames, as they didn&#39;t suit its lofty AI ambitions; its latest model was named &quot;Watermelon&quot; &lpar;Charles Rollet/Business Insider&rpar;](https://www.techmeme.com/261104/p66#a261104p66)
- - [Sources: China has told SoftBank it will not allow the $5.4B acquisition of ABB&#39;s robotics division to go ahead; China is the division&#39;s biggest market &lpar;David Keohane/Financial Times&rpar;](https://www.techmeme.com/261104/p65#a261104p65)
- - [Sources: Palo Alto Networks is in talks to acquire Israeli startup Clutch Security, which develops software for tracking passwords used by AI agents, for ~$500M &lpar;Valida Pau/The Information&rpar;](https://www.techmeme.com/261104/p64#a261104p64)<!-- TECH:END -->
+ - [United Airlines is rolling out a custom native Spotify seatback app across its fleet, letting users log into their accounts, powered by Starlink&#39;s Wi-Fi &lpar;Andrew J. Hawkins/The Verge&rpar;](https://www.techmeme.com/261105/p25#a261105p25)
+ - [Apple rolls out Retention Messaging, letting developers present personalized text, images, or special offers to users who are canceling their subscriptions &lpar;Marcus Mendes/9to5Mac&rpar;](https://www.techmeme.com/261105/p24#a261105p24)
+ - [Motorola Signature 27 brings a 7,000mAh battery and seven years of Android updates for $1,600](https://www.androidauthority.com/motorola-signature-27-launch-3731987/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
