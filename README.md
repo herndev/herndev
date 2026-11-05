@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Captured in Eagle River, Alaska near Joint Base Elmendorf - Richardson](http://9gag.com/gag/a4npMz1)
- - ⏩ [How to avoid being pushed in Japan](http://9gag.com/gag/a6DrWML)
- - 👉 [Sheesh](http://9gag.com/gag/a0ovmyz)<!-- MEMES:END -->
+ - ⏩ [She was happy divorcing her husband until she finds out he doesn&#39;t have to pay child support](http://9gag.com/gag/aZnbqWn)
+ - 👉 [1999 was unfair. Only one can stay.](http://9gag.com/gag/aQgP6j7)<!-- MEMES:END -->
 
 ---
 
