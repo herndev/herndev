@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to avoid being pushed in Japan](http://9gag.com/gag/a6DrWML)
- - ⏩ [`She pulled down her shorts and underwear, exposing her genitals to other passengers`](http://9gag.com/gag/a17p48P)
- - 👉 [A wise man once said- \u201cMen if you enjoy s#x, don\u2019t get married.\u201d](http://9gag.com/gag/aBZ9qdP)<!-- MEMES:END -->
+ - 💣 [Captured in Eagle River, Alaska near Joint Base Elmendorf - Richardson](http://9gag.com/gag/a4npMz1)
+ - ⏩ [How to avoid being pushed in Japan](http://9gag.com/gag/a6DrWML)
+ - 👉 [Sheesh](http://9gag.com/gag/a0ovmyz)<!-- MEMES:END -->
 
 ---
 
