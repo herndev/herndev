@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [18 yo Jodie Foster](http://9gag.com/gag/amWNXvv)
- - ⏩ [They did it again. Retconned Ironman. Jarvis was made by a black woman lol](http://9gag.com/gag/aqR99YM)
- - 👉 [9gag Censorship](http://9gag.com/gag/aMd21eM)<!-- MEMES:END -->
+ - 💣 [Why would I deceive you ?](http://9gag.com/gag/aBZR9B2)
+ - ⏩ [When someone asks why I avoid eastern European women](http://9gag.com/gag/aAQRY6L)
+ - 👉 [Seems fair](http://9gag.com/gag/az5g7pZ)<!-- MEMES:END -->
 
 ---
 
