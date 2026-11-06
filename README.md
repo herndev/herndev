@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is quietly reworking Gemini’s sidebar and testing a new overlay animation](https://www.androidauthority.com/google-gemini-ui-update-animation-you-tab-apk-teardown-3732589/)
- - [Developers have optimized over 100,000 apps for the iPhone Duo](https://appleinsider.com/articles/26/11/06/developers-have-optimized-over-100000-apps-for-the-iphone-duo?utm_source=rss)
- - [AI Companies Really, Really Want to Buy Your Work Files and Emails](https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/)<!-- TECH:END -->
+ - [Sources: US intelligence concluded that Megaspeed executive Alice Huang was recruited by China&#39;s top spy agency MSS to collect intelligence on Jensen Huang &lpar;New York Times&rpar;](https://www.techmeme.com/261106/p24#a261106p24)
+ - [Microsoft’s 2026 Surface Laptop gets a $450 Amazon discount](https://www.androidauthority.com/microsoft-2026-surface-laptop-deal-3732694/)
+ - [Filing: Google spent roughly $548M to buy around 3M shares of Qualcomm, which is pushing into serving the AI data center market &lpar;Ryan Barwick/The Information&rpar;](https://www.techmeme.com/261106/p23#a261106p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
