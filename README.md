@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile taps Breaking Bad star Bryan Cranston to sell you its new T-Mix plans](https://www.androidauthority.com/t-mobile-bryan-cranston-t-mix-commercial-3732326/)
- - [Googlebook’s giant November update frees up to 6GB of RAM](https://www.androidauthority.com/googlebook-november-update-3732317/)
- - [Blockaid: Binance hackers stole ~$2.5B, or 40% of the $6.3B haul, in a single Ethereum transaction using wallet permissions that cost just $15 to set up &lpar;Sidhartha Shukla/Bloomberg&rpar;](https://www.techmeme.com/261106/p5#a261106p5)<!-- TECH:END -->
+ - [Google is quietly reworking Gemini’s sidebar and testing a new overlay animation](https://www.androidauthority.com/google-gemini-ui-update-animation-you-tab-apk-teardown-3732589/)
+ - [Developers have optimized over 100,000 apps for the iPhone Duo](https://appleinsider.com/articles/26/11/06/developers-have-optimized-over-100000-apps-for-the-iphone-duo?utm_source=rss)
+ - [AI Companies Really, Really Want to Buy Your Work Files and Emails](https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
