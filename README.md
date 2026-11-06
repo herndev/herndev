@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Captured in Eagle River, Alaska near Joint Base Elmendorf - Richardson](http://9gag.com/gag/a4npMz1)
- - ⏩ [She was happy divorcing her husband until she finds out he doesn&#39;t have to pay child support](http://9gag.com/gag/aZnbqWn)
- - 👉 [1999 was unfair. Only one can stay.](http://9gag.com/gag/aQgP6j7)<!-- MEMES:END -->
+ - 💣 [Guns n roses](http://9gag.com/gag/aZnbqX3)
+ - ⏩ [Seems fair](http://9gag.com/gag/az5g7pZ)
+ - 👉 [Who&#39;s gonna be the next president?](http://9gag.com/gag/axWdE51)<!-- MEMES:END -->
 
 ---
 
