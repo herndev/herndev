@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guns n roses](http://9gag.com/gag/aZnbqX3)
- - ⏩ [Seems fair](http://9gag.com/gag/az5g7pZ)
- - 👉 [Who&#39;s gonna be the next president?](http://9gag.com/gag/axWdE51)<!-- MEMES:END -->
+ - 💣 [She votes. Proudly.](http://9gag.com/gag/aO2KKR6)
+ - ⏩ [Guns n roses](http://9gag.com/gag/aZnbqX3)
+ - 👉 [Sorry But We Don&#39;t Accept Cash .](http://9gag.com/gag/aZnbb03)<!-- MEMES:END -->
 
 ---
 
