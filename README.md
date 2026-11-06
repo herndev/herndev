@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She votes. Proudly.](http://9gag.com/gag/aO2KKR6)
- - ⏩ [Guns n roses](http://9gag.com/gag/aZnbqX3)
- - 👉 [Sorry But We Don&#39;t Accept Cash .](http://9gag.com/gag/aZnbb03)<!-- MEMES:END -->
+ - 💣 [18 yo Jodie Foster](http://9gag.com/gag/amWNXvv)
+ - ⏩ [They did it again. Retconned Ironman. Jarvis was made by a black woman lol](http://9gag.com/gag/aqR99YM)
+ - 👉 [9gag Censorship](http://9gag.com/gag/aMd21eM)<!-- MEMES:END -->
 
 ---
 
