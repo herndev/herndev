@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Artificial Analysis says Inkling 2 Small matches Gemini 3.8 Flash &lpar;high&rpar; in its index and would be the top open model outside China once its weights are out &lpar;Artificial Analysis&rpar;](https://www.techmeme.com/261105/p65#a261105p65)
- - [Lyft reports Q3 revenue up 8% YoY to $1.82B, vs. $1.92B est., and a net loss of $0.03 a share, vs. an est. profit of $0.20 a share; LYFT drops 8%+ after hours &lpar;Kelly Cloonan/Wall Street Journal&rpar;](https://www.techmeme.com/261105/p64#a261105p64)
- - [OpenAI is stepping back from NDAs for data center projects](https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda)<!-- TECH:END -->
+ - [T-Mobile taps Breaking Bad star Bryan Cranston to sell you its new T-Mix plans](https://www.androidauthority.com/t-mobile-bryan-cranston-t-mix-commercial-3732326/)
+ - [Googlebook’s giant November update frees up to 6GB of RAM](https://www.androidauthority.com/googlebook-november-update-3732317/)
+ - [Blockaid: Binance hackers stole ~$2.5B, or 40% of the $6.3B haul, in a single Ethereum transaction using wallet permissions that cost just $15 to set up &lpar;Sidhartha Shukla/Bloomberg&rpar;](https://www.techmeme.com/261106/p5#a261106p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
