@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Blue Origin’s next launch now won’t happen until 2027](https://www.theverge.com/science/1028178/blue-origins-next-launch-now-wont-happen-until-2027)
- - [Apple is gearing up for a fresh $7 billion in bond sale](https://appleinsider.com/articles/26/11/05/apple-is-gearing-up-for-a-fresh-7-billion-in-bond-sale?utm_source=rss)
- - [Meta President Dina Powell McCormick says building new US data centers will be harder after midterm results, but it will be easier to expand existing projects &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](https://www.techmeme.com/261105/p51#a261105p51)<!-- TECH:END -->
+ - [Artificial Analysis says Inkling 2 Small matches Gemini 3.8 Flash &lpar;high&rpar; in its index and would be the top open model outside China once its weights are out &lpar;Artificial Analysis&rpar;](https://www.techmeme.com/261105/p65#a261105p65)
+ - [Lyft reports Q3 revenue up 8% YoY to $1.82B, vs. $1.92B est., and a net loss of $0.03 a share, vs. an est. profit of $0.20 a share; LYFT drops 8%+ after hours &lpar;Kelly Cloonan/Wall Street Journal&rpar;](https://www.techmeme.com/261105/p64#a261105p64)
+ - [OpenAI is stepping back from NDAs for data center projects](https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
