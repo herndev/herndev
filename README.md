@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: US intelligence concluded that Megaspeed executive Alice Huang was recruited by China&#39;s top spy agency MSS to collect intelligence on Jensen Huang &lpar;New York Times&rpar;](https://www.techmeme.com/261106/p24#a261106p24)
- - [Microsoft’s 2026 Surface Laptop gets a $450 Amazon discount](https://www.androidauthority.com/microsoft-2026-surface-laptop-deal-3732694/)
- - [Filing: Google spent roughly $548M to buy around 3M shares of Qualcomm, which is pushing into serving the AI data center market &lpar;Ryan Barwick/The Information&rpar;](https://www.techmeme.com/261106/p23#a261106p23)<!-- TECH:END -->
+ - [CesiumAstro, which plans a 737-satellite LEO communications network at two altitudes, raised $730M at a $4.5B+ valuation, bringing its total funding to $1.4B &lpar;Loren Grush/Bloomberg&rpar;](https://www.techmeme.com/261106/p27#a261106p27)
+ - [OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO](https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation)
+ - [Apple says the App Store has over 100K apps built for the iPhone Duo and &quot;thousands of optimized apps are being added to the store each day&quot; &lpar;Jay Peters/The Verge&rpar;](https://www.techmeme.com/261106/p26#a261106p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
