@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CesiumAstro, which plans a 737-satellite LEO communications network at two altitudes, raised $730M at a $4.5B+ valuation, bringing its total funding to $1.4B &lpar;Loren Grush/Bloomberg&rpar;](https://www.techmeme.com/261106/p27#a261106p27)
- - [OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO](https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation)
- - [Apple says the App Store has over 100K apps built for the iPhone Duo and &quot;thousands of optimized apps are being added to the store each day&quot; &lpar;Jay Peters/The Verge&rpar;](https://www.techmeme.com/261106/p26#a261106p26)<!-- TECH:END -->
+ - [Job listings show Amazon is building a &quot;new-to-world&quot; home robot to operate &quot;alongside family members&quot;, after its $1,450 Astro reached only a few thousand homes &lpar;Annie Palmer/CNBC&rpar;](https://www.techmeme.com/261108/p20#a261108p20)
+ - [Trump says Jensen Huang should stay on as Nvidia CEO after affair admission, saying he is a &quot;fine person&quot; and &quot;I haven&#39;t heard he&#39;s done anything wrong&quot; &lpar;Kate Sullivan/Bloomberg&rpar;](https://www.techmeme.com/261108/p19#a261108p19)
+ - [How Sequoia&#39;s Alfred Lin and Pat Grady erased Roelof Botha&#39;s legacy, halving GPs and unwinding his fund; sources say he joined SpaceX&#39;s board behind their backs &lpar;Financial Times&rpar;](https://www.techmeme.com/261108/p18#a261108p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
