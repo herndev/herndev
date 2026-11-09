@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Knife Edge: Chasing Michelin Stars&#39; gets a third season](https://appleinsider.com/articles/26/11/09/knife-edge-chasing-michelin-stars-gets-a-third-season?utm_source=rss)
- - [A profile of Alice Huang, a suspected Chinese spy who founded Megaspeed in 2023 and spent years in Jensen Huang&#39;s orbit; Megaspeed&#39;s Nvidia imports top $4.6B &lpar;Mark Anderson/Bloomberg&rpar;](https://www.techmeme.com/261109/p18#a261109p18)
- - [King Arthur Baking Sourdough Sidekick Review: Rising to the Occasion](https://www.wired.com/review/king-arthur-baking-sourdough-sidekick/)<!-- TECH:END -->
+ - [Waymo Said It Fixed Its School Bus Problem. The US Government Says It Didn’t Work](https://www.wired.com/story/waymo-school-bus-problem-the-us-government-says-it-didnt-work/)
+ - [Trump says the FBI is &quot;looking into&quot; Jensen Huang&#39;s affair, and the Nvidia CEO told him he &quot;had absolutely no idea that the person in question was a spy&quot; &lpar;Associated Press&rpar;](https://www.techmeme.com/261109/p44#a261109p44)
+ - [The Home Depot Best Early Black Friday Deals &lpar;2026&rpar;](https://www.wired.com/story/the-home-depot-early-black-friday-deals-nov-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
