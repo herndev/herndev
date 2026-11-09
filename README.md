@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Job listings show Amazon is building a &quot;new-to-world&quot; home robot to operate &quot;alongside family members&quot;, after its $1,450 Astro reached only a few thousand homes &lpar;Annie Palmer/CNBC&rpar;](https://www.techmeme.com/261108/p20#a261108p20)
- - [Trump says Jensen Huang should stay on as Nvidia CEO after affair admission, saying he is a &quot;fine person&quot; and &quot;I haven&#39;t heard he&#39;s done anything wrong&quot; &lpar;Kate Sullivan/Bloomberg&rpar;](https://www.techmeme.com/261108/p19#a261108p19)
- - [How Sequoia&#39;s Alfred Lin and Pat Grady erased Roelof Botha&#39;s legacy, halving GPs and unwinding his fund; sources say he joined SpaceX&#39;s board behind their backs &lpar;Financial Times&rpar;](https://www.techmeme.com/261108/p18#a261108p18)<!-- TECH:END -->
+ - [&#39;Knife Edge: Chasing Michelin Stars&#39; gets a third season](https://appleinsider.com/articles/26/11/09/knife-edge-chasing-michelin-stars-gets-a-third-season?utm_source=rss)
+ - [A profile of Alice Huang, a suspected Chinese spy who founded Megaspeed in 2023 and spent years in Jensen Huang&#39;s orbit; Megaspeed&#39;s Nvidia imports top $4.6B &lpar;Mark Anderson/Bloomberg&rpar;](https://www.techmeme.com/261109/p18#a261109p18)
+ - [King Arthur Baking Sourdough Sidekick Review: Rising to the Occasion](https://www.wired.com/review/king-arthur-baking-sourdough-sidekick/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
