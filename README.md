@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Capt, i need name.](http://9gag.com/gag/aj7YnAg)
- - ⏩ [The Hatian gangs are suing for peace.](http://9gag.com/gag/aGLYxB0)
- - 👉 [Incredible progress for modern medicine](http://9gag.com/gag/aBZRYqP)<!-- MEMES:END -->
+ - 💣 [Imagine you graduate from honeypot CCP academy, and your first task is asmongold](http://9gag.com/gag/a9zb7qm)
+ - ⏩ [Actually this was the chinese spy](http://9gag.com/gag/aoWEjBw)
+ - 👉 [Imagine you graduate from honeypot CCP academy, and your first task is asmongold](http://9gag.com/gag/a9zb7qm)<!-- MEMES:END -->
 
 ---
 
