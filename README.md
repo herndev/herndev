@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Maps will likely integrate walking time after parking to travel estimates](https://appleinsider.com/articles/26/11/10/apple-maps-will-likely-integrate-walking-time-after-parking-to-travel-estimates?utm_source=rss)
- - [Sources: Microsoft is among a group of companies lobbying the Trump administration to halt the FCC&#39;s plan to ban imports of Chinese optical transceivers &lpar;Alexandra Alper/Reuters&rpar;](https://www.techmeme.com/261110/p16#a261110p16)
- - [How Steve Jobs saved Apple with the online Apple Store](https://appleinsider.com/articles/19/11/10/how-steve-jobs-saved-apple-with-the-online-apple-store?utm_source=rss)<!-- TECH:END -->
+ - [Apple&#39;s &#39;Harbor&#39; app will make running local AI across multiple Macs trivial](https://appleinsider.com/articles/26/11/10/apples-harbor-app-will-make-running-local-ai-across-multiple-macs-trivial?utm_source=rss)
+ - [Graphon, which wants to resolve AI agent memory limitations by mapping connections across documents, videos, and images, raised a $35M Series A &lpar;Shubhangi Goel/Business Insider&rpar;](https://www.techmeme.com/261110/p49#a261110p49)
+ - [Samsung is getting its Galaxy Wearable app ready for its smart glasses debut](https://www.androidauthority.com/samsung-prepares-wearable-app-for-smart-glasses-3733581/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
