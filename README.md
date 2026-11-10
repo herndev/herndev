@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Waymo Said It Fixed Its School Bus Problem. The US Government Says It Didn’t Work](https://www.wired.com/story/waymo-school-bus-problem-the-us-government-says-it-didnt-work/)
- - [Trump says the FBI is &quot;looking into&quot; Jensen Huang&#39;s affair, and the Nvidia CEO told him he &quot;had absolutely no idea that the person in question was a spy&quot; &lpar;Associated Press&rpar;](https://www.techmeme.com/261109/p44#a261109p44)
- - [The Home Depot Best Early Black Friday Deals &lpar;2026&rpar;](https://www.wired.com/story/the-home-depot-early-black-friday-deals-nov-2026/)<!-- TECH:END -->
+ - [The US DOJ sues Lyft for allegedly discriminating against riders with disabilities, seeking $53M in compensation; Lyft disputes the allegations &lpar;Kanishka Singh/Reuters&rpar;](https://www.techmeme.com/261109/p51#a261109p51)
+ - [California voters reject Proposition 40, which would have imposed a one-time 5% tax on residents with a net worth above $1B to mostly help fund health care &lpar;Associated Press&rpar;](https://www.techmeme.com/261109/p50#a261109p50)
+ - [Conspiratorial Canadian search engine class action lawsuit against Apple going forward](https://appleinsider.com/articles/26/11/10/conspiratorial-canadian-search-engine-class-action-lawsuit-against-apple-going-forward?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
