@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US DOJ sues Lyft for allegedly discriminating against riders with disabilities, seeking $53M in compensation; Lyft disputes the allegations &lpar;Kanishka Singh/Reuters&rpar;](https://www.techmeme.com/261109/p51#a261109p51)
- - [California voters reject Proposition 40, which would have imposed a one-time 5% tax on residents with a net worth above $1B to mostly help fund health care &lpar;Associated Press&rpar;](https://www.techmeme.com/261109/p50#a261109p50)
- - [Conspiratorial Canadian search engine class action lawsuit against Apple going forward](https://appleinsider.com/articles/26/11/10/conspiratorial-canadian-search-engine-class-action-lawsuit-against-apple-going-forward?utm_source=rss)<!-- TECH:END -->
+ - [Apple Maps will likely integrate walking time after parking to travel estimates](https://appleinsider.com/articles/26/11/10/apple-maps-will-likely-integrate-walking-time-after-parking-to-travel-estimates?utm_source=rss)
+ - [Sources: Microsoft is among a group of companies lobbying the Trump administration to halt the FCC&#39;s plan to ban imports of Chinese optical transceivers &lpar;Alexandra Alper/Reuters&rpar;](https://www.techmeme.com/261110/p16#a261110p16)
+ - [How Steve Jobs saved Apple with the online Apple Store](https://appleinsider.com/articles/19/11/10/how-steve-jobs-saved-apple-with-the-online-apple-store?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
