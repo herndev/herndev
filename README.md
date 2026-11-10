@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A policeman, unrelated to the incident, managed to neutralize the attacker. When he made sure the danger had passed, he stepped down to the ground](http://9gag.com/gag/a4nKdnA)
- - ⏩ [Tom should stop it and get some help](http://9gag.com/gag/aD7A3QG)
- - 👉 [Actually this was the chinese spy](http://9gag.com/gag/aoWEjBw)<!-- MEMES:END -->
+ - 💣 [Capt, i need name.](http://9gag.com/gag/aj7YnAg)
+ - ⏩ [The Hatian gangs are suing for peace.](http://9gag.com/gag/aGLYxB0)
+ - 👉 [Incredible progress for modern medicine](http://9gag.com/gag/aBZRYqP)<!-- MEMES:END -->
 
 ---
 
