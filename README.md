@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Anthropic&#39;s bankers are weighing plans to raise its IPO price following heavy demand, which could increase the valuation target to $1.5T or more &lpar;Financial Times&rpar;](https://www.techmeme.com/261110/p60#a261110p60)
- - [Warhammer Survivors Isn’t Much More Than a Vampire Survivors Reskin, Which Is &lpar;Mostly&rpar; OK](https://www.cnet.com/tech/warhammer-survivors-review/)
- - [Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode](https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling)<!-- TECH:END -->
+ - [The Nvidia spy scandal exposes networks operating in Singapore that help Chinese tech companies access advanced US AI chips and circumvent export controls &lpar;Owen Walker/Financial Times&rpar;](https://www.techmeme.com/261111/p7#a261111p7)
+ - [Claude now has its own workplace tools, taking on Microsoft Office, Google Workspace](https://www.androidauthority.com/claude-workplace-tools-sheets-data-whiteboards-3733706/)
+ - [Google Photos is getting a big save upgrade to eliminate unnecessary duplicates](https://www.androidauthority.com/google-photos-save-upgrade-3733730/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
