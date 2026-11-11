@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Some people are dumb](http://9gag.com/gag/ae4j6oj)
- - ⏩ [Imagine in 24 hours 5 of your superiors and 40 of your subordinates `disappear`, now suddenly you are second in command of the Chinese army](http://9gag.com/gag/a3GP7BQ)
- - 👉 [Peter please help](http://9gag.com/gag/aEMvR6e)<!-- MEMES:END -->
+ - 💣 [FAFO Sport Edition](http://9gag.com/gag/amWNYq6)
+ - ⏩ [A shop with no humans](http://9gag.com/gag/aMd281R)
+ - 👉 [Whoopsie](http://9gag.com/gag/aXL0ABP)<!-- MEMES:END -->
 
 ---
 
