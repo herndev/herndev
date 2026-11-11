@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s &#39;Harbor&#39; app will make running local AI across multiple Macs trivial](https://appleinsider.com/articles/26/11/10/apples-harbor-app-will-make-running-local-ai-across-multiple-macs-trivial?utm_source=rss)
- - [Graphon, which wants to resolve AI agent memory limitations by mapping connections across documents, videos, and images, raised a $35M Series A &lpar;Shubhangi Goel/Business Insider&rpar;](https://www.techmeme.com/261110/p49#a261110p49)
- - [Samsung is getting its Galaxy Wearable app ready for its smart glasses debut](https://www.androidauthority.com/samsung-prepares-wearable-app-for-smart-glasses-3733581/)<!-- TECH:END -->
+ - [Sources: Anthropic&#39;s bankers are weighing plans to raise its IPO price following heavy demand, which could increase the valuation target to $1.5T or more &lpar;Financial Times&rpar;](https://www.techmeme.com/261110/p60#a261110p60)
+ - [Warhammer Survivors Isn’t Much More Than a Vampire Survivors Reskin, Which Is &lpar;Mostly&rpar; OK](https://www.cnet.com/tech/warhammer-survivors-review/)
+ - [Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode](https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
