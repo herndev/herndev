@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway](https://www.wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway/)
- - [Sharge’s eye-catching MacBook charger is over 25 percent off](https://www.theverge.com/gadgets/1031301/sharge-140w-gan-charger-lenovo-yoga-mini-desktop-pc-deal-sale)
- - [Score $250 off the Galaxy Z Fold 8 Ultra](https://www.androidauthority.com/galaxy-z-fold-8-ultra-deal-amazon-3733982/)<!-- TECH:END -->
+ - [Sources: Jensen Huang had an extramarital relationship with Nvidia&#39;s VP of healthcare, Kimberly Powell; their relationship has been discussed inside the company &lpar;New York Times&rpar;](https://www.techmeme.com/261111/p43#a261111p43)
+ - [Pete Hegseth Is About to Get His Ass Kicked](https://www.wired.com/story/pete-hegseth-is-about-to-get-his-ass-kicked/)
+ - [Hands on with Home Assistant’s new ‘smart home multi-tool’](https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
