@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [FAFO Sport Edition](http://9gag.com/gag/amWNYq6)
- - ⏩ [A shop with no humans](http://9gag.com/gag/aMd281R)
- - 👉 [Whoopsie](http://9gag.com/gag/aXL0ABP)<!-- MEMES:END -->
+ - 💣 [Whoopsie](http://9gag.com/gag/aXL0ABP)
+ - ⏩ [Peter please help](http://9gag.com/gag/aEMvR6e)
+ - 👉 [White squirrel in my neighborhood I’ve named Harvey &lpar;Keitel&rpar; scolds us as we walk by.](https://www.reddit.com/r/funny/comments/1xtvaqt/white_squirrel_in_my_neighborhood_ive_named/)<!-- MEMES:END -->
 
 ---
 
