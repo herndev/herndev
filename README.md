@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Nvidia spy scandal exposes networks operating in Singapore that help Chinese tech companies access advanced US AI chips and circumvent export controls &lpar;Owen Walker/Financial Times&rpar;](https://www.techmeme.com/261111/p7#a261111p7)
- - [Claude now has its own workplace tools, taking on Microsoft Office, Google Workspace](https://www.androidauthority.com/claude-workplace-tools-sheets-data-whiteboards-3733706/)
- - [Google Photos is getting a big save upgrade to eliminate unnecessary duplicates](https://www.androidauthority.com/google-photos-save-upgrade-3733730/)<!-- TECH:END -->
+ - [China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway](https://www.wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway/)
+ - [Sharge’s eye-catching MacBook charger is over 25 percent off](https://www.theverge.com/gadgets/1031301/sharge-140w-gan-charger-lenovo-yoga-mini-desktop-pc-deal-sale)
+ - [Score $250 off the Galaxy Z Fold 8 Ultra](https://www.androidauthority.com/galaxy-z-fold-8-ultra-deal-amazon-3733982/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
