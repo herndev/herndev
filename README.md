@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Beijing says &quot;the US should stop fabricating the so-called Chinese spy narrative as a pretext for imposing technology restrictions&quot;; Trump and Xi meet next week &lpar;Bloomberg&rpar;](https://www.techmeme.com/261112/p19#a261112p19)
- - [Russian pranksters tricked three OpenAI natsec and policy executives into a video meeting by posing as Ukrainian officials; OpenAI says it &quot;acted internally&quot; &lpar;Sam Biddle/The Intercept&rpar;](https://www.techmeme.com/261112/p18#a261112p18)
- - [You Can Buy T-Shirts Glorifying Mass Shootings Almost Anywhere Online](https://www.wired.com/story/you-can-buy-t-shirts-glorifying-mass-shootings-almost-anywhere-online/)<!-- TECH:END -->
+ - [Microsoft Outlook is down](https://www.theverge.com/tech/1032226/microsoft-outlook-is-down)
+ - [Microsoft Outlook is experiencing a major outage](https://www.androidauthority.com/microsoft-outlook-outage-nov-2026-3734664/)
+ - [Climate Change Has Pushed the World&#39;s Ice Out of Its Safe Zone](https://www.wired.com/story/climate-change-abolishes-ice/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
