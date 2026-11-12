@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Jensen Huang had an extramarital relationship with Nvidia&#39;s VP of healthcare, Kimberly Powell; their relationship has been discussed inside the company &lpar;New York Times&rpar;](https://www.techmeme.com/261111/p43#a261111p43)
- - [Pete Hegseth Is About to Get His Ass Kicked](https://www.wired.com/story/pete-hegseth-is-about-to-get-his-ass-kicked/)
- - [Hands on with Home Assistant’s new ‘smart home multi-tool’](https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on)<!-- TECH:END -->
+ - [Sources: the Commerce Department is finalizing a semiconductor control update that would prevent remote access and chip smuggling into China via data centers &lpar;Leo Schwartz/The Information&rpar;](https://www.techmeme.com/261111/p53#a261111p53)
+ - [A detailed explanation of Apple&#39;s Secure Exclaves has been shared](https://appleinsider.com/articles/26/11/12/a-detailed-explanation-of-apples-secure-exclaves-has-been-shared?utm_source=rss)
+ - [Sources: some Nvidia board members favor naming CFO Colette Kress interim CEO; an administration official says the board briefed the White House on its meeting &lpar;Semafor&rpar;](https://www.techmeme.com/261111/p52#a261111p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
