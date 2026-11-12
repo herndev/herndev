@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the Commerce Department is finalizing a semiconductor control update that would prevent remote access and chip smuggling into China via data centers &lpar;Leo Schwartz/The Information&rpar;](https://www.techmeme.com/261111/p53#a261111p53)
- - [A detailed explanation of Apple&#39;s Secure Exclaves has been shared](https://appleinsider.com/articles/26/11/12/a-detailed-explanation-of-apples-secure-exclaves-has-been-shared?utm_source=rss)
- - [Sources: some Nvidia board members favor naming CFO Colette Kress interim CEO; an administration official says the board briefed the White House on its meeting &lpar;Semafor&rpar;](https://www.techmeme.com/261111/p52#a261111p52)<!-- TECH:END -->
+ - [Beijing says &quot;the US should stop fabricating the so-called Chinese spy narrative as a pretext for imposing technology restrictions&quot;; Trump and Xi meet next week &lpar;Bloomberg&rpar;](https://www.techmeme.com/261112/p19#a261112p19)
+ - [Russian pranksters tricked three OpenAI natsec and policy executives into a video meeting by posing as Ukrainian officials; OpenAI says it &quot;acted internally&quot; &lpar;Sam Biddle/The Intercept&rpar;](https://www.techmeme.com/261112/p18#a261112p18)
+ - [You Can Buy T-Shirts Glorifying Mass Shootings Almost Anywhere Online](https://www.wired.com/story/you-can-buy-t-shirts-glorifying-mass-shootings-almost-anywhere-online/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
