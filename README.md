@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Whoopsie](http://9gag.com/gag/aXL0ABP)
- - ⏩ [Peter please help](http://9gag.com/gag/aEMvR6e)
- - 👉 [White squirrel in my neighborhood I’ve named Harvey &lpar;Keitel&rpar; scolds us as we walk by.](https://www.reddit.com/r/funny/comments/1xtvaqt/white_squirrel_in_my_neighborhood_ive_named/)<!-- MEMES:END -->
+ - 💣 [Brooklyn](http://9gag.com/gag/aZnbm9X)
+ - ⏩ [Which tourists do you prefer to see?](http://9gag.com/gag/ae4j68O)
+ - 👉 [Peter please help](http://9gag.com/gag/aEMvR6e)<!-- MEMES:END -->
 
 ---
 
