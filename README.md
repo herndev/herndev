@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft Outlook is down](https://www.theverge.com/tech/1032226/microsoft-outlook-is-down)
- - [Microsoft Outlook is experiencing a major outage](https://www.androidauthority.com/microsoft-outlook-outage-nov-2026-3734664/)
- - [Climate Change Has Pushed the World&#39;s Ice Out of Its Safe Zone](https://www.wired.com/story/climate-change-abolishes-ice/)<!-- TECH:END -->
+ - [Sources: President Trump urged Jensen Huang to keep fighting for his job in a Tuesday call; aides say Trump saw the company as essentially too big to fail &lpar;New York Times&rpar;](https://www.techmeme.com/261112/p66#a261112p66)
+ - [New York-based Hatz AI, which makes tools for managed services providers to help small businesses adopt AI, raised a $24M Series A &lpar;CJ Fairfield/CRN&rpar;](https://www.techmeme.com/261112/p65#a261112p65)
+ - [Xbox announces Wolfenstein 3](https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
