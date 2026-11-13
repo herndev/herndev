@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: President Trump urged Jensen Huang to keep fighting for his job in a Tuesday call; aides say Trump saw the company as essentially too big to fail &lpar;New York Times&rpar;](https://www.techmeme.com/261112/p66#a261112p66)
- - [New York-based Hatz AI, which makes tools for managed services providers to help small businesses adopt AI, raised a $24M Series A &lpar;CJ Fairfield/CRN&rpar;](https://www.techmeme.com/261112/p65#a261112p65)
- - [Xbox announces Wolfenstein 3](https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3)<!-- TECH:END -->
+ - [Sources: Samsung is in talks to buy Modine Manufacturing, a US maker of data center cooling systems, as soon as the coming weeks; Modine&#39;s market value is $5.6B &lpar;Bloomberg&rpar;](https://www.techmeme.com/261113/p4#a261113p4)
+ - [Google Sheets now lets others explore your data without accessing your spreadsheet](https://www.androidauthority.com/google-sheets-canvas-sharing-3734807/)
+ - [Google rolls out a fix for missing Health app vitals and step counts](https://www.androidauthority.com/google-health-missing-vitals-fixed-3734799/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
