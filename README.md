@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Samsung is in talks to buy Modine Manufacturing, a US maker of data center cooling systems, as soon as the coming weeks; Modine&#39;s market value is $5.6B &lpar;Bloomberg&rpar;](https://www.techmeme.com/261113/p4#a261113p4)
- - [Google Sheets now lets others explore your data without accessing your spreadsheet](https://www.androidauthority.com/google-sheets-canvas-sharing-3734807/)
- - [Google rolls out a fix for missing Health app vitals and step counts](https://www.androidauthority.com/google-health-missing-vitals-fixed-3734799/)<!-- TECH:END -->
+ - [Siri AI is coming to Apple TV 4K, including models from 2021](https://appleinsider.com/articles/26/11/13/siri-ai-is-coming-to-apple-tv-4k-including-models-from-2021?utm_source=rss)
+ - [Google’s November Pixel update is leaving screensavers stuck at full brightness](https://www.androidauthority.com/google-pixel-screensaver-dimming-broken-november-update-3735044/)
+ - [OpenAI announces ChatGPT Wallet, which lets its dots AI agents make purchases on behalf of users, available to ChatGPT Pro subscribers in the US who are over 18 &lpar;Ashley Capoot/CNBC&rpar;](https://www.techmeme.com/261113/p15#a261113p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
