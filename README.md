@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Palestinian Tik Tok is now claiming that Israel is dropping snakes on Gaza. Over 200,000 likes. Genuinely the most low-IQ movement in history.](http://9gag.com/gag/aO2KzP6)
- - ⏩ [Good move](http://9gag.com/gag/ae4jMgj)
- - 👉 [Pirates of the Carribean ain&#39;t shit compared to this Masterpiece...](http://9gag.com/gag/aK1wj3N)<!-- MEMES:END -->
+ - ⏩ [Never ever?](http://9gag.com/gag/aGLYj2X)
+ - 👉 [Need to watch some good content](http://9gag.com/gag/aj7YXW0)<!-- MEMES:END -->
 
 ---
 
