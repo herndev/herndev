@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Siri AI is coming to Apple TV 4K, including models from 2021](https://appleinsider.com/articles/26/11/13/siri-ai-is-coming-to-apple-tv-4k-including-models-from-2021?utm_source=rss)
- - [Google’s November Pixel update is leaving screensavers stuck at full brightness](https://www.androidauthority.com/google-pixel-screensaver-dimming-broken-november-update-3735044/)
- - [OpenAI announces ChatGPT Wallet, which lets its dots AI agents make purchases on behalf of users, available to ChatGPT Pro subscribers in the US who are over 18 &lpar;Ashley Capoot/CNBC&rpar;](https://www.techmeme.com/261113/p15#a261113p15)<!-- TECH:END -->
+ - [FAA ground stop shuts down flights nationwide](https://www.theverge.com/news/1033489/faa-ground-stop)
+ - [The FAA issues a nationwide ground stop for all US airports following &quot;communication issues impacting multiple Air Route Traffic Control Centers&quot; &lpar;Alex Fitzpatrick/Axios&rpar;](https://www.techmeme.com/261113/p30#a261113p30)
+ - [FAA Grounds All US Flights Until Further Notice](https://www.wired.com/story/faa-grounds-all-us-flights-until-further-notice/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
