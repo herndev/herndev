@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FAA ground stop shuts down flights nationwide](https://www.theverge.com/news/1033489/faa-ground-stop)
- - [The FAA issues a nationwide ground stop for all US airports following &quot;communication issues impacting multiple Air Route Traffic Control Centers&quot; &lpar;Alex Fitzpatrick/Axios&rpar;](https://www.techmeme.com/261113/p30#a261113p30)
- - [FAA Grounds All US Flights Until Further Notice](https://www.wired.com/story/faa-grounds-all-us-flights-until-further-notice/)<!-- TECH:END -->
+ - [The FAA Nationwide Ground Stop Is Over](https://www.wired.com/story/the-faa-nationwide-ground-stop-is-over/)
+ - [Doc: Amazon, wary of AI agents favoring sites with better data, plans to gather data on nearly every product sold anywhere, including by crawling rivals&#39; sites &lpar;Greg Bensinger/Reuters&rpar;](https://www.techmeme.com/261113/p37#a261113p37)
+ - [Sources and messages: Jensen Huang misled several Nvidia leaders, including general counsel Tim Teter, about the nature of his relationship with Alice Huang &lpar;Reuters&rpar;](https://www.techmeme.com/261113/p36#a261113p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
