@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Youve been had](http://9gag.com/gag/aAQR3Eo)
- - ⏩ [Youve been had](http://9gag.com/gag/aAQR3Eo)
+ - 💣 [SFW](http://9gag.com/gag/aD7A1ZK)
+ - ⏩ [Temporary boyfriend](http://9gag.com/gag/aLLRgmA)
  - 👉 [Youve been had](http://9gag.com/gag/aAQR3Eo)<!-- MEMES:END -->
 
 ---
