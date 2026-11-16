@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Last week’s Microsoft Outlook outage turned a hotel pool fault into a hospital trip for 15 guests](https://www.androidauthority.com/microsoft-outage-phantasialand-chlorine-hotel-3735460/)
- - [New Apple health study wants to find out how much you trust AI](https://appleinsider.com/articles/26/11/16/new-apple-health-study-wants-to-find-out-how-much-you-trust-ai?utm_source=rss)
- - [Canada faces intense lobbying from Meta, Apple, Alphabet, and Signal over Bill C-22, which would compel them to retain and hand over metadata to the authorities &lpar;Laura Osman/Bloomberg&rpar;](https://www.techmeme.com/261116/p19#a261116p19)<!-- TECH:END -->
+ - [JBL Tune 730BT headphones drop to $49.95 with 44% off](https://www.androidauthority.com/jbl-tune-730bt-deal-3735758/)
+ - [Save $120 on the Skullcandy Crusher ANC 2 noise canceling headphones](https://www.androidauthority.com/skullcandy-crusher-anc-2-deal-amazon-3735757/)
+ - [Galaxy Tab A11 Plus Kids Edition hits a record low](https://www.androidauthority.com/samsung-galaxy-tab-a11-plus-kids-edition-deal-3735756/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
