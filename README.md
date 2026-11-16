@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mount Thor, which is building cloud infrastructure for agentic AI on Apple silicon, raised $45M in a seed round and a Series A co-led by CRV and Conviction &lpar;Bradley C/9to5Mac&rpar;](https://www.techmeme.com/261115/p23#a261115p23)
- - [Toronto-based Blue J, which provides AI-powered tax research software, raised a $176M Series E round led by JMI Equity at a $700M+ valuation &lpar;Alex Riehl/BetaKit&rpar;](https://www.techmeme.com/261115/p22#a261115p22)
- - [Google Messages could soon make pinned chats better with a clever layout switching trick](https://www.androidauthority.com/google-messages-pinned-chats-automatic-layout-change-3735269/)<!-- TECH:END -->
+ - [Last week’s Microsoft Outlook outage turned a hotel pool fault into a hospital trip for 15 guests](https://www.androidauthority.com/microsoft-outage-phantasialand-chlorine-hotel-3735460/)
+ - [New Apple health study wants to find out how much you trust AI](https://appleinsider.com/articles/26/11/16/new-apple-health-study-wants-to-find-out-how-much-you-trust-ai?utm_source=rss)
+ - [Canada faces intense lobbying from Meta, Apple, Alphabet, and Signal over Bill C-22, which would compel them to retain and hand over metadata to the authorities &lpar;Laura Osman/Bloomberg&rpar;](https://www.techmeme.com/261116/p19#a261116p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
