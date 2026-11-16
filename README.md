@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I can see the disappointment in her face](http://9gag.com/gag/aVgz7RM)
- - ⏩ [Would you?](http://9gag.com/gag/aGLYpB7)
- - 👉 [Full image in the comments](http://9gag.com/gag/ap1ENL5)<!-- MEMES:END -->
+ - 💣 [Full image in the comments](http://9gag.com/gag/ap1ENL5)
+ - ⏩ [James Bond](http://9gag.com/gag/axWdBmW)
+ - 👉 [Which nation has produced the world&#39;s most magnificent architecture throughout history?](http://9gag.com/gag/aoWEgvg)<!-- MEMES:END -->
 
 ---
 
