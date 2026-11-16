@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FAA Nationwide Ground Stop Is Over](https://www.wired.com/story/the-faa-nationwide-ground-stop-is-over/)
- - [Doc: Amazon, wary of AI agents favoring sites with better data, plans to gather data on nearly every product sold anywhere, including by crawling rivals&#39; sites &lpar;Greg Bensinger/Reuters&rpar;](https://www.techmeme.com/261113/p37#a261113p37)
- - [Sources and messages: Jensen Huang misled several Nvidia leaders, including general counsel Tim Teter, about the nature of his relationship with Alice Huang &lpar;Reuters&rpar;](https://www.techmeme.com/261113/p36#a261113p36)<!-- TECH:END -->
+ - [Mount Thor, which is building cloud infrastructure for agentic AI on Apple silicon, raised $45M in a seed round and a Series A co-led by CRV and Conviction &lpar;Bradley C/9to5Mac&rpar;](https://www.techmeme.com/261115/p23#a261115p23)
+ - [Toronto-based Blue J, which provides AI-powered tax research software, raised a $176M Series E round led by JMI Equity at a $700M+ valuation &lpar;Alex Riehl/BetaKit&rpar;](https://www.techmeme.com/261115/p22#a261115p22)
+ - [Google Messages could soon make pinned chats better with a clever layout switching trick](https://www.androidauthority.com/google-messages-pinned-chats-automatic-layout-change-3735269/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
