@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [SFW](http://9gag.com/gag/aD7A1ZK)
- - ⏩ [Temporary boyfriend](http://9gag.com/gag/aLLRgmA)
- - 👉 [Youve been had](http://9gag.com/gag/aAQR3Eo)<!-- MEMES:END -->
+ - 💣 [Would you?](http://9gag.com/gag/aGLYpB7)
+ - ⏩ [Full image in the comments](http://9gag.com/gag/ap1ENL5)
+ - 👉 [She deserved more karma](http://9gag.com/gag/a4nKEEd)<!-- MEMES:END -->
 
 ---
 
