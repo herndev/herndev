@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [James Bond](http://9gag.com/gag/axWdBmW)
- - ⏩ [First class](http://9gag.com/gag/ayq79gb)
- - 👉 [Which nation has produced the world&#39;s most magnificent architecture throughout history?](http://9gag.com/gag/aoWEgvg)<!-- MEMES:END -->
+ - 💣 [The kills kill](http://9gag.com/gag/abeXAqL)
+ - ⏩ [Make sure you have another job offer in hand before you pull this trick on HR.](http://9gag.com/gag/aLLR1gv)
+ - 👉 [I know you are](http://9gag.com/gag/a5VeEYr)<!-- MEMES:END -->
 
 ---
 
