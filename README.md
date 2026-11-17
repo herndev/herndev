@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [JBL Tune 730BT headphones drop to $49.95 with 44% off](https://www.androidauthority.com/jbl-tune-730bt-deal-3735758/)
- - [Save $120 on the Skullcandy Crusher ANC 2 noise canceling headphones](https://www.androidauthority.com/skullcandy-crusher-anc-2-deal-amazon-3735757/)
- - [Galaxy Tab A11 Plus Kids Edition hits a record low](https://www.androidauthority.com/samsung-galaxy-tab-a11-plus-kids-edition-deal-3735756/)<!-- TECH:END -->
+ - [Meta is testing Direct, a standalone messaging app for Instagram that doesn&#39;t require an existing Instagram account to use, in Thailand and Turkey &lpar;Karissa Bell/Engadget&rpar;](https://www.techmeme.com/261116/p53#a261116p53)
+ - [Google’s ‘Pixel virtual gamepad’ is finally rolling out for foldable Pixels](https://www.androidauthority.com/google-pixel-virtual-gamepad-rollout-3735792/)
+ - [Anthropic tells investors Claude Mythos Preview got its AI running on AMD GPUs in ~3 days with &quot;basically no human intervention&quot;, vs. the usual 6-12 months &lpar;Shane Downing/Tom&#39;s Hardware&rpar;](https://www.techmeme.com/261116/p52#a261116p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
