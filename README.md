@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Full image in the comments](http://9gag.com/gag/ap1ENL5)
- - ⏩ [James Bond](http://9gag.com/gag/axWdBmW)
+ - 💣 [James Bond](http://9gag.com/gag/axWdBmW)
+ - ⏩ [First class](http://9gag.com/gag/ayq79gb)
  - 👉 [Which nation has produced the world&#39;s most magnificent architecture throughout history?](http://9gag.com/gag/aoWEgvg)<!-- MEMES:END -->
 
 ---
