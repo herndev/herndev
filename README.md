@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Disney Plus and Hulu’s fully unified app arrives next month](https://www.theverge.com/streaming/1035226/disney-plus-hulu-app-merger-q4-2026)
- - [iPhone, iPad targeted by massive website malware attack](https://appleinsider.com/articles/26/11/17/iphone-ipad-targeted-by-massive-website-malware-attack?utm_source=rss)
- - [SEC filing: Amazon and Google are set to hold ~15% and ~14% of Anthropic&#39;s outstanding capital stock, respectively, after its IPO and private placement &lpar;David Morris/Bloomberg&rpar;](https://www.techmeme.com/261117/p25#a261117p25)<!-- TECH:END -->
+ - [Google Home app will show estimated Nest Thermostat energy savings next month](https://www.androidauthority.com/nest-thermostat-energy-savings-3736271/)
+ - [Artificial Analysis shows GPT-6.2 Astra trailing only Claude Fable 5.2 in its main index, flat vs. GPT-6 Astra in coding; Epoch AI has Astra tied with Fable 5.2 &lpar;Matthias Bastian/The Decoder&rpar;](https://www.techmeme.com/261117/p57#a261117p57)
+ - [Nvidia reports Q3 revenue up 103% YoY to $115.8B, above $109.1B est., Data Center revenue up 110% to $107.6B, and forecasts Q4 revenue above estimates &lpar;Nvidia Newsroom&rpar;](https://www.techmeme.com/261117/p56#a261117p56)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
