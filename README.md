@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta is testing Direct, a standalone messaging app for Instagram that doesn&#39;t require an existing Instagram account to use, in Thailand and Turkey &lpar;Karissa Bell/Engadget&rpar;](https://www.techmeme.com/261116/p53#a261116p53)
- - [Google’s ‘Pixel virtual gamepad’ is finally rolling out for foldable Pixels](https://www.androidauthority.com/google-pixel-virtual-gamepad-rollout-3735792/)
- - [Anthropic tells investors Claude Mythos Preview got its AI running on AMD GPUs in ~3 days with &quot;basically no human intervention&quot;, vs. the usual 6-12 months &lpar;Shane Downing/Tom&#39;s Hardware&rpar;](https://www.techmeme.com/261116/p52#a261116p52)<!-- TECH:END -->
+ - [Disney Plus and Hulu’s fully unified app arrives next month](https://www.theverge.com/streaming/1035226/disney-plus-hulu-app-merger-q4-2026)
+ - [iPhone, iPad targeted by massive website malware attack](https://appleinsider.com/articles/26/11/17/iphone-ipad-targeted-by-massive-website-malware-attack?utm_source=rss)
+ - [SEC filing: Amazon and Google are set to hold ~15% and ~14% of Anthropic&#39;s outstanding capital stock, respectively, after its IPO and private placement &lpar;David Morris/Bloomberg&rpar;](https://www.techmeme.com/261117/p25#a261117p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
