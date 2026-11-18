@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Home app will show estimated Nest Thermostat energy savings next month](https://www.androidauthority.com/nest-thermostat-energy-savings-3736271/)
- - [Artificial Analysis shows GPT-6.2 Astra trailing only Claude Fable 5.2 in its main index, flat vs. GPT-6 Astra in coding; Epoch AI has Astra tied with Fable 5.2 &lpar;Matthias Bastian/The Decoder&rpar;](https://www.techmeme.com/261117/p57#a261117p57)
- - [Nvidia reports Q3 revenue up 103% YoY to $115.8B, above $109.1B est., Data Center revenue up 110% to $107.6B, and forecasts Q4 revenue above estimates &lpar;Nvidia Newsroom&rpar;](https://www.techmeme.com/261117/p56#a261117p56)<!-- TECH:END -->
+ - [Sources: a faction of Nvidia board members is pushing for Jensen Huang&#39;s return despite Chair Harvey Jones stating the board has no plans to reinstate Huang &lpar;Semafor&rpar;](https://www.techmeme.com/261117/p69#a261117p69)
+ - [After two months of testimony, the US criminal trial against Huawei, accused of bank fraud and trade secret theft, is set to begin jury deliberations Wednesday &lpar;Karen Freifeld/Reuters&rpar;](https://www.techmeme.com/261117/p68#a261117p68)
+ - [Google Home cameras are getting smarter with audio-aware alerts and fewer false alarms](https://www.androidauthority.com/google-home-cameras-update-3736323/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
