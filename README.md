@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: a faction of Nvidia board members is pushing for Jensen Huang&#39;s return despite Chair Harvey Jones stating the board has no plans to reinstate Huang &lpar;Semafor&rpar;](https://www.techmeme.com/261117/p69#a261117p69)
- - [After two months of testimony, the US criminal trial against Huawei, accused of bank fraud and trade secret theft, is set to begin jury deliberations Wednesday &lpar;Karen Freifeld/Reuters&rpar;](https://www.techmeme.com/261117/p68#a261117p68)
- - [Google Home cameras are getting smarter with audio-aware alerts and fewer false alarms](https://www.androidauthority.com/google-home-cameras-update-3736323/)<!-- TECH:END -->
+ - [Bengaluru-based Humyn Labs, which creates robot training data using first-person footage from cameras, raised $26M in equity led by Accel and $21M in debt &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/261118/p17#a261118p17)
+ - [More Liquid Glass refinements being tested in iOS 27.3 beta](https://appleinsider.com/articles/26/11/18/more-liquid-glass-refinements-being-tested-in-ios-273-beta?utm_source=rss)
+ - [NASA’s Voyager 1 probe is now one light-day away](https://www.theverge.com/science/1036431/nasa-voyager-1-light-day-milestone)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
