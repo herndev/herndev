@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bengaluru-based Humyn Labs, which creates robot training data using first-person footage from cameras, raised $26M in equity led by Accel and $21M in debt &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/261118/p17#a261118p17)
- - [More Liquid Glass refinements being tested in iOS 27.3 beta](https://appleinsider.com/articles/26/11/18/more-liquid-glass-refinements-being-tested-in-ios-273-beta?utm_source=rss)
- - [NASA’s Voyager 1 probe is now one light-day away](https://www.theverge.com/science/1036431/nasa-voyager-1-light-day-milestone)<!-- TECH:END -->
+ - [New Apple Card users can get double the Daily Cash with Apple&#39;s latest promotion](https://appleinsider.com/articles/26/11/18/new-apple-card-users-can-get-double-the-daily-cash-with-apples-latest-promotion?utm_source=rss)
+ - [Motorola Razr Fold receives its first major OS upgrade with Android 17](https://www.androidauthority.com/motorola-razr-fold-android-17-update-rollout-3736847/)
+ - [Google rebrands its Gemini Spark AI agent as Tasks and makes it free in six countries; in the US it can call businesses and buy items with Google Pay &lpar;Emma Roth/The Verge&rpar;](https://www.techmeme.com/261118/p39#a261118p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
