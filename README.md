@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Apple Card users can get double the Daily Cash with Apple&#39;s latest promotion](https://appleinsider.com/articles/26/11/18/new-apple-card-users-can-get-double-the-daily-cash-with-apples-latest-promotion?utm_source=rss)
- - [Motorola Razr Fold receives its first major OS upgrade with Android 17](https://www.androidauthority.com/motorola-razr-fold-android-17-update-rollout-3736847/)
- - [Google rebrands its Gemini Spark AI agent as Tasks and makes it free in six countries; in the US it can call businesses and buy items with Google Pay &lpar;Emma Roth/The Verge&rpar;](https://www.techmeme.com/261118/p39#a261118p39)<!-- TECH:END -->
+ - [OpenAI says agents now complete 46% of its researchers&#39; 2-to-4-hour tasks on their own, vs. 23% in March, median researcher&#39;s agent use hit $2,400/day, and more &lpar;OpenAI&rpar;](https://www.techmeme.com/261118/p54#a261118p54)
+ - [Elon Musk tries to explain what&amp;#8217;s going on with Ukraine and Starlink](https://www.theverge.com/tech/1037448/elon-musk-ukraine-starlink-starshield-nyt-dealbook)
+ - [Source: MoviePass is exploring a sale, pitching potential buyers on bundling movie tickets with streaming subscriptions; it has $10M in annual recurring revenue &lpar;Mark Stenberg/Adweek&rpar;](https://www.techmeme.com/261118/p53#a261118p53)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
