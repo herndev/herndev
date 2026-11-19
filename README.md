@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI says agents now complete 46% of its researchers&#39; 2-to-4-hour tasks on their own, vs. 23% in March, median researcher&#39;s agent use hit $2,400/day, and more &lpar;OpenAI&rpar;](https://www.techmeme.com/261118/p54#a261118p54)
- - [Elon Musk tries to explain what&amp;#8217;s going on with Ukraine and Starlink](https://www.theverge.com/tech/1037448/elon-musk-ukraine-starlink-starshield-nyt-dealbook)
- - [Source: MoviePass is exploring a sale, pitching potential buyers on bundling movie tickets with streaming subscriptions; it has $10M in annual recurring revenue &lpar;Mark Stenberg/Adweek&rpar;](https://www.techmeme.com/261118/p53#a261118p53)<!-- TECH:END -->
+ - [Filings: Anthropic sold $1.1B of stock to retail investors in the UK, the EU, Norway, and Switzerland in its record IPO; UK investors bought 3.6M+ shares &lpar;Pablo Mayo Cerqueiro/Bloomberg&rpar;](https://www.techmeme.com/261119/p12#a261119p12)
+ - [Sources: TSMC and Samsung have suspended some chip shipments to Chinese customers while they apply for US Commerce Department licenses, after new US curbs &lpar;Financial Times&rpar;](https://www.techmeme.com/261119/p11#a261119p11)
+ - [Save up to 42% on LiberNovo dynamic ergonomic chairs this Black Friday, built for full-recline work](https://www.androidauthority.com/libernovo-black-friday-deals-2026-3735662/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
