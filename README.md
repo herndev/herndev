@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filings: Anthropic sold $1.1B of stock to retail investors in the UK, the EU, Norway, and Switzerland in its record IPO; UK investors bought 3.6M+ shares &lpar;Pablo Mayo Cerqueiro/Bloomberg&rpar;](https://www.techmeme.com/261119/p12#a261119p12)
- - [Sources: TSMC and Samsung have suspended some chip shipments to Chinese customers while they apply for US Commerce Department licenses, after new US curbs &lpar;Financial Times&rpar;](https://www.techmeme.com/261119/p11#a261119p11)
- - [Save up to 42% on LiberNovo dynamic ergonomic chairs this Black Friday, built for full-recline work](https://www.androidauthority.com/libernovo-black-friday-deals-2026-3735662/)<!-- TECH:END -->
+ - [&#39;Oxygen Not Included&#39; is now Apple Silicon native](https://appleinsider.com/articles/26/11/19/oxygen-not-included-is-now-apple-silicon-native?utm_source=rss)
+ - [A bipartisan group of 24+ House lawmakers forms the AI Safety and Innovation Caucus, seeking to balance mitigating AI risks with maintaining US leadership in AI &lpar;Owen Dahlkamp/Politico&rpar;](https://www.techmeme.com/261119/p48#a261119p48)
+ - [Google adds computer use to Gemini for macOS, letting it work across apps, files, and the web in the background, available to US AI Plus, Pro, and Ultra users &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/261119/p47#a261119p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
