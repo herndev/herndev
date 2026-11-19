@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You can&#39;t kill ppl protesting for LGBTQ rights in GTA VI](http://9gag.com/gag/aVgzgrw)
- - ⏩ [Make sure you have another job offer in hand before you pull this trick on HR.](http://9gag.com/gag/aLLR1gv)
- - 👉 [You can&#39;t kill ppl protesting for LGBTQ rights in GTA VI](http://9gag.com/gag/aVgzgrw)<!-- MEMES:END -->
+ - 💣 [$imp Sim VI](http://9gag.com/gag/aYGNEG7)
+ - ⏩ [Best video ever](http://9gag.com/gag/aBZR6yN)
+ - 👉 [Activists and minority NPCs are invulnerable in GTA VI. And Nexusmod will ban any mod that remove their invincibility](http://9gag.com/gag/amWN17j)<!-- MEMES:END -->
 
 ---
 
