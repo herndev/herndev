@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Iconiq invested more than $6B in Anthropic; its estimated 1.8% stake was worth ~$31.8B at Thursday&#39;s close, a 430%+ return on investment &lpar;Richard Nieva/Forbes&rpar;](https://www.techmeme.com/261119/p56#a261119p56)
- - [Engwe M20 3.0 review: Cruising in style without any smarts](https://appleinsider.com/articles/26/11/20/engwe-m20-30-review-cruising-in-style-without-any-smarts?utm_source=rss)
- - [Sources: Menlo invested $1B+ for a ~1.5% Anthropic stake, worth $20B+ at a $1.5T valuation; Lightspeed, the top financial investor, invested $3B+ and holds 2%+ &lpar;Krystal Hu/Reuters&rpar;](https://www.techmeme.com/261119/p55#a261119p55)<!-- TECH:END -->
+ - [Samsung just made the Galaxy S26 camera better with these One UI 9.5 upgrades](https://www.androidauthority.com/one-ui-9-5-pro-presets-3736710/)
+ - [Samsung’s Auto Blocker won’t switch off during calls in One UI 9.5](https://www.androidauthority.com/one-ui-9-5-auto-blocker-anti-scam-3737564/)
+ - [Google Fi gives its Android app a fresh look and smarter customer support](https://www.androidauthority.com/google-fi-app-redesign-3737549/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
