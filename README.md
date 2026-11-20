@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Finish the Drawing](http://9gag.com/gag/a2MzMAe)
- - ⏩ [The Cozy Room](http://9gag.com/gag/a8AL6B1)
+ - 💣 [The Simp VI](http://9gag.com/gag/a8ALm8d)
+ - ⏩ [So, is it any good...?](http://9gag.com/gag/abeXO2r)
  - 👉 [$imp Sim VI](http://9gag.com/gag/aYGNEG7)<!-- MEMES:END -->
 
 ---
