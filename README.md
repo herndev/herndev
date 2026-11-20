@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Oxygen Not Included&#39; is now Apple Silicon native](https://appleinsider.com/articles/26/11/19/oxygen-not-included-is-now-apple-silicon-native?utm_source=rss)
- - [A bipartisan group of 24+ House lawmakers forms the AI Safety and Innovation Caucus, seeking to balance mitigating AI risks with maintaining US leadership in AI &lpar;Owen Dahlkamp/Politico&rpar;](https://www.techmeme.com/261119/p48#a261119p48)
- - [Google adds computer use to Gemini for macOS, letting it work across apps, files, and the web in the background, available to US AI Plus, Pro, and Ultra users &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/261119/p47#a261119p47)<!-- TECH:END -->
+ - [Source: Iconiq invested more than $6B in Anthropic; its estimated 1.8% stake was worth ~$31.8B at Thursday&#39;s close, a 430%+ return on investment &lpar;Richard Nieva/Forbes&rpar;](https://www.techmeme.com/261119/p56#a261119p56)
+ - [Engwe M20 3.0 review: Cruising in style without any smarts](https://appleinsider.com/articles/26/11/20/engwe-m20-30-review-cruising-in-style-without-any-smarts?utm_source=rss)
+ - [Sources: Menlo invested $1B+ for a ~1.5% Anthropic stake, worth $20B+ at a $1.5T valuation; Lightspeed, the top financial investor, invested $3B+ and holds 2%+ &lpar;Krystal Hu/Reuters&rpar;](https://www.techmeme.com/261119/p55#a261119p55)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
