@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung just made the Galaxy S26 camera better with these One UI 9.5 upgrades](https://www.androidauthority.com/one-ui-9-5-pro-presets-3736710/)
- - [Samsung’s Auto Blocker won’t switch off during calls in One UI 9.5](https://www.androidauthority.com/one-ui-9-5-auto-blocker-anti-scam-3737564/)
- - [Google Fi gives its Android app a fresh look and smarter customer support](https://www.androidauthority.com/google-fi-app-redesign-3737549/)<!-- TECH:END -->
+ - [Microsoft abandoning To Do, only Mac alternative is the terrible Teams](https://appleinsider.com/articles/26/11/20/microsoft-abandoning-to-do-only-mac-alternative-is-the-terrible-teams?utm_source=rss)
+ - [Don’t Miss Out on GTA 6 Launch Week: Here’s How to Take Rockstar’s New Game Anywhere](https://www.cnet.com/tech/how-to-take-gta-6-anywhere/)
+ - [Apple supplier TSMC cuts off China chip orders amid tighter export controls](https://appleinsider.com/articles/26/11/20/apple-supplier-tsmc-cuts-off-china-chip-orders-amid-tighter-export-controls?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
