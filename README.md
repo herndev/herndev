@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Alright Johnny Sins...](http://9gag.com/gag/aoWEV82)
+ - 💣 [Punching like a girl](http://9gag.com/gag/aQgP72d)
  - ⏩ [Actor Behind GTA 6\u2019s Mandy Reveals Her Identity After Taking The Internet By Storm](http://9gag.com/gag/a0o80ZO)
  - 👉 [`Woke Theft Auto` introduced `empathy system` to reward people for not doing crimes](http://9gag.com/gag/agQ37Vg)<!-- MEMES:END -->
 
