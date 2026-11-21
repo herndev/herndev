@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft abandoning To Do, only Mac alternative is the terrible Teams](https://appleinsider.com/articles/26/11/20/microsoft-abandoning-to-do-only-mac-alternative-is-the-terrible-teams?utm_source=rss)
- - [Don’t Miss Out on GTA 6 Launch Week: Here’s How to Take Rockstar’s New Game Anywhere](https://www.cnet.com/tech/how-to-take-gta-6-anywhere/)
- - [Apple supplier TSMC cuts off China chip orders amid tighter export controls](https://appleinsider.com/articles/26/11/20/apple-supplier-tsmc-cuts-off-china-chip-orders-amid-tighter-export-controls?utm_source=rss)<!-- TECH:END -->
+ - [Even the Iconic Google Home Page Can’t Survive the Push for More AI](https://www.cnet.com/tech/services-and-software/google-home-page-new-ai-features/)
+ - [Nasdaq 100 fell 5.6% on Friday, taking its loss for the week to 10.4%, its worst run in more than six years, amid fears of a slowdown in the AI investment boom &lpar;George Steer/Financial Times&rpar;](https://www.techmeme.com/261120/p42#a261120p42)
+ - [Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop](https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
