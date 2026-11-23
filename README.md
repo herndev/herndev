@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Lest we forget](http://9gag.com/gag/aO2K9dv)
- - ⏩ [11-year-old American kid arrested after threatening mass shooting and showing off his arsenal of weapons to his friends](http://9gag.com/gag/agQ347v)
- - 👉 [Dad, pick me up im scared](http://9gag.com/gag/ap1EPd5)<!-- MEMES:END -->
+ - ⏩ [Hotel Service](http://9gag.com/gag/a9zb2MK)
+ - 👉 [Has anyone found this one in gta yet](http://9gag.com/gag/aBZRPqP)<!-- MEMES:END -->
 
 ---
 
