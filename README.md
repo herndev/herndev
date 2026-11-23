@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Punching like a girl](http://9gag.com/gag/aQgP72d)
- - ⏩ [Actor Behind GTA 6\u2019s Mandy Reveals Her Identity After Taking The Internet By Storm](http://9gag.com/gag/a0o80ZO)
- - 👉 [`Woke Theft Auto` introduced `empathy system` to reward people for not doing crimes](http://9gag.com/gag/agQ37Vg)<!-- MEMES:END -->
+ - 💣 [Lest we forget](http://9gag.com/gag/aO2K9dv)
+ - ⏩ [11-year-old American kid arrested after threatening mass shooting and showing off his arsenal of weapons to his friends](http://9gag.com/gag/agQ347v)
+ - 👉 [Dad, pick me up im scared](http://9gag.com/gag/ap1EPd5)<!-- MEMES:END -->
 
 ---
 
