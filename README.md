@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alexandr Wang says the Riemann Hypothesis proof shows AI will surpass humans in every field, including AI research, and calls for AI safety and alignment &lpar;Alexandr Wang/@alexandr_wang&rpar;](https://www.techmeme.com/261122/p19#a261122p19)
- - [YouTube is cooking up 7 new app icons, and the retro designs are a treat](https://www.androidauthority.com/youtube-new-app-icons-3737984/)
- - [Arva AI, which builds AI agents for banks&#39; financial-crime compliance teams and counts Wise as a customer, raised a $20M Series A led by Arthur Ventures &lpar;Ryan Lawler/Axios&rpar;](https://www.techmeme.com/261122/p18#a261122p18)<!-- TECH:END -->
+ - [Samsung Display to remain sole iPhone Duo screen supplier](https://appleinsider.com/articles/26/11/23/samsung-display-to-remain-sole-iphone-duo-screen-supplier?utm_source=rss)
+ - [CMF Buds 2 hit a new record low at 54% off](https://www.androidauthority.com/cmf-buds-2-under-25-deal-3738390/)
+ - [Amazon slashes up to $310 off M5 MacBook Air, prices as low as $989](https://appleinsider.com/articles/26/11/23/amazon-slashes-up-to-310-off-m5-macbook-air-prices-as-low-as-989?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
