@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Even the Iconic Google Home Page Can’t Survive the Push for More AI](https://www.cnet.com/tech/services-and-software/google-home-page-new-ai-features/)
- - [Nasdaq 100 fell 5.6% on Friday, taking its loss for the week to 10.4%, its worst run in more than six years, amid fears of a slowdown in the AI investment boom &lpar;George Steer/Financial Times&rpar;](https://www.techmeme.com/261120/p42#a261120p42)
- - [Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop](https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/)<!-- TECH:END -->
+ - [Alexandr Wang says the Riemann Hypothesis proof shows AI will surpass humans in every field, including AI research, and calls for AI safety and alignment &lpar;Alexandr Wang/@alexandr_wang&rpar;](https://www.techmeme.com/261122/p19#a261122p19)
+ - [YouTube is cooking up 7 new app icons, and the retro designs are a treat](https://www.androidauthority.com/youtube-new-app-icons-3737984/)
+ - [Arva AI, which builds AI agents for banks&#39; financial-crime compliance teams and counts Wise as a customer, raised a $20M Series A led by Arthur Ventures &lpar;Ryan Lawler/Axios&rpar;](https://www.techmeme.com/261122/p18#a261122p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
