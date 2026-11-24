@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: ex-OpenAI engineer Abdulrahman Alfozan recorded a meeting with foreign government reps and photographed a confidential term sheet with another company &lpar;Emmy Martin/New York Times&rpar;](https://www.techmeme.com/261123/p50#a261123p50)
- - [US prosecutors say the ex-OpenAI engineer charged with bugging an exec conference room had dozens of OpenAI meeting recordings, many on possible trade secrets &lpar;Madlin Mekelburg/Bloomberg&rpar;](https://www.techmeme.com/261123/p49#a261123p49)
- - [Wacom MovinkPad Pro 14 review: It&#39;s good, but it&#39;s Android](https://appleinsider.com/articles/26/11/24/wacom-movinkpad-pro-14-review-its-good-but-its-android?utm_source=rss)<!-- TECH:END -->
+ - [Spotify outage locks thousands of users out of accounts with widespread login failures](https://www.androidauthority.com/spotify-outage-login-issues-3738825/)
+ - [A profile of Levent Alpöge, the Anthropic mathematician who found a Riemann hypothesis proof with Claude and held off releasing it until after Anthropic&#39;s IPO &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/261124/p16#a261124p16)
+ - [Black Friday knocks the Logitech G305 gaming mouse under $27](https://www.androidauthority.com/logitech-g305-deal-3738559/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
