@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just started my 12-hour shift at the hand-washing and tube-slapping station at the bullshit factory](http://9gag.com/gag/aYGNAwv)
- - ⏩ [Oh No , This Is Bad ... Where Is This Please ?](http://9gag.com/gag/avWpdpX)
- - 👉 [Every day](http://9gag.com/gag/aLLRXYW)<!-- MEMES:END -->
+ - 💣 [Which one would you saying yes to?](http://9gag.com/gag/a9zbOQm)
+ - ⏩ [Just started my 12-hour shift at the hand-washing and tube-slapping station at the bullshit factory](http://9gag.com/gag/aYGNAwv)
+ - 👉 [European vacation](http://9gag.com/gag/aj7YWv0)<!-- MEMES:END -->
 
 ---
 
