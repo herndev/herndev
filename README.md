@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Which one would you saying yes to?](http://9gag.com/gag/a9zbOQm)
- - ⏩ [Just started my 12-hour shift at the hand-washing and tube-slapping station at the bullshit factory](http://9gag.com/gag/aYGNAwv)
+ - 💣 [European vacation](http://9gag.com/gag/aj7YWv0)
+ - ⏩ [POLL: Which continent has the most sophisticated and historically rich cultural heritage??](http://9gag.com/gag/a2MzOPp)
  - 👉 [European vacation](http://9gag.com/gag/aj7YWv0)<!-- MEMES:END -->
 
 ---
