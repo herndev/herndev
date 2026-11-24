@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lest we forget](http://9gag.com/gag/aO2K9dv)
- - ⏩ [Hotel Service](http://9gag.com/gag/a9zb2MK)
- - 👉 [Has anyone found this one in gta yet](http://9gag.com/gag/aBZRPqP)<!-- MEMES:END -->
+ - 💣 [Just started my 12-hour shift at the hand-washing and tube-slapping station at the bullshit factory](http://9gag.com/gag/aYGNAwv)
+ - ⏩ [Oh No , This Is Bad ... Where Is This Please ?](http://9gag.com/gag/avWpdpX)
+ - 👉 [Every day](http://9gag.com/gag/aLLRXYW)<!-- MEMES:END -->
 
 ---
 
