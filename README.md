@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify outage locks thousands of users out of accounts with widespread login failures](https://www.androidauthority.com/spotify-outage-login-issues-3738825/)
- - [A profile of Levent Alpöge, the Anthropic mathematician who found a Riemann hypothesis proof with Claude and held off releasing it until after Anthropic&#39;s IPO &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/261124/p16#a261124p16)
- - [Black Friday knocks the Logitech G305 gaming mouse under $27](https://www.androidauthority.com/logitech-g305-deal-3738559/)<!-- TECH:END -->
+ - [Jensen Huang&#39;s return is greeted with relief in China, with state media saying &quot;The king is back!&quot;, as Asian stocks jump; Taiwan hailed him as a hometown hero &lpar;Washington Post&rpar;](https://www.techmeme.com/261124/p41#a261124p41)
+ - [Huawei found guilty of stealing trade secrets](https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial)
+ - [Android Auto is rolling out a new app navigation layout perfect for wide displays](https://www.androidauthority.com/android-auto-app-layout-3739081/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
