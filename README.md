@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Display to remain sole iPhone Duo screen supplier](https://appleinsider.com/articles/26/11/23/samsung-display-to-remain-sole-iphone-duo-screen-supplier?utm_source=rss)
- - [CMF Buds 2 hit a new record low at 54% off](https://www.androidauthority.com/cmf-buds-2-under-25-deal-3738390/)
- - [Amazon slashes up to $310 off M5 MacBook Air, prices as low as $989](https://appleinsider.com/articles/26/11/23/amazon-slashes-up-to-310-off-m5-macbook-air-prices-as-low-as-989?utm_source=rss)<!-- TECH:END -->
+ - [Filing: ex-OpenAI engineer Abdulrahman Alfozan recorded a meeting with foreign government reps and photographed a confidential term sheet with another company &lpar;Emmy Martin/New York Times&rpar;](https://www.techmeme.com/261123/p50#a261123p50)
+ - [US prosecutors say the ex-OpenAI engineer charged with bugging an exec conference room had dozens of OpenAI meeting recordings, many on possible trade secrets &lpar;Madlin Mekelburg/Bloomberg&rpar;](https://www.techmeme.com/261123/p49#a261123p49)
+ - [Wacom MovinkPad Pro 14 review: It&#39;s good, but it&#39;s Android](https://appleinsider.com/articles/26/11/24/wacom-movinkpad-pro-14-review-its-good-but-its-android?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
