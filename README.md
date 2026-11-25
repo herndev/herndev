@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jensen Huang&#39;s return is greeted with relief in China, with state media saying &quot;The king is back!&quot;, as Asian stocks jump; Taiwan hailed him as a hometown hero &lpar;Washington Post&rpar;](https://www.techmeme.com/261124/p41#a261124p41)
- - [Huawei found guilty of stealing trade secrets](https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial)
- - [Android Auto is rolling out a new app navigation layout perfect for wide displays](https://www.androidauthority.com/android-auto-app-layout-3739081/)<!-- TECH:END -->
+ - [T-Mobile announces Black Friday 2026 deals: Free Pixel 11 Pro, Galaxy S26 Plus, and more](https://www.androidauthority.com/t-mobile-black-friday-2026-deals-3739162/)
+ - [Sources: Muse boosts Meta&#39;s ad business by prompting Instagram users to organize saved posts in Muse, reducing shopping friction and increasing advertisers&#39; ROI &lpar;Julia Boorstin/CNBC&rpar;](https://www.techmeme.com/261124/p53#a261124p53)
+ - [Sources: US intelligence officials told congressional aides Alice Huang wasn&#39;t directed by China&#39;s MSS on Jensen Huang affair, but may have passed intel to MSS &lpar;New York Times&rpar;](https://www.techmeme.com/261124/p52#a261124p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
