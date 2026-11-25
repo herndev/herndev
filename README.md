@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [European vacation](http://9gag.com/gag/aj7YWv0)
+ - 💣 [Video from Algerian Football League... Notice Anything? &lpar;PS: guess what the official religion of algeria is&rpar;](http://9gag.com/gag/aNLrj4v)
  - ⏩ [POLL: Which continent has the most sophisticated and historically rich cultural heritage??](http://9gag.com/gag/a2MzOPp)
- - 👉 [European vacation](http://9gag.com/gag/aj7YWv0)<!-- MEMES:END -->
+ - 👉 [Video from Algerian Football League... Notice Anything? &lpar;PS: guess what the official religion of algeria is&rpar;](http://9gag.com/gag/aNLrj4v)<!-- MEMES:END -->
 
 ---
 
