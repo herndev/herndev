@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile announces Black Friday 2026 deals: Free Pixel 11 Pro, Galaxy S26 Plus, and more](https://www.androidauthority.com/t-mobile-black-friday-2026-deals-3739162/)
- - [Sources: Muse boosts Meta&#39;s ad business by prompting Instagram users to organize saved posts in Muse, reducing shopping friction and increasing advertisers&#39; ROI &lpar;Julia Boorstin/CNBC&rpar;](https://www.techmeme.com/261124/p53#a261124p53)
- - [Sources: US intelligence officials told congressional aides Alice Huang wasn&#39;t directed by China&#39;s MSS on Jensen Huang affair, but may have passed intel to MSS &lpar;New York Times&rpar;](https://www.techmeme.com/261124/p52#a261124p52)<!-- TECH:END -->
+ - [After 24 Hours With Kodak’s SlideTag, Buying One for the Whole Family Is My Big Black Friday Splurge](https://www.cnet.com/tech/kodak-slidetag-is-my-black-friday-splurge/)
+ - [Nothing offers a full look at its AI earbuds and charging case](https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal)
+ - [Sources: US officials told Congressional staffers that there is no evidence MSS directed Alice Huang to spy on Jensen Huang and the affair may have been amorous &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/261125/p25#a261125p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
