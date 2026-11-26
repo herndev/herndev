@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After 24 Hours With Kodak’s SlideTag, Buying One for the Whole Family Is My Big Black Friday Splurge](https://www.cnet.com/tech/kodak-slidetag-is-my-black-friday-splurge/)
- - [Nothing offers a full look at its AI earbuds and charging case](https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal)
- - [Sources: US officials told Congressional staffers that there is no evidence MSS directed Alice Huang to spy on Jensen Huang and the affair may have been amorous &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/261125/p25#a261125p25)<!-- TECH:END -->
+ - [A US court dismisses Amazon&#39;s challenge to a 2025 CPSC order requiring it to recall 400K+ hazardous products sold by third parties via Fulfillment by Amazon &lpar;Emma Roth/The Verge&rpar;](https://www.techmeme.com/261125/p42#a261125p42)
+ - [We Shot a Ship Into an Asteroid to See if It Would Move. See the First Images of the Impact](https://www.cnet.com/science/space/esa-hera-dimorphos-first-images/)
+ - [Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too](https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
