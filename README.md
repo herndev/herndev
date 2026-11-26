@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US court dismisses Amazon&#39;s challenge to a 2025 CPSC order requiring it to recall 400K+ hazardous products sold by third parties via Fulfillment by Amazon &lpar;Emma Roth/The Verge&rpar;](https://www.techmeme.com/261125/p42#a261125p42)
- - [We Shot a Ship Into an Asteroid to See if It Would Move. See the First Images of the Impact](https://www.cnet.com/science/space/esa-hera-dimorphos-first-images/)
- - [Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too](https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras)<!-- TECH:END -->
+ - [Q&amp;A with Signal&#39;s Moxie Marlinspike on AI and cryptography, his privacy-focused AI chat service Confer, surveilling AI models rather than users, and more &lpar;Tyler Cowen/Conversations with Tyler&rpar;](https://www.techmeme.com/261126/p6#a261126p6)
+ - [Android 17 is getting a new setting to prevent unwanted Bluetooth audio switching](https://www.androidauthority.com/android-17-keep-audio-in-headphones-3739645/)
+ - [Pixel’s upcoming Priority notifications could cut the line and get colorful highlights](https://www.androidauthority.com/google-pixel-priority-notifications-3739626/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
