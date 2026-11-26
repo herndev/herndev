@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Signal&#39;s Moxie Marlinspike on AI and cryptography, his privacy-focused AI chat service Confer, surveilling AI models rather than users, and more &lpar;Tyler Cowen/Conversations with Tyler&rpar;](https://www.techmeme.com/261126/p6#a261126p6)
- - [Android 17 is getting a new setting to prevent unwanted Bluetooth audio switching](https://www.androidauthority.com/android-17-keep-audio-in-headphones-3739645/)
- - [Pixel’s upcoming Priority notifications could cut the line and get colorful highlights](https://www.androidauthority.com/google-pixel-priority-notifications-3739626/)<!-- TECH:END -->
+ - [Altair Semiconductor, an Israeli chipmaker spun off from Sony earlier in 2026, raised a $100M Series A, as it prepares to launch low-power cellular modems &lpar;CTech&rpar;](https://www.techmeme.com/261126/p23#a261126p23)
+ - [Game anywhere with $92 off Sony’s INZONE Buds gaming earbuds](https://www.androidauthority.com/sony-inzone-buds-black-friday-deal-3739518/)
+ - [The Best Black Friday Deals Are Now Live: Our Expert Picks for 2026](https://www.wired.com/story/best-black-friday-deals-11-26-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
