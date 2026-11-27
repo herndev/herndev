@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [YES... the GTA 6 TV series will star Zendaya.](http://9gag.com/gag/aWpQNV6)
- - ⏩ [Seems like not all 9gaggers are basement fatass virgin c**ts. F**k y&#39;all and see you tomorrow.](http://9gag.com/gag/a8ALXQ1)
+ - 💣 [No service](http://9gag.com/gag/aEMvyjn)
+ - ⏩ [Title](http://9gag.com/gag/ap1EjWW)
  - 👉 [This girl was interviewed outside of a concert back in 1996, wonder where she&#39;s at now](http://9gag.com/gag/aRLwNd2)<!-- MEMES:END -->
 
 ---
