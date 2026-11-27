@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Italian POV : Don&#39;t break the Pasta,Figlio di puttana](http://9gag.com/gag/anOqWy5)
- - ⏩ [Priorities straight](http://9gag.com/gag/aj7Yy0p)
- - 👉 [An interesting experiment: Take this image, upload it to ChatGPT, Gemini or Meta AI &lpar;the AI you use most often&rpar; and give it this simple instruction: \u201cFill this room with what you know about me.\u201d I\u2019ll show you in the comments what it came up with in my case...](http://9gag.com/gag/aEMvEKO)<!-- MEMES:END -->
+ - 💣 [Priorities straight](http://9gag.com/gag/aj7Yy0p)
+ - ⏩ [Men are simple](http://9gag.com/gag/aBZRNxD)
+ - 👉 [We\u00b4re all happy and healthy....lets go cave diving, what could go wrong](http://9gag.com/gag/aGLYN8X)<!-- MEMES:END -->
 
 ---
 
