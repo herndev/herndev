@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Black Friday Deals Are Now Live: Our Expert Picks for 2026](https://www.wired.com/story/best-black-friday-deals-11-26-2026/)
- - [Bipartisan efforts in Congress to regulate AI are gaining momentum, but they face an uphill climb due to the slow pace of legislative work and turf battles &lpar;New York Times&rpar;](https://www.techmeme.com/261126/p26#a261126p26)
- - [A US judge sentences a Florida man to 47 months in prison for using AI to impersonate Kick streamer N3on, defrauding a memecoin&#39;s organizers out of ~$260K &lpar;Nathan Grayson/Aftermath&rpar;](https://www.techmeme.com/261126/p25#a261126p25)<!-- TECH:END -->
+ - [A look at proposals for vertical data centers, often the only option where land is limited in places like Taiwan; Kansas City recently rejected a 20-story tower &lpar;Tiffany Hsu/New York Times&rpar;](https://www.techmeme.com/261127/p3#a261127p3)
+ - [The Best Black Friday Streaming Deals &lpar;2026&rpar;: Apple TV, Disney, Paramount, and More](https://www.wired.com/story/black-friday-streaming-deals-11-27-2026/)
+ - [6 simple tweaks I use to get two days of battery from my Galaxy Watch 9](https://www.androidauthority.com/how-to-save-battery-life-samsung-galaxy-watch-9-3737661/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
