@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Priorities straight](http://9gag.com/gag/aj7Yy0p)
- - ⏩ [Men are simple](http://9gag.com/gag/aBZRNxD)
- - 👉 [We\u00b4re all happy and healthy....lets go cave diving, what could go wrong](http://9gag.com/gag/aGLYN8X)<!-- MEMES:END -->
+ - 💣 [YES... the GTA 6 TV series will star Zendaya.](http://9gag.com/gag/aWpQNV6)
+ - ⏩ [Seems like not all 9gaggers are basement fatass virgin c**ts. F**k y&#39;all and see you tomorrow.](http://9gag.com/gag/a8ALXQ1)
+ - 👉 [This girl was interviewed outside of a concert back in 1996, wonder where she&#39;s at now](http://9gag.com/gag/aRLwNd2)<!-- MEMES:END -->
 
 ---
 
