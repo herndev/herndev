@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at proposals for vertical data centers, often the only option where land is limited in places like Taiwan; Kansas City recently rejected a 20-story tower &lpar;Tiffany Hsu/New York Times&rpar;](https://www.techmeme.com/261127/p3#a261127p3)
- - [The Best Black Friday Streaming Deals &lpar;2026&rpar;: Apple TV, Disney, Paramount, and More](https://www.wired.com/story/black-friday-streaming-deals-11-27-2026/)
- - [6 simple tweaks I use to get two days of battery from my Galaxy Watch 9](https://www.androidauthority.com/how-to-save-battery-life-samsung-galaxy-watch-9-3737661/)<!-- TECH:END -->
+ - [OpenAI counter-sues Apple over trade secret theft](https://appleinsider.com/articles/26/11/27/openai-counter-sues-apple-over-trade-secret-theft?utm_source=rss)
+ - [The best Black Friday deals on smart home gear](https://www.theverge.com/gadgets/1043912/best-smart-home-deals-black-friday)
+ - [Black Friday Deals on Household Essentials and Affordable Toys to Donate](https://www.wired.com/story/black-friday-deals-essentials-11-27-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
