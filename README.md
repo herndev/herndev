@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Altair Semiconductor, an Israeli chipmaker spun off from Sony earlier in 2026, raised a $100M Series A, as it prepares to launch low-power cellular modems &lpar;CTech&rpar;](https://www.techmeme.com/261126/p23#a261126p23)
- - [Game anywhere with $92 off Sony’s INZONE Buds gaming earbuds](https://www.androidauthority.com/sony-inzone-buds-black-friday-deal-3739518/)
- - [The Best Black Friday Deals Are Now Live: Our Expert Picks for 2026](https://www.wired.com/story/best-black-friday-deals-11-26-2026/)<!-- TECH:END -->
+ - [The Best Black Friday Deals Are Now Live: Our Expert Picks for 2026](https://www.wired.com/story/best-black-friday-deals-11-26-2026/)
+ - [Bipartisan efforts in Congress to regulate AI are gaining momentum, but they face an uphill climb due to the slow pace of legislative work and turf battles &lpar;New York Times&rpar;](https://www.techmeme.com/261126/p26#a261126p26)
+ - [A US judge sentences a Florida man to 47 months in prison for using AI to impersonate Kick streamer N3on, defrauding a memecoin&#39;s organizers out of ~$260K &lpar;Nathan Grayson/Aftermath&rpar;](https://www.techmeme.com/261126/p25#a261126p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
