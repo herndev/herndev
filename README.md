@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No service](http://9gag.com/gag/aEMvyjn)
- - ⏩ [Title](http://9gag.com/gag/ap1EjWW)
+ - 💣 [Dont put your D in crazy.](http://9gag.com/gag/aLLRVy6)
+ - ⏩ [The Audacity of This B*tch is unparalleled! Seriously hoe?](http://9gag.com/gag/a6DmeM2)
  - 👉 [This girl was interviewed outside of a concert back in 1996, wonder where she&#39;s at now](http://9gag.com/gag/aRLwNd2)<!-- MEMES:END -->
 
 ---
