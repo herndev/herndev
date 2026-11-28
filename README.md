@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI counter-sues Apple over trade secret theft](https://appleinsider.com/articles/26/11/27/openai-counter-sues-apple-over-trade-secret-theft?utm_source=rss)
- - [The best Black Friday deals on smart home gear](https://www.theverge.com/gadgets/1043912/best-smart-home-deals-black-friday)
- - [Black Friday Deals on Household Essentials and Affordable Toys to Donate](https://www.wired.com/story/black-friday-deals-essentials-11-27-2026/)<!-- TECH:END -->
+ - [Last call for Amazon&#39;s $599 MacBook Neo Black Friday deal](https://appleinsider.com/articles/26/11/28/last-call-for-amazons-599-macbook-neo-black-friday-deal?utm_source=rss)
+ - [How the MATCH Act could backfire by barring ASML from its ~350 immersion scanners in China, letting rivals service and reverse engineer them, and hire its staff &lpar;LithoWar&rpar;](https://www.techmeme.com/261127/p16#a261127p16)
+ - [We found 60-odd Black Friday deals we love for $100 or less](https://www.theverge.com/gadgets/1043445/black-friday-best-cheap-tech-deals-under-100-2026)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
